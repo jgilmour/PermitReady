@@ -124,6 +124,16 @@ PermitReady/
 - **UserProgress**: Per-state progress tracking with mastery percentages and streaks
 - **StateInfo**: State-specific test requirements and configurations
 
+## Legal Disclaimer
+
+**Important Notice:**
+
+This app is not affiliated with, endorsed by, or sponsored by any Department of Motor Vehicles (DMV), Registry of Motor Vehicles (RMV), or government agency.
+
+Practice questions are for informational and educational purposes only and do not guarantee passing the official permit exam. All content is derived from publicly available state driver handbooks and manuals. Question formats and content may differ from actual state exams.
+
+Always verify current requirements and regulations with your state's official DMV/RMV website before taking the official exam.
+
 ## License
 
 Copyright © 2025 Josh Gilmour. All rights reserved.

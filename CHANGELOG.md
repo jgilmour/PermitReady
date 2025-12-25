@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Enhanced .gitignore with security-focused exclusions for sensitive files
 - Pre-commit security checklist
 - Example code patterns for handling API keys safely
+- Legal disclaimers in Settings screen for DMV non-affiliation and liability
+- About section in Settings with app version and legal information
 
 ### Changed
 - Updated .gitignore to exclude API keys, certificates, and configuration files
