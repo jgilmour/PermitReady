@@ -77,14 +77,37 @@ This project uses Git for version control.
 - Commit message format: Use present tense ("Add feature" not "Added feature")
 - SwiftData database files (`.sqlite*`) are gitignored
 
+### Changelog Maintenance
+**IMPORTANT**: All changes must be documented in `CHANGELOG.md` before committing.
+
+1. Before making changes, update the `[Unreleased]` section in CHANGELOG.md
+2. Categorize changes under:
+   - **Added** - New features
+   - **Changed** - Changes to existing functionality
+   - **Deprecated** - Soon-to-be removed features
+   - **Removed** - Removed features
+   - **Fixed** - Bug fixes
+   - **Security** - Security improvements
+3. When ready to release a version, move items from `[Unreleased]` to a new version section with date
+4. Commit the CHANGELOG.md with your other changes
+
 ## Development Workflow
 1. Create a new feature branch from `main`
 2. Make changes to source files or project.yml
-3. If project.yml changed, run `xcodegen generate`
-4. Build and test using xcodebuild commands above
-5. Commit your changes with descriptive messages
-6. Push to GitHub and create a Pull Request
-7. Use XcodeBuildMCP for simulator interaction and screenshots
+3. **Update CHANGELOG.md** with your changes in the `[Unreleased]` section
+4. If project.yml changed, run `xcodegen generate`
+5. Build and test using xcodebuild commands above
+6. Commit your changes with descriptive messages: `git add . && git commit -m "Your message"`
+7. **Push to GitHub**: `git push origin your-branch-name`
+8. Create a Pull Request on GitHub for review
+9. Use XcodeBuildMCP for simulator interaction and screenshots
+
+### Commit Best Practices
+- **Always** update CHANGELOG.md before committing
+- **Always** push commits to GitHub after local commits
+- Write clear, descriptive commit messages
+- Commit frequently - don't batch too many changes together
+- Test your changes before committing
 
 ## Current Implementation Status
 
