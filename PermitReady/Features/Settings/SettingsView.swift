@@ -6,6 +6,7 @@ struct SettingsView: View {
     let allStates: [StateInfo]
     @State private var showStateSelection = false
     @State private var showOnboarding = false
+    @StateObject private var storeManager = StoreManager.shared
 
     var body: some View {
         NavigationStack {
@@ -42,6 +43,88 @@ struct SettingsView: View {
                     }
                 } header: {
                     Text("Help")
+                }
+
+                // Premium Section
+                Section {
+                    if storeManager.isAdFree {
+                        // Already purchased
+                        HStack {
+                            Image(systemName: "checkmark.circle.fill")
+                                .foregroundStyle(.green)
+                            Text("Ad-Free Active")
+                                .fontWeight(.medium)
+                        }
+                        .foregroundStyle(.primary)
+                    } else {
+                        // Purchase option
+                        if let product = storeManager.products.first {
+                            Button(action: {
+                                HapticManager.impact()
+                                Task {
+                                    try? await storeManager.purchase(product)
+                                }
+                            }) {
+                                HStack {
+                                    VStack(alignment: .leading, spacing: 4) {
+                                        Text("Remove Ads")
+                                            .font(.headline)
+                                            .foregroundStyle(.primary)
+                                        Text("Enjoy uninterrupted studying forever")
+                                            .font(.caption)
+                                            .foregroundStyle(.secondary)
+                                    }
+                                    Spacer()
+                                    Text(product.displayPrice)
+                                        .font(.title3)
+                                        .fontWeight(.bold)
+                                        .foregroundStyle(.green)
+                                }
+                            }
+                            .disabled(storeManager.isLoading)
+                        } else {
+                            if storeManager.isLoading {
+                                HStack {
+                                    ProgressView()
+                                    Text("Loading...")
+                                        .foregroundStyle(.secondary)
+                                }
+                            } else {
+                                Text("Products unavailable")
+                                    .foregroundStyle(.secondary)
+                            }
+                        }
+                    }
+
+                    // Restore purchases button
+                    Button(action: {
+                        HapticManager.impact()
+                        Task {
+                            await storeManager.restorePurchases()
+                        }
+                    }) {
+                        HStack {
+                            Text("Restore Purchases")
+                                .foregroundStyle(.blue)
+                            if storeManager.isLoading {
+                                Spacer()
+                                ProgressView()
+                            }
+                        }
+                    }
+                    .disabled(storeManager.isLoading)
+
+                    // Error message
+                    if let error = storeManager.errorMessage {
+                        Text(error)
+                            .font(.caption)
+                            .foregroundStyle(.red)
+                    }
+                } header: {
+                    Text("Premium")
+                } footer: {
+                    Text("One-time purchase. Removes all ads permanently.")
+                        .font(.caption)
                 }
 
                 // About Section
@@ -116,6 +199,10 @@ struct SettingsView: View {
             }
             .fullScreenCover(isPresented: $showOnboarding) {
                 OnboardingView(selectedState: $selectedState, allStates: allStates, onComplete: {})
+            }
+            .task {
+                // Load products when view appears
+                await storeManager.loadProducts()
             }
         }
     }

@@ -15,6 +15,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Example code patterns for handling API keys safely
 - Legal disclaimers in Settings screen for DMV non-affiliation and liability
 - About section in Settings with app version and legal information
+- StoreManager for in-app purchase handling ($1.99 ad removal)
+- AdManager for ad display coordination
+- Purchase UI in Settings screen with restore purchases
+- Ad-free status persistence with UserDefaults
 
 ### Changed
 - Updated .gitignore to exclude API keys, certificates, and configuration files

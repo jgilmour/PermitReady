@@ -225,6 +225,12 @@ struct QuizResultsView: View {
                             .clipShape(RoundedRectangle(cornerRadius: 12))
                     }
                 }
+
+                // Ad banner at bottom of results (if ads enabled)
+                if AdManager.shared.adsEnabled {
+                    AdBannerView()
+                        .padding(.top, 8)
+                }
                 }
                 .padding()
             }
