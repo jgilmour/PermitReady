@@ -109,6 +109,63 @@ This project uses Git for version control.
 - Commit frequently - don't batch too many changes together
 - Test your changes before committing
 
+## Security and Sensitive Information
+
+**CRITICAL**: This is a PUBLIC repository. Never commit sensitive information.
+
+### Prohibited Content
+**NEVER commit any of the following:**
+- ❌ API keys, tokens, or secrets
+- ❌ Passwords or credentials
+- ❌ Private keys or certificates
+- ❌ OAuth client secrets
+- ❌ Database connection strings with credentials
+- ❌ Personal email addresses (except in git config)
+- ❌ Phone numbers or personal information
+- ❌ Real Apple Developer Team IDs
+- ❌ App Store Connect API keys
+- ❌ Firebase or backend service configuration files with secrets
+- ❌ .env files containing secrets
+
+### Safe Practices
+**DO use these approaches for sensitive data:**
+- ✅ Environment variables (not committed)
+- ✅ Configuration files in .gitignore
+- ✅ Xcode configuration files (.xcconfig) in .gitignore
+- ✅ Placeholder values (e.g., `com.yourname`, `YOUR_API_KEY_HERE`)
+- ✅ Secrets in Xcode build settings (not in source)
+- ✅ GitHub Secrets for CI/CD
+
+### Pre-Commit Checklist
+Before every commit, verify:
+1. ✅ No API keys or secrets in code
+2. ✅ No real team IDs or bundle identifiers for production
+3. ✅ No .env files or config files with credentials
+4. ✅ All sensitive files are in .gitignore
+5. ✅ Use `git diff --cached` to review what you're committing
+6. ✅ CHANGELOG.md is updated
+
+### Example: Adding API Keys Safely
+```swift
+// ❌ WRONG - Hardcoded API key
+let apiKey = "sk_live_1234567890abcdef"
+
+// ✅ CORRECT - Load from environment or config (not committed)
+let apiKey = ProcessInfo.processInfo.environment["API_KEY"] ?? ""
+
+// ✅ CORRECT - Use a .xcconfig file in .gitignore
+// In Config.xcconfig (gitignored):
+// API_KEY = your_key_here
+// Access in code via Info.plist
+```
+
+### If You Accidentally Commit Secrets
+1. **DO NOT** just delete the file and commit again (secret is still in git history)
+2. Immediately rotate/revoke the exposed secret
+3. Use `git filter-branch` or BFG Repo-Cleaner to remove from history
+4. Force push to GitHub (coordination required)
+5. Notify team members
+
 ## Current Implementation Status
 
 ### Phase 1: Foundation (✅ Complete)

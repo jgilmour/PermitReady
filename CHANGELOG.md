@@ -8,11 +8,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- CHANGELOG.md to track all project changes
-- README.md with comprehensive project documentation
+- SECURITY.md with comprehensive security guidelines for public repository
+- Security section in CLAUDE.md with prohibited content and safe practices
+- Enhanced .gitignore with security-focused exclusions for sensitive files
+- Pre-commit security checklist
+- Example code patterns for handling API keys safely
 
 ### Changed
-- Updated CLAUDE.md with Git workflow instructions
+- Updated .gitignore to exclude API keys, certificates, and configuration files
+- Updated CLAUDE.md with security best practices for public repository
 
 ## [0.1.0] - 2024-12-24
 

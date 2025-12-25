@@ -103,3 +103,33 @@ PermitReady.xcodeproj/
 
 # Backup files
 *~.nib
+
+# Security - Sensitive Information
+# NEVER commit these files to the public repository
+*.xcconfig
+.env
+.env.*
+secrets.json
+config.json
+credentials.json
+*.pem
+*.p12
+*.mobileprovision
+*.provisionprofile
+*.key
+*.cert
+*.cer
+*.crt
+
+# API Keys and Secrets
+APIKeys.swift
+Secrets.swift
+Keys.swift
+Config.swift
+
+# Firebase
+GoogleService-Info.plist
+google-services.json
+
+# App Store Connect
+AuthKey_*.p8
