@@ -21,8 +21,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - Documentation incorrectly referenced iPhone 16 simulator instead of iPhone 17 Pro
+- Updated year from 2024 to 2025 in README, SECURITY, and CHANGELOG
 
-## [0.1.0] - 2024-12-24
+## [0.1.0] - 2025-12-24
 
 ### Added
 - Initial project setup with xcodegen

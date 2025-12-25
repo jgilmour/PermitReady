@@ -126,7 +126,7 @@ PermitReady/
 
 ## License
 
-Copyright © 2024 Josh Gilmour. All rights reserved.
+Copyright © 2025 Josh Gilmour. All rights reserved.
 
 ## Contact
 

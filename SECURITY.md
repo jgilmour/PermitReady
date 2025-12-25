@@ -130,4 +130,4 @@ If you're unsure whether something should be committed, ask yourself:
 
 ---
 
-Last updated: 2024-12-24
+Last updated: 2025-12-24
