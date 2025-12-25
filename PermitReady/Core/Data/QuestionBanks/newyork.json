@@ -1,0 +1,2272 @@
+{
+  "stateCode": "NY",
+  "stateName": "New York",
+  "version": "2.0.0",
+  "lastUpdated": "2025-12-23",
+  "testInfo": {
+    "questionCount": 20,
+    "passingPercentage": 70,
+    "passingScore": 14,
+    "minimumPermitAge": 16,
+    "hasSplitTest": false,
+    "timeLimit": null,
+    "uniqueRequirements": [
+      "Must correctly answer at least 14 of the 20 questions to pass",
+      "CRITICAL: You MUST correctly answer at least 2 of the 4 road sign questions to pass; failing this section causes a test failure regardless of total score",
+      "Junior Permit Restrictions: In NYC (5 Boroughs), you may ONLY drive between 5 AM and 9 PM and ONLY with a parent, guardian, or driving instructor (vehicle must have dual controls)",
+      "Junior License Restrictions: Holders of a Class DJ (Junior) License cannot drive in NYC under any circumstances"
+    ]
+  },
+  "questions": [
+    {
+      "id": "ny-001",
+      "category": "trafficLaws",
+      "questionText": "Under New York's 'Move Over' law, when approaching a stopped emergency or hazard vehicle with flashing lights, you must:",
+      "answers": [
+        {"id": "a", "text": "Speed up to pass quickly"},
+        {"id": "b", "text": "Move from the lane immediately adjacent to the vehicle, or slow down significantly if unable to move safely"},
+        {"id": "c", "text": "Stop immediately in your lane"},
+        {"id": "d", "text": "Honk your horn to alert the workers"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The Move Over Law requires drivers to exercise due care to avoid all vehicles stopped on the roadway with flashing lights (including hazard vehicles) by moving over a lane or slowing down.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-002",
+      "category": "finesAndLimits",
+      "questionText": "What is the penalty for a first conviction of text-messaging while driving in New York?",
+      "answers": [
+        {"id": "a", "text": "A fine up to $50 only"},
+        {"id": "b", "text": "A fine up to $150 and 2 violation points"},
+        {"id": "c", "text": "A fine of $50 to $200 and 5 violation points"},
+        {"id": "d", "text": "Mandatory license revocation"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Illegal use of portable electronic devices (texting/calling) carries a fine of $50-$200 for a first offense and adds 5 points to your license.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-003",
+      "category": "trafficLaws",
+      "questionText": "Unless otherwise posted, the speed limit in New York City is:",
+      "answers": [
+        {"id": "a", "text": "20 mph"},
+        {"id": "b", "text": "25 mph"},
+        {"id": "c", "text": "30 mph"},
+        {"id": "d", "text": "35 mph"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The citywide speed limit in NYC is 25 mph unless otherwise posted.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-004",
+      "category": "trafficLaws",
+      "questionText": "If you are under 21 and convicted of driving with any BAC (Zero Tolerance Law), your license will be:",
+      "answers": [
+        {"id": "a", "text": "Suspended for 6 months"},
+        {"id": "b", "text": "Revoked for at least 1 year"},
+        {"id": "c", "text": "Suspended for 30 days"},
+        {"id": "d", "text": "Restricted to daylight driving"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Under the Zero Tolerance Law, a driver under 21 found with a BAC of .02% to .07% will have their license suspended for 6 months and pay a $125 civil penalty.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-005",
+      "category": "trafficLaws",
+      "questionText": "When a school bus is stopped with its red lights flashing on a divided highway:",
+      "answers": [
+        {"id": "a", "text": "Only traffic following the bus must stop"},
+        {"id": "b", "text": "Traffic on the opposite side can proceed if there is a median"},
+        {"id": "c", "text": "Traffic approaching from either direction, even on a divided highway, must stop"},
+        {"id": "d", "text": "You may pass at 10 mph"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "In New York, you must stop for a school bus with flashing red lights even if it is on the opposite side of a divided highway.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-006",
+      "category": "trafficLaws",
+      "questionText": "You must use your headlights and taillights when visibility is reduced to 1,000 feet or less, and whenever:",
+      "answers": [
+        {"id": "a", "text": "You are driving on a highway"},
+        {"id": "b", "text": "You are using your windshield wipers to clear rain, snow, or sleet"},
+        {"id": "c", "text": "It is cloudy"},
+        {"id": "d", "text": "You are in a residential zone"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "New York law requires you to turn on your headlights when weather conditions require the use of windshield wipers to clear rain, snow, sleet, or mist.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-007",
+      "category": "safeDriving",
+      "questionText": "In heavy rain, your tires can ride on a film of water and lose contact with the road. This hazard is known as:",
+      "answers": [
+        {"id": "a", "text": "Hydraulics"},
+        {"id": "b", "text": "Hydroplaning"},
+        {"id": "c", "text": "Water-skiing"},
+        {"id": "d", "text": "Rain-fade"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Hydroplaning occurs when tires ride on water rather than the road. It typically happens at higher speeds in heavy rain.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-008",
+      "category": "safeDriving",
+      "questionText": "To prevent highway hypnosis on long trips, you should:",
+      "answers": [
+        {"id": "a", "text": "Drink plenty of coffee"},
+        {"id": "b", "text": "Listen to loud music"},
+        {"id": "c", "text": "Stop and walk around every two hours"},
+        {"id": "d", "text": "Talk on the phone"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The NYS Driver's Manual recommends stopping every two hours or every 100 miles to stretch and walk around.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-009",
+      "category": "rightOfWay",
+      "questionText": "You want to turn left at an intersection. The light is green but oncoming traffic is heavy. You should:",
+      "answers": [
+        {"id": "a", "text": "Turn immediately so you don't hold up traffic"},
+        {"id": "b", "text": "Wait in the center of the intersection for traffic to clear"},
+        {"id": "c", "text": "Wait at the crosswalk until traffic clears"},
+        {"id": "d", "text": "Force your way through"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Enter the intersection and wait in the center with your wheels straight. When traffic clears or the light turns red, complete your turn.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-010",
+      "category": "rightOfWay",
+      "questionText": "Blind pedestrians with a guide dog or white cane have the right-of-way:",
+      "answers": [
+        {"id": "a", "text": "Only at crosswalks"},
+        {"id": "b", "text": "Only when the light is red"},
+        {"id": "c", "text": "At all times"},
+        {"id": "d", "text": "Only in school zones"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Drivers must always yield the right-of-way to pedestrians who are blind or visually impaired and using a cane or guide dog.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-011",
+      "category": "parking",
+      "questionText": "It is illegal to park within ___ feet of a fire hydrant.",
+      "answers": [
+        {"id": "a", "text": "10 feet"},
+        {"id": "b", "text": "15 feet"},
+        {"id": "c", "text": "20 feet"},
+        {"id": "d", "text": "30 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You cannot park, stop, or stand within 15 feet of a fire hydrant unless a licensed driver remains in the vehicle to move it in an emergency.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-012",
+      "category": "parking",
+      "questionText": "A 'No Standing' sign means:",
+      "answers": [
+        {"id": "a", "text": "You cannot stop for any reason"},
+        {"id": "b", "text": "You can stop temporarily to load or unload passengers only"},
+        {"id": "c", "text": "You can stop to load merchandise"},
+        {"id": "d", "text": "You can park if you stay in the car"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "NO STANDING means you can stop only temporarily to load or unload passengers. You cannot load or unload merchandise.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-013",
+      "category": "roadSigns",
+      "questionText": "A diamond-shaped sign with an orange background indicates:",
+      "answers": [
+        {"id": "a", "text": "A school zone"},
+        {"id": "b", "text": "Work zones or construction areas"},
+        {"id": "c", "text": "A railroad crossing"},
+        {"id": "d", "text": "A yield sign"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Orange diamond-shaped signs are used to warn drivers of construction or maintenance work areas.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-014",
+      "category": "roadSigns",
+      "questionText": "A red and white triangular sign pointing downward means:",
+      "answers": [
+        {"id": "a", "text": "Stop"},
+        {"id": "b", "text": "Wrong Way"},
+        {"id": "c", "text": "Yield"},
+        {"id": "d", "text": "Do Not Enter"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The inverted triangle is exclusively for Yield signs. Slow down and prepare to stop if necessary.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-015",
+      "category": "roadSigns",
+      "questionText": "A rectangular sign with a white background and black letters usually indicates:",
+      "answers": [
+        {"id": "a", "text": "A regulation or law (e.g., Speed Limit)"},
+        {"id": "b", "text": "A warning"},
+        {"id": "c", "text": "Directions"},
+        {"id": "d", "text": "Parks and recreation"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Vertical white rectangular signs are regulatory signs that inform you of traffic rules, such as speed limits.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-016",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a black arrow curbing sharply to the left means:",
+      "answers": [
+        {"id": "a", "text": "Left turn only"},
+        {"id": "b", "text": "Sharp curve ahead, slow down"},
+        {"id": "c", "text": "Lane ends"},
+        {"id": "d", "text": "Merge left"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This is a warning sign indicating a sharp curve ahead. The recommended speed is often posted below it.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-017",
+      "category": "finesAndLimits",
+      "questionText": "Driving without insurance in New York can result in:",
+      "answers": [
+        {"id": "a", "text": "Revocation of your license and registration for at least one year"},
+        {"id": "b", "text": "A simple warning"},
+        {"id": "c", "text": "A $50 fine only"},
+        {"id": "d", "text": "Traffic school only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "If you drive without insurance, your license and registration can be revoked for at least one year, plus fines.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-018",
+      "category": "safeDriving",
+      "questionText": "When you want to overtake and pass another vehicle, you should:",
+      "answers": [
+        {"id": "a", "text": "Wait for a hill to see better"},
+        {"id": "b", "text": "Pass on the right shoulder"},
+        {"id": "c", "text": "Signal and pass when safe to do so"},
+        {"id": "d", "text": "Honk and pass quickly"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Always signal your intention, check your mirrors and blind spots, and pass only when it is safe and legal.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-019",
+      "category": "trafficLaws",
+      "questionText": "Seat belts are required to be worn by:",
+      "answers": [
+        {"id": "a", "text": "The driver only"},
+        {"id": "b", "text": "Passengers under 16 only"},
+        {"id": "c", "text": "The driver and all passengers, regardless of age or seating position"},
+        {"id": "d", "text": "Front seat passengers only"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "As of November 2020, New York law requires all passengers in the vehicle, regardless of age or seating position, to wear a seat belt.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-020",
+      "category": "safeDriving",
+      "questionText": "The best way to handle a curve is to:",
+      "answers": [
+        {"id": "a", "text": "Slow down before entering the curve"},
+        {"id": "b", "text": "Brake while in the curve"},
+        {"id": "c", "text": "Accelerate into the curve"},
+        {"id": "d", "text": "Coast through in neutral"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Slow down before you enter the curve so you do not have to brake while in it, which could cause a skid.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-021",
+      "category": "trafficLaws",
+      "questionText": "If you hold a Junior Permit/License and drive in Nassau or Suffolk counties:",
+      "answers": [
+        {"id": "a", "text": "You can drive alone between 9 AM and 5 PM"},
+        {"id": "b", "text": "You may drive alone if going to work"},
+        {"id": "c", "text": "You must be accompanied by a licensed parent/guardian or driver ed teacher at all times (5 AM - 9 PM)"},
+        {"id": "d", "text": "You can drive with friends"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "In Nassau and Suffolk counties, Junior License/Permit holders can never drive alone. They must always be supervised by a parent, guardian, or instructor.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-022",
+      "category": "roadSigns",
+      "questionText": "A five-sided (pentagon) sign indicating a School Zone is what color?",
+      "answers": [
+        {"id": "a", "text": "Red"},
+        {"id": "b", "text": "Yellow or Yellow-Green"},
+        {"id": "c", "text": "White"},
+        {"id": "d", "text": "Blue"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "School zone signs are pentagon-shaped and colored yellow or fluorescent yellow-green.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-023",
+      "category": "safeDriving",
+      "questionText": "You are driving on a multi-lane highway and your vehicle breaks down. You should:",
+      "answers": [
+        {"id": "a", "text": "Stop in the middle lane"},
+        {"id": "b", "text": "Get out and wave for help"},
+        {"id": "c", "text": "Move off the pavement, turn on emergency flashers, and stay in the vehicle"},
+        {"id": "d", "text": "Walk to the nearest exit"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Move completely off the road if possible. Turn on hazard lights and stay inside your vehicle with seatbelt on until help arrives.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-024",
+      "category": "trafficLaws",
+      "questionText": "Under New York State law, 'Leandra's Law' makes it a felony to:",
+      "answers": [
+        {"id": "a", "text": "Speed in a school zone"},
+        {"id": "b", "text": "Drive drunk with a passenger under 16 years old"},
+        {"id": "c", "text": "Text while driving"},
+        {"id": "d", "text": "Drive without a license"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Leandra's Law makes it a Class E felony to drive while intoxicated (BAC .08 or higher) with a child under 16 in the vehicle.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-025",
+      "category": "rightOfWay",
+      "questionText": "When two vehicles enter an intersection from different highways at the same time, which vehicle must yield?",
+      "answers": [
+        {"id": "a", "text": "The vehicle on the right"},
+        {"id": "b", "text": "The vehicle on the left"},
+        {"id": "c", "text": "The faster vehicle"},
+        {"id": "d", "text": "The larger vehicle"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "At an intersection without signals, the driver on the left must yield the right-of-way to the driver on the right.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-026",
+      "category": "parking",
+      "questionText": "A 'No Parking' sign means:",
+      "answers": [
+        {"id": "a", "text": "You cannot stop at all"},
+        {"id": "b", "text": "You can stop temporarily to load/unload passengers or merchandise"},
+        {"id": "c", "text": "You can park for 5 minutes"},
+        {"id": "d", "text": "You can park on Sundays only"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "NO PARKING means you can stop temporarily to load or unload passengers or merchandise, but you cannot leave the vehicle unattended.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-027",
+      "category": "roadSigns",
+      "questionText": "A circular yellow sign with a black 'X' and two 'R's means:",
+      "answers": [
+        {"id": "a", "text": "Road Repair ahead"},
+        {"id": "b", "text": "Railroad Crossing ahead"},
+        {"id": "c", "text": "Rest Area ahead"},
+        {"id": "d", "text": "No Right Turn"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The round yellow sign with 'RR' is the advance warning for a railroad crossing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-028",
+      "category": "finesAndLimits",
+      "questionText": "How many points are assessed for passing a stopped school bus?",
+      "answers": [
+        {"id": "a", "text": "2 points"},
+        {"id": "b", "text": "3 points"},
+        {"id": "c", "text": "4 points"},
+        {"id": "d", "text": "5 points"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Passing a stopped school bus with red lights flashing results in a 5-point penalty on your license.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-029",
+      "category": "safeDriving",
+      "questionText": "To recover from a skid, you should:",
+      "answers": [
+        {"id": "a", "text": "Brake hard"},
+        {"id": "b", "text": "Steer in the direction you want the front wheels to go"},
+        {"id": "c", "text": "Accelerate"},
+        {"id": "d", "text": "Hold the steering wheel straight"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Steer into the skid—that is, steer in the direction you want the front of the vehicle to go.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-030",
+      "category": "trafficLaws",
+      "questionText": "In New York, you must signal your turn at least ___ feet before the turn.",
+      "answers": [
+        {"id": "a", "text": "50 feet"},
+        {"id": "b", "text": "100 feet"},
+        {"id": "c", "text": "200 feet"},
+        {"id": "d", "text": "300 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "New York law requires you to signal at least 100 feet before making a turn or lane change.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-031",
+      "category": "roadSigns",
+      "questionText": "A sign with a red circle and a slash over a symbol means:",
+      "answers": [
+        {"id": "a", "text": "The action is permitted"},
+        {"id": "b", "text": "The action is prohibited"},
+        {"id": "c", "text": "Caution required"},
+        {"id": "d", "text": "Recommended action"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A red circle with a slash indicates that the action shown (e.g., U-turn, left turn) is prohibited.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-032",
+      "category": "trafficLaws",
+      "questionText": "If you are involved in a traffic crash involving $1,001 or more in damage, you must file a Report of Motor Vehicle Accident (MV-104) within:",
+      "answers": [
+        {"id": "a", "text": "24 hours"},
+        {"id": "b", "text": "5 days"},
+        {"id": "c", "text": "10 days"},
+        {"id": "d", "text": "30 days"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "You must file an accident report with the DMV within 10 days if damage exceeds $1,000 or if anyone was injured.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-033",
+      "category": "safeDriving",
+      "questionText": "When backing up your vehicle:",
+      "answers": [
+        {"id": "a", "text": "Rely only on your rearview mirror"},
+        {"id": "b", "text": "Turn your head and body to look out the rear window"},
+        {"id": "c", "text": "Honk your horn"},
+        {"id": "d", "text": "Open your door to look back"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Do not rely on mirrors alone. Turn your head and body to look directly out the rear window.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-034",
+      "category": "rightOfWay",
+      "questionText": "You are approaching a traffic circle or roundabout. You must yield to:",
+      "answers": [
+        {"id": "a", "text": "Drivers entering the circle"},
+        {"id": "b", "text": "Drivers already in the circle"},
+        {"id": "c", "text": "No one"},
+        {"id": "d", "text": "Drivers on your left"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Traffic entering a roundabout must yield the right-of-way to traffic already circulating inside the roundabout.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-035",
+      "category": "parking",
+      "questionText": "When parking downhill with a curb, you should turn your wheels:",
+      "answers": [
+        {"id": "a", "text": "Away from the curb"},
+        {"id": "b", "text": "Toward the curb"},
+        {"id": "c", "text": "Straight ahead"},
+        {"id": "d", "text": "Any direction"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When parking downhill, turn your front wheels toward the curb so the vehicle will roll into the curb if the brakes fail.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-036",
+      "category": "roadSigns",
+      "questionText": "Blue rectangular signs usually indicate:",
+      "answers": [
+        {"id": "a", "text": "Warnings"},
+        {"id": "b", "text": "Motorist services (Gas, Food, Lodging)"},
+        {"id": "c", "text": "Construction"},
+        {"id": "d", "text": "Regulatory information"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Blue signs guide drivers to motorist services like rest areas, gas stations, and hospitals.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-037",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to use a handheld mobile phone while driving. 'Using' includes:",
+      "answers": [
+        {"id": "a", "text": "Holding the phone near your ear"},
+        {"id": "b", "text": "Dialing a number"},
+        {"id": "c", "text": "Reading an email"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Using a portable electronic device includes holding it, talking, texting, browsing, or playing games.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-038",
+      "category": "finesAndLimits",
+      "questionText": "Speeding 11 to 20 mph over the limit results in how many points?",
+      "answers": [
+        {"id": "a", "text": "3 points"},
+        {"id": "b", "text": "4 points"},
+        {"id": "c", "text": "6 points"},
+        {"id": "d", "text": "8 points"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Speeding 11-20 mph over the limit is a 4-point violation in New York.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-039",
+      "category": "safeDriving",
+      "questionText": "Blind spots are:",
+      "answers": [
+        {"id": "a", "text": "Areas of the road you cannot see in your mirrors"},
+        {"id": "b", "text": "Areas where headlights don't reach"},
+        {"id": "c", "text": "Potholes"},
+        {"id": "d", "text": "Foggy areas"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Blind spots are areas to the side and rear of your vehicle that cannot be seen in your rear or side mirrors.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-040",
+      "category": "trafficLaws",
+      "questionText": "You may pass on the right:",
+      "answers": [
+        {"id": "a", "text": "When the vehicle ahead is making a left turn and there is room on the pavement"},
+        {"id": "b", "text": "On the shoulder of the highway"},
+        {"id": "c", "text": "In a school zone"},
+        {"id": "d", "text": "Whenever you want"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You may pass on the right if the vehicle ahead is turning left and there is enough paved room, or on a multi-lane road. Never drive off the pavement.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-041",
+      "category": "rightOfWay",
+      "questionText": "When an emergency vehicle with flashing lights approaches from any direction, you must:",
+      "answers": [
+        {"id": "a", "text": "Speed up"},
+        {"id": "b", "text": "Pull to the right curb and stop"},
+        {"id": "c", "text": "Stop in the middle of the road"},
+        {"id": "d", "text": "Continue at the same speed"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Yield the right-of-way by pulling over to the right edge of the road and stopping until the emergency vehicle passes.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-042",
+      "category": "parking",
+      "questionText": "You cannot park within ___ feet of a crosswalk at an intersection.",
+      "answers": [
+        {"id": "a", "text": "10 feet"},
+        {"id": "b", "text": "20 feet"},
+        {"id": "c", "text": "15 feet"},
+        {"id": "d", "text": "30 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Parking, standing, or stopping is prohibited within 20 feet of a crosswalk at an intersection.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-043",
+      "category": "roadSigns",
+      "questionText": "A triangular orange sign with a red border on the back of a vehicle indicates:",
+      "answers": [
+        {"id": "a", "text": "Emergency vehicle"},
+        {"id": "b", "text": "Slow-moving vehicle (less than 25 mph)"},
+        {"id": "c", "text": "Student driver"},
+        {"id": "d", "text": "Hazardous materials"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The orange triangle with a red reflective border identifies slow-moving vehicles like farm tractors or horse-drawn carriages.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-044",
+      "category": "finesAndLimits",
+      "questionText": "Refusal to take a chemical test (Breathalyzer) results in:",
+      "answers": [
+        {"id": "a", "text": "A $100 fine only"},
+        {"id": "b", "text": "Automatic license revocation for at least 1 year and a $500 civil penalty"},
+        {"id": "c", "text": "3 points on your license"},
+        {"id": "d", "text": "No penalty if you are sober"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Refusing a chemical test results in a mandatory license revocation of at least one year and a $500 civil penalty.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-045",
+      "category": "safeDriving",
+      "questionText": "Drivers must allow at least ___ feet of safe distance when passing a bicyclist.",
+      "answers": [
+        {"id": "a", "text": "1 foot"},
+        {"id": "b", "text": "3 feet"},
+        {"id": "c", "text": "5 feet"},
+        {"id": "d", "text": "10 feet"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "While New York law requires passing at a 'safe distance,' most safety guidelines recommend at least 3 feet. However, always exercise 'due care'. (Note: Specific distance laws vary, but due care is the NY standard).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-046",
+      "category": "trafficLaws",
+      "questionText": "You may turn right on red in New York:",
+      "answers": [
+        {"id": "a", "text": "Never"},
+        {"id": "b", "text": "After stopping, yielding, and if no sign prohibits it (Except in NYC)"},
+        {"id": "c", "text": "Without stopping"},
+        {"id": "d", "text": "Only on one-way streets"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Right on red is permitted after a full stop, unless a sign prohibits it. Exception: In NYC, right on red is prohibited unless a sign permits it.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-047",
+      "category": "roadSigns",
+      "questionText": "Green highway guide signs indicate:",
+      "answers": [
+        {"id": "a", "text": "Directions and distances to destinations"},
+        {"id": "b", "text": "Parks"},
+        {"id": "c", "text": "Warnings"},
+        {"id": "d", "text": "Construction"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Green signs provide destination information, directions, and distances.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-048",
+      "category": "safeDriving",
+      "questionText": "If a tire blows out:",
+      "answers": [
+        {"id": "a", "text": "Brake hard immediately"},
+        {"id": "b", "text": "Hold the steering wheel firmly and ease off the gas"},
+        {"id": "c", "text": "Accelerate"},
+        {"id": "d", "text": "Turn sharply"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Do not brake hard. Grip the wheel firmly, ease off the gas, and let the vehicle slow down gradually.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-049",
+      "category": "trafficLaws",
+      "questionText": "In New York City, the speed limit is 25 mph unless posted otherwise. What is the limit in designated School Speed Zones?",
+      "answers": [
+        {"id": "a", "text": "10 mph"},
+        {"id": "b", "text": "15-20 mph (as posted)"},
+        {"id": "c", "text": "30 mph"},
+        {"id": "d", "text": "5 mph"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "School zones in NYC and NYS often have posted limits lower than the standard, typically 15-20 mph during school hours.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-050",
+      "category": "rightOfWay",
+      "questionText": "You are facing a green light, but traffic on the other side of the intersection would not allow you to travel all the way through. You should:",
+      "answers": [
+        {"id": "a", "text": "Enter the intersection and wait"},
+        {"id": "b", "text": "Wait for the next green light"},
+        {"id": "c", "text": "Wait until traffic clears, so you do not block the intersection"},
+        {"id": "d", "text": "Honk your horn"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Do not enter an intersection if you cannot clear it (blocking the box). Wait until there is space on the other side.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-051",
+      "category": "roadSigns",
+      "questionText": "A sign showing a person walking indicates:",
+      "answers": [
+        {"id": "a", "text": "School zone"},
+        {"id": "b", "text": "Pedestrian crossing"},
+        {"id": "c", "text": "Playground"},
+        {"id": "d", "text": "Hiking trail"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A diamond-shaped sign with a walking figure warns of a pedestrian crossing ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-052",
+      "category": "trafficLaws",
+      "questionText": "What does a flashing red light mean?",
+      "answers": [
+        {"id": "a", "text": "Slow down"},
+        {"id": "b", "text": "Stop completely, then proceed when safe (same as Stop sign)"},
+        {"id": "c", "text": "Do not enter"},
+        {"id": "d", "text": "Caution"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A flashing red light has the same meaning as a STOP sign. You must stop completely and yield the right-of-way.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-053",
+      "category": "finesAndLimits",
+      "questionText": "Driving While Ability Impaired (DWAI) by alcohol is committed with a BAC of:",
+      "answers": [
+        {"id": "a", "text": "More than .05% but less than .08%"},
+        {"id": "b", "text": ".02% to .04%"},
+        {"id": "c", "text": ".08% or higher"},
+        {"id": "d", "text": "Any amount"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "DWAI is a traffic infraction for BAC levels of more than .05% but less than .08%.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-054",
+      "category": "safeDriving",
+      "questionText": "To avoid a collision with a deer:",
+      "answers": [
+        {"id": "a", "text": "Swerve quickly"},
+        {"id": "b", "text": "Speed up"},
+        {"id": "c", "text": "Brake firmly and hold the steering wheel straight"},
+        {"id": "d", "text": "Turn off your lights"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Do not swerve to avoid a deer, as you may hit another vehicle or a tree. Brake firmly and stay in your lane.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-055",
+      "category": "parking",
+      "questionText": "A 'No Stopping' sign means:",
+      "answers": [
+        {"id": "a", "text": "You can stop to load passengers"},
+        {"id": "b", "text": "You can stop to load merchandise"},
+        {"id": "c", "text": "You cannot stop for any reason unless to obey a traffic rule or officer"},
+        {"id": "d", "text": "You can stop for 2 minutes"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "NO STOPPING is the strictest sign. You cannot stop to load/unload passengers or goods.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-056",
+      "category": "roadSigns",
+      "questionText": "A yellow pennant-shaped sign on the left side of the road means:",
+      "answers": [
+        {"id": "a", "text": "No Passing Zone"},
+        {"id": "b", "text": "School Zone"},
+        {"id": "c", "text": "Yield"},
+        {"id": "d", "text": "Merge"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The pennant shape marks the start of a No Passing Zone.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-057",
+      "category": "trafficLaws",
+      "questionText": "Motorcyclists are entitled to:",
+      "answers": [
+        {"id": "a", "text": "The full width of the lane"},
+        {"id": "b", "text": "Ride on the shoulder"},
+        {"id": "c", "text": "Split lanes"},
+        {"id": "d", "text": "Use the sidewalk"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Motorcycles have the same right to the full lane width as other vehicles.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-058",
+      "category": "rightOfWay",
+      "questionText": "At a 4-way stop intersection:",
+      "answers": [
+        {"id": "a", "text": "The vehicle that arrives first goes first"},
+        {"id": "b", "text": "The vehicle on the left goes first"},
+        {"id": "c", "text": "The largest vehicle goes first"},
+        {"id": "d", "text": "No one needs to stop"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Courtesy dictates that the driver who arrives first proceeds first. If two arrive at the same time, yield to the right.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-059",
+      "category": "safeDriving",
+      "questionText": "When driving in fog, you should use:",
+      "answers": [
+        {"id": "a", "text": "High beam headlights"},
+        {"id": "b", "text": "Low beam headlights"},
+        {"id": "c", "text": "Parking lights only"},
+        {"id": "d", "text": "Hazard lights only"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use low beams. High beams reflect off the fog and reduce visibility.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-060",
+      "category": "finesAndLimits",
+      "questionText": "If you accumulate 11 points within 18 months:",
+      "answers": [
+        {"id": "a", "text": "Your license may be suspended"},
+        {"id": "b", "text": "You get a warning"},
+        {"id": "c", "text": "You must pay a $50 fine"},
+        {"id": "d", "text": "Nothing happens"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Accumulating 11 or more points in 18 months can lead to a license suspension.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-061",
+      "category": "roadSigns",
+      "questionText": "Brown signs indicate:",
+      "answers": [
+        {"id": "a", "text": "Parks, recreation, and historic interest"},
+        {"id": "b", "text": "Construction"},
+        {"id": "c", "text": "Regulatory info"},
+        {"id": "d", "text": "Services"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Brown signs point to public parks, museums, and recreational areas.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-062",
+      "category": "trafficLaws",
+      "questionText": "New York's 'Open Container' law prohibits:",
+      "answers": [
+        {"id": "a", "text": "Driving with an unsealed alcohol container in the vehicle"},
+        {"id": "b", "text": "Drinking water while driving"},
+        {"id": "c", "text": "Eating while driving"},
+        {"id": "d", "text": "Driving with windows open"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "It is illegal to drink alcohol or possess an open container of alcohol in a vehicle on a public highway.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-063",
+      "category": "safeDriving",
+      "questionText": "The 'Two-Second Rule' helps you determine:",
+      "answers": [
+        {"id": "a", "text": "Safe following distance"},
+        {"id": "b", "text": "Speed limit"},
+        {"id": "c", "text": "Braking distance"},
+        {"id": "d", "text": "When to turn"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The two-second rule is a minimum following distance in good weather. Increase it in poor conditions.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-064",
+      "category": "roadSigns",
+      "questionText": "A sign with two arrows pointing in opposite directions (up and down) means:",
+      "answers": [
+        {"id": "a", "text": "Two-way traffic ahead"},
+        {"id": "b", "text": "Divided highway begins"},
+        {"id": "c", "text": "Keep right"},
+        {"id": "d", "text": "No passing"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This warning sign indicates that you are entering a two-way traffic area.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-065",
+      "category": "trafficLaws",
+      "questionText": "When entering an expressway from an entrance ramp, you should:",
+      "answers": [
+        {"id": "a", "text": "Stop at the end of the ramp"},
+        {"id": "b", "text": "Drive slower than traffic"},
+        {"id": "c", "text": "Use the acceleration lane to match highway speed and merge"},
+        {"id": "d", "text": "Force your way in"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Accelerate to the speed of traffic and merge when there is a gap.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-066",
+      "category": "parking",
+      "questionText": "A painted curb that is blue usually indicates:",
+      "answers": [
+        {"id": "a", "text": "Handicap parking only"},
+        {"id": "b", "text": "Loading zone"},
+        {"id": "c", "text": "No parking"},
+        {"id": "d", "text": "Bus stop"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Blue markings indicate parking spaces reserved for vehicles displaying disability permits.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-067",
+      "category": "safeDriving",
+      "questionText": "Alcohol affects a driver's:",
+      "answers": [
+        {"id": "a", "text": "Reaction time"},
+        {"id": "b", "text": "Judgment"},
+        {"id": "c", "text": "Coordination"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Alcohol impairs reaction time, judgment, and coordination, making driving dangerous.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-068",
+      "category": "finesAndLimits",
+      "questionText": "Aggravated DWI involves a BAC of ___ or higher.",
+      "answers": [
+        {"id": "a", "text": "0.18%"},
+        {"id": "b", "text": "0.08%"},
+        {"id": "c", "text": "0.10%"},
+        {"id": "d", "text": "0.15%"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Aggravated DWI is a more serious charge for BAC levels of 0.18% or higher.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-069",
+      "category": "roadSigns",
+      "questionText": "A sign with a truck going down a slope means:",
+      "answers": [
+        {"id": "a", "text": "Steep hill ahead"},
+        {"id": "b", "text": "Truck route"},
+        {"id": "c", "text": "No trucks"},
+        {"id": "d", "text": "Runaway ramp"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns of a steep downgrade where trucks may need to use lower gears.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-070",
+      "category": "rightOfWay",
+      "questionText": "When a school bus has stopped at a school to pick up or let off children, you may pass at a speed of no more than:",
+      "answers": [
+        {"id": "a", "text": "10 mph"},
+        {"id": "b", "text": "20 mph"},
+        {"id": "c", "text": "You cannot pass"},
+        {"id": "d", "text": "There is no limit if lights aren't flashing"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Wait, the question implies lights aren't flashing? No, if lights are flashing you stop. If lights are NOT flashing and it's just at the curb, exercise care. However, the manual focuses on the FLASHING lights. Assuming lights are flashing: Stop. If simply loading at a school curb WITHOUT red lights: You may pass with care. But the strict rule is: Flashing Red = STOP. Let's assume the question refers to the 'off-road' loading zone exception or lack of lights. Actually, NY Law says if the bus is off the roadway at a school, you can pass. But let's stick to the flashing light rule which is the testable one. Rephrasing: If a school bus is stopped on the highway with red lights flashing, can you pass? NO. Correct index implies 10mph? No. Let's look at answer C. Correct.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-071",
+      "category": "trafficLaws",
+      "questionText": "Which lights should you use when driving in a tunnel?",
+      "answers": [
+        {"id": "a", "text": "Parking lights"},
+        {"id": "b", "text": "Low beam headlights"},
+        {"id": "c", "text": "High beam headlights"},
+        {"id": "d", "text": "No lights needed"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Always use low beam headlights in tunnels for visibility.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-072",
+      "category": "safeDriving",
+      "questionText": "If your gas pedal sticks:",
+      "answers": [
+        {"id": "a", "text": "Shift to neutral"},
+        {"id": "b", "text": "Turn off the ignition immediately"},
+        {"id": "c", "text": "Pull up the pedal with your foot"},
+        {"id": "d", "text": "Shift to park"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Shift to neutral to disconnect the engine from the wheels, then pull over safely.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-073",
+      "category": "roadSigns",
+      "questionText": "A sign that says 'Yield' is what shape?",
+      "answers": [
+        {"id": "a", "text": "Inverted triangle"},
+        {"id": "b", "text": "Octagon"},
+        {"id": "c", "text": "Circle"},
+        {"id": "d", "text": "Rectangle"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The Yield sign is an inverted (upside-down) triangle.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-074",
+      "category": "trafficLaws",
+      "questionText": "Are you allowed to wear headphones while driving in NY?",
+      "answers": [
+        {"id": "a", "text": "Yes, in both ears"},
+        {"id": "b", "text": "No, you can only use one earphone"},
+        {"id": "c", "text": "Yes, for music only"},
+        {"id": "d", "text": "Yes, for calls only"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "It is illegal to wear headphones or earphones in both ears while driving.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-075",
+      "category": "finesAndLimits",
+      "questionText": "The Driver Responsibility Assessment is a fee you must pay if:",
+      "answers": [
+        {"id": "a", "text": "You get 6 or more points in 18 months"},
+        {"id": "b", "text": "You get a parking ticket"},
+        {"id": "c", "text": "You renew your license"},
+        {"id": "d", "text": "You are under 21"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Drivers who accumulate 6 or more points in 18 months must pay the Driver Responsibility Assessment fee.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-076",
+      "category": "safeDriving",
+      "questionText": "When dealing with road rage, you should:",
+      "answers": [
+        {"id": "a", "text": "Make eye contact"},
+        {"id": "b", "text": "Avoid eye contact and do not engage"},
+        {"id": "c", "text": "Honk back"},
+        {"id": "d", "text": "Block the other driver"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Avoid eye contact and do not retaliate to prevent escalating the situation.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-077",
+      "category": "roadSigns",
+      "questionText": "A sign with a curved arrow and a 'No' symbol means:",
+      "answers": [
+        {"id": "a", "text": "No U-Turn or No Turn (depending on arrow)"},
+        {"id": "b", "text": "Curve ahead"},
+        {"id": "c", "text": "Roundabout"},
+        {"id": "d", "text": "One way"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This regulatory sign prohibits the specific turn shown.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-078",
+      "category": "trafficLaws",
+      "questionText": "You must yield to a pedestrian using a white cane:",
+      "answers": [
+        {"id": "a", "text": "At all times"},
+        {"id": "b", "text": "Only in crosswalks"},
+        {"id": "c", "text": "Only if lights are flashing"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Pedestrians with guide dogs or white canes always have the right of way.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-079",
+      "category": "parking",
+      "questionText": "Double parking is:",
+      "answers": [
+        {"id": "a", "text": "Parking two cars in one spot"},
+        {"id": "b", "text": "Parking next to a vehicle already parked at the curb"},
+        {"id": "c", "text": "Parking in a driveway"},
+        {"id": "d", "text": "Allowed for 5 minutes"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Double parking (parking alongside another vehicle) is illegal at all times.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-080",
+      "category": "safeDriving",
+      "questionText": "To avoid glare from oncoming headlights at night:",
+      "answers": [
+        {"id": "a", "text": "Look to the bottom right of your lane"},
+        {"id": "b", "text": "Look at the lights"},
+        {"id": "c", "text": "Turn on your high beams"},
+        {"id": "d", "text": "Close one eye"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Look toward the right edge of the road to avoid being blinded.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-081",
+      "category": "rightOfWay",
+      "questionText": "When approaching an intersection with a flashing yellow light:",
+      "answers": [
+        {"id": "a", "text": "Stop completely"},
+        {"id": "b", "text": "Proceed with caution"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Turn right"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Flashing yellow means slow down and proceed with caution.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-082",
+      "category": "finesAndLimits",
+      "questionText": "Using a cell phone without a hands-free device adds ___ points to your record.",
+      "answers": [
+        {"id": "a", "text": "2"},
+        {"id": "b", "text": "3"},
+        {"id": "c", "text": "5"},
+        {"id": "d", "text": "0"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Cell phone and texting violations carry 5 points.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-083",
+      "category": "roadSigns",
+      "questionText": "A sign with a '+ ' symbol means:",
+      "answers": [
+        {"id": "a", "text": "Crossroad / Intersection ahead"},
+        {"id": "b", "text": "Hospital"},
+        {"id": "c", "text": "No passing"},
+        {"id": "d", "text": "Railroad"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The cross symbol warns of an intersection ahead.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-084",
+      "category": "trafficLaws",
+      "questionText": "When exiting a driveway, you must:",
+      "answers": [
+        {"id": "a", "text": "Honk"},
+        {"id": "b", "text": "Yield to pedestrians and traffic"},
+        {"id": "c", "text": "Drive quickly"},
+        {"id": "d", "text": "Assume right of way"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must yield to all traffic and pedestrians when entering the road from a driveway.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-085",
+      "category": "safeDriving",
+      "questionText": "Before changing lanes, you should:",
+      "answers": [
+        {"id": "a", "text": "Signal, check mirrors, and look over your shoulder"},
+        {"id": "b", "text": "Signal only"},
+        {"id": "c", "text": "Check mirrors only"},
+        {"id": "d", "text": "Honk"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Always signal and check blind spots (head check) before changing lanes.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-086",
+      "category": "roadSigns",
+      "questionText": "A sign indicating 'Keep Right' usually features:",
+      "answers": [
+        {"id": "a", "text": "An arrow pointing right around a divider"},
+        {"id": "b", "text": "A left arrow"},
+        {"id": "c", "text": "A stop symbol"},
+        {"id": "d", "text": "A yield symbol"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Keep Right signs often show a traffic island with an arrow pointing to the right path.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-087",
+      "category": "trafficLaws",
+      "questionText": "Children under the age of ___ must be in a car seat or booster seat.",
+      "answers": [
+        {"id": "a", "text": "4"},
+        {"id": "b", "text": "8"},
+        {"id": "c", "text": "10"},
+        {"id": "d", "text": "6"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "NYS law requires children under age 8 to be restrained in an appropriate child safety system.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-088",
+      "category": "finesAndLimits",
+      "questionText": "Your license will be suspended if you fail to answer a traffic ticket:",
+      "answers": [
+        {"id": "a", "text": "Indefinitely until resolved"},
+        {"id": "b", "text": "For 30 days only"},
+        {"id": "c", "text": "It won't be suspended"},
+        {"id": "d", "text": "For 1 year"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Failure to answer a ticket (scofflaw) results in suspension until the matter is resolved.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-089",
+      "category": "safeDriving",
+      "questionText": "On snow-covered roads, you should reduce your speed by:",
+      "answers": [
+        {"id": "a", "text": "One-third"},
+        {"id": "b", "text": "Half or more"},
+        {"id": "c", "text": "5 mph"},
+        {"id": "d", "text": "None"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "On packed snow, cut speed in half. On ice, slow to a crawl.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-090",
+      "category": "parking",
+      "questionText": "It is illegal to park on a bridge or in a tunnel:",
+      "answers": [
+        {"id": "a", "text": "Unless signs permit it"},
+        {"id": "b", "text": "Always"},
+        {"id": "c", "text": "Only during rush hour"},
+        {"id": "d", "text": "If you have a flat tire"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Parking on bridges or in tunnels is generally prohibited.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-091",
+      "category": "roadSigns",
+      "questionText": "A regulatory sign with a red circle and a white horizontal bar means:",
+      "answers": [
+        {"id": "a", "text": "Do Not Enter"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "Yield"},
+        {"id": "d", "text": "No Parking"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This symbol (often on a square white background or standalone) means Do Not Enter.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-092",
+      "category": "trafficLaws",
+      "questionText": "When can you pass a vehicle stopped at a crosswalk?",
+      "answers": [
+        {"id": "a", "text": "Never"},
+        {"id": "b", "text": "If no pedestrian is visible"},
+        {"id": "c", "text": "At 5 mph"},
+        {"id": "d", "text": "If you honk"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Never pass a vehicle stopped at a crosswalk; they are likely stopped for a pedestrian you cannot see.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-093",
+      "category": "rightOfWay",
+      "questionText": "If you hear a siren but cannot see the emergency vehicle:",
+      "answers": [
+        {"id": "a", "text": "Pull over safely and stop until you locate it"},
+        {"id": "b", "text": "Keep driving"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Stop in the middle of the intersection"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Pull over safely and wait until you identify the vehicle's location and direction.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-094",
+      "category": "safeDriving",
+      "questionText": "If your brakes fail:",
+      "answers": [
+        {"id": "a", "text": "Pump the brakes rapidly"},
+        {"id": "b", "text": "Accelerate"},
+        {"id": "c", "text": "Turn off the engine"},
+        {"id": "d", "text": "Jump out"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Pump the brake pedal to build pressure. If that fails, use the parking brake slowly.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-095",
+      "category": "finesAndLimits",
+      "questionText": "A probationary license is valid for:",
+      "answers": [
+        {"id": "a", "text": "6 months"},
+        {"id": "b", "text": "1 year"},
+        {"id": "c", "text": "3 years"},
+        {"id": "d", "text": "5 years"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "New drivers hold a probationary status for 6 months.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-096",
+      "category": "roadSigns",
+      "questionText": "A chevron sign (arrow) pointing to the right means:",
+      "answers": [
+        {"id": "a", "text": "Sharp turn to the right"},
+        {"id": "b", "text": "Detour"},
+        {"id": "c", "text": "No right turn"},
+        {"id": "d", "text": "Exit"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Chevrons emphasize the location and direction of a sharp curve.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-097",
+      "category": "trafficLaws",
+      "questionText": "When turning left from a one-way street onto another one-way street, use:",
+      "answers": [
+        {"id": "a", "text": "The left lane"},
+        {"id": "b", "text": "The right lane"},
+        {"id": "c", "text": "Center lane"},
+        {"id": "d", "text": "Any lane"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Turn from the left lane into the left lane.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-098",
+      "category": "safeDriving",
+      "questionText": "Large trucks take ___ to stop than passenger cars.",
+      "answers": [
+        {"id": "a", "text": "Longer"},
+        {"id": "b", "text": "Less time"},
+        {"id": "c", "text": "The same time"},
+        {"id": "d", "text": "Half the distance"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Trucks are heavier and require much more stopping distance.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-099",
+      "category": "parking",
+      "questionText": "Parking within 30 feet of a Stop sign is:",
+      "answers": [
+        {"id": "a", "text": "Prohibited"},
+        {"id": "b", "text": "Allowed"},
+        {"id": "c", "text": "Allowed on weekends"},
+        {"id": "d", "text": "Allowed if emergency lights are on"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Generally, most ordinances prohibit parking within 30 feet of a stop sign to ensure visibility, though NY state law specifically mentions not blocking the sign.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-100",
+      "category": "rightOfWay",
+      "questionText": "When entering a roadway from a private alley:",
+      "answers": [
+        {"id": "a", "text": "Yield to all roadway traffic"},
+        {"id": "b", "text": "Honk and proceed"},
+        {"id": "c", "text": "You have right of way"},
+        {"id": "d", "text": "Wait for a green light"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Private road/alley traffic must yield to the main road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-101",
+      "category": "roadSigns",
+      "questionText": "A sign with 'H' in a blue square means:",
+      "answers": [
+        {"id": "a", "text": "Hospital"},
+        {"id": "b", "text": "Hotel"},
+        {"id": "c", "text": "Highway"},
+        {"id": "d", "text": "Hills"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Blue 'H' signs guide drivers to the nearest hospital.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-102",
+      "category": "trafficLaws",
+      "questionText": "Studded snow tires are permitted in NY from:",
+      "answers": [
+        {"id": "a", "text": "Oct 16 to Apr 30"},
+        {"id": "b", "text": "Nov 1 to Mar 31"},
+        {"id": "c", "text": "Dec 1 to Mar 1"},
+        {"id": "d", "text": "All year"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Legal use period for studded tires is Oct 16 - Apr 30.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-103",
+      "category": "safeDriving",
+      "questionText": "If you are tired while driving:",
+      "answers": [
+        {"id": "a", "text": "Stop and rest"},
+        {"id": "b", "text": "Turn up radio"},
+        {"id": "c", "text": "Open window"},
+        {"id": "d", "text": "Drive faster to finish trip"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The only effective cure for drowsiness is sleep/rest.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-104",
+      "category": "finesAndLimits",
+      "questionText": "Passing a stopped school bus adds how many points?",
+      "answers": [
+        {"id": "a", "text": "5"},
+        {"id": "b", "text": "3"},
+        {"id": "c", "text": "2"},
+        {"id": "d", "text": "4"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "It is a 5-point violation.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-105",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a deer symbol indicates:",
+      "answers": [
+        {"id": "a", "text": "Deer crossing area"},
+        {"id": "b", "text": "Zoo ahead"},
+        {"id": "c", "text": "Hunting area"},
+        {"id": "d", "text": "Farm animals"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This warns that deer are likely to enter the roadway.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-106",
+      "category": "trafficLaws",
+      "questionText": "When must you inspect your vehicle in NY?",
+      "answers": [
+        {"id": "a", "text": "Every 12 months"},
+        {"id": "b", "text": "Every 2 years"},
+        {"id": "c", "text": "Only when buying it"},
+        {"id": "d", "text": "Every 6 months"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "NY vehicles must pass a safety/emissions inspection every 12 months.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-107",
+      "category": "safeDriving",
+      "questionText": "The 'No-Zone' refers to:",
+      "answers": [
+        {"id": "a", "text": "Blind spots around large trucks"},
+        {"id": "b", "text": "No parking areas"},
+        {"id": "c", "text": "Speed zones"},
+        {"id": "d", "text": "School zones"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "No-Zones are the danger areas around trucks where crashes are most likely.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-108",
+      "category": "rightOfWay",
+      "questionText": "When backing out of a parking space:",
+      "answers": [
+        {"id": "a", "text": "Look for cars and pedestrians, yield to them"},
+        {"id": "b", "text": "Honk and move"},
+        {"id": "c", "text": "Traffic stops for you"},
+        {"id": "d", "text": "Use mirrors only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must yield to all traffic and pedestrians when backing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-109",
+      "category": "parking",
+      "questionText": "You cannot park within ___ feet of a railroad crossing.",
+      "answers": [
+        {"id": "a", "text": "50 feet"},
+        {"id": "b", "text": "15 feet"},
+        {"id": "c", "text": "20 feet"},
+        {"id": "d", "text": "100 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Parking is prohibited within 50 feet of a railroad crossing.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-110",
+      "category": "roadSigns",
+      "questionText": "A sign with a bicycle symbol means:",
+      "answers": [
+        {"id": "a", "text": "Bike route or crossing"},
+        {"id": "b", "text": "No bikes"},
+        {"id": "c", "text": "Motorcycles only"},
+        {"id": "d", "text": "Toy store"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Watch for cyclists crossing or sharing the road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-111",
+      "category": "trafficLaws",
+      "questionText": "If your windshield wipers are on, you must also use:",
+      "answers": [
+        {"id": "a", "text": "Headlights"},
+        {"id": "b", "text": "Hazards"},
+        {"id": "c", "text": "Interior lights"},
+        {"id": "d", "text": "Fog lights"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Wipers On = Headlights On is the law in NY.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-112",
+      "category": "finesAndLimits",
+      "questionText": "Tailgating (following too closely) is a ___ point violation.",
+      "answers": [
+        {"id": "a", "text": "4"},
+        {"id": "b", "text": "3"},
+        {"id": "c", "text": "2"},
+        {"id": "d", "text": "5"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Following too closely adds 4 points to your license.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-113",
+      "category": "safeDriving",
+      "questionText": "To prevent hydroplaning:",
+      "answers": [
+        {"id": "a", "text": "Slow down in rain and ensure good tire tread"},
+        {"id": "b", "text": "Speed up"},
+        {"id": "c", "text": "Pump brakes"},
+        {"id": "d", "text": "Use cruise control"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Slow down and have good tires. Never use cruise control in rain.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-114",
+      "category": "roadSigns",
+      "questionText": "A rectangular sign with a wheelchair symbol reserves parking for:",
+      "answers": [
+        {"id": "a", "text": "Disabled persons with a permit"},
+        {"id": "b", "text": "Elderly only"},
+        {"id": "c", "text": "Doctors"},
+        {"id": "d", "text": "Anyone for 5 minutes"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Only vehicles with valid handicap plates/placards may park here.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-115",
+      "category": "trafficLaws",
+      "questionText": "If you move, you must notify the DMV within:",
+      "answers": [
+        {"id": "a", "text": "10 days"},
+        {"id": "b", "text": "30 days"},
+        {"id": "c", "text": "1 week"},
+        {"id": "d", "text": "60 days"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Address changes must be reported within 10 days.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-116",
+      "category": "rightOfWay",
+      "questionText": "You are making a left turn on a green light. You must yield to:",
+      "answers": [
+        {"id": "a", "text": "Oncoming traffic"},
+        {"id": "b", "text": "Traffic behind you"},
+        {"id": "c", "text": "Traffic on the left"},
+        {"id": "d", "text": "No one"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Left turning vehicles must yield to oncoming traffic going straight.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-117",
+      "category": "safeDriving",
+      "questionText": "When a truck makes a wide right turn:",
+      "answers": [
+        {"id": "a", "text": "Do not pass on the right"},
+        {"id": "b", "text": "Pass quickly on the right"},
+        {"id": "c", "text": "Honk"},
+        {"id": "d", "text": "Tailgate"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Trucks swing wide; passing on the right creates a squeeze crash hazard.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-118",
+      "category": "parking",
+      "questionText": "White painted curbs usually mean:",
+      "answers": [
+        {"id": "a", "text": "Stop only to pick up or drop off passengers"},
+        {"id": "b", "text": "No parking at all"},
+        {"id": "c", "text": "Loading zone"},
+        {"id": "d", "text": "Bus stop"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "White curbs typically indicate a passenger loading/unloading zone.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-119",
+      "category": "roadSigns",
+      "questionText": "A sign that says 'School Speed Limit 20 When Flashing':",
+      "answers": [
+        {"id": "a", "text": "Obey 20 mph when lights flash"},
+        {"id": "b", "text": "Always 20 mph"},
+        {"id": "c", "text": "Suggested speed only"},
+        {"id": "d", "text": "Stop when flashing"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The reduced limit is enforceable only when the yellow lights are flashing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-120",
+      "category": "trafficLaws",
+      "questionText": "If you hit a parked car and cannot find the owner:",
+      "answers": [
+        {"id": "a", "text": "Leave a note with your info and report it to police"},
+        {"id": "b", "text": "Drive away"},
+        {"id": "c", "text": "Wait 10 minutes then leave"},
+        {"id": "d", "text": "Call your insurance only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must leave a note and report the incident to the police.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-121",
+      "category": "finesAndLimits",
+      "questionText": "Reckless driving carries a penalty of ___ points.",
+      "answers": [
+        {"id": "a", "text": "5"},
+        {"id": "b", "text": "3"},
+        {"id": "c", "text": "4"},
+        {"id": "d", "text": "6"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Reckless driving is a 5-point violation.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-122",
+      "category": "safeDriving",
+      "questionText": "In a work zone:",
+      "answers": [
+        {"id": "a", "text": "Reduce speed and obey flaggers"},
+        {"id": "b", "text": "Maintain speed"},
+        {"id": "c", "text": "Pass on shoulder"},
+        {"id": "d", "text": "Ignore signs"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Speeding fines are doubled in work zones. Always obey flaggers.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-123",
+      "category": "roadSigns",
+      "questionText": "An octagon (8-sided) sign is always:",
+      "answers": [
+        {"id": "a", "text": "Stop"},
+        {"id": "b", "text": "Yield"},
+        {"id": "c", "text": "School"},
+        {"id": "d", "text": "Speed limit"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The octagon shape is exclusively for STOP signs.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-124",
+      "category": "trafficLaws",
+      "questionText": "Motorcycles must have headlights on:",
+      "answers": [
+        {"id": "a", "text": "At all times while driving"},
+        {"id": "b", "text": "Only at night"},
+        {"id": "c", "text": "Only in rain"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Motorcycles are required to have headlights on at all times for visibility.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-125",
+      "category": "rightOfWay",
+      "questionText": "When entering traffic from parallel parking:",
+      "answers": [
+        {"id": "a", "text": "Signal and yield to traffic"},
+        {"id": "b", "text": "Pull out quickly"},
+        {"id": "c", "text": "Wait for a red light"},
+        {"id": "d", "text": "Honk"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must signal and yield to approaching traffic before entering the lane.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-126",
+      "category": "parking",
+      "questionText": "It is illegal to park blocking:",
+      "answers": [
+        {"id": "a", "text": "A driveway"},
+        {"id": "b", "text": "A mailbox"},
+        {"id": "c", "text": "Your own house"},
+        {"id": "d", "text": "A tree"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You cannot block a public or private driveway.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-127",
+      "category": "safeDriving",
+      "questionText": "Use your horn when:",
+      "answers": [
+        {"id": "a", "text": "A pedestrian or cyclist appears to be moving into your lane"},
+        {"id": "b", "text": "You are angry"},
+        {"id": "c", "text": "Greeting friends"},
+        {"id": "d", "text": "Traffic is slow"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Use the horn to warn others of danger, not for frustration.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-128",
+      "category": "roadSigns",
+      "questionText": "A sign with a squiggly arrow pointing ahead means:",
+      "answers": [
+        {"id": "a", "text": "Winding road"},
+        {"id": "b", "text": "Slippery when wet"},
+        {"id": "c", "text": "Snake crossing"},
+        {"id": "d", "text": "Drunk drivers"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns of a series of curves or a winding road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-129",
+      "category": "trafficLaws",
+      "questionText": "Who must wear a seat belt in the front seat?",
+      "answers": [
+        {"id": "a", "text": "Driver and passenger"},
+        {"id": "b", "text": "Driver only"},
+        {"id": "c", "text": "Passenger only"},
+        {"id": "d", "text": "Under 16s only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "All front seat occupants must wear a seat belt.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-130",
+      "category": "finesAndLimits",
+      "questionText": "Speeding more than 40 mph over the limit is ___ points.",
+      "answers": [
+        {"id": "a", "text": "11"},
+        {"id": "b", "text": "8"},
+        {"id": "c", "text": "6"},
+        {"id": "d", "text": "10"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Excessive speeding (40+ mph over) results in 11 points and likely suspension.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-131",
+      "category": "safeDriving",
+      "questionText": "Roads are most slippery:",
+      "answers": [
+        {"id": "a", "text": "Just after rain begins"},
+        {"id": "b", "text": "After 2 hours of rain"},
+        {"id": "c", "text": "When dry"},
+        {"id": "d", "text": "In winter only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Oil and dust mix with the first rain to create slippery conditions.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-132",
+      "category": "roadSigns",
+      "questionText": "A vertical rectangle sign is generally:",
+      "answers": [
+        {"id": "a", "text": "Regulatory"},
+        {"id": "b", "text": "Warning"},
+        {"id": "c", "text": "School"},
+        {"id": "d", "text": "Construction"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Vertical rectangles are used for regulatory signs like speed limits.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-133",
+      "category": "trafficLaws",
+      "questionText": "If a school bus is stopped on the opposite side of a divided highway:",
+      "answers": [
+        {"id": "a", "text": "You must stop"},
+        {"id": "b", "text": "You can proceed"},
+        {"id": "c", "text": "Slow to 10 mph"},
+        {"id": "d", "text": "Honk"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "In NY, traffic on both sides of a divided highway must stop for a school bus.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-134",
+      "category": "rightOfWay",
+      "questionText": "When merging onto the highway:",
+      "answers": [
+        {"id": "a", "text": "Yield to highway traffic"},
+        {"id": "b", "text": "Highway traffic yields to you"},
+        {"id": "c", "text": "Stop at end of ramp"},
+        {"id": "d", "text": "Drive on shoulder"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Entering traffic must yield to traffic already on the expressway.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-135",
+      "category": "parking",
+      "questionText": "When parking parallel to the curb, you must be within:",
+      "answers": [
+        {"id": "a", "text": "12 inches"},
+        {"id": "b", "text": "6 inches"},
+        {"id": "c", "text": "18 inches"},
+        {"id": "d", "text": "24 inches"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "NYS law requires vehicles to be parked within 12 inches of the curb.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-136",
+      "category": "roadSigns",
+      "questionText": "A sign with a T-shape means:",
+      "answers": [
+        {"id": "a", "text": "Intersection ahead"},
+        {"id": "b", "text": "Taxi stand"},
+        {"id": "c", "text": "Telephone"},
+        {"id": "d", "text": "Turn right"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns of a T-intersection where the road ends.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-137",
+      "category": "trafficLaws",
+      "questionText": "What class license allows you to drive a car?",
+      "answers": [
+        {"id": "a", "text": "Class D"},
+        {"id": "b", "text": "Class M"},
+        {"id": "c", "text": "Class CDL"},
+        {"id": "d", "text": "Class A"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Class D is the standard operator license for passenger cars.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-138",
+      "category": "safeDriving",
+      "questionText": "At night, if an oncoming car has high beams on:",
+      "answers": [
+        {"id": "a", "text": "Look to the right edge"},
+        {"id": "b", "text": "Flash yours rapidly"},
+        {"id": "c", "text": "Turn on yours"},
+        {"id": "d", "text": "Close your eyes"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Look down and to the right to avoid glare.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-139",
+      "category": "finesAndLimits",
+      "questionText": "Improper cell phone use is a ___ point violation.",
+      "answers": [
+        {"id": "a", "text": "5"},
+        {"id": "b", "text": "3"},
+        {"id": "c", "text": "2"},
+        {"id": "d", "text": "4"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Using a handheld device is a 5-point violation.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-140",
+      "category": "roadSigns",
+      "questionText": "A sign with a car and squiggly lines behind tires means:",
+      "answers": [
+        {"id": "a", "text": "Slippery when wet"},
+        {"id": "b", "text": "Winding road"},
+        {"id": "c", "text": "Drunk driving check"},
+        {"id": "d", "text": "Race track"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns that the road becomes slippery when wet.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-141",
+      "category": "trafficLaws",
+      "questionText": "Bicyclists must ride:",
+      "answers": [
+        {"id": "a", "text": "With traffic"},
+        {"id": "b", "text": "Against traffic"},
+        {"id": "c", "text": "On sidewalk"},
+        {"id": "d", "text": "Anywhere"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Bicycles are vehicles and must ride in the same direction as traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-142",
+      "category": "rightOfWay",
+      "questionText": "If traffic lights are out (black):",
+      "answers": [
+        {"id": "a", "text": "Treat as 4-way stop"},
+        {"id": "b", "text": "Go fast"},
+        {"id": "c", "text": "Yield to right only"},
+        {"id": "d", "text": "Main road goes"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A malfunctioning signal is treated as a 4-way stop.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-143",
+      "category": "safeDriving",
+      "questionText": "When stopping behind another vehicle:",
+      "answers": [
+        {"id": "a", "text": "See their rear tires touching pavement"},
+        {"id": "b", "text": "Be 1 foot away"},
+        {"id": "c", "text": "Touch bumper"},
+        {"id": "d", "text": "See their roof"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Leave enough space to see where their rear tires touch the road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-144",
+      "category": "parking",
+      "questionText": "Illegal to park within ___ feet of a fire station driveway.",
+      "answers": [
+        {"id": "a", "text": "20 feet"},
+        {"id": "b", "text": "15 feet"},
+        {"id": "c", "text": "10 feet"},
+        {"id": "d", "text": "50 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Do not park within 20 feet of a fire station driveway (or 75 feet on opposite side).",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-145",
+      "category": "roadSigns",
+      "questionText": "A sign with 'One Way' and an arrow:",
+      "answers": [
+        {"id": "a", "text": "Traffic flows only in direction of arrow"},
+        {"id": "b", "text": "Look one way"},
+        {"id": "c", "text": "Turn here"},
+        {"id": "d", "text": "No turn"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Traffic on this street flows only in the indicated direction.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-146",
+      "category": "trafficLaws",
+      "questionText": "New residents must get a NY license within:",
+      "answers": [
+        {"id": "a", "text": "30 days"},
+        {"id": "b", "text": "60 days"},
+        {"id": "c", "text": "90 days"},
+        {"id": "d", "text": "1 year"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "New residents must exchange their out-of-state license within 30 days.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-147",
+      "category": "finesAndLimits",
+      "questionText": "A second DWI conviction in 10 years is a:",
+      "answers": [
+        {"id": "a", "text": "Felony"},
+        {"id": "b", "text": "Misdemeanor"},
+        {"id": "c", "text": "Infraction"},
+        {"id": "d", "text": "Warning"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A second DWI in 10 years is a Class E felony.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ny-148",
+      "category": "safeDriving",
+      "questionText": "If an animal is in your path:",
+      "answers": [
+        {"id": "a", "text": "Concentrate on keeping control"},
+        {"id": "b", "text": "Swerve"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Honk"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "It is safer to hit the animal than to swerve into traffic or trees.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ny-149",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Exit 25 mph':",
+      "answers": [
+        {"id": "a", "text": "Safe speed for exit ramp is 25"},
+        {"id": "b", "text": "Speed limit is 25"},
+        {"id": "c", "text": "Exit in 25 miles"},
+        {"id": "d", "text": "Minimum speed 25"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Advisory speed signs recommend a safe speed for the ramp.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ny-150",
+      "category": "trafficLaws",
+      "questionText": "Can you text while waiting at a red light?",
+      "answers": [
+        {"id": "a", "text": "No"},
+        {"id": "b", "text": "Yes"},
+        {"id": "c", "text": "Only if stopped for 1 min"},
+        {"id": "d", "text": "Only maps"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You are considered to be 'operating' the vehicle even when stopped at a light; texting is prohibited.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    }
+  ]
+}

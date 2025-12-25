@@ -1,0 +1,4071 @@
+{
+  "stateCode": "MA",
+  "stateName": "Massachusetts",
+  "version": "2.0.0",
+  "lastUpdated": "2025-12-23",
+  "testInfo": {
+    "questionCount": 25,
+    "passingPercentage": 72,
+    "passingScore": 18,
+    "minimumPermitAge": 16,
+    "hasSplitTest": false,
+    "timeLimit": 25,
+    "uniqueRequirements": [
+      "Parent/guardian must attend 2-hour driver education session",
+      "Must hold permit for 6 months before road test",
+      "40 hours supervised driving required"
+    ]
+  },
+  "questions": [
+    {
+      "id": "ma-001",
+      "category": "roadSigns",
+      "questionText": "What does a red octagonal sign mean?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop completely before proceeding"
+        },
+        {
+          "id": "b",
+          "text": "Slow down and proceed with caution"
+        },
+        {
+          "id": "c",
+          "text": "Yield to oncoming traffic"
+        },
+        {
+          "id": "d",
+          "text": "Road work ahead"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A red octagonal (8-sided) sign always means STOP. You must come to a complete stop at the stop line, crosswalk, or before entering the intersection.",
+      "imageAssetName": "sign_stop",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-002",
+      "category": "roadSigns",
+      "questionText": "What does a yellow diamond-shaped sign indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A regulatory requirement you must follow"
+        },
+        {
+          "id": "b",
+          "text": "A warning about conditions or hazards ahead"
+        },
+        {
+          "id": "c",
+          "text": "Information about nearby services"
+        },
+        {
+          "id": "d",
+          "text": "A route or destination marker"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Yellow diamond-shaped signs are warning signs. They alert drivers to potential hazards, changes in road conditions, or situations requiring caution ahead.",
+      "imageAssetName": "sign_warning_generic",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-003",
+      "category": "roadSigns",
+      "questionText": "What does a triangular yield sign require you to do?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop completely, then proceed"
+        },
+        {
+          "id": "b",
+          "text": "Slow down and give right-of-way to traffic and pedestrians"
+        },
+        {
+          "id": "c",
+          "text": "Speed up to merge with traffic"
+        },
+        {
+          "id": "d",
+          "text": "Honk to alert other drivers"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A yield sign means you must slow down and be prepared to stop if necessary. Give the right-of-way to vehicles and pedestrians in or approaching the intersection.",
+      "imageAssetName": "sign_yield",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-004",
+      "category": "roadSigns",
+      "questionText": "What does a white rectangular sign with black letters typically indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A warning about road conditions"
+        },
+        {
+          "id": "b",
+          "text": "A regulatory rule you must obey"
+        },
+        {
+          "id": "c",
+          "text": "Information about destinations"
+        },
+        {
+          "id": "d",
+          "text": "Construction zone ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "White rectangular signs with black letters are regulatory signs. They inform you of laws and regulations you must follow, such as speed limits, no parking zones, and turn restrictions.",
+      "imageAssetName": "sign_regulatory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-005",
+      "category": "roadSigns",
+      "questionText": "What does an orange sign indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "School zone ahead"
+        },
+        {
+          "id": "b",
+          "text": "Construction or road work zone"
+        },
+        {
+          "id": "c",
+          "text": "Railroad crossing ahead"
+        },
+        {
+          "id": "d",
+          "text": "Hospital nearby"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Orange signs indicate construction zones or road work areas. Be prepared for workers, equipment, lane changes, and reduced speed limits in these areas.",
+      "imageAssetName": "sign_construction",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-006",
+      "category": "roadSigns",
+      "questionText": "What does a pentagon-shaped (5-sided) yellow sign indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Railroad crossing ahead"
+        },
+        {
+          "id": "b",
+          "text": "School zone or school crossing ahead"
+        },
+        {
+          "id": "c",
+          "text": "Hospital zone"
+        },
+        {
+          "id": "d",
+          "text": "No passing zone"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Pentagon-shaped yellow signs indicate school zones or school crossings. Slow down and watch for children, especially during school hours.",
+      "imageAssetName": "sign_school",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-007",
+      "category": "roadSigns",
+      "questionText": "What does a circular yellow sign with an X and RR indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Rest area ahead"
+        },
+        {
+          "id": "b",
+          "text": "Railroad crossing ahead"
+        },
+        {
+          "id": "c",
+          "text": "Intersection ahead"
+        },
+        {
+          "id": "d",
+          "text": "Road closed"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A circular yellow sign with an X and the letters RR warns of a railroad crossing ahead. Slow down, look both ways, and listen for trains before crossing.",
+      "imageAssetName": "sign_railroad_advance",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-008",
+      "category": "roadSigns",
+      "questionText": "What does a green rectangular sign typically indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A warning about road conditions"
+        },
+        {
+          "id": "b",
+          "text": "A law you must follow"
+        },
+        {
+          "id": "c",
+          "text": "Guide information such as directions and distances"
+        },
+        {
+          "id": "d",
+          "text": "Construction ahead"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Green rectangular signs are guide signs. They provide information about directions, distances to destinations, street names, and highway routes.",
+      "imageAssetName": "sign_guide_green",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-009",
+      "category": "roadSigns",
+      "questionText": "What does a blue rectangular sign indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Regulatory information"
+        },
+        {
+          "id": "b",
+          "text": "Motorist services like food, gas, and lodging"
+        },
+        {
+          "id": "c",
+          "text": "Warning about road conditions"
+        },
+        {
+          "id": "d",
+          "text": "School zone"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Blue rectangular signs indicate motorist services. They show the location of gas stations, food, lodging, hospitals, and other services near highway exits.",
+      "imageAssetName": "sign_services",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-010",
+      "category": "roadSigns",
+      "questionText": "What does a brown rectangular sign indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Construction zone"
+        },
+        {
+          "id": "b",
+          "text": "Recreational and cultural areas"
+        },
+        {
+          "id": "c",
+          "text": "Speed limit changes"
+        },
+        {
+          "id": "d",
+          "text": "School crossing"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Brown rectangular signs indicate recreational and cultural interest areas such as parks, historic sites, campgrounds, and scenic areas.",
+      "imageAssetName": "sign_recreation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-011",
+      "category": "rightOfWay",
+      "questionText": "At an intersection with no traffic signs or signals, who has the right-of-way?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The vehicle on the left"
+        },
+        {
+          "id": "b",
+          "text": "The vehicle on the right"
+        },
+        {
+          "id": "c",
+          "text": "The larger vehicle"
+        },
+        {
+          "id": "d",
+          "text": "The vehicle going faster"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "At an uncontrolled intersection, the vehicle on the right has the right-of-way. Always yield to any vehicle that arrives at the intersection before you.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-012",
+      "category": "rightOfWay",
+      "questionText": "When two vehicles arrive at a four-way stop at the same time, who goes first?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The vehicle turning left"
+        },
+        {
+          "id": "b",
+          "text": "The vehicle on the right"
+        },
+        {
+          "id": "c",
+          "text": "The vehicle going straight"
+        },
+        {
+          "id": "d",
+          "text": "Either vehicle can proceed"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When two vehicles arrive at a four-way stop simultaneously, the vehicle on the right has the right-of-way and should proceed first.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-013",
+      "category": "rightOfWay",
+      "questionText": "When must you yield to pedestrians?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only at marked crosswalks"
+        },
+        {
+          "id": "b",
+          "text": "Only when they have a walk signal"
+        },
+        {
+          "id": "c",
+          "text": "At all crosswalks, marked or unmarked"
+        },
+        {
+          "id": "d",
+          "text": "Only in school zones"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "In Massachusetts, drivers must yield to pedestrians at all crosswalks, whether marked or unmarked. An unmarked crosswalk exists at any intersection.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-014",
+      "category": "rightOfWay",
+      "questionText": "When entering a highway from an entrance ramp, who has the right-of-way?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vehicles on the entrance ramp"
+        },
+        {
+          "id": "b",
+          "text": "Vehicles already on the highway"
+        },
+        {
+          "id": "c",
+          "text": "Whichever vehicle is larger"
+        },
+        {
+          "id": "d",
+          "text": "Whichever vehicle signals first"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Vehicles already traveling on the highway have the right-of-way. When merging from an entrance ramp, you must yield and adjust your speed to safely enter traffic.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-015",
+      "category": "rightOfWay",
+      "questionText": "What should you do when an emergency vehicle with flashing lights approaches from behind?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Speed up to get out of the way"
+        },
+        {
+          "id": "b",
+          "text": "Pull to the right and stop"
+        },
+        {
+          "id": "c",
+          "text": "Continue at your current speed"
+        },
+        {
+          "id": "d",
+          "text": "Pull to the left and stop"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When an emergency vehicle approaches with lights and/or siren, pull over to the right side of the road and stop. Remain stopped until the emergency vehicle has passed.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-016",
+      "category": "rightOfWay",
+      "questionText": "When making a left turn at an intersection, you must yield to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only vehicles turning right"
+        },
+        {
+          "id": "b",
+          "text": "Oncoming traffic and pedestrians"
+        },
+        {
+          "id": "c",
+          "text": "Only pedestrians in crosswalks"
+        },
+        {
+          "id": "d",
+          "text": "No one if you have a green light"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When turning left, you must yield to all oncoming traffic and pedestrians in the intersection, even if you have a green light.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-017",
+      "category": "speedLimits",
+      "questionText": "What is the default speed limit in a Massachusetts school zone when children are present?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "15 mph"
+        },
+        {
+          "id": "b",
+          "text": "20 mph"
+        },
+        {
+          "id": "c",
+          "text": "25 mph"
+        },
+        {
+          "id": "d",
+          "text": "30 mph"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In Massachusetts, the speed limit in school zones is 20 mph when children are present, unless otherwise posted.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-018",
+      "category": "speedLimits",
+      "questionText": "What is the default speed limit on a Massachusetts highway unless otherwise posted?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "55 mph"
+        },
+        {
+          "id": "b",
+          "text": "60 mph"
+        },
+        {
+          "id": "c",
+          "text": "65 mph"
+        },
+        {
+          "id": "d",
+          "text": "70 mph"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The default speed limit on Massachusetts highways is 65 mph unless otherwise posted. Some highways may have lower limits.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-019",
+      "category": "speedLimits",
+      "questionText": "What is the default speed limit in a thickly settled or business district in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "20 mph"
+        },
+        {
+          "id": "b",
+          "text": "25 mph"
+        },
+        {
+          "id": "c",
+          "text": "30 mph"
+        },
+        {
+          "id": "d",
+          "text": "35 mph"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "In Massachusetts, the default speed limit in thickly settled (residential) or business districts is 30 mph unless otherwise posted.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-020",
+      "category": "speedLimits",
+      "questionText": "When should you reduce your speed below the posted limit?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only when a police officer directs you to"
+        },
+        {
+          "id": "b",
+          "text": "When conditions such as weather, traffic, or road conditions make it unsafe"
+        },
+        {
+          "id": "c",
+          "text": "Never, the posted limit is always safe"
+        },
+        {
+          "id": "d",
+          "text": "Only in school zones"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You should always adjust your speed to match conditions. Rain, snow, fog, heavy traffic, or poor road conditions may require driving below the posted speed limit.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-021",
+      "category": "parking",
+      "questionText": "How far must you park from a fire hydrant in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "5 feet"
+        },
+        {
+          "id": "b",
+          "text": "10 feet"
+        },
+        {
+          "id": "c",
+          "text": "15 feet"
+        },
+        {
+          "id": "d",
+          "text": "20 feet"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In Massachusetts, you must park at least 10 feet from a fire hydrant. Parking too close can prevent firefighters from accessing the hydrant in an emergency.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-022",
+      "category": "parking",
+      "questionText": "How far must you park from a crosswalk at an intersection?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "10 feet"
+        },
+        {
+          "id": "b",
+          "text": "15 feet"
+        },
+        {
+          "id": "c",
+          "text": "20 feet"
+        },
+        {
+          "id": "d",
+          "text": "25 feet"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "You must park at least 20 feet from a crosswalk at an intersection. This ensures pedestrians and other drivers have clear visibility.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-023",
+      "category": "parking",
+      "questionText": "When parking uphill with a curb, which way should you turn your wheels?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Away from the curb (left)"
+        },
+        {
+          "id": "b",
+          "text": "Toward the curb (right)"
+        },
+        {
+          "id": "c",
+          "text": "Straight ahead"
+        },
+        {
+          "id": "d",
+          "text": "It doesn't matter"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "When parking uphill with a curb, turn your wheels away from the curb (to the left). If the car rolls backward, the wheels will catch the curb and stop the car.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-024",
+      "category": "parking",
+      "questionText": "When parking downhill with a curb, which way should you turn your wheels?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Away from the curb (left)"
+        },
+        {
+          "id": "b",
+          "text": "Toward the curb (right)"
+        },
+        {
+          "id": "c",
+          "text": "Straight ahead"
+        },
+        {
+          "id": "d",
+          "text": "It doesn't matter"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When parking downhill with a curb, turn your wheels toward the curb (to the right). If the car rolls forward, the wheels will catch the curb and stop the car.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-025",
+      "category": "parking",
+      "questionText": "What color curb marking indicates no parking or stopping at any time?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Yellow"
+        },
+        {
+          "id": "b",
+          "text": "Red"
+        },
+        {
+          "id": "c",
+          "text": "White"
+        },
+        {
+          "id": "d",
+          "text": "Blue"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A red curb means no stopping, standing, or parking at any time. This is typically used near fire hydrants, fire stations, and other areas where access must remain clear.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-026",
+      "category": "safeDriving",
+      "questionText": "What is the recommended following distance in normal driving conditions?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1 second"
+        },
+        {
+          "id": "b",
+          "text": "2 seconds"
+        },
+        {
+          "id": "c",
+          "text": "3-4 seconds"
+        },
+        {
+          "id": "d",
+          "text": "5-6 seconds"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Maintain a following distance of at least 3-4 seconds in normal conditions. This gives you time to react and stop if the vehicle ahead brakes suddenly.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-027",
+      "category": "safeDriving",
+      "questionText": "What should you do if your vehicle starts to skid?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Slam on the brakes"
+        },
+        {
+          "id": "b",
+          "text": "Steer in the direction you want to go and ease off the gas"
+        },
+        {
+          "id": "c",
+          "text": "Accelerate to regain control"
+        },
+        {
+          "id": "d",
+          "text": "Turn the wheel sharply in the opposite direction"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If your vehicle skids, take your foot off the gas and steer in the direction you want the front of the car to go. Avoid sudden braking or sharp steering movements.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-028",
+      "category": "safeDriving",
+      "questionText": "What is the best way to check your blind spots before changing lanes?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Rely only on your mirrors"
+        },
+        {
+          "id": "b",
+          "text": "Turn your head and look over your shoulder"
+        },
+        {
+          "id": "c",
+          "text": "Honk your horn"
+        },
+        {
+          "id": "d",
+          "text": "Use only your turn signal"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Always turn your head and look over your shoulder to check your blind spots before changing lanes. Mirrors have blind spots that may hide other vehicles.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-029",
+      "category": "safeDriving",
+      "questionText": "When driving in fog, you should use:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "High beam headlights"
+        },
+        {
+          "id": "b",
+          "text": "Low beam headlights"
+        },
+        {
+          "id": "c",
+          "text": "Parking lights only"
+        },
+        {
+          "id": "d",
+          "text": "No lights"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use low beam headlights in fog. High beams reflect off the fog and reduce visibility. Low beams illuminate the road without excessive glare.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-030",
+      "category": "safeDriving",
+      "questionText": "What should you do when approaching a curve?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Speed up to maintain momentum"
+        },
+        {
+          "id": "b",
+          "text": "Brake while in the curve"
+        },
+        {
+          "id": "c",
+          "text": "Slow down before entering the curve"
+        },
+        {
+          "id": "d",
+          "text": "Shift to neutral"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Slow down before entering a curve, not while in it. Braking in a curve can cause loss of control. Enter at a safe speed and accelerate gently as you exit.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-031",
+      "category": "safeDriving",
+      "questionText": "When should you use your turn signal?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only when other cars are visible"
+        },
+        {
+          "id": "b",
+          "text": "At least 100 feet before turning"
+        },
+        {
+          "id": "c",
+          "text": "While making the turn"
+        },
+        {
+          "id": "d",
+          "text": "Only on highways"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Signal at least 100 feet before turning to give other drivers adequate warning. Always signal before changing lanes, turning, or pulling away from the curb.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-032",
+      "category": "alcoholDrugs",
+      "questionText": "What is the legal blood alcohol concentration (BAC) limit for drivers under 21 in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "0.00%"
+        },
+        {
+          "id": "b",
+          "text": "0.02%"
+        },
+        {
+          "id": "c",
+          "text": "0.05%"
+        },
+        {
+          "id": "d",
+          "text": "0.08%"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Massachusetts has a zero-tolerance policy for underage drinking. Drivers under 21 with a BAC of 0.02% or higher face penalties including license suspension.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-033",
+      "category": "alcoholDrugs",
+      "questionText": "What is the legal BAC limit for drivers 21 and older in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "0.05%"
+        },
+        {
+          "id": "b",
+          "text": "0.08%"
+        },
+        {
+          "id": "c",
+          "text": "0.10%"
+        },
+        {
+          "id": "d",
+          "text": "0.12%"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In Massachusetts, the legal BAC limit for drivers 21 and older is 0.08%. Driving with a BAC at or above this level is considered operating under the influence (OUI).",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-034",
+      "category": "alcoholDrugs",
+      "questionText": "What happens if you refuse a breathalyzer test in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Nothing, refusal is your right"
+        },
+        {
+          "id": "b",
+          "text": "Automatic license suspension"
+        },
+        {
+          "id": "c",
+          "text": "A warning only"
+        },
+        {
+          "id": "d",
+          "text": "A small fine"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Under Massachusetts implied consent law, refusing a breathalyzer results in automatic license suspension. For drivers under 21, the suspension is 3 years for a first refusal.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-035",
+      "category": "alcoholDrugs",
+      "questionText": "Which of the following can impair your driving ability?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Alcohol only"
+        },
+        {
+          "id": "b",
+          "text": "Illegal drugs only"
+        },
+        {
+          "id": "c",
+          "text": "Alcohol, illegal drugs, and some prescription/over-the-counter medications"
+        },
+        {
+          "id": "d",
+          "text": "Only substances specifically labeled as impairing"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Many substances can impair driving, including alcohol, illegal drugs, and some prescription and over-the-counter medications. Always read labels and know how medications affect you.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-036",
+      "category": "alcoholDrugs",
+      "questionText": "How does alcohol affect your driving?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Improves reaction time"
+        },
+        {
+          "id": "b",
+          "text": "Impairs judgment, coordination, and reaction time"
+        },
+        {
+          "id": "c",
+          "text": "Has no effect in small amounts"
+        },
+        {
+          "id": "d",
+          "text": "Only affects vision"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Alcohol impairs judgment, reduces coordination, slows reaction time, and affects vision. Even small amounts can impair driving ability.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-037",
+      "category": "emergencies",
+      "questionText": "What should you do if your brakes fail while driving?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Turn off the engine immediately"
+        },
+        {
+          "id": "b",
+          "text": "Pump the brakes, downshift, use the parking brake gradually"
+        },
+        {
+          "id": "c",
+          "text": "Open the door and drag your foot"
+        },
+        {
+          "id": "d",
+          "text": "Steer into oncoming traffic to stop"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If brakes fail, pump the brake pedal to build pressure, downshift to lower gears to slow down, and apply the parking brake gradually. Look for a safe place to stop.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-038",
+      "category": "emergencies",
+      "questionText": "If your tire blows out while driving, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Brake hard immediately"
+        },
+        {
+          "id": "b",
+          "text": "Grip the steering wheel firmly, ease off gas, and steer straight"
+        },
+        {
+          "id": "c",
+          "text": "Accelerate to maintain control"
+        },
+        {
+          "id": "d",
+          "text": "Turn sharply to pull over"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If a tire blows out, grip the steering wheel firmly, ease off the accelerator gradually, and steer straight. Do not brake suddenly. Once stable, pull safely off the road.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-039",
+      "category": "emergencies",
+      "questionText": "What should you do if your headlights fail at night?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Continue driving slowly"
+        },
+        {
+          "id": "b",
+          "text": "Try high beams or parking lights, pull off road safely"
+        },
+        {
+          "id": "c",
+          "text": "Stop immediately in your lane"
+        },
+        {
+          "id": "d",
+          "text": "Flash your turn signals"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If headlights fail, try your high beams or parking lights. Slow down and pull safely off the road as soon as possible. Turn on hazard lights to alert other drivers.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-040",
+      "category": "emergencies",
+      "questionText": "If you are involved in an accident with injuries, what must you do?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Leave the scene to get help"
+        },
+        {
+          "id": "b",
+          "text": "Stop, call 911, render aid if possible, exchange information"
+        },
+        {
+          "id": "c",
+          "text": "Move all vehicles immediately"
+        },
+        {
+          "id": "d",
+          "text": "Wait for police before helping anyone"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If in an accident with injuries, stop immediately, call 911, render reasonable assistance to injured persons, and exchange information. Leaving the scene is a serious crime.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-041",
+      "category": "stateSpecific",
+      "questionText": "In Massachusetts, what is the 'Move Over' law requirement?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Move over for school buses only"
+        },
+        {
+          "id": "b",
+          "text": "Slow down and move over for stopped emergency/maintenance vehicles with flashing lights"
+        },
+        {
+          "id": "c",
+          "text": "Move over only on highways"
+        },
+        {
+          "id": "d",
+          "text": "Honk when passing emergency vehicles"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Massachusetts Move Over law requires drivers to slow down and, when safe, move over one lane when approaching stopped emergency or maintenance vehicles with flashing lights.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-042",
+      "category": "stateSpecific",
+      "questionText": "In Massachusetts, texting while driving is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Legal if you're stopped at a red light"
+        },
+        {
+          "id": "b",
+          "text": "Legal for adults over 21"
+        },
+        {
+          "id": "c",
+          "text": "Illegal for all drivers"
+        },
+        {
+          "id": "d",
+          "text": "Legal with hands-free devices"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Massachusetts bans texting while driving for all drivers. The hands-free law also prohibits holding a phone while driving. You may only use hands-free voice commands.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-043",
+      "category": "stateSpecific",
+      "questionText": "Under Massachusetts Junior Operator Law (JOL), drivers under 18 cannot drive between:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "10 PM and 5 AM"
+        },
+        {
+          "id": "b",
+          "text": "11 PM and 5 AM"
+        },
+        {
+          "id": "c",
+          "text": "12:30 AM and 5 AM"
+        },
+        {
+          "id": "d",
+          "text": "9 PM and 6 AM"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Under JOL, Massachusetts drivers under 18 cannot operate a vehicle between 12:30 AM and 5:00 AM unless accompanied by a parent/guardian or for work/school/medical emergencies.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ma-044",
+      "category": "stateSpecific",
+      "questionText": "For the first 6 months with a Junior Operator License, passengers are restricted to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "No passengers allowed"
+        },
+        {
+          "id": "b",
+          "text": "Immediate family members only"
+        },
+        {
+          "id": "c",
+          "text": "Up to 3 passengers"
+        },
+        {
+          "id": "d",
+          "text": "No restrictions on passengers"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "For the first 6 months, JOL holders can only carry immediate family members as passengers, unless a parent/guardian 21+ with a valid license is in the vehicle.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ma-045",
+      "category": "stateSpecific",
+      "questionText": "What must all passengers wear in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Seatbelts for front seat only"
+        },
+        {
+          "id": "b",
+          "text": "Seatbelts for all passengers regardless of seating position"
+        },
+        {
+          "id": "c",
+          "text": "Seatbelts only on highways"
+        },
+        {
+          "id": "d",
+          "text": "No seatbelt requirements"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Massachusetts requires all passengers to wear seatbelts regardless of where they are seated in the vehicle. Children must be in appropriate car seats based on age/size.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-046",
+      "category": "roadSigns",
+      "questionText": "What does a flashing yellow traffic light mean?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop and wait for green"
+        },
+        {
+          "id": "b",
+          "text": "Proceed with caution"
+        },
+        {
+          "id": "c",
+          "text": "Prepare to stop"
+        },
+        {
+          "id": "d",
+          "text": "Yield to pedestrians only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A flashing yellow light means proceed with caution. Slow down and be alert for cross traffic or pedestrians, but you do not need to stop.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-047",
+      "category": "roadSigns",
+      "questionText": "What does a flashing red traffic light mean?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Proceed with caution"
+        },
+        {
+          "id": "b",
+          "text": "Stop, then proceed when safe"
+        },
+        {
+          "id": "c",
+          "text": "Slow down only"
+        },
+        {
+          "id": "d",
+          "text": "Signal is malfunctioning, ignore it"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A flashing red light means the same as a stop sign. Come to a complete stop, yield to traffic and pedestrians, then proceed when safe.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-048",
+      "category": "safeDriving",
+      "questionText": "When is it legal to pass another vehicle on the right?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Never"
+        },
+        {
+          "id": "b",
+          "text": "When the vehicle ahead is turning left and there's a lane available"
+        },
+        {
+          "id": "c",
+          "text": "Whenever traffic is slow"
+        },
+        {
+          "id": "d",
+          "text": "On any multi-lane road"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You may pass on the right when the vehicle ahead is making a left turn and there's a lane or sufficient space to do so safely, or on roads with two or more lanes in the same direction.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-049",
+      "category": "safeDriving",
+      "questionText": "What should you do when a school bus has its red lights flashing and stop arm extended?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Slow down and pass carefully"
+        },
+        {
+          "id": "b",
+          "text": "Stop and remain stopped until lights stop flashing"
+        },
+        {
+          "id": "c",
+          "text": "Stop only if children are visible"
+        },
+        {
+          "id": "d",
+          "text": "Honk to alert children and proceed"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When a school bus displays flashing red lights and the stop arm, all traffic in both directions must stop. Remain stopped until the lights stop flashing and the arm is retracted.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-050",
+      "category": "stateSpecific",
+      "questionText": "How long must you hold a Massachusetts learner's permit before taking the road test?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "30 days"
+        },
+        {
+          "id": "b",
+          "text": "3 months"
+        },
+        {
+          "id": "c",
+          "text": "6 months"
+        },
+        {
+          "id": "d",
+          "text": "1 year"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "In Massachusetts, you must hold your learner's permit for at least 6 months before you are eligible to take the road test for your Junior Operator License.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-051",
+      "category": "roadSigns",
+      "questionText": "What does a yellow pennant-shaped sign on the left side of the road indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "No passing zone"
+        },
+        {
+          "id": "b",
+          "text": "Passing zone"
+        },
+        {
+          "id": "c",
+          "text": "Merge ahead"
+        },
+        {
+          "id": "d",
+          "text": "School zone"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A yellow pennant-shaped sign marks the beginning of a no passing zone. You may not pass other vehicles until you see the end of the no passing zone.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-052",
+      "category": "roadSigns",
+      "questionText": "What does a sign with two arrows pointing in opposite directions indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "One-way street"
+        },
+        {
+          "id": "b",
+          "text": "Two-way traffic ahead"
+        },
+        {
+          "id": "c",
+          "text": "Divided highway ends"
+        },
+        {
+          "id": "d",
+          "text": "No U-turn"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A sign with two arrows pointing in opposite directions warns that you are approaching an area where two-way traffic begins or continues. Be alert for oncoming traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-053",
+      "category": "roadSigns",
+      "questionText": "What does a white X-shaped sign with RR letters indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Road repair ahead"
+        },
+        {
+          "id": "b",
+          "text": "Railroad crossing"
+        },
+        {
+          "id": "c",
+          "text": "Rest area"
+        },
+        {
+          "id": "d",
+          "text": "Route marker"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A white X-shaped sign with RR letters is a railroad crossing sign. Slow down, look and listen for trains before crossing the tracks.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-054",
+      "category": "roadSigns",
+      "questionText": "What does a diamond-shaped yellow sign with a deer symbol mean?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Wildlife preserve"
+        },
+        {
+          "id": "b",
+          "text": "Deer crossing area ahead"
+        },
+        {
+          "id": "c",
+          "text": "Hunting area"
+        },
+        {
+          "id": "d",
+          "text": "State park entrance"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A yellow diamond sign with a deer indicates an area where deer frequently cross the road. Be alert and prepared to stop if deer appear.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-055",
+      "category": "roadSigns",
+      "questionText": "What does a sign showing a truck going down a steep hill indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Truck route ahead"
+        },
+        {
+          "id": "b",
+          "text": "Steep downgrade ahead"
+        },
+        {
+          "id": "c",
+          "text": "No trucks allowed"
+        },
+        {
+          "id": "d",
+          "text": "Truck parking area"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns of a steep downgrade ahead. Use lower gears to help control your speed and avoid overusing your brakes.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-056",
+      "category": "roadSigns",
+      "questionText": "What does a yellow sign with a merging traffic symbol indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Lane ends ahead"
+        },
+        {
+          "id": "b",
+          "text": "Traffic merging from the right or left"
+        },
+        {
+          "id": "c",
+          "text": "Intersection ahead"
+        },
+        {
+          "id": "d",
+          "text": "Exit ramp"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns that traffic will be merging from another roadway ahead. Be prepared to adjust speed and position to allow merging traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-057",
+      "category": "roadSigns",
+      "questionText": "What does a round yellow sign indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop ahead"
+        },
+        {
+          "id": "b",
+          "text": "Railroad crossing ahead"
+        },
+        {
+          "id": "c",
+          "text": "Yield ahead"
+        },
+        {
+          "id": "d",
+          "text": "Curve ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A round yellow sign with a black X and two Rs warns that a railroad crossing is ahead. Slow down and be prepared to stop.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-058",
+      "category": "roadSigns",
+      "questionText": "What does a yellow sign with a bicycle symbol mean?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Bicycle parking area"
+        },
+        {
+          "id": "b",
+          "text": "Bicycle crossing or bike path ahead"
+        },
+        {
+          "id": "c",
+          "text": "Bicycles prohibited"
+        },
+        {
+          "id": "d",
+          "text": "Bicycle repair shop"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A yellow sign with a bicycle symbol warns drivers that bicyclists may be crossing or sharing the road ahead. Watch for and yield to cyclists.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-059",
+      "category": "roadSigns",
+      "questionText": "What does a sign showing a curved arrow mean?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "No turns allowed"
+        },
+        {
+          "id": "b",
+          "text": "Sharp curve ahead in the direction of the arrow"
+        },
+        {
+          "id": "c",
+          "text": "U-turn permitted"
+        },
+        {
+          "id": "d",
+          "text": "Roundabout ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A yellow sign with a curved arrow indicates a sharp curve ahead in the direction shown. Reduce speed before entering the curve.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-060",
+      "category": "roadSigns",
+      "questionText": "What does a white sign with a red circle and diagonal line over a turn arrow mean?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Turn required"
+        },
+        {
+          "id": "b",
+          "text": "Turn prohibited"
+        },
+        {
+          "id": "c",
+          "text": "Yield before turning"
+        },
+        {
+          "id": "d",
+          "text": "Turn signal required"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A white regulatory sign with a red circle and slash over a turn arrow means that type of turn is prohibited at that location.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-061",
+      "category": "roadSigns",
+      "questionText": "What does a yellow sign with black arrows forming a circle indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "U-turn prohibited"
+        },
+        {
+          "id": "b",
+          "text": "Roundabout or rotary ahead"
+        },
+        {
+          "id": "c",
+          "text": "Circular driveway"
+        },
+        {
+          "id": "d",
+          "text": "Dead end"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Circular arrows on a yellow sign indicate a roundabout or rotary ahead. Traffic circulates counterclockwise, and vehicles already in the rotary have the right-of-way.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-062",
+      "category": "roadSigns",
+      "questionText": "What does a sign showing a road narrowing symbol mean?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Bridge ahead"
+        },
+        {
+          "id": "b",
+          "text": "Road narrows ahead"
+        },
+        {
+          "id": "c",
+          "text": "Lane merge"
+        },
+        {
+          "id": "d",
+          "text": "Construction zone"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns that the road ahead becomes narrower. Be prepared to slow down and share the road carefully with other vehicles.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-063",
+      "category": "roadSigns",
+      "questionText": "What does a yellow sign with a slippery road symbol (car with skid marks) mean?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Racing area"
+        },
+        {
+          "id": "b",
+          "text": "Slippery when wet ahead"
+        },
+        {
+          "id": "c",
+          "text": "Parking lot"
+        },
+        {
+          "id": "d",
+          "text": "Car wash ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns that the road ahead may be slippery when wet. Reduce speed in wet conditions to maintain traction and control.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-064",
+      "category": "roadSigns",
+      "questionText": "What does a yellow sign showing a cross-shaped intersection symbol indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Four-way stop ahead"
+        },
+        {
+          "id": "b",
+          "text": "Crossroad intersection ahead"
+        },
+        {
+          "id": "c",
+          "text": "Church zone"
+        },
+        {
+          "id": "d",
+          "text": "Hospital nearby"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A cross-shaped symbol on a yellow sign warns of a crossroad intersection ahead where another road crosses your path. Be alert for cross traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-065",
+      "category": "roadSigns",
+      "questionText": "What does a white sign with a red circle containing a 'P' with a slash mean?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Parking required"
+        },
+        {
+          "id": "b",
+          "text": "No parking"
+        },
+        {
+          "id": "c",
+          "text": "Parallel parking only"
+        },
+        {
+          "id": "d",
+          "text": "Paid parking"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A white sign with a red circle and slash through a 'P' means no parking is allowed in that area.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-066",
+      "category": "roadSigns",
+      "questionText": "What does a yellow sign showing a traffic signal symbol indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Traffic signal repair ahead"
+        },
+        {
+          "id": "b",
+          "text": "Traffic signal ahead"
+        },
+        {
+          "id": "c",
+          "text": "Flashing light zone"
+        },
+        {
+          "id": "d",
+          "text": "Stop sign ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns that you are approaching a traffic signal. Be prepared to stop if the light is red or yellow.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-067",
+      "category": "roadSigns",
+      "questionText": "What does a yellow sign with a divided highway symbol indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Two-way traffic ahead"
+        },
+        {
+          "id": "b",
+          "text": "Divided highway begins"
+        },
+        {
+          "id": "c",
+          "text": "Road closed"
+        },
+        {
+          "id": "d",
+          "text": "Merge ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign indicates that a divided highway with a median or barrier begins ahead. Traffic will be separated by direction.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-068",
+      "category": "roadSigns",
+      "questionText": "What does a yellow sign with a hill symbol indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Mountain area"
+        },
+        {
+          "id": "b",
+          "text": "Steep hill ahead"
+        },
+        {
+          "id": "c",
+          "text": "Truck route"
+        },
+        {
+          "id": "d",
+          "text": "Scenic overlook"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A yellow sign with a hill symbol warns of a steep hill ahead. Be prepared to use lower gears and control your speed appropriately.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-069",
+      "category": "roadSigns",
+      "questionText": "What does a yellow sign showing a pedestrian crossing symbol indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Sidewalk ahead"
+        },
+        {
+          "id": "b",
+          "text": "Pedestrian crossing ahead"
+        },
+        {
+          "id": "c",
+          "text": "School zone"
+        },
+        {
+          "id": "d",
+          "text": "Park entrance"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns of a pedestrian crossing ahead. Slow down and watch for people crossing the road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-070",
+      "category": "roadSigns",
+      "questionText": "What does a white sign with black letters reading 'ONE WAY' with an arrow indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Turn in the direction shown"
+        },
+        {
+          "id": "b",
+          "text": "Traffic flows only in the direction of the arrow"
+        },
+        {
+          "id": "c",
+          "text": "Exit this direction"
+        },
+        {
+          "id": "d",
+          "text": "Parking direction"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A 'ONE WAY' sign indicates that traffic flows only in the direction shown by the arrow. Driving against the arrow is illegal and extremely dangerous.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-071",
+      "category": "roadSigns",
+      "questionText": "What does a yellow sign showing a Y-symbol indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "YMCA nearby"
+        },
+        {
+          "id": "b",
+          "text": "Road divides ahead (fork in road)"
+        },
+        {
+          "id": "c",
+          "text": "Yield ahead"
+        },
+        {
+          "id": "d",
+          "text": "U-turn zone"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A Y-shaped symbol on a yellow sign warns that the road divides ahead into two separate roads. Choose your direction and lane in advance.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-072",
+      "category": "roadSigns",
+      "questionText": "What does a yellow sign showing a truck on a downgrade with the words 'RUNAWAY TRUCK RAMP' indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Truck parking area"
+        },
+        {
+          "id": "b",
+          "text": "Emergency escape ramp for vehicles with brake failure"
+        },
+        {
+          "id": "c",
+          "text": "Truck weighing station"
+        },
+        {
+          "id": "d",
+          "text": "Truck repair shop"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A runaway truck ramp is an emergency escape route for vehicles that have lost their brakes on a downgrade. It uses gravel or sand to stop vehicles safely.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-073",
+      "category": "roadSigns",
+      "questionText": "What does a white sign with 'DO NOT ENTER' in red letters indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Private property"
+        },
+        {
+          "id": "b",
+          "text": "You are going the wrong way"
+        },
+        {
+          "id": "c",
+          "text": "Road closed ahead"
+        },
+        {
+          "id": "d",
+          "text": "No parking"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A 'DO NOT ENTER' sign means you are heading the wrong way, usually into a one-way street or exit ramp. Turn around immediately.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-074",
+      "category": "roadSigns",
+      "questionText": "What does a yellow sign with a low clearance symbol and height measurement indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Minimum vehicle height"
+        },
+        {
+          "id": "b",
+          "text": "Maximum height of vehicles that can pass safely"
+        },
+        {
+          "id": "c",
+          "text": "Bridge height above water"
+        },
+        {
+          "id": "d",
+          "text": "Parking garage height"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns of low clearance ahead, showing the maximum height of vehicles that can safely pass under a bridge or overpass.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-075",
+      "category": "roadSigns",
+      "questionText": "What does a white sign with 'WRONG WAY' in red letters indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Road detour"
+        },
+        {
+          "id": "b",
+          "text": "You are traveling in the wrong direction"
+        },
+        {
+          "id": "c",
+          "text": "Wrong turn made"
+        },
+        {
+          "id": "d",
+          "text": "Road closed"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A 'WRONG WAY' sign warns that you are traveling in the wrong direction on a one-way road or ramp. Turn around or pull over immediately.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-076",
+      "category": "roadSigns",
+      "questionText": "What does a yellow sign showing a winding road symbol indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Mountain road"
+        },
+        {
+          "id": "b",
+          "text": "Series of curves ahead"
+        },
+        {
+          "id": "c",
+          "text": "Scenic route"
+        },
+        {
+          "id": "d",
+          "text": "Road under construction"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A winding road symbol indicates a series of curves ahead. Reduce speed and be prepared to navigate multiple turns.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-077",
+      "category": "roadSigns",
+      "questionText": "What does a white sign with a red circle around 'H' indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Hospital or emergency medical services ahead"
+        },
+        {
+          "id": "b",
+          "text": "Hotel zone"
+        },
+        {
+          "id": "c",
+          "text": "Handicapped parking"
+        },
+        {
+          "id": "d",
+          "text": "Highway entrance"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A blue or white sign with an 'H' indicates a hospital or emergency medical services nearby. This is important for emergency situations.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-078",
+      "category": "safeDriving",
+      "questionText": "What is hydroplaning?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Driving on ice"
+        },
+        {
+          "id": "b",
+          "text": "When tires lose contact with road due to water"
+        },
+        {
+          "id": "c",
+          "text": "Using cruise control in rain"
+        },
+        {
+          "id": "d",
+          "text": "Flooded engine"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Hydroplaning occurs when tires lose contact with the road surface due to a layer of water. Reduce speed in wet conditions to maintain tire traction.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-079",
+      "category": "safeDriving",
+      "questionText": "What should you do if an oncoming vehicle's headlights are blinding you at night?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Turn on your high beams"
+        },
+        {
+          "id": "b",
+          "text": "Look toward the right edge of the road"
+        },
+        {
+          "id": "c",
+          "text": "Close one eye"
+        },
+        {
+          "id": "d",
+          "text": "Flash your lights repeatedly"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When blinded by oncoming headlights, look toward the right edge of the road to avoid direct glare while maintaining awareness of your lane position.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-080",
+      "category": "safeDriving",
+      "questionText": "When should you use your high beam headlights?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Always at night"
+        },
+        {
+          "id": "b",
+          "text": "On open roads when no vehicles are within 500 feet"
+        },
+        {
+          "id": "c",
+          "text": "In fog"
+        },
+        {
+          "id": "d",
+          "text": "In heavy traffic"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use high beams on open roads when there are no vehicles within 500 feet ahead or approaching. Dim to low beams when approaching other vehicles.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-081",
+      "category": "safeDriving",
+      "questionText": "What is the safest action when driving in heavy rain?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Increase speed to get through it quickly"
+        },
+        {
+          "id": "b",
+          "text": "Use cruise control"
+        },
+        {
+          "id": "c",
+          "text": "Reduce speed and increase following distance"
+        },
+        {
+          "id": "d",
+          "text": "Follow vehicles closely for better visibility"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "In heavy rain, reduce speed to prevent hydroplaning and increase following distance to allow more reaction time. Never use cruise control in wet conditions.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-082",
+      "category": "safeDriving",
+      "questionText": "When driving at night, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Drive faster to reduce time on the road"
+        },
+        {
+          "id": "b",
+          "text": "Overdrive your headlights"
+        },
+        {
+          "id": "c",
+          "text": "Reduce speed and increase following distance"
+        },
+        {
+          "id": "d",
+          "text": "Use parking lights only"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "At night, reduce speed because visibility is limited. Increase following distance to compensate for reduced reaction time in darkness.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-083",
+      "category": "safeDriving",
+      "questionText": "What should you do when entering a highway from an entrance ramp?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop at the end of the ramp"
+        },
+        {
+          "id": "b",
+          "text": "Accelerate to match highway speed and merge smoothly"
+        },
+        {
+          "id": "c",
+          "text": "Enter slowly and force traffic to slow down"
+        },
+        {
+          "id": "d",
+          "text": "Sound your horn to alert traffic"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use the entrance ramp to accelerate to match the speed of highway traffic, then merge smoothly into a gap in traffic. Signal and check blind spots.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-084",
+      "category": "safeDriving",
+      "questionText": "What is the purpose of anti-lock brakes (ABS)?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "To stop the car faster in all conditions"
+        },
+        {
+          "id": "b",
+          "text": "To prevent wheels from locking during hard braking"
+        },
+        {
+          "id": "c",
+          "text": "To eliminate the need for brake maintenance"
+        },
+        {
+          "id": "d",
+          "text": "To reduce brake wear"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "ABS prevents wheels from locking during hard braking, allowing you to maintain steering control. Apply firm, continuous pressure to the brake pedal; don't pump.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-085",
+      "category": "safeDriving",
+      "questionText": "When parallel parking, your vehicle should be within how many inches from the curb?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "6 inches"
+        },
+        {
+          "id": "b",
+          "text": "12 inches"
+        },
+        {
+          "id": "c",
+          "text": "18 inches"
+        },
+        {
+          "id": "d",
+          "text": "24 inches"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When parallel parking, your vehicle should be within 12 inches (one foot) of the curb to avoid obstructing traffic.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-086",
+      "category": "safeDriving",
+      "questionText": "What is the proper hand position on the steering wheel?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "12 o'clock"
+        },
+        {
+          "id": "b",
+          "text": "9 and 3 o'clock or 8 and 4 o'clock"
+        },
+        {
+          "id": "c",
+          "text": "6 o'clock"
+        },
+        {
+          "id": "d",
+          "text": "10 and 2 o'clock only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The safest hand positions are 9 and 3 o'clock or 8 and 4 o'clock. These positions provide good control and reduce injury risk from airbag deployment.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-087",
+      "category": "safeDriving",
+      "questionText": "When should you avoid using cruise control?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "On highways"
+        },
+        {
+          "id": "b",
+          "text": "In wet, icy, or slippery conditions"
+        },
+        {
+          "id": "c",
+          "text": "During the day"
+        },
+        {
+          "id": "d",
+          "text": "When driving alone"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Never use cruise control in wet, icy, or slippery conditions. It can cause loss of control if the vehicle hydroplanes or skids.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-088",
+      "category": "safeDriving",
+      "questionText": "What should you do if your gas pedal sticks while driving?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Turn off the ignition immediately"
+        },
+        {
+          "id": "b",
+          "text": "Shift to neutral, brake, and steer to safety"
+        },
+        {
+          "id": "c",
+          "text": "Pump the gas pedal"
+        },
+        {
+          "id": "d",
+          "text": "Pull the emergency brake"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If the gas pedal sticks, shift to neutral immediately, apply brakes, and steer to a safe location. Then turn off the engine.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-089",
+      "category": "safeDriving",
+      "questionText": "When should you check your mirrors while driving?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only when changing lanes"
+        },
+        {
+          "id": "b",
+          "text": "Frequently, every 5-8 seconds"
+        },
+        {
+          "id": "c",
+          "text": "Only when backing up"
+        },
+        {
+          "id": "d",
+          "text": "Once every minute"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Check your mirrors frequently, every 5-8 seconds, to maintain awareness of traffic around you. Always check before changing lanes, turning, or stopping.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-090",
+      "category": "safeDriving",
+      "questionText": "What is the safest way to handle tailgating from behind?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Brake suddenly to teach them a lesson"
+        },
+        {
+          "id": "b",
+          "text": "Increase your following distance ahead and allow them to pass"
+        },
+        {
+          "id": "c",
+          "text": "Speed up to get away"
+        },
+        {
+          "id": "d",
+          "text": "Slow down abruptly"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If being tailgated, increase your following distance ahead to create more cushion, slow down gradually, and allow the tailgater to pass when safe.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-091",
+      "category": "safeDriving",
+      "questionText": "What is the most important thing to do before backing up?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Sound your horn"
+        },
+        {
+          "id": "b",
+          "text": "Check behind and around your vehicle by looking over your shoulder"
+        },
+        {
+          "id": "c",
+          "text": "Rely on backup camera only"
+        },
+        {
+          "id": "d",
+          "text": "Turn on emergency flashers"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Always look behind and around your vehicle before backing up. Check for pedestrians, especially children, who may not be visible in mirrors or cameras.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-092",
+      "category": "safeDriving",
+      "questionText": "When driving on a multi-lane highway, which lane should you use for normal driving?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Right lane"
+        },
+        {
+          "id": "b",
+          "text": "Left lane"
+        },
+        {
+          "id": "c",
+          "text": "Center lane"
+        },
+        {
+          "id": "d",
+          "text": "Any lane"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Drive in the right lane for normal speed. Use the left lane for passing only, then return to the right lane. This keeps traffic flowing smoothly.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-093",
+      "category": "safeDriving",
+      "questionText": "How can you avoid highway hypnosis on long trips?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stare at the center line"
+        },
+        {
+          "id": "b",
+          "text": "Take breaks, keep eyes moving, and stay alert"
+        },
+        {
+          "id": "c",
+          "text": "Drive faster"
+        },
+        {
+          "id": "d",
+          "text": "Close one eye periodically"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Avoid highway hypnosis by taking regular breaks, keeping your eyes moving, adjusting your position, and staying mentally engaged with driving.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-094",
+      "category": "safeDriving",
+      "questionText": "What should you do when approaching a stopped school bus with flashing yellow lights?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Maintain your speed"
+        },
+        {
+          "id": "b",
+          "text": "Slow down and prepare to stop"
+        },
+        {
+          "id": "c",
+          "text": "Pass quickly before it stops"
+        },
+        {
+          "id": "d",
+          "text": "Change lanes"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Flashing yellow lights on a school bus indicate it is preparing to stop. Slow down and be prepared to stop when the red lights begin flashing.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-095",
+      "category": "safeDriving",
+      "questionText": "When is it safe to drive through a flooded area?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "When water is less than 6 inches deep"
+        },
+        {
+          "id": "b",
+          "text": "Never, always find an alternate route"
+        },
+        {
+          "id": "c",
+          "text": "When other vehicles are doing it"
+        },
+        {
+          "id": "d",
+          "text": "When driving fast through it"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Never drive through flooded areas. Just 6 inches of water can cause loss of control, and 12 inches can sweep away most vehicles. Find an alternate route.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-096",
+      "category": "safeDriving",
+      "questionText": "What does it mean to 'overdrive your headlights'?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Using high beams too often"
+        },
+        {
+          "id": "b",
+          "text": "Driving so fast you cannot stop within the distance lit by headlights"
+        },
+        {
+          "id": "c",
+          "text": "Having headlights that are too bright"
+        },
+        {
+          "id": "d",
+          "text": "Driving with broken headlights"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Overdriving your headlights means traveling too fast to stop within the distance you can see. Reduce speed at night to match visibility.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ma-097",
+      "category": "safeDriving",
+      "questionText": "When driving in snow, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Use cruise control"
+        },
+        {
+          "id": "b",
+          "text": "Reduce speed, increase following distance, and brake gently"
+        },
+        {
+          "id": "c",
+          "text": "Drive at normal speed"
+        },
+        {
+          "id": "d",
+          "text": "Follow other vehicles closely"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In snow, reduce speed significantly, increase following distance to 8-10 seconds, brake gently, and avoid sudden movements.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-098",
+      "category": "safeDriving",
+      "questionText": "What is the best way to handle a curve on a highway?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Brake in the curve"
+        },
+        {
+          "id": "b",
+          "text": "Slow down before the curve, accelerate gently through it"
+        },
+        {
+          "id": "c",
+          "text": "Speed up before the curve"
+        },
+        {
+          "id": "d",
+          "text": "Coast through in neutral"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Slow down before entering a curve, then accelerate gently as you exit. Braking or accelerating hard in a curve can cause loss of control.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-099",
+      "category": "safeDriving",
+      "questionText": "When changing lanes on a highway, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Signal, check mirrors, check blind spot, then change lanes"
+        },
+        {
+          "id": "b",
+          "text": "Change lanes quickly without signaling"
+        },
+        {
+          "id": "c",
+          "text": "Only check your rearview mirror"
+        },
+        {
+          "id": "d",
+          "text": "Signal while changing lanes"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Always signal first, check all mirrors, check your blind spot by looking over your shoulder, then change lanes smoothly when safe.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-100",
+      "category": "safeDriving",
+      "questionText": "What is the main cause of rear-end collisions?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Following too closely"
+        },
+        {
+          "id": "b",
+          "text": "Driving too slowly"
+        },
+        {
+          "id": "c",
+          "text": "Using turn signals"
+        },
+        {
+          "id": "d",
+          "text": "Checking mirrors"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The main cause of rear-end collisions is following too closely (tailgating). Maintain a safe following distance of at least 3-4 seconds.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-101",
+      "category": "trafficLaws",
+      "questionText": "In Massachusetts, when are you required to use headlights?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only at night"
+        },
+        {
+          "id": "b",
+          "text": "From sunset to sunrise and when visibility is less than 500 feet"
+        },
+        {
+          "id": "c",
+          "text": "Only in rain"
+        },
+        {
+          "id": "d",
+          "text": "Only on highways"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Massachusetts law requires headlights from half hour after sunset to half hour before sunrise, and when visibility is less than 500 feet due to weather.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-102",
+      "category": "trafficLaws",
+      "questionText": "Can you turn right on red in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Never"
+        },
+        {
+          "id": "b",
+          "text": "Yes, after coming to a complete stop unless posted 'No Turn on Red'"
+        },
+        {
+          "id": "c",
+          "text": "Only on highways"
+        },
+        {
+          "id": "d",
+          "text": "Only between 9 PM and 6 AM"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In Massachusetts, you may turn right on red after coming to a complete stop and yielding to traffic and pedestrians, unless a 'No Turn on Red' sign is posted.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-103",
+      "category": "trafficLaws",
+      "questionText": "What is Massachusetts' policy on passing on the right?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Always illegal"
+        },
+        {
+          "id": "b",
+          "text": "Legal on roads with two or more lanes in same direction or when vehicle ahead is turning left"
+        },
+        {
+          "id": "c",
+          "text": "Only legal on highways"
+        },
+        {
+          "id": "d",
+          "text": "Legal at all times"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Passing on the right is legal when on a road with two or more lanes going the same direction, or when the vehicle ahead is making a left turn.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-104",
+      "category": "trafficLaws",
+      "questionText": "In Massachusetts, who is required to wear a seatbelt?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only the driver"
+        },
+        {
+          "id": "b",
+          "text": "Driver and front passenger only"
+        },
+        {
+          "id": "c",
+          "text": "All occupants of the vehicle"
+        },
+        {
+          "id": "d",
+          "text": "Only passengers under 18"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Massachusetts law requires all occupants of a vehicle, regardless of age or seating position, to wear seatbelts. The driver is responsible for passengers under 16.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-105",
+      "category": "trafficLaws",
+      "questionText": "What is the law regarding child safety seats in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Required only for infants"
+        },
+        {
+          "id": "b",
+          "text": "Children under 8 and shorter than 57 inches must use car seat or booster"
+        },
+        {
+          "id": "c",
+          "text": "Required until age 5"
+        },
+        {
+          "id": "d",
+          "text": "No specific requirements"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Massachusetts requires children under age 8 and shorter than 57 inches to be in a car seat or booster seat. Children under 2 must be in rear-facing seats.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-106",
+      "category": "trafficLaws",
+      "questionText": "What is required when approaching a stopped school bus with red lights flashing on an undivided road?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Slow down only"
+        },
+        {
+          "id": "b",
+          "text": "All traffic in both directions must stop"
+        },
+        {
+          "id": "c",
+          "text": "Only traffic behind the bus must stop"
+        },
+        {
+          "id": "d",
+          "text": "Pass carefully on the left"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "On an undivided road, all traffic in both directions must stop when a school bus has red lights flashing and stop arm extended. Remain stopped until signals cease.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-107",
+      "category": "trafficLaws",
+      "questionText": "In Massachusetts, when must you yield at a rotary (roundabout)?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vehicles entering have right-of-way"
+        },
+        {
+          "id": "b",
+          "text": "Vehicles already in the rotary have right-of-way"
+        },
+        {
+          "id": "c",
+          "text": "Vehicle on the right has right-of-way"
+        },
+        {
+          "id": "d",
+          "text": "Largest vehicle has right-of-way"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In Massachusetts rotaries, vehicles already circulating in the rotary have the right-of-way. Entering traffic must yield and wait for a safe gap.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-108",
+      "category": "trafficLaws",
+      "questionText": "What is the Massachusetts law about leaving children unattended in vehicles?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Legal for short periods"
+        },
+        {
+          "id": "b",
+          "text": "Illegal to leave child under 9 unattended"
+        },
+        {
+          "id": "c",
+          "text": "Legal if windows are open"
+        },
+        {
+          "id": "d",
+          "text": "No specific law"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Massachusetts law prohibits leaving a child age 8 or younger unattended in a vehicle. This protects children from heat stroke, abduction, and other dangers.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-109",
+      "category": "trafficLaws",
+      "questionText": "In Massachusetts, what must you do if involved in an accident causing property damage?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Leave a note and drive away"
+        },
+        {
+          "id": "b",
+          "text": "Stop and exchange information with other parties"
+        },
+        {
+          "id": "c",
+          "text": "Only stop if police are present"
+        },
+        {
+          "id": "d",
+          "text": "Call your insurance and leave"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must stop and exchange information (name, address, license, insurance) with other parties. If damage exceeds $1,000 or involves injury, file a police report.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-110",
+      "category": "trafficLaws",
+      "questionText": "What is Massachusetts law regarding stopped emergency vehicles?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Maintain speed and stay in lane"
+        },
+        {
+          "id": "b",
+          "text": "Slow down and move over if safe (Move Over Law)"
+        },
+        {
+          "id": "c",
+          "text": "Speed up to pass quickly"
+        },
+        {
+          "id": "d",
+          "text": "Stop behind them"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The Move Over Law requires drivers to move over one lane when safe, or slow down when approaching stopped emergency, maintenance, or utility vehicles with flashing lights.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-111",
+      "category": "trafficLaws",
+      "questionText": "In Massachusetts, when can you use your horn?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Whenever you want"
+        },
+        {
+          "id": "b",
+          "text": "Only to warn of danger"
+        },
+        {
+          "id": "c",
+          "text": "To greet friends"
+        },
+        {
+          "id": "d",
+          "text": "To express frustration"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Your horn should only be used to warn others of danger. Unnecessary use of the horn is prohibited and can result in a fine.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-112",
+      "category": "trafficLaws",
+      "questionText": "What is the law about U-turns in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Always legal"
+        },
+        {
+          "id": "b",
+          "text": "Legal unless prohibited by sign or unsafe"
+        },
+        {
+          "id": "c",
+          "text": "Always illegal"
+        },
+        {
+          "id": "d",
+          "text": "Legal only on highways"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "U-turns are legal in Massachusetts unless prohibited by signs, near curves or hills with limited visibility, or when unsafe due to traffic conditions.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-113",
+      "category": "trafficLaws",
+      "questionText": "In Massachusetts, what is the law about motorcycle helmets?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Optional for all riders"
+        },
+        {
+          "id": "b",
+          "text": "Required for all motorcycle operators and passengers"
+        },
+        {
+          "id": "c",
+          "text": "Required only for riders under 18"
+        },
+        {
+          "id": "d",
+          "text": "Required only on highways"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Massachusetts requires all motorcycle operators and passengers to wear helmets that meet federal safety standards, regardless of age or experience.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-114",
+      "category": "trafficLaws",
+      "questionText": "What is the Massachusetts law regarding license plates?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Front plate only"
+        },
+        {
+          "id": "b",
+          "text": "Rear plate only required"
+        },
+        {
+          "id": "c",
+          "text": "Temporary plates allowed indefinitely"
+        },
+        {
+          "id": "d",
+          "text": "Plates optional"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Massachusetts requires only a rear license plate that must be clearly visible and unobstructed. Front plates are not required.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-115",
+      "category": "trafficLaws",
+      "questionText": "What must you do when a funeral procession is passing?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Pass it quickly"
+        },
+        {
+          "id": "b",
+          "text": "Yield right-of-way and do not interrupt the procession"
+        },
+        {
+          "id": "c",
+          "text": "Join the procession"
+        },
+        {
+          "id": "d",
+          "text": "Honk to show respect"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Yield to funeral processions and do not drive between vehicles. Funeral vehicles have hazard lights or flags, and interrupting a procession is illegal.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-116",
+      "category": "rightOfWay",
+      "questionText": "When two vehicles arrive at an uncontrolled T-intersection at the same time, who has the right-of-way?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vehicle on the through road"
+        },
+        {
+          "id": "b",
+          "text": "Vehicle on the terminating road"
+        },
+        {
+          "id": "c",
+          "text": "Vehicle on the right"
+        },
+        {
+          "id": "d",
+          "text": "Larger vehicle"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "At a T-intersection, vehicles on the through road (the top of the T) have right-of-way over vehicles on the terminating road.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-117",
+      "category": "rightOfWay",
+      "questionText": "When must you yield to pedestrians in a crosswalk?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only when they have a walk signal"
+        },
+        {
+          "id": "b",
+          "text": "Always, whether marked or unmarked"
+        },
+        {
+          "id": "c",
+          "text": "Only in marked crosswalks"
+        },
+        {
+          "id": "d",
+          "text": "Never if you have a green light"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Massachusetts law requires drivers to yield to pedestrians in all crosswalks, marked or unmarked. Unmarked crosswalks exist at all intersections.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-118",
+      "category": "rightOfWay",
+      "questionText": "Who has the right-of-way when a vehicle is turning left and a pedestrian is crossing?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The vehicle"
+        },
+        {
+          "id": "b",
+          "text": "The pedestrian"
+        },
+        {
+          "id": "c",
+          "text": "Whoever reaches the intersection first"
+        },
+        {
+          "id": "d",
+          "text": "Neither, both must stop"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Pedestrians always have the right-of-way in crosswalks. Vehicles turning left must yield to pedestrians crossing the street they're turning onto.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-119",
+      "category": "rightOfWay",
+      "questionText": "When entering a Massachusetts rotary, who has the right-of-way?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vehicles entering the rotary"
+        },
+        {
+          "id": "b",
+          "text": "Vehicles already circulating in the rotary"
+        },
+        {
+          "id": "c",
+          "text": "Vehicle on the right"
+        },
+        {
+          "id": "d",
+          "text": "Emergency vehicles only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Vehicles already in the rotary have the right-of-way. Entering vehicles must yield and wait for a safe gap before entering.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-120",
+      "category": "rightOfWay",
+      "questionText": "At a four-way stop, if you and another vehicle arrive simultaneously and are facing each other, who goes first when one is turning left?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vehicle turning left"
+        },
+        {
+          "id": "b",
+          "text": "Vehicle going straight"
+        },
+        {
+          "id": "c",
+          "text": "Either vehicle"
+        },
+        {
+          "id": "d",
+          "text": "Both proceed together"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When facing each other at a four-way stop, the vehicle going straight or turning right has right-of-way over the vehicle turning left.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-121",
+      "category": "rightOfWay",
+      "questionText": "Who must you always yield to, regardless of other right-of-way rules?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Larger vehicles"
+        },
+        {
+          "id": "b",
+          "text": "Emergency vehicles with lights and sirens"
+        },
+        {
+          "id": "c",
+          "text": "Vehicles with passengers"
+        },
+        {
+          "id": "d",
+          "text": "Commercial vehicles"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Emergency vehicles with flashing lights and/or sirens always have right-of-way. Pull to the right and stop until they pass.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-122",
+      "category": "rightOfWay",
+      "questionText": "When backing out of a driveway, who has the right-of-way?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The vehicle backing out"
+        },
+        {
+          "id": "b",
+          "text": "Pedestrians and vehicles on the sidewalk or street"
+        },
+        {
+          "id": "c",
+          "text": "Whoever is larger"
+        },
+        {
+          "id": "d",
+          "text": "Whoever has their signal on"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When backing from a driveway, you must yield to all pedestrians and vehicles on the sidewalk or street. Look carefully before backing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-123",
+      "category": "rightOfWay",
+      "questionText": "At an intersection with a flashing red light, who has right-of-way?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vehicle on the right"
+        },
+        {
+          "id": "b",
+          "text": "Treat as four-way stop; first to arrive goes first"
+        },
+        {
+          "id": "c",
+          "text": "Largest vehicle"
+        },
+        {
+          "id": "d",
+          "text": "Vehicle going straight"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A flashing red light is treated like a stop sign. Come to complete stop, then proceed when safe following right-of-way rules for stop signs.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-124",
+      "category": "rightOfWay",
+      "questionText": "When must you yield to a school bus?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only when children are visible"
+        },
+        {
+          "id": "b",
+          "text": "When red lights are flashing and stop arm is extended"
+        },
+        {
+          "id": "c",
+          "text": "Only if driving behind it"
+        },
+        {
+          "id": "d",
+          "text": "Never"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must stop for a school bus when its red lights are flashing and stop arm is extended. Traffic in both directions must stop on undivided roads.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-125",
+      "category": "rightOfWay",
+      "questionText": "Who has the right-of-way when entering a public road from a private driveway?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vehicle exiting the driveway"
+        },
+        {
+          "id": "b",
+          "text": "Vehicles and pedestrians already on the public road"
+        },
+        {
+          "id": "c",
+          "text": "Whoever signals first"
+        },
+        {
+          "id": "d",
+          "text": "Larger vehicle"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Vehicles entering from a private driveway must yield to all traffic and pedestrians on the public road. Stop and check carefully before entering.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-126",
+      "category": "rightOfWay",
+      "questionText": "At a green light, who has the right-of-way between a vehicle turning left and oncoming traffic?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vehicle turning left"
+        },
+        {
+          "id": "b",
+          "text": "Oncoming traffic going straight"
+        },
+        {
+          "id": "c",
+          "text": "Whoever enters intersection first"
+        },
+        {
+          "id": "d",
+          "text": "Larger vehicle"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Oncoming traffic going straight has right-of-way over vehicles turning left, even with a green light. Wait for a safe gap before turning.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-127",
+      "category": "rightOfWay",
+      "questionText": "When approaching a yield sign, you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Always come to a complete stop"
+        },
+        {
+          "id": "b",
+          "text": "Slow down and yield to traffic with right-of-way"
+        },
+        {
+          "id": "c",
+          "text": "Maintain speed"
+        },
+        {
+          "id": "d",
+          "text": "Honk and proceed"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A yield sign requires you to slow down and be prepared to stop. Yield the right-of-way to vehicles and pedestrians in or approaching the intersection.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-128",
+      "category": "rightOfWay",
+      "questionText": "Who has right-of-way at a traffic circle (rotary) in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Entering traffic"
+        },
+        {
+          "id": "b",
+          "text": "Circulating traffic"
+        },
+        {
+          "id": "c",
+          "text": "Traffic on the right"
+        },
+        {
+          "id": "d",
+          "text": "Fastest vehicle"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In Massachusetts, traffic already circulating in a rotary (roundabout) has the right-of-way. Yield before entering and travel counterclockwise.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-129",
+      "category": "stateSpecific",
+      "questionText": "How many hours of supervised driving must permit holders complete before the road test in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "20 hours"
+        },
+        {
+          "id": "b",
+          "text": "30 hours"
+        },
+        {
+          "id": "c",
+          "text": "40 hours, including 6 hours at night"
+        },
+        {
+          "id": "d",
+          "text": "50 hours"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Massachusetts requires permit holders to complete 40 hours of supervised driving, including at least 6 hours of night driving, before taking the road test.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-130",
+      "category": "stateSpecific",
+      "questionText": "Under the Junior Operator Law, can JOL holders use any electronic device while driving?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Yes, if hands-free"
+        },
+        {
+          "id": "b",
+          "text": "No, zero electronic device use is allowed"
+        },
+        {
+          "id": "c",
+          "text": "Yes, for GPS only"
+        },
+        {
+          "id": "d",
+          "text": "Yes, for emergencies"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Junior Operators cannot use any mobile electronic device while driving, even hands-free. This is stricter than the adult hands-free law.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ma-131",
+      "category": "stateSpecific",
+      "questionText": "What is Melanie's Law in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Seatbelt requirement"
+        },
+        {
+          "id": "b",
+          "text": "Tougher penalties for repeat drunk driving offenders"
+        },
+        {
+          "id": "c",
+          "text": "School zone speed limits"
+        },
+        {
+          "id": "d",
+          "text": "Child car seat requirements"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Melanie's Law imposes tougher penalties on repeat OUI (drunk driving) offenders, including mandatory ignition interlock devices and longer license suspensions.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ma-132",
+      "category": "stateSpecific",
+      "questionText": "What must a parent or guardian do before a teen can get a learner's permit in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Nothing special"
+        },
+        {
+          "id": "b",
+          "text": "Attend a 2-hour parent/guardian driver education class"
+        },
+        {
+          "id": "c",
+          "text": "Take a driving test"
+        },
+        {
+          "id": "d",
+          "text": "Complete online training"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Massachusetts requires a parent or legal guardian to attend a 2-hour driver education class before a teen can obtain a learner's permit.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-133",
+      "category": "stateSpecific",
+      "questionText": "After the first 6 months of having a Junior Operator License, what passenger restriction applies?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "No passengers under 18"
+        },
+        {
+          "id": "b",
+          "text": "No more than one passenger under 18 unless family member"
+        },
+        {
+          "id": "c",
+          "text": "No restrictions"
+        },
+        {
+          "id": "d",
+          "text": "No passengers at all"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "After the first 6 months, JOL holders can carry one passenger under 18 who is not a family member, unless accompanied by a licensed adult 21 or older.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ma-134",
+      "category": "stateSpecific",
+      "questionText": "What is the Massachusetts Hands-Free Law?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Texting ban only"
+        },
+        {
+          "id": "b",
+          "text": "Cannot hold or use phone while driving; hands-free only"
+        },
+        {
+          "id": "c",
+          "text": "No restrictions"
+        },
+        {
+          "id": "d",
+          "text": "Applies only to highways"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Massachusetts Hands-Free Law prohibits holding or using a mobile device while driving. You may only use voice-to-text or hands-free features.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-135",
+      "category": "stateSpecific",
+      "questionText": "What is the penalty for a first-time hands-free law violation in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "$50 fine"
+        },
+        {
+          "id": "b",
+          "text": "$100 fine"
+        },
+        {
+          "id": "c",
+          "text": "$250 fine"
+        },
+        {
+          "id": "d",
+          "text": "$500 fine"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The first offense for violating the hands-free law is a $100 fine. Subsequent offenses carry higher fines and may result in insurance surcharges.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-136",
+      "category": "stateSpecific",
+      "questionText": "Under Massachusetts law, what is the implied consent rule?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Consent to random vehicle searches"
+        },
+        {
+          "id": "b",
+          "text": "By driving, you consent to chemical testing if suspected of OUI"
+        },
+        {
+          "id": "c",
+          "text": "Consent to speed monitoring"
+        },
+        {
+          "id": "d",
+          "text": "Consent to insurance checks"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Implied consent means that by driving in Massachusetts, you automatically consent to chemical testing if suspected of OUI. Refusal results in automatic license suspension.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-137",
+      "category": "stateSpecific",
+      "questionText": "What is Massachusetts' Safe Driver Insurance Plan (SDIP)?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Free insurance for safe drivers"
+        },
+        {
+          "id": "b",
+          "text": "System that assigns surcharges based on at-fault accidents and violations"
+        },
+        {
+          "id": "c",
+          "text": "Discount program for seniors"
+        },
+        {
+          "id": "d",
+          "text": "Teen driver program"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "SDIP assigns surcharge points for at-fault accidents and traffic violations, which increase insurance premiums. Safe driving keeps points low.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ma-138",
+      "category": "stateSpecific",
+      "questionText": "At what age can you apply for a learner's permit in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "15 years old"
+        },
+        {
+          "id": "b",
+          "text": "16 years old"
+        },
+        {
+          "id": "c",
+          "text": "16 and a half"
+        },
+        {
+          "id": "d",
+          "text": "17 years old"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In Massachusetts, you must be at least 16 years old to apply for a learner's permit after completing a driver education course.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-139",
+      "category": "alcoholDrugs",
+      "questionText": "How long is the license suspension for a first-time OUI offense for a driver under 21 in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "30 days"
+        },
+        {
+          "id": "b",
+          "text": "180 days"
+        },
+        {
+          "id": "c",
+          "text": "1 year"
+        },
+        {
+          "id": "d",
+          "text": "3 years"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "A first OUI offense for a driver under 21 results in a minimum 1-year license suspension in Massachusetts, plus additional penalties.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-140",
+      "category": "alcoholDrugs",
+      "questionText": "What happens if a driver under 21 refuses a breathalyzer test in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Warning only"
+        },
+        {
+          "id": "b",
+          "text": "3-year license suspension"
+        },
+        {
+          "id": "c",
+          "text": "Small fine"
+        },
+        {
+          "id": "d",
+          "text": "No penalty"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Under Massachusetts implied consent law, a driver under 21 who refuses a breathalyzer test faces an automatic 3-year license suspension.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ma-141",
+      "category": "alcoholDrugs",
+      "questionText": "How does alcohol affect your driving even in small amounts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "No effect until legal limit"
+        },
+        {
+          "id": "b",
+          "text": "Impairs judgment and reaction time at any level"
+        },
+        {
+          "id": "c",
+          "text": "Only affects vision"
+        },
+        {
+          "id": "d",
+          "text": "Improves confidence"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Alcohol begins to impair judgment, coordination, and reaction time even before reaching the legal limit. Any amount can affect your ability to drive safely.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-142",
+      "category": "alcoholDrugs",
+      "questionText": "What is the only way to sober up after drinking alcohol?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Drink coffee"
+        },
+        {
+          "id": "b",
+          "text": "Take a cold shower"
+        },
+        {
+          "id": "c",
+          "text": "Wait for time to pass"
+        },
+        {
+          "id": "d",
+          "text": "Exercise"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Time is the only way to eliminate alcohol from your system. Coffee, showers, or exercise do not speed up the process. Your body metabolizes alcohol at a fixed rate.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-143",
+      "category": "alcoholDrugs",
+      "questionText": "What can prescription medications do to your driving ability?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Nothing if taken as prescribed"
+        },
+        {
+          "id": "b",
+          "text": "Cause drowsiness, dizziness, or impaired judgment"
+        },
+        {
+          "id": "c",
+          "text": "Always improve reaction time"
+        },
+        {
+          "id": "d",
+          "text": "Only affect illegal drugs"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Many prescription medications can cause drowsiness, dizziness, or impaired judgment. Always read labels and consult your doctor about driving while taking medication.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-144",
+      "category": "alcoholDrugs",
+      "questionText": "Combining alcohol with other drugs:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Reduces impairment"
+        },
+        {
+          "id": "b",
+          "text": "Multiplies the impairing effects"
+        },
+        {
+          "id": "c",
+          "text": "Has no additional effect"
+        },
+        {
+          "id": "d",
+          "text": "Cancels out effects"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Combining alcohol with other drugs (illegal or prescription) multiplies the impairing effects, making driving extremely dangerous and illegal.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-145",
+      "category": "alcoholDrugs",
+      "questionText": "What are signs that a driver may be impaired by alcohol or drugs?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Perfect lane control"
+        },
+        {
+          "id": "b",
+          "text": "Weaving, speeding, slow reactions, erratic braking"
+        },
+        {
+          "id": "c",
+          "text": "Using turn signals"
+        },
+        {
+          "id": "d",
+          "text": "Steady speed"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Signs of impaired driving include weaving between lanes, sudden speed changes, slow reactions, erratic braking, and failing to obey traffic signs.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-146",
+      "category": "alcoholDrugs",
+      "questionText": "What should you do if you see an impaired driver on the road?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Try to stop them yourself"
+        },
+        {
+          "id": "b",
+          "text": "Keep distance and call 911 to report"
+        },
+        {
+          "id": "c",
+          "text": "Flash your lights at them"
+        },
+        {
+          "id": "d",
+          "text": "Ignore it"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If you see a potentially impaired driver, keep a safe distance and call 911. Provide location, direction of travel, and vehicle description.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-147",
+      "category": "alcoholDrugs",
+      "questionText": "What does OUI stand for in Massachusetts?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Operating Under Inspection"
+        },
+        {
+          "id": "b",
+          "text": "Operating Under the Influence"
+        },
+        {
+          "id": "c",
+          "text": "Over Use of Intoxicants"
+        },
+        {
+          "id": "d",
+          "text": "Operating Unsafe Impairment"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "OUI stands for Operating Under the Influence. Massachusetts uses OUI instead of DUI (Driving Under the Influence) or DWI (Driving While Intoxicated).",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ma-148",
+      "category": "alcoholDrugs",
+      "questionText": "Can you be charged with OUI for drug impairment alone (without alcohol)?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "No, only alcohol counts"
+        },
+        {
+          "id": "b",
+          "text": "Yes, drugs (illegal or prescription) can result in OUI charges"
+        },
+        {
+          "id": "c",
+          "text": "Only for illegal drugs"
+        },
+        {
+          "id": "d",
+          "text": "Only if BAC is also elevated"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Yes, you can be charged with OUI for impairment from drugs alone, whether illegal drugs, marijuana, or prescription medications that impair driving ability.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-149",
+      "category": "emergencies",
+      "questionText": "What should you do if your vehicle catches fire while driving?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Keep driving to fire station"
+        },
+        {
+          "id": "b",
+          "text": "Pull over safely, turn off engine, evacuate, and call 911"
+        },
+        {
+          "id": "c",
+          "text": "Open hood to check"
+        },
+        {
+          "id": "d",
+          "text": "Use water to extinguish"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If your vehicle catches fire, pull over safely, turn off the engine, get everyone out, move far away, and call 911. Never open the hood as oxygen can make the fire worse.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ma-150",
+      "category": "emergencies",
+      "questionText": "What should you do if your vehicle breaks down on a highway?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop in the travel lane"
+        },
+        {
+          "id": "b",
+          "text": "Pull onto shoulder, turn on hazards, stay in vehicle if safe, call for help"
+        },
+        {
+          "id": "c",
+          "text": "Walk on the highway to get help"
+        },
+        {
+          "id": "d",
+          "text": "Stand behind your vehicle"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Pull onto the shoulder if possible, turn on hazard lights, stay in vehicle with seatbelt on if safe from traffic, and call for help. If you must exit, move far from traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    }
+  ]
+}

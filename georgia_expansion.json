@@ -1,0 +1,1967 @@
+[
+  {
+    "id": "ga-041",
+    "category": "roadSigns",
+    "questionText": "A flashing yellow traffic light means:",
+    "answers": [
+      {"id": "a", "text": "Stop immediately"},
+      {"id": "b", "text": "Proceed with caution"},
+      {"id": "c", "text": "Speed up to clear the intersection"},
+      {"id": "d", "text": "The light is broken"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A flashing yellow light warns drivers to slow down and proceed with caution through the intersection.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-042",
+    "category": "roadSigns",
+    "questionText": "A flashing red traffic light means:",
+    "answers": [
+      {"id": "a", "text": "Proceed with caution"},
+      {"id": "b", "text": "Stop, then proceed when safe (same as stop sign)"},
+      {"id": "c", "text": "Yield to oncoming traffic"},
+      {"id": "d", "text": "The light is broken"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A flashing red light has the same meaning as a stop sign - you must come to a complete stop before proceeding when safe.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-043",
+    "category": "roadSigns",
+    "questionText": "A white rectangular sign with black letters indicates:",
+    "answers": [
+      {"id": "a", "text": "Warning"},
+      {"id": "b", "text": "Construction"},
+      {"id": "c", "text": "Regulatory information or traffic laws"},
+      {"id": "d", "text": "Recreation area"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "White rectangular signs display regulatory information such as speed limits, parking rules, and other traffic laws.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-044",
+    "category": "roadSigns",
+    "questionText": "Green signs on highways typically provide:",
+    "answers": [
+      {"id": "a", "text": "Warning information"},
+      {"id": "b", "text": "Directional and guide information"},
+      {"id": "c", "text": "Construction zones"},
+      {"id": "d", "text": "School zones"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Green signs provide directional guidance, showing distances to cities, exit numbers, and highway routes.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-045",
+    "category": "roadSigns",
+    "questionText": "A brown sign indicates:",
+    "answers": [
+      {"id": "a", "text": "Construction zone"},
+      {"id": "b", "text": "Recreational or cultural interest area"},
+      {"id": "c", "text": "Detour"},
+      {"id": "d", "text": "School zone"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Brown signs direct drivers to parks, historic sites, recreational areas, and cultural attractions.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-046",
+    "category": "roadSigns",
+    "questionText": "A sign showing a truck going downhill indicates:",
+    "answers": [
+      {"id": "a", "text": "Truck route"},
+      {"id": "b", "text": "Steep grade ahead"},
+      {"id": "c", "text": "No trucks allowed"},
+      {"id": "d", "text": "Truck parking"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "This warning sign alerts drivers to a steep downgrade where they should reduce speed and use lower gears.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-047",
+    "category": "roadSigns",
+    "questionText": "A sign with two arrows pointing in opposite directions (one up, one down) indicates:",
+    "answers": [
+      {"id": "a", "text": "Two-way traffic ahead"},
+      {"id": "b", "text": "Divided highway ends"},
+      {"id": "c", "text": "U-turn permitted"},
+      {"id": "d", "text": "One-way street"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "This sign warns that you are entering a roadway where traffic flows in both directions.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-048",
+    "category": "roadSigns",
+    "questionText": "A circular sign with a red border indicates:",
+    "answers": [
+      {"id": "a", "text": "Railroad crossing"},
+      {"id": "b", "text": "No U-turn"},
+      {"id": "c", "text": "Yield"},
+      {"id": "d", "text": "Speed limit"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The circular shape with RR crossbuck indicates an upcoming railroad crossing.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-049",
+    "category": "roadSigns",
+    "questionText": "A sign showing a car with skid marks indicates:",
+    "answers": [
+      {"id": "a", "text": "No parking"},
+      {"id": "b", "text": "Slippery when wet"},
+      {"id": "c", "text": "Sharp turn"},
+      {"id": "d", "text": "Speed limit"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "This warning sign alerts drivers that the road surface may be slippery in wet conditions.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-050",
+    "category": "roadSigns",
+    "questionText": "A 'Do Not Enter' sign is:",
+    "answers": [
+      {"id": "a", "text": "Square and blue"},
+      {"id": "b", "text": "Round and red with white bar"},
+      {"id": "c", "text": "Triangular and yellow"},
+      {"id": "d", "text": "Octagonal and red"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Do Not Enter sign is a red circle with a white horizontal bar, indicating you cannot enter that roadway.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-051",
+    "category": "roadSigns",
+    "questionText": "A sign with a deer symbol warns of:",
+    "answers": [
+      {"id": "a", "text": "Wildlife area"},
+      {"id": "b", "text": "Hunting zone"},
+      {"id": "c", "text": "Animal crossing area"},
+      {"id": "d", "text": "Zoo ahead"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "This sign warns drivers that deer or other animals frequently cross the road in this area.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-052",
+    "category": "roadSigns",
+    "questionText": "A 'Wrong Way' sign is typically:",
+    "answers": [
+      {"id": "a", "text": "Yellow with black letters"},
+      {"id": "b", "text": "Red with white letters"},
+      {"id": "c", "text": "White with black letters"},
+      {"id": "d", "text": "Orange with black letters"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Wrong Way signs are red rectangles with white letters, warning that you are entering a roadway in the wrong direction.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-053",
+    "category": "roadSigns",
+    "questionText": "A sign showing a merge symbol indicates:",
+    "answers": [
+      {"id": "a", "text": "Lane ends, merge left or right"},
+      {"id": "b", "text": "Passing zone"},
+      {"id": "c", "text": "Exit ramp"},
+      {"id": "d", "text": "Divided highway"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The merge sign warns that two lanes of traffic will combine into one lane ahead.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-054",
+    "category": "roadSigns",
+    "questionText": "A pennant-shaped sign indicates:",
+    "answers": [
+      {"id": "a", "text": "School zone"},
+      {"id": "b", "text": "No passing zone"},
+      {"id": "c", "text": "Construction"},
+      {"id": "d", "text": "Detour"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The pennant (triangular flag) shape marks the beginning of a no-passing zone on the left side of the road.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-055",
+    "category": "roadSigns",
+    "questionText": "A sign with a winding arrow indicates:",
+    "answers": [
+      {"id": "a", "text": "Series of curves ahead"},
+      {"id": "b", "text": "U-turn permitted"},
+      {"id": "c", "text": "Roundabout"},
+      {"id": "d", "text": "One-way street"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "This warning sign alerts drivers to a winding road with multiple curves ahead - reduce speed.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-056",
+    "category": "roadSigns",
+    "questionText": "A 'Divided Highway Begins' sign shows:",
+    "answers": [
+      {"id": "a", "text": "Two parallel lines with space between"},
+      {"id": "b", "text": "Single arrow"},
+      {"id": "c", "text": "Railroad crossing"},
+      {"id": "d", "text": "Merge symbol"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "This sign displays two roadways separated by a median, warning that the highway ahead is divided.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-057",
+    "category": "roadSigns",
+    "questionText": "A 'Divided Highway Ends' sign warns that:",
+    "answers": [
+      {"id": "a", "text": "The median will end and two-way traffic will be on the same roadway"},
+      {"id": "b", "text": "The highway is ending"},
+      {"id": "c", "text": "A toll booth is ahead"},
+      {"id": "d", "text": "Construction is ahead"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "This sign warns that the median separating opposing traffic will end - be prepared for oncoming traffic.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-058",
+    "category": "roadSigns",
+    "questionText": "A sign showing a 'T' symbol indicates:",
+    "answers": [
+      {"id": "a", "text": "T-intersection ahead - road does not continue straight"},
+      {"id": "b", "text": "Truck route"},
+      {"id": "c", "text": "Tunnel"},
+      {"id": "d", "text": "Toll plaza"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The T-intersection sign warns that the road you are on ends ahead - you must turn left or right.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-059",
+    "category": "roadSigns",
+    "questionText": "A sign with a Y symbol indicates:",
+    "answers": [
+      {"id": "a", "text": "Yield ahead"},
+      {"id": "b", "text": "Y-intersection - road splits ahead"},
+      {"id": "c", "text": "YMCA location"},
+      {"id": "d", "text": "You-turn permitted"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Y-intersection sign warns that the road ahead splits into two separate roads forming a Y shape.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-060",
+    "category": "roadSigns",
+    "questionText": "A sign showing a bicycle indicates:",
+    "answers": [
+      {"id": "a", "text": "Bicycle parking only"},
+      {"id": "b", "text": "Bicycle lane or bicycle crossing ahead"},
+      {"id": "c", "text": "No bicycles allowed"},
+      {"id": "d", "text": "Bicycle shop"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "This sign warns drivers to watch for bicyclists crossing or sharing the roadway.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-061",
+    "category": "roadSigns",
+    "questionText": "A sign with a pedestrian symbol indicates:",
+    "answers": [
+      {"id": "a", "text": "Sidewalk ahead"},
+      {"id": "b", "text": "Pedestrian crossing ahead"},
+      {"id": "c", "text": "No pedestrians"},
+      {"id": "d", "text": "Walking trail"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "This sign warns drivers that a pedestrian crosswalk is ahead - be prepared to yield.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-062",
+    "category": "roadSigns",
+    "questionText": "A sign showing 'Hill' with a percentage indicates:",
+    "answers": [
+      {"id": "a", "text": "Speed limit reduction"},
+      {"id": "b", "text": "Steepness of grade ahead"},
+      {"id": "c", "text": "Passing permitted"},
+      {"id": "d", "text": "Truck weight limit"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The percentage indicates how steep the hill is - higher percentages mean steeper grades.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-063",
+    "category": "roadSigns",
+    "questionText": "A 'Lane Ends' sign means:",
+    "answers": [
+      {"id": "a", "text": "The right or left lane will end - merge as indicated"},
+      {"id": "b", "text": "Road closed"},
+      {"id": "c", "text": "Parking lane ahead"},
+      {"id": "d", "text": "HOV lane only"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "This sign warns that one lane is ending and drivers must merge into the continuing lane.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-064",
+    "category": "roadSigns",
+    "questionText": "A 'Narrow Bridge' sign indicates:",
+    "answers": [
+      {"id": "a", "text": "Bridge is closed"},
+      {"id": "b", "text": "Bridge ahead is narrower than the road - reduce speed"},
+      {"id": "c", "text": "Weight limit ahead"},
+      {"id": "d", "text": "Toll bridge"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "This sign warns that the bridge ahead is narrower than the roadway - slow down and be prepared for reduced lane width.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-065",
+    "category": "roadSigns",
+    "questionText": "A 'Low Clearance' sign indicates:",
+    "answers": [
+      {"id": "a", "text": "Low visibility area"},
+      {"id": "b", "text": "Height restriction ahead (bridge or overpass)"},
+      {"id": "c", "text": "Dip in road"},
+      {"id": "d", "text": "Slow vehicles"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "This sign warns of limited vertical clearance ahead - tall vehicles may not fit under the bridge or overpass.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-066",
+    "category": "roadSigns",
+    "questionText": "A 'Crossroad' sign indicates:",
+    "answers": [
+      {"id": "a", "text": "Cross traffic ahead - intersection"},
+      {"id": "b", "text": "Religious area"},
+      {"id": "c", "text": "Hospital"},
+      {"id": "d", "text": "No crossing"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The crossroad sign warns of an intersection where another road crosses the road you are on.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-067",
+    "category": "roadSigns",
+    "questionText": "A 'Side Road' sign indicates:",
+    "answers": [
+      {"id": "a", "text": "Road closed"},
+      {"id": "b", "text": "A road enters the highway from the side shown"},
+      {"id": "c", "text": "Exit ramp"},
+      {"id": "d", "text": "Parking area"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "This sign warns that a road enters from the left or right side - watch for merging traffic.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-068",
+    "category": "roadSigns",
+    "questionText": "A 'Keep Right' sign means:",
+    "answers": [
+      {"id": "a", "text": "Stay in right lane"},
+      {"id": "b", "text": "Pass an obstruction or median on the right side"},
+      {"id": "c", "text": "Right turn only"},
+      {"id": "d", "text": "Yield to right"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "This regulatory sign directs drivers to keep to the right side of a roadway divider, island, or obstruction.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-069",
+    "category": "roadSigns",
+    "questionText": "A 'One Way' sign indicates:",
+    "answers": [
+      {"id": "a", "text": "Traffic flows in only one direction"},
+      {"id": "b", "text": "Single lane ahead"},
+      {"id": "c", "text": "No U-turns"},
+      {"id": "d", "text": "Exit only"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "All traffic on this street must travel in the direction indicated by the arrow on the sign.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-070",
+    "category": "roadSigns",
+    "questionText": "A 'No U-Turn' sign is indicated by:",
+    "answers": [
+      {"id": "a", "text": "Red circle with U-turn arrow crossed out"},
+      {"id": "b", "text": "Yellow diamond"},
+      {"id": "c", "text": "Blue square"},
+      {"id": "d", "text": "Green circle"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A red circle with a diagonal line through a U-turn arrow prohibits U-turns at that location.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-071",
+    "category": "safeDriving",
+    "questionText": "The safest way to exit a freeway is to:",
+    "answers": [
+      {"id": "a", "text": "Slow down before entering the exit ramp"},
+      {"id": "b", "text": "Slow down on the exit ramp after leaving the freeway"},
+      {"id": "c", "text": "Maintain highway speed until the ramp curves"},
+      {"id": "d", "text": "Stop at the exit sign"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Maintain highway speed until you are completely in the exit lane, then begin slowing down on the ramp.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-072",
+    "category": "safeDriving",
+    "questionText": "When entering a freeway, you should:",
+    "answers": [
+      {"id": "a", "text": "Stop at the end of the ramp"},
+      {"id": "b", "text": "Use the acceleration lane to reach highway speed, then merge"},
+      {"id": "c", "text": "Merge immediately regardless of speed"},
+      {"id": "d", "text": "Turn on hazard lights"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Use the full acceleration lane to match the speed of highway traffic before merging safely.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-073",
+    "category": "safeDriving",
+    "questionText": "If you encounter a vehicle with its headlights on during the day, it may indicate:",
+    "answers": [
+      {"id": "a", "text": "Funeral procession or emergency vehicle"},
+      {"id": "b", "text": "The driver forgot to turn them off"},
+      {"id": "c", "text": "Bad weather conditions"},
+      {"id": "d", "text": "All of the above"}
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Headlights during the day can indicate a funeral procession, emergency vehicle, poor visibility, or the driver simply forgot to turn them off.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-074",
+    "category": "safeDriving",
+    "questionText": "The best way to handle a tire blowout is to:",
+    "answers": [
+      {"id": "a", "text": "Brake hard immediately"},
+      {"id": "b", "text": "Keep a firm grip on the wheel, ease off gas, and brake gently"},
+      {"id": "c", "text": "Accelerate to maintain control"},
+      {"id": "d", "text": "Turn sharply to the shoulder"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Hold the steering wheel firmly, gradually slow down, and steer the vehicle safely off the road.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-075",
+    "category": "safeDriving",
+    "questionText": "When driving in heavy rain, you should:",
+    "answers": [
+      {"id": "a", "text": "Increase speed to get through it quickly"},
+      {"id": "b", "text": "Reduce speed and increase following distance"},
+      {"id": "c", "text": "Use cruise control"},
+      {"id": "d", "text": "Drive in the center lane only"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Reduce speed in rain to avoid hydroplaning and increase following distance as stopping distances increase.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-076",
+    "category": "safeDriving",
+    "questionText": "If your vehicle begins to skid, you should:",
+    "answers": [
+      {"id": "a", "text": "Brake hard"},
+      {"id": "b", "text": "Steer in the direction you want the front of the vehicle to go"},
+      {"id": "c", "text": "Accelerate"},
+      {"id": "d", "text": "Turn the wheel sharply opposite the skid"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Steer in the direction you want to go (not into the skid), ease off the gas, and avoid hard braking.",
+    "imageAssetName": null,
+    "difficulty": "hard"
+  },
+  {
+    "id": "ga-077",
+    "category": "safeDriving",
+    "questionText": "Before changing lanes, you should:",
+    "answers": [
+      {"id": "a", "text": "Signal only"},
+      {"id": "b", "text": "Check mirrors only"},
+      {"id": "c", "text": "Signal, check mirrors, and check blind spots"},
+      {"id": "d", "text": "Just check blind spots"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Always signal your intention, check all mirrors, and check blind spots before changing lanes.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-078",
+    "category": "safeDriving",
+    "questionText": "The best way to handle tailgaters is to:",
+    "answers": [
+      {"id": "a", "text": "Brake suddenly to teach them a lesson"},
+      {"id": "b", "text": "Speed up to create distance"},
+      {"id": "c", "text": "Change lanes or slow down to let them pass"},
+      {"id": "d", "text": "Ignore them"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The safest approach is to change lanes if possible or slow down to encourage them to pass.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-079",
+    "category": "safeDriving",
+    "questionText": "When approaching a stopped school bus with flashing red lights from behind, you must:",
+    "answers": [
+      {"id": "a", "text": "Slow down and proceed"},
+      {"id": "b", "text": "Stop at least 20 feet behind the bus"},
+      {"id": "c", "text": "Change lanes and pass"},
+      {"id": "d", "text": "Honk your horn"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "You must stop at least 20 feet from a school bus displaying flashing red lights and a stop arm.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-080",
+    "category": "safeDriving",
+    "questionText": "When backing up, you should:",
+    "answers": [
+      {"id": "a", "text": "Rely only on mirrors"},
+      {"id": "b", "text": "Turn your head and look through the rear window"},
+      {"id": "c", "text": "Use only the backup camera"},
+      {"id": "d", "text": "Have someone guide you"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Always turn your head and look directly through the rear window when backing up, using mirrors as a supplement.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-081",
+    "category": "safeDriving",
+    "questionText": "When driving at night, you should dim your high beams when you are within ___ feet of an oncoming vehicle.",
+    "answers": [
+      {"id": "a", "text": "100 feet"},
+      {"id": "b", "text": "200 feet"},
+      {"id": "c", "text": "300 feet"},
+      {"id": "d", "text": "500 feet"}
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Dim your high beams within 500 feet of oncoming traffic or within 200 feet when following another vehicle.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-082",
+    "category": "safeDriving",
+    "questionText": "If you are involved in a minor collision with no injuries, you should:",
+    "answers": [
+      {"id": "a", "text": "Drive away immediately"},
+      {"id": "b", "text": "Move vehicles to the side of the road if safe, exchange information, and report to police"},
+      {"id": "c", "text": "Leave a note"},
+      {"id": "d", "text": "Wait for police in the middle of traffic"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Move vehicles out of traffic if safe, exchange information with other parties, and report the accident to police.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-083",
+    "category": "safeDriving",
+    "questionText": "Carbon monoxide poisoning from vehicle exhaust can be prevented by:",
+    "answers": [
+      {"id": "a", "text": "Never running your vehicle in an enclosed space"},
+      {"id": "b", "text": "Ensuring the exhaust system is properly maintained"},
+      {"id": "c", "text": "Keeping windows slightly open if idling for extended periods"},
+      {"id": "d", "text": "All of the above"}
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "All these precautions help prevent carbon monoxide poisoning from vehicle exhaust.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-084",
+    "category": "safeDriving",
+    "questionText": "When parallel parking, you should park within ___ inches of the curb.",
+    "answers": [
+      {"id": "a", "text": "6 inches"},
+      {"id": "b", "text": "12 inches"},
+      {"id": "c", "text": "18 inches"},
+      {"id": "d", "text": "24 inches"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "When parallel parking, your vehicle should be within 12 inches of the curb.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-085",
+    "category": "safeDriving",
+    "questionText": "If an approaching driver refuses to dim their high beams, you should:",
+    "answers": [
+      {"id": "a", "text": "Flash your high beams repeatedly"},
+      {"id": "b", "text": "Look toward the right edge of the road"},
+      {"id": "c", "text": "Stare directly at the headlights"},
+      {"id": "d", "text": "Close your eyes briefly"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Look toward the right edge of your lane to avoid being blinded while maintaining awareness of the road.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-086",
+    "category": "safeDriving",
+    "questionText": "When driving in work zones, you should:",
+    "answers": [
+      {"id": "a", "text": "Maintain highway speed"},
+      {"id": "b", "text": "Reduce speed, stay alert, and obey workers' directions"},
+      {"id": "c", "text": "Speed up to exit the zone quickly"},
+      {"id": "d", "text": "Use your phone to report delays"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Slow down, stay alert for workers and equipment, and follow all signs and flaggers' instructions. Fines are often doubled in work zones.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-087",
+    "category": "safeDriving",
+    "questionText": "When turning left from a two-way street onto a one-way street, you should turn into:",
+    "answers": [
+      {"id": "a", "text": "Any lane"},
+      {"id": "b", "text": "The lane closest to the centerline"},
+      {"id": "c", "text": "The far right lane"},
+      {"id": "d", "text": "The lane with least traffic"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "When turning left, turn from the lane closest to the centerline into the lane closest to the centerline.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-088",
+    "category": "safeDriving",
+    "questionText": "When approaching a railroad crossing with flashing lights or gates, you must:",
+    "answers": [
+      {"id": "a", "text": "Speed up to cross quickly"},
+      {"id": "b", "text": "Stop at least 15 feet from the nearest rail"},
+      {"id": "c", "text": "Slow down and proceed with caution"},
+      {"id": "d", "text": "Honk your horn"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Stop at least 15 feet from the nearest rail when lights are flashing or gates are down, and do not proceed until it is safe.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-089",
+    "category": "safeDriving",
+    "questionText": "When making a right turn, you should:",
+    "answers": [
+      {"id": "a", "text": "Swing wide to the left before turning"},
+      {"id": "b", "text": "Stay as close to the right edge as practical"},
+      {"id": "c", "text": "Turn from the left lane"},
+      {"id": "d", "text": "Not signal"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Position your vehicle close to the right edge of the road and turn into the nearest lane of the street you are entering.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-090",
+    "category": "safeDriving",
+    "questionText": "If you approach an intersection where a traffic light is not working, you should:",
+    "answers": [
+      {"id": "a", "text": "Proceed normally"},
+      {"id": "b", "text": "Treat it as a 4-way stop"},
+      {"id": "c", "text": "Speed through quickly"},
+      {"id": "d", "text": "Turn around"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "When traffic signals are not functioning, treat the intersection as a 4-way stop.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-091",
+    "category": "safeDriving",
+    "questionText": "When you see a pedestrian using a white cane or guide dog, you should:",
+    "answers": [
+      {"id": "a", "text": "Honk to alert them"},
+      {"id": "b", "text": "Yield the right-of-way - the pedestrian is blind or visually impaired"},
+      {"id": "c", "text": "Drive around them quickly"},
+      {"id": "d", "text": "Flash your lights"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A white cane or guide dog indicates the pedestrian is blind or has low vision - always yield and give them extra space.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-092",
+    "category": "safeDriving",
+    "questionText": "When driving on a curve, you should:",
+    "answers": [
+      {"id": "a", "text": "Slow down before entering the curve"},
+      {"id": "b", "text": "Brake during the curve"},
+      {"id": "c", "text": "Accelerate through the curve"},
+      {"id": "d", "text": "Maintain constant speed throughout"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Slow down before entering a curve, not during or after, to maintain control of your vehicle.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-093",
+    "category": "safeDriving",
+    "questionText": "The 'three-second rule' for following distance should be increased to 4+ seconds when:",
+    "answers": [
+      {"id": "a", "text": "Road conditions are poor (rain, fog, ice)"},
+      {"id": "b", "text": "You are driving a larger vehicle"},
+      {"id": "c", "text": "You are being tailgated"},
+      {"id": "d", "text": "All of the above"}
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Increase following distance in poor conditions, when driving large vehicles, when tailgated, or when visibility is reduced.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-094",
+    "category": "safeDriving",
+    "questionText": "If you miss your exit on a highway, you should:",
+    "answers": [
+      {"id": "a", "text": "Back up on the shoulder"},
+      {"id": "b", "text": "Continue to the next exit"},
+      {"id": "c", "text": "Stop and reverse"},
+      {"id": "d", "text": "Cross multiple lanes quickly"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Never back up or reverse on a highway. Continue to the next exit and turn around safely.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-095",
+    "category": "safeDriving",
+    "questionText": "When approaching a stopped emergency vehicle with flashing lights and you cannot move over, you must:",
+    "answers": [
+      {"id": "a", "text": "Maintain speed"},
+      {"id": "b", "text": "Slow down to a speed that is reasonable and proper"},
+      {"id": "c", "text": "Stop completely"},
+      {"id": "d", "text": "Flash your lights"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Georgia's Move Over Law requires you to move over one lane if safe, or slow down if you cannot move over.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-096",
+    "category": "trafficLaws",
+    "questionText": "In Georgia, you must signal your intention to turn at least ___ feet before turning.",
+    "answers": [
+      {"id": "a", "text": "50 feet"},
+      {"id": "b", "text": "100 feet"},
+      {"id": "c", "text": "200 feet"},
+      {"id": "d", "text": "300 feet"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "You must signal at least 100 feet before turning or changing lanes in Georgia.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-097",
+    "category": "trafficLaws",
+    "questionText": "Passing on the right is legal in Georgia when:",
+    "answers": [
+      {"id": "a", "text": "Never legal"},
+      {"id": "b", "text": "On a one-way street or when the vehicle ahead is turning left"},
+      {"id": "c", "text": "Anytime"},
+      {"id": "d", "text": "Only in emergencies"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "You may pass on the right on a one-way street with multiple lanes or when a vehicle ahead is making a left turn.",
+    "imageAssetName": null,
+    "difficulty": "hard"
+  },
+  {
+    "id": "ga-098",
+    "category": "trafficLaws",
+    "questionText": "A solid white line on the road means:",
+    "answers": [
+      {"id": "a", "text": "Lane changes are discouraged but permitted if necessary"},
+      {"id": "b", "text": "Lane changes are prohibited"},
+      {"id": "c", "text": "Passing zone"},
+      {"id": "d", "text": "Parking allowed"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A solid white line indicates lane changes are discouraged but may be done when necessary and safe.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-099",
+    "category": "trafficLaws",
+    "questionText": "When can you legally drive in a bike lane?",
+    "answers": [
+      {"id": "a", "text": "Never"},
+      {"id": "b", "text": "When making a turn within 200 feet of the intersection"},
+      {"id": "c", "text": "Anytime there are no bicycles"},
+      {"id": "d", "text": "During rush hour"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "You may enter a bike lane within 200 feet of an intersection to prepare for a turn, yielding to any bicyclists.",
+    "imageAssetName": null,
+    "difficulty": "hard"
+  },
+  {
+    "id": "ga-100",
+    "category": "trafficLaws",
+    "questionText": "Yellow curb markings indicate:",
+    "answers": [
+      {"id": "a", "text": "Loading zone - limited time parking"},
+      {"id": "b", "text": "No parking"},
+      {"id": "c", "text": "Fire lane"},
+      {"id": "d", "text": "Handicapped parking"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Yellow curbs typically mark loading zones where parking is allowed only for a limited time to load/unload.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-101",
+    "category": "trafficLaws",
+    "questionText": "Red curb markings indicate:",
+    "answers": [
+      {"id": "a", "text": "Loading zone"},
+      {"id": "b", "text": "No stopping, standing, or parking"},
+      {"id": "c", "text": "Fire lane only"},
+      {"id": "d", "text": "Emergency vehicles only"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Red curbs prohibit all stopping, standing, and parking at any time.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-102",
+    "category": "trafficLaws",
+    "questionText": "A broken yellow line on your side of the road means:",
+    "answers": [
+      {"id": "a", "text": "Passing is prohibited"},
+      {"id": "b", "text": "Passing is permitted when safe"},
+      {"id": "c", "text": "No lane changes"},
+      {"id": "d", "text": "Construction zone"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A broken yellow line on your side indicates you may pass when it is safe to do so.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-103",
+    "category": "trafficLaws",
+    "questionText": "White curb markings typically indicate:",
+    "answers": [
+      {"id": "a", "text": "Passenger loading and unloading only"},
+      {"id": "b", "text": "Commercial vehicles only"},
+      {"id": "c", "text": "No parking"},
+      {"id": "d", "text": "Reserved parking"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "White curbs are designated for passenger loading and unloading - stop only long enough to load or unload passengers.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-104",
+    "category": "trafficLaws",
+    "questionText": "In Georgia, you can make a right turn on red after stopping unless:",
+    "answers": [
+      {"id": "a", "text": "A sign prohibits it"},
+      {"id": "b", "text": "Pedestrians are in the crosswalk"},
+      {"id": "c", "text": "Cross traffic exists"},
+      {"id": "d", "text": "All of the above"}
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Right turn on red is permitted after stopping, unless prohibited by a sign, or when pedestrians or conflicting traffic are present.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-105",
+    "category": "trafficLaws",
+    "questionText": "When windshield wipers are in use due to weather conditions, you must:",
+    "answers": [
+      {"id": "a", "text": "Use parking lights"},
+      {"id": "b", "text": "Turn on your headlights"},
+      {"id": "c", "text": "Use hazard lights"},
+      {"id": "d", "text": "Slow down only"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Georgia law requires headlights to be on whenever windshield wipers are in continuous use due to weather.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-106",
+    "category": "trafficLaws",
+    "questionText": "U-turns are generally prohibited:",
+    "answers": [
+      {"id": "a", "text": "On curves or hills where visibility is limited"},
+      {"id": "b", "text": "In business districts"},
+      {"id": "c", "text": "Where prohibited by signs"},
+      {"id": "d", "text": "All of the above"}
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "U-turns are prohibited where visibility is limited, in certain business districts, and wherever signs prohibit them.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-107",
+    "category": "rightOfWay",
+    "questionText": "When approaching a roundabout, you must:",
+    "answers": [
+      {"id": "a", "text": "Stop and wait for an opening"},
+      {"id": "b", "text": "Yield to traffic already in the roundabout"},
+      {"id": "c", "text": "Speed up to merge"},
+      {"id": "d", "text": "Honk before entering"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yield to vehicles already circulating in the roundabout before entering.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-108",
+    "category": "rightOfWay",
+    "questionText": "At an uncontrolled intersection (no signs or signals), who has the right-of-way?",
+    "answers": [
+      {"id": "a", "text": "The vehicle on the left"},
+      {"id": "b", "text": "The vehicle already in the intersection"},
+      {"id": "c", "text": "The larger vehicle"},
+      {"id": "d", "text": "The faster vehicle"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The vehicle already lawfully in the intersection has the right-of-way. If arriving simultaneously, yield to vehicles on your right.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-109",
+    "category": "rightOfWay",
+    "questionText": "Emergency vehicles with sirens and flashing lights require you to:",
+    "answers": [
+      {"id": "a", "text": "Speed up to clear the way"},
+      {"id": "b", "text": "Pull over to the right and stop"},
+      {"id": "c", "text": "Stop in your lane"},
+      {"id": "d", "text": "Change lanes quickly"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Pull over to the right edge of the road and stop until the emergency vehicle has passed.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-110",
+    "category": "rightOfWay",
+    "questionText": "When two vehicles approach an uncontrolled T-intersection, which vehicle has the right-of-way?",
+    "answers": [
+      {"id": "a", "text": "The vehicle on the through street (top of the T)"},
+      {"id": "b", "text": "The vehicle turning onto the through street"},
+      {"id": "c", "text": "The larger vehicle"},
+      {"id": "d", "text": "Neither - both must stop"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The vehicle on the through street has the right-of-way; the vehicle on the terminating street must yield.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-111",
+    "category": "rightOfWay",
+    "questionText": "When a funeral procession is passing, you should:",
+    "answers": [
+      {"id": "a", "text": "Cut through the procession"},
+      {"id": "b", "text": "Yield to the procession and do not interrupt it"},
+      {"id": "c", "text": "Honk to alert them"},
+      {"id": "d", "text": "Join the procession"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Yield to funeral processions and never interrupt or drive between vehicles in a procession.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-112",
+    "category": "rightOfWay",
+    "questionText": "When entering a roadway from a parking area, you must:",
+    "answers": [
+      {"id": "a", "text": "Honk before entering"},
+      {"id": "b", "text": "Yield to all traffic and pedestrians on the roadway"},
+      {"id": "c", "text": "Flash your lights"},
+      {"id": "d", "text": "Accelerate quickly"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Vehicles entering a roadway from private property must yield to all vehicles and pedestrians on the roadway.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-113",
+    "category": "rightOfWay",
+    "questionText": "When two vehicles approach a 4-way stop from opposite directions and both want to turn left:",
+    "answers": [
+      {"id": "a", "text": "They can both turn at the same time"},
+      {"id": "b", "text": "The vehicle that arrived first goes first"},
+      {"id": "c", "text": "The larger vehicle goes first"},
+      {"id": "d", "text": "Both must wait for a third vehicle"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The vehicle that arrived at the stop first proceeds first. If arriving simultaneously, they can turn at the same time as they won't conflict.",
+    "imageAssetName": null,
+    "difficulty": "hard"
+  },
+  {
+    "id": "ga-114",
+    "category": "rightOfWay",
+    "questionText": "A vehicle turning right and a vehicle turning left arriving at an intersection at the same time:",
+    "answers": [
+      {"id": "a", "text": "The right-turning vehicle has right-of-way"},
+      {"id": "b", "text": "The left-turning vehicle has right-of-way"},
+      {"id": "c", "text": "They can both proceed simultaneously"},
+      {"id": "d", "text": "The larger vehicle goes first"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The vehicle turning right has the right-of-way as they are on the right side.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-115",
+    "category": "rightOfWay",
+    "questionText": "At a green light, before making a left turn, you must:",
+    "answers": [
+      {"id": "a", "text": "Turn immediately"},
+      {"id": "b", "text": "Yield to oncoming traffic and pedestrians"},
+      {"id": "c", "text": "Honk before turning"},
+      {"id": "d", "text": "Wait for the arrow"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Even with a green light, left-turning vehicles must yield to oncoming traffic and pedestrians crossing the street.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-116",
+    "category": "rightOfWay",
+    "questionText": "Blind pedestrians at intersections can be identified by:",
+    "answers": [
+      {"id": "a", "text": "White cane or guide dog"},
+      {"id": "b", "text": "Special clothing"},
+      {"id": "c", "text": "Reflective vest"},
+      {"id": "d", "text": "Whistle"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A white cane or guide dog indicates a blind or visually impaired pedestrian - always yield and give extra caution.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-117",
+    "category": "speedLimits",
+    "questionText": "Unless otherwise posted, the speed limit in a school zone when children are present is:",
+    "answers": [
+      {"id": "a", "text": "15 mph"},
+      {"id": "b", "text": "20 mph"},
+      {"id": "c", "text": "25 mph"},
+      {"id": "d", "text": "30 mph"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The speed limit in school zones when children are present is typically 20 mph unless otherwise posted.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-118",
+    "category": "speedLimits",
+    "questionText": "Georgia's 'Basic Speed Law' states that you must:",
+    "answers": [
+      {"id": "a", "text": "Always drive the posted speed limit"},
+      {"id": "b", "text": "Never drive faster than is safe for current conditions"},
+      {"id": "c", "text": "Drive at least the minimum speed"},
+      {"id": "d", "text": "Match the speed of other traffic"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Basic Speed Law requires you to drive at a speed that is reasonable and prudent for existing conditions, even if below the posted limit.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-119",
+    "category": "speedLimits",
+    "questionText": "The maximum speed limit on unpaved county roads in Georgia is:",
+    "answers": [
+      {"id": "a", "text": "25 mph"},
+      {"id": "b", "text": "30 mph"},
+      {"id": "c", "text": "35 mph"},
+      {"id": "d", "text": "40 mph"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The maximum speed limit on unpaved county roads is 35 mph unless otherwise posted.",
+    "imageAssetName": null,
+    "difficulty": "hard"
+  },
+  {
+    "id": "ga-120",
+    "category": "speedLimits",
+    "questionText": "When driving in fog, rain, or other poor visibility conditions, you should:",
+    "answers": [
+      {"id": "a", "text": "Maintain the speed limit"},
+      {"id": "b", "text": "Reduce speed below the posted limit"},
+      {"id": "c", "text": "Increase speed to exit the area quickly"},
+      {"id": "d", "text": "Use cruise control"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "You must reduce speed when visibility or road conditions make it unsafe to drive at the posted limit.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-121",
+    "category": "speedLimits",
+    "questionText": "Minimum speed limits are posted to:",
+    "answers": [
+      {"id": "a", "text": "Reduce congestion"},
+      {"id": "b", "text": "Keep traffic flowing safely and smoothly"},
+      {"id": "c", "text": "Prevent dangerous slow-moving vehicles on high-speed roads"},
+      {"id": "d", "text": "All of the above"}
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Minimum speed limits help maintain safe traffic flow and prevent dangerous speed differentials on high-speed roadways.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-122",
+    "category": "speedLimits",
+    "questionText": "If you are driving slower than the normal speed of traffic, you should:",
+    "answers": [
+      {"id": "a", "text": "Drive in any lane"},
+      {"id": "b", "text": "Drive in the right lane"},
+      {"id": "c", "text": "Drive in the left lane"},
+      {"id": "d", "text": "Use the shoulder"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Slower traffic must keep right to allow faster traffic to pass safely on the left.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-123",
+    "category": "speedLimits",
+    "questionText": "Exceeding the speed limit to pass another vehicle is:",
+    "answers": [
+      {"id": "a", "text": "Legal if done quickly"},
+      {"id": "b", "text": "Illegal"},
+      {"id": "c", "text": "Legal on highways only"},
+      {"id": "d", "text": "Legal in the left lane"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "You may never exceed the posted speed limit, even when passing another vehicle.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-124",
+    "category": "speedLimits",
+    "questionText": "The maximum speed limit on most Georgia interstates in urban areas is:",
+    "answers": [
+      {"id": "a", "text": "55 mph"},
+      {"id": "b", "text": "60 mph"},
+      {"id": "c", "text": "65 mph"},
+      {"id": "d", "text": "70 mph"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Most urban interstates have a maximum speed limit of 65 mph unless otherwise posted.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-125",
+    "category": "parking",
+    "questionText": "You cannot park within ___ feet of a stop sign.",
+    "answers": [
+      {"id": "a", "text": "15 feet"},
+      {"id": "b", "text": "20 feet"},
+      {"id": "c", "text": "30 feet"},
+      {"id": "d", "text": "50 feet"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Parking is prohibited within 30 feet of a stop sign, traffic signal, or crosswalk.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-126",
+    "category": "parking",
+    "questionText": "When parking uphill with a curb, you should:",
+    "answers": [
+      {"id": "a", "text": "Turn wheels toward the curb"},
+      {"id": "b", "text": "Turn wheels away from the curb"},
+      {"id": "c", "text": "Keep wheels straight"},
+      {"id": "d", "text": "Leave in neutral"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "When parking uphill with a curb, turn your wheels away from the curb so the vehicle will roll into the curb if it moves.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-127",
+    "category": "parking",
+    "questionText": "When parking downhill, you should:",
+    "answers": [
+      {"id": "a", "text": "Turn wheels away from the curb"},
+      {"id": "b", "text": "Turn wheels toward the curb"},
+      {"id": "c", "text": "Keep wheels straight"},
+      {"id": "d", "text": "Not use the parking brake"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "When parking downhill, turn your wheels toward the curb so the curb will stop the vehicle if it rolls.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-128",
+    "category": "parking",
+    "questionText": "You cannot park within ___ feet of the entrance to a fire station.",
+    "answers": [
+      {"id": "a", "text": "10 feet"},
+      {"id": "b", "text": "15 feet"},
+      {"id": "c", "text": "20 feet"},
+      {"id": "d", "text": "30 feet"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Parking is prohibited within 20 feet of a fire station entrance.",
+    "imageAssetName": null,
+    "difficulty": "hard"
+  },
+  {
+    "id": "ga-129",
+    "category": "parking",
+    "questionText": "Parking is prohibited on a bridge or in a tunnel:",
+    "answers": [
+      {"id": "a", "text": "At all times"},
+      {"id": "b", "text": "During rush hour only"},
+      {"id": "c", "text": "Unless emergency"},
+      {"id": "d", "text": "Only at night"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Parking on bridges and in tunnels is prohibited at all times due to safety concerns.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-130",
+    "category": "parking",
+    "questionText": "Double parking (parking alongside another parked vehicle) is:",
+    "answers": [
+      {"id": "a", "text": "Legal for loading"},
+      {"id": "b", "text": "Illegal"},
+      {"id": "c", "text": "Legal in rural areas"},
+      {"id": "d", "text": "Legal with hazard lights on"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Double parking is illegal as it obstructs traffic flow.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-131",
+    "category": "parking",
+    "questionText": "When leaving your vehicle parked, you must:",
+    "answers": [
+      {"id": "a", "text": "Leave the engine running"},
+      {"id": "b", "text": "Remove the key, set the parking brake, and lock the doors"},
+      {"id": "c", "text": "Leave windows open"},
+      {"id": "d", "text": "Leave in neutral"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Always turn off the engine, remove the key, set the parking brake, and lock your vehicle when parking.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-132",
+    "category": "alcoholDrugs",
+    "questionText": "Georgia's Implied Consent Law means:",
+    "answers": [
+      {"id": "a", "text": "You consent to a chemical test if arrested for DUI"},
+      {"id": "b", "text": "You can refuse all tests"},
+      {"id": "c", "text": "You only consent to a breathalyzer"},
+      {"id": "d", "text": "Police need a warrant first"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By driving in Georgia, you automatically consent to chemical testing (breath, blood, or urine) if arrested for DUI. Refusal results in license suspension.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-133",
+    "category": "alcoholDrugs",
+    "questionText": "The legal BAC limit for drivers 21 and older in Georgia is:",
+    "answers": [
+      {"id": "a", "text": "0.02%"},
+      {"id": "b", "text": "0.05%"},
+      {"id": "c", "text": "0.08%"},
+      {"id": "d", "text": "0.10%"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "For drivers 21 and older, the legal BAC limit is 0.08%. Anything at or above this level is illegal.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-134",
+    "category": "alcoholDrugs",
+    "questionText": "If you refuse a chemical test when arrested for DUI in Georgia:",
+    "answers": [
+      {"id": "a", "text": "Nothing happens"},
+      {"id": "b", "text": "Your license will be suspended for at least 1 year"},
+      {"id": "c", "text": "You get a warning"},
+      {"id": "d", "text": "You can take it later"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Refusing a chemical test results in automatic license suspension for one year for a first offense.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-135",
+    "category": "alcoholDrugs",
+    "questionText": "Which factor(s) affect how alcohol affects you?",
+    "answers": [
+      {"id": "a", "text": "Body weight and gender"},
+      {"id": "b", "text": "Amount of food in stomach"},
+      {"id": "c", "text": "Rate of consumption"},
+      {"id": "d", "text": "All of the above"}
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Many factors affect alcohol absorption including body weight, gender, food consumption, and drinking rate.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-136",
+    "category": "alcoholDrugs",
+    "questionText": "The only way to reduce your BAC is to:",
+    "answers": [
+      {"id": "a", "text": "Drink coffee"},
+      {"id": "b", "text": "Take a cold shower"},
+      {"id": "c", "text": "Wait for your body to metabolize the alcohol over time"},
+      {"id": "d", "text": "Exercise"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Only time will reduce BAC. Coffee, showers, and exercise do not speed up alcohol metabolism.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-137",
+    "category": "alcoholDrugs",
+    "questionText": "Open containers of alcohol in a vehicle are:",
+    "answers": [
+      {"id": "a", "text": "Legal if in the back seat"},
+      {"id": "b", "text": "Illegal anywhere in the passenger area"},
+      {"id": "c", "text": "Legal if the driver is not drinking"},
+      {"id": "d", "text": "Legal in the trunk only"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Georgia's Open Container Law prohibits open containers of alcohol in the passenger area of a vehicle, whether the driver is drinking or not.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-138",
+    "category": "alcoholDrugs",
+    "questionText": "Driving under the influence of drugs (prescription, over-the-counter, or illegal) is:",
+    "answers": [
+      {"id": "a", "text": "Legal if prescribed"},
+      {"id": "b", "text": "Illegal if they impair your ability to drive"},
+      {"id": "c", "text": "Only illegal for illegal drugs"},
+      {"id": "d", "text": "Legal with a doctor's note"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Any drug that impairs your driving ability is illegal to drive under, regardless of whether it's prescribed or over-the-counter.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-139",
+    "category": "alcoholDrugs",
+    "questionText": "A DUI conviction will result in:",
+    "answers": [
+      {"id": "a", "text": "License suspension"},
+      {"id": "b", "text": "Fines and possible jail time"},
+      {"id": "c", "text": "Mandatory DUI school or treatment"},
+      {"id": "d", "text": "All of the above"}
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "DUI convictions carry serious penalties including license suspension, fines, jail time, and mandatory education or treatment programs.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-140",
+    "category": "alcoholDrugs",
+    "questionText": "Alcohol begins to affect your driving ability:",
+    "answers": [
+      {"id": "a", "text": "After the first drink"},
+      {"id": "b", "text": "Only when legally intoxicated"},
+      {"id": "c", "text": "After 3-4 drinks"},
+      {"id": "d", "text": "Never if you're experienced"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Alcohol begins impairing judgment, reaction time, and coordination with the very first drink, well before reaching the legal limit.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-141",
+    "category": "alcoholDrugs",
+    "questionText": "If you are convicted of DUI and someone is injured as a result:",
+    "answers": [
+      {"id": "a", "text": "The penalties are the same"},
+      {"id": "b", "text": "The penalties are more severe (serious injury by vehicle)"},
+      {"id": "c", "text": "You only pay medical bills"},
+      {"id": "d", "text": "It's considered an accident"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "DUI causing injury results in much more severe penalties, including felony charges and lengthy prison sentences.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-142",
+    "category": "alcoholDrugs",
+    "questionText": "Combining alcohol with other drugs:",
+    "answers": [
+      {"id": "a", "text": "Reduces the effects"},
+      {"id": "b", "text": "Can multiply the impairing effects"},
+      {"id": "c", "text": "Has no additional impact"},
+      {"id": "d", "text": "Only affects illegal drugs"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Combining alcohol with other drugs (prescription, OTC, or illegal) can multiply the impairing effects and is extremely dangerous.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-143",
+    "category": "emergencies",
+    "questionText": "If your vehicle breaks down on the highway, you should:",
+    "answers": [
+      {"id": "a", "text": "Stop in the travel lane"},
+      {"id": "b", "text": "Pull as far off the road as possible and turn on hazard lights"},
+      {"id": "c", "text": "Leave the vehicle in the road"},
+      {"id": "d", "text": "Stand behind the vehicle"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Pull completely off the roadway if possible, turn on hazard lights, and stay in or near your vehicle away from traffic.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-144",
+    "category": "emergencies",
+    "questionText": "If your accelerator sticks while driving, you should:",
+    "answers": [
+      {"id": "a", "text": "Shift to neutral and brake"},
+      {"id": "b", "text": "Turn off the engine immediately"},
+      {"id": "c", "text": "Pump the accelerator"},
+      {"id": "d", "text": "Jump out of the car"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shift to neutral to disconnect the engine from the wheels, then brake and pull off the road safely.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-145",
+    "category": "emergencies",
+    "questionText": "If your vehicle catches fire while driving, you should:",
+    "answers": [
+      {"id": "a", "text": "Continue driving to the nearest fire station"},
+      {"id": "b", "text": "Pull over, turn off the engine, and exit immediately"},
+      {"id": "c", "text": "Open the hood to see the problem"},
+      {"id": "d", "text": "Use water to put it out"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Pull over immediately, turn off the engine, exit the vehicle, and move away. Call 911.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-146",
+    "category": "emergencies",
+    "questionText": "If you are involved in a collision with injuries, your first priority is to:",
+    "answers": [
+      {"id": "a", "text": "Move the vehicles"},
+      {"id": "b", "text": "Call 911 and render aid if trained"},
+      {"id": "c", "text": "Take photos"},
+      {"id": "d", "text": "Exchange insurance information"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Call 911 immediately for any collision with injuries, then render aid if you are trained to do so.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-147",
+    "category": "emergencies",
+    "questionText": "If your hood suddenly flies up while driving:",
+    "answers": [
+      {"id": "a", "text": "Try to look through the gap or use the side window to see, slow down, and pull off the road"},
+      {"id": "b", "text": "Speed up to blow it back down"},
+      {"id": "c", "text": "Stop immediately in traffic"},
+      {"id": "d", "text": "Stand up to see over it"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Look through any gap or out the side window, slow down carefully, and pull off the road safely.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-148",
+    "category": "emergencies",
+    "questionText": "If you encounter a flooded roadway, you should:",
+    "answers": [
+      {"id": "a", "text": "Drive through quickly"},
+      {"id": "b", "text": "Turn around and find an alternate route"},
+      {"id": "c", "text": "Test the depth first"},
+      {"id": "d", "text": "Follow other vehicles through"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Never drive through flooded areas. Turn around - even shallow water can cause loss of control or stalling.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-149",
+    "category": "stateSpecific",
+    "questionText": "Joshua's Law requires teen drivers under 18 to complete how many hours of supervised driving?",
+    "answers": [
+      {"id": "a", "text": "20 hours total"},
+      {"id": "b", "text": "30 hours total"},
+      {"id": "c", "text": "40 hours total (including 6 hours at night)"},
+      {"id": "d", "text": "50 hours total"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Joshua's Law requires 40 hours of supervised driving, with at least 6 of those hours at night, before a teen can obtain a Class D license.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-150",
+    "category": "stateSpecific",
+    "questionText": "A Class D Instructional Permit holder must have which licensed adult in the front seat?",
+    "answers": [
+      {"id": "a", "text": "Any licensed driver"},
+      {"id": "b", "text": "A licensed driver 21 or older"},
+      {"id": "c", "text": "A licensed driver 18 or older"},
+      {"id": "d", "text": "Parents only"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Class D permit holders must be accompanied by a licensed driver who is at least 21 years old in the front passenger seat.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-151",
+    "category": "stateSpecific",
+    "questionText": "During the first 6 months of a Class D Provisional License, the driver may have:",
+    "answers": [
+      {"id": "a", "text": "Only immediate family members as passengers"},
+      {"id": "b", "text": "One passenger under 21"},
+      {"id": "c", "text": "Up to three passengers under 21"},
+      {"id": "d", "text": "Any number of passengers"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For the first 6 months, Class D drivers can only have immediate family members as passengers (with exceptions for school, work, or emergencies).",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-152",
+    "category": "stateSpecific",
+    "questionText": "After the first 6 months but before 18, a Class D driver may have:",
+    "answers": [
+      {"id": "a", "text": "No passengers under 21"},
+      {"id": "b", "text": "Up to one passenger under 21"},
+      {"id": "c", "text": "Up to three passengers under 21"},
+      {"id": "d", "text": "Unlimited passengers"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "After the first 6 months, Class D drivers may have up to three passengers under 21 who are not immediate family members.",
+    "imageAssetName": null,
+    "difficulty": "hard"
+  },
+  {
+    "id": "ga-153",
+    "category": "stateSpecific",
+    "questionText": "Georgia's Class D curfew for provisional license holders (ages 16-17) is:",
+    "answers": [
+      {"id": "a", "text": "10 PM to 6 AM"},
+      {"id": "b", "text": "11 PM to 5 AM"},
+      {"id": "c", "text": "Midnight to 6 AM"},
+      {"id": "d", "text": "Midnight to 5 AM"}
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Class D provisional license holders cannot drive between midnight and 5:00 AM (with exceptions for school, work, or emergencies).",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-154",
+    "category": "stateSpecific",
+    "questionText": "The minimum age to obtain a Class D Instructional Permit in Georgia is:",
+    "answers": [
+      {"id": "a", "text": "15 years old"},
+      {"id": "b", "text": "15.5 years old"},
+      {"id": "c", "text": "16 years old"},
+      {"id": "d", "text": "17 years old"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Georgia teens can obtain a Class D Instructional Permit at age 15 if enrolled in an approved driver's education course.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-155",
+    "category": "stateSpecific",
+    "questionText": "Georgia's cell phone ban prohibits drivers under 18 from:",
+    "answers": [
+      {"id": "a", "text": "Texting only"},
+      {"id": "b", "text": "Using any wireless device, even hands-free"},
+      {"id": "c", "text": "Talking on phone only"},
+      {"id": "d", "text": "Using GPS"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Drivers under 18 are prohibited from using ANY wireless telecommunications device while driving, including hands-free devices.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-156",
+    "category": "stateSpecific",
+    "questionText": "The Hands-Free Georgia Act prohibits all drivers from:",
+    "answers": [
+      {"id": "a", "text": "Writing, sending, or reading text messages"},
+      {"id": "b", "text": "Holding or supporting a phone with any part of the body"},
+      {"id": "c", "text": "Watching videos or streaming content"},
+      {"id": "d", "text": "All of the above"}
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "The Hands-Free Georgia Act prohibits holding phones, texting, watching videos, and recording while driving for all drivers.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-157",
+    "category": "stateSpecific",
+    "questionText": "Georgia's Graduated Driver License program is designed to:",
+    "answers": [
+      {"id": "a", "text": "Gradually introduce teens to driving privileges"},
+      {"id": "b", "text": "Reduce teen crashes and fatalities"},
+      {"id": "c", "text": "Provide experience in low-risk situations first"},
+      {"id": "d", "text": "All of the above"}
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "The GDL program gradually introduces driving privileges to help teens gain experience while limiting high-risk situations.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-158",
+    "category": "stateSpecific",
+    "questionText": "How many sections must you pass to obtain a Georgia driver's permit?",
+    "answers": [
+      {"id": "a", "text": "One combined test"},
+      {"id": "b", "text": "Two sections: 20 Road Signs and 20 Road Rules"},
+      {"id": "c", "text": "Three sections"},
+      {"id": "d", "text": "Four sections"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Georgia's knowledge test is split into two sections: 20 Road Signs and 20 Road Rules. You must score 75% (15/20) on EACH section.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-159",
+    "category": "stateSpecific",
+    "questionText": "In Georgia, if you are convicted of a 'Super Speeder' violation, you will pay:",
+    "answers": [
+      {"id": "a", "text": "No additional fee"},
+      {"id": "b", "text": "An additional $50 state fee"},
+      {"id": "c", "text": "An additional $200 state fee"},
+      {"id": "d", "text": "An additional $500 state fee"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Super Speeder violations result in an additional $200 state fee on top of any fines and court costs.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-160",
+    "category": "stateSpecific",
+    "questionText": "Georgia's Point System assigns points for:",
+    "answers": [
+      {"id": "a", "text": "Traffic violations and at-fault accidents"},
+      {"id": "b", "text": "Good driving behavior"},
+      {"id": "c", "text": "Miles driven"},
+      {"id": "d", "text": "Years licensed"}
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Georgia assigns points for traffic violations and at-fault accidents. Accumulating too many points can result in license suspension.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-161",
+    "category": "finesAndLimits",
+    "questionText": "Accumulating 15 points within 24 months will result in:",
+    "answers": [
+      {"id": "a", "text": "A warning letter"},
+      {"id": "b", "text": "License suspension"},
+      {"id": "c", "text": "Increased insurance only"},
+      {"id": "d", "text": "Nothing"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Accumulating 15 or more points in 24 months will result in license suspension in Georgia.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-162",
+    "category": "finesAndLimits",
+    "questionText": "A conviction for reckless driving in Georgia carries:",
+    "answers": [
+      {"id": "a", "text": "2 points"},
+      {"id": "b", "text": "4 points"},
+      {"id": "c", "text": "6 points"},
+      {"id": "d", "text": "Immediate suspension"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Reckless driving is a 4-point violation in Georgia.",
+    "imageAssetName": null,
+    "difficulty": "hard"
+  },
+  {
+    "id": "ga-163",
+    "category": "finesAndLimits",
+    "questionText": "Speeding 15-18 mph over the speed limit results in:",
+    "answers": [
+      {"id": "a", "text": "1 point"},
+      {"id": "b", "text": "2 points"},
+      {"id": "c", "text": "3 points"},
+      {"id": "d", "text": "4 points"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Speeding 15-18 mph over the limit is a 2-point violation.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-164",
+    "category": "finesAndLimits",
+    "questionText": "Speeding 19-23 mph over the speed limit results in:",
+    "answers": [
+      {"id": "a", "text": "2 points"},
+      {"id": "b", "text": "3 points"},
+      {"id": "c", "text": "4 points"},
+      {"id": "d", "text": "6 points"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Speeding 19-23 mph over the limit is a 3-point violation.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-165",
+    "category": "finesAndLimits",
+    "questionText": "Speeding 24-33 mph over the speed limit results in:",
+    "answers": [
+      {"id": "a", "text": "2 points"},
+      {"id": "b", "text": "3 points"},
+      {"id": "c", "text": "4 points"},
+      {"id": "d": "6 points"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Speeding 24-33 mph over the limit is a 4-point violation.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-166",
+    "category": "finesAndLimits",
+    "questionText": "Speeding 34 mph or more over the speed limit results in:",
+    "answers": [
+      {"id": "a", "text": "4 points"},
+      {"id": "b", "text": "6 points"},
+      {"id": "c", "text": "8 points"},
+      {"id": "d", "text": "Immediate suspension"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Speeding 34 mph or more over the limit is a 6-point violation and may result in additional penalties.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-167",
+    "category": "finesAndLimits",
+    "questionText": "Improper passing, following too closely, or violating traffic control devices carries:",
+    "answers": [
+      {"id": "a", "text": "1 point"},
+      {"id": "b", "text": "2 points"},
+      {"id": "c", "text": "3 points"},
+      {"id": "d", "text": "4 points"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "These violations typically carry 3 points in Georgia.",
+    "imageAssetName": null,
+    "difficulty": "hard"
+  },
+  {
+    "id": "ga-168",
+    "category": "finesAndLimits",
+    "questionText": "Passing a stopped school bus illegally results in:",
+    "answers": [
+      {"id": "a", "text": "2 points"},
+      {"id": "b", "text": "4 points"},
+      {"id": "c", "text": "6 points"},
+      {"id": "d", "text": "8 points"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Illegally passing a stopped school bus is a serious 6-point violation with heavy fines.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-169",
+    "category": "finesAndLimits",
+    "questionText": "In Georgia, you can reduce points on your license by:",
+    "answers": [
+      {"id": "a", "text": "Completing an approved defensive driving course"},
+      {"id": "b", "text": "Waiting for them to expire"},
+      {"id": "c", "text": "Both A and B"},
+      {"id": "d", "text": "Paying a fee"}
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Points can be reduced by completing an approved defensive driving course (up to 7 points once per 5 years) or will expire after 24 months.",
+    "imageAssetName": null,
+    "difficulty": "medium"
+  },
+  {
+    "id": "ga-170",
+    "category": "finesAndLimits",
+    "questionText": "Fines in construction zones are:",
+    "answers": [
+      {"id": "a", "text": "The same as elsewhere"},
+      {"id": "b", "text": "Doubled"},
+      {"id": "c", "text": "Tripled"},
+      {"id": "d", "text": "Reduced"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Fines for violations in construction zones are typically doubled to protect workers.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ga-171",
+    "category": "finesAndLimits",
+    "questionText": "Driving without a valid license in Georgia can result in:",
+    "answers": [
+      {"id": "a", "text": "A warning only"},
+      {"id": "b", "text": "Fines and possible jail time"},
+      {"id": "c", "text": "Points on your license"},
+      {"id": "d", "text": "Community service"}
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Driving without a valid license is a misdemeanor offense punishable by fines and potential jail time.",
+    "imageAssetName": null,
+    "difficulty": "easy"
+  }
+]

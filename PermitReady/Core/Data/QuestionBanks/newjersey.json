@@ -1,0 +1,2272 @@
+{
+  "stateCode": "NJ",
+  "stateName": "New Jersey",
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-15",
+  "testInfo": {
+    "questionCount": 50,
+    "passingPercentage": 80,
+    "passingScore": 40,
+    "minimumPermitAge": 16,
+    "hasSplitTest": false,
+    "timeLimit": null,
+    "uniqueRequirements": [
+      "Kyleigh's Law: Drivers under 21 with a permit or probationary license must display red reflectorized decals on the top left corner of both license plates",
+      "GDL curfew: No driving between 11:01 PM and 5:00 AM (Under 21)",
+      "New 2025 Requirement: Under-21 permit holders must complete 50 hours of supervised practice driving (10 at night) before getting a probationary license",
+      "6 Point ID Verification required for all licenses"
+    ]
+  },
+  "questions": [
+    {
+      "id": "nj-001",
+      "category": "trafficLaws",
+      "questionText": "Under the GDL (Graduated Driver License) law, a motorist under 21 with a probationary license must strictly adhere to the following driving hours:",
+      "answers": [
+        {"id": "a", "text": "No driving between 11:01 PM and 5:00 AM"},
+        {"id": "b", "text": "No driving between 10:00 PM and 6:00 AM"},
+        {"id": "c", "text": "No driving between Midnight and 5:00 AM"},
+        {"id": "d", "text": "No driving between 9:00 PM and 6:00 AM"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Holders of a validated Special Learner Permit or Probationary License under 21 are restricted from driving between 11:01 PM and 5:00 AM.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-002",
+      "category": "trafficLaws",
+      "questionText": "The holder of a validated GDL Special Learner Permit or Examination Permit (under 21) must meet which of the following requirements before obtaining a Probationary License?",
+      "answers": [
+        {"id": "a", "text": "Pass a road test"},
+        {"id": "b", "text": "Be at least 17 years old"},
+        {"id": "c", "text": "Complete 6 months of supervised driving"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "To upgrade to a Probationary License, you must be at least 17, pass a road test, and have completed 6 months of supervised driving without suspensions.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-003",
+      "category": "parking",
+      "questionText": "Under New Jersey law, you may not park within ___ feet of a fire hydrant.",
+      "answers": [
+        {"id": "a", "text": "10 feet"},
+        {"id": "b", "text": "15 feet"},
+        {"id": "c", "text": "25 feet"},
+        {"id": "d", "text": "50 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must not park within 10 feet of a fire hydrant.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-004",
+      "category": "trafficLaws",
+      "questionText": "Any vehicle operated by a GDL driver under 21 must display:",
+      "answers": [
+        {"id": "a", "text": "1 reflective red decal on the rear license plate"},
+        {"id": "b", "text": "1 reflective red decal on the front license plate"},
+        {"id": "c", "text": "1 reflective red decal on the top left corner of both the front and rear license plates"},
+        {"id": "d", "text": "A 'Student Driver' magnet on the bumper"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Kyleigh's Law requires any vehicle operated by a GDL driver under 21 to display two visible red reflective decals, distributed to the top left corner of the front and rear license plates.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-005",
+      "category": "trafficLaws",
+      "questionText": "The passenger restrictions for a Probationary Driver License holder (under 21) are:",
+      "answers": [
+        {"id": "a", "text": "No passengers allowed"},
+        {"id": "b", "text": "Dependents of the probationary license holder and one additional person, unless accompanied by a parent/guardian"},
+        {"id": "c", "text": "Only one parent or guardian allowed"},
+        {"id": "d", "text": "Any number of passengers if they are all over 21"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Probationary license holders are limited to dependents plus one additional passenger, unless accompanied by a parent or guardian.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-006",
+      "category": "trafficLaws",
+      "questionText": "A motorist who changes addresses must report this change to the MVC within:",
+      "answers": [
+        {"id": "a", "text": "One week"},
+        {"id": "b", "text": "Two weeks"},
+        {"id": "c", "text": "One month"},
+        {"id": "d", "text": "Six months"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Motorists who change their address must report the change to the MVC within one week after moving.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-007",
+      "category": "trafficLaws",
+      "questionText": "Drivers must use their headlights:",
+      "answers": [
+        {"id": "a", "text": "One hour after sunset and one hour before sunrise"},
+        {"id": "b", "text": "Only when it is raining"},
+        {"id": "c", "text": "Between one-half hour after sunset and one-half hour before sunrise and whenever visibility is 500 feet or less"},
+        {"id": "d", "text": "Only on highways"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Headlights must be used between one-half hour after sunset and one-half hour before sunrise. They must also be used when visibility is 500 feet or less and when using windshield wipers.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-008",
+      "category": "safeDriving",
+      "questionText": "If a person has been drinking, what is the only thing that can sober them up?",
+      "answers": [
+        {"id": "a", "text": "Drinking hot coffee"},
+        {"id": "b", "text": "Taking a cold shower"},
+        {"id": "c", "text": "Time"},
+        {"id": "d", "text": "Eating a heavy meal"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Only time will allow your body to process and eliminate alcohol. Coffee, food, and showers do not speed up the process.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-009",
+      "category": "rightOfWay",
+      "questionText": "Under New Jersey law, motorists signaling a right turn must yield to which of the following individuals?",
+      "answers": [
+        {"id": "a", "text": "Inline skaters and skateboarders"},
+        {"id": "b", "text": "Bicyclists"},
+        {"id": "c", "text": "Pedestrians"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Motorists must yield to all oncoming traffic and pedestrians, including bicyclists, skateboarders, and inline skaters.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-010",
+      "category": "safeDriving",
+      "questionText": "During rain, snow, or ice, all drivers must have:",
+      "answers": [
+        {"id": "a", "text": "Their high beams on"},
+        {"id": "b", "text": "Their wipers and headlights on"},
+        {"id": "c", "text": "Their hazard lights on"},
+        {"id": "d", "text": "Their radio off"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "New Jersey law requires all motorists to turn a vehicle's headlights on whenever windshield wipers are in use.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-011",
+      "category": "finesAndLimits",
+      "questionText": "If you accumulate six or more points within three years, you are subject to a surcharge of $150. How much is the surcharge for each additional point after six?",
+      "answers": [
+        {"id": "a", "text": "$10"},
+        {"id": "b", "text": "$25"},
+        {"id": "c", "text": "$50"},
+        {"id": "d", "text": "$100"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Motorists who accumulate six or more points within three years are subject to a surcharge of $150 for six points and $25 for each additional point.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-012",
+      "category": "finesAndLimits",
+      "questionText": "The New Jersey speed limit in a business or residential district, unless otherwise posted, is:",
+      "answers": [
+        {"id": "a", "text": "20 mph"},
+        {"id": "b", "text": "25 mph"},
+        {"id": "c", "text": "30 mph"},
+        {"id": "d", "text": "35 mph"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Unless otherwise posted, the speed limit in school zones, business, or residential districts is 25 mph.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-013",
+      "category": "finesAndLimits",
+      "questionText": "Refusal of a breath test in NJ is equal to driving with a BAC of .10% and a first offense penalty of:",
+      "answers": [
+        {"id": "a", "text": "Loss of license for 7 months to 1 year and an insurance surcharge of $1,000 a year for 3 years"},
+        {"id": "b", "text": "A fine of $50"},
+        {"id": "c", "text": "30 days in jail"},
+        {"id": "d", "text": "Warning only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Refusing a breath test carries the same penalties as a DUI with a BAC of 0.10% or higher, including a surcharge of $1,000/year for 3 years.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-014",
+      "category": "finesAndLimits",
+      "questionText": "How much is the fine for violating any of the restrictions of the GDL Permit or Probationary License?",
+      "answers": [
+        {"id": "a", "text": "$50"},
+        {"id": "b", "text": "$100"},
+        {"id": "c", "text": "$250"},
+        {"id": "d", "text": "$500"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Failure to abide by GDL restrictions (hours, passengers, decals) results in a fine of $100 or possible suspension of driving privileges.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-015",
+      "category": "finesAndLimits",
+      "questionText": "Altering a driver license, or showing an altered driver license, may result in:",
+      "answers": [
+        {"id": "a", "text": "A fine of $50"},
+        {"id": "b", "text": "A suspension, a fine, and up to six months imprisonment"},
+        {"id": "c", "text": "Community service"},
+        {"id": "d", "text": "Points on your license only"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Altering a license is a serious offense that can result in the loss of driving privileges, a fine of up to $1,000, and up to six months imprisonment.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-016",
+      "category": "parking",
+      "questionText": "You may not park within ___ feet of a stop sign.",
+      "answers": [
+        {"id": "a", "text": "10 feet"},
+        {"id": "b", "text": "20 feet"},
+        {"id": "c", "text": "25 feet"},
+        {"id": "d", "text": "50 feet"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Parking is prohibited within 50 feet of a stop sign.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-017",
+      "category": "safeDriving",
+      "questionText": "To avoid 'highway hypnosis' when driving, it is a good practice to:",
+      "answers": [
+        {"id": "a", "text": "Look straight ahead at all times"},
+        {"id": "b", "text": "Avoid looking at any one thing for more than a few seconds"},
+        {"id": "c", "text": "Rest your eyes by blinking slowly"},
+        {"id": "d", "text": "Listen to loud music"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "To avoid highway hypnosis, do not stare at one thing for more than a few seconds. Keep your eyes moving.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-018",
+      "category": "safeDriving",
+      "questionText": "The best way to enter a curve is:",
+      "answers": [
+        {"id": "a", "text": "Speed up while in the curve"},
+        {"id": "b", "text": "Slow down before entering the curve"},
+        {"id": "c", "text": "Lean into the curve"},
+        {"id": "d", "text": "Maintain your highway speed"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Slow down before entering a curve to avoid drifting into another lane.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-019",
+      "category": "safeDriving",
+      "questionText": "When driving around a sharp curve, your vehicle will tend to:",
+      "answers": [
+        {"id": "a", "text": "Keep going straight"},
+        {"id": "b", "text": "Turn sharply inwards"},
+        {"id": "c", "text": "Slow down automatically"},
+        {"id": "d", "text": "Stop"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Due to inertia, your vehicle will tend to keep going straight when entering a curve.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-020",
+      "category": "safeDriving",
+      "questionText": "In city driving, you should:",
+      "answers": [
+        {"id": "a", "text": "Drive more slowly"},
+        {"id": "b", "text": "Watch for pedestrians"},
+        {"id": "c", "text": "Look at least 12 seconds ahead"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "In city driving, you should drive slowly, watch for pedestrians, and look at least 12 seconds ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-021",
+      "category": "safeDriving",
+      "questionText": "To safely share the road with large trucks and buses, you must know:",
+      "answers": [
+        {"id": "a", "text": "The limitations of these vehicles regarding visibility, stopping distances, and maneuverability"},
+        {"id": "b", "text": "The driver's name"},
+        {"id": "c", "text": "The trucking company's phone number"},
+        {"id": "d", "text": "How to honk loudly"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Sharing the road with large trucks requires understanding their 'No-Zones' (blind spots), longer stopping distances (up to 25% longer), and wider turns.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-022",
+      "category": "safeDriving",
+      "questionText": "Road surfaces are most slippery:",
+      "answers": [
+        {"id": "a", "text": "During very hot weather"},
+        {"id": "b", "text": "During the first few minutes of a rainfall"},
+        {"id": "c", "text": "After it has been raining for an hour"},
+        {"id": "d", "text": "During a light snow"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Roads are most slippery during the first few minutes of rainfall due to oil and dirt rising to the surface.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-023",
+      "category": "safeDriving",
+      "questionText": "If your wheels drift onto the shoulder of the road and you want to return to the paved road, you should:",
+      "answers": [
+        {"id": "a", "text": "Turn the wheel sharply back onto the road"},
+        {"id": "b", "text": "Slow down and regain control"},
+        {"id": "c", "text": "Speed up to get back on the road quickly"},
+        {"id": "d", "text": "Apply the brakes hard"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Do not try to turn back onto the pavement right away. Slow down, regain control, and turn slowly onto the road.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-024",
+      "category": "safeDriving",
+      "questionText": "If you have a flat tire or blowout, you should:",
+      "answers": [
+        {"id": "a", "text": "Hold the wheel firmly"},
+        {"id": "b", "text": "Remove your foot from the gas pedal"},
+        {"id": "c", "text": "Let the vehicle coast to a stop"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "If you experience a blowout, hold the steering wheel firmly, keep the vehicle straight while gradually slowing down, and remove your foot from the gas pedal.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-025",
+      "category": "safeDriving",
+      "questionText": "When driving at night, be sure that you can stop:",
+      "answers": [
+        {"id": "a", "text": "Within 10 feet"},
+        {"id": "b", "text": "Within the distance you can see ahead"},
+        {"id": "c", "text": "Within 100 feet"},
+        {"id": "d", "text": "Within 20 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "At night, your vision is reduced. You should drive at a speed that allows you to stop within the distance lighted by your headlights.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-026",
+      "category": "rightOfWay",
+      "questionText": "If two cars enter an uncontrolled intersection at the same time:",
+      "answers": [
+        {"id": "a", "text": "The driver on the left must yield to the driver on the right"},
+        {"id": "b", "text": "The driver on the right must yield to the driver on the left"},
+        {"id": "c", "text": "The driver going faster goes first"},
+        {"id": "d", "text": "The largest vehicle goes first"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "At a multi-way stop or uncontrolled intersection, you must yield to the vehicle on your right if you arrive at the same time.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-027",
+      "category": "rightOfWay",
+      "questionText": "An acceleration lane is:",
+      "answers": [
+        {"id": "a", "text": "The left lane of a two-lane highway"},
+        {"id": "b", "text": "An extra lane at a highway entrance"},
+        {"id": "c", "text": "A passing lane"},
+        {"id": "d", "text": "An extra lane at a highway exit"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "An acceleration lane is an extra lane used by motorists entering a highway to speed up and join the flow of traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-028",
+      "category": "rightOfWay",
+      "questionText": "A deceleration lane is:",
+      "answers": [
+        {"id": "a", "text": "An extra lane at a highway exit"},
+        {"id": "b", "text": "A lane for slow drivers only"},
+        {"id": "c", "text": "A parking lane"},
+        {"id": "d", "text": "The shoulder of the road"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A deceleration lane is an extra lane at a highway exit used to safely slow down before leaving the highway.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-029",
+      "category": "parking",
+      "questionText": "You may not park within ___ feet of a crosswalk at an intersection.",
+      "answers": [
+        {"id": "a", "text": "10 feet"},
+        {"id": "b", "text": "20 feet"},
+        {"id": "c", "text": "25 feet"},
+        {"id": "d", "text": "50 feet"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Parking is prohibited within 25 feet of a crosswalk at an intersection.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-030",
+      "category": "trafficLaws",
+      "questionText": "When a school bus has stopped directly in front of a school to pick up or let off children, you may pass from either direction at a speed of no more than:",
+      "answers": [
+        {"id": "a", "text": "10 mph"},
+        {"id": "b", "text": "15 mph"},
+        {"id": "c", "text": "20 mph"},
+        {"id": "d", "text": "25 mph"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "If a school bus has stopped directly in front of a school to pick up or drop off children, you may pass at a speed of no more than 10 mph.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-031",
+      "category": "rightOfWay",
+      "questionText": "You should always yield to:",
+      "answers": [
+        {"id": "a", "text": "Emergency vehicles"},
+        {"id": "b", "text": "Pedestrians"},
+        {"id": "c", "text": "Other vehicles already in the intersection"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Drivers must yield to emergency vehicles, pedestrians, buses re-entering traffic, and vehicles already in the intersection.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-032",
+      "category": "rightOfWay",
+      "questionText": "New Jersey's 'Move Over' law requires that:",
+      "answers": [
+        {"id": "a", "text": "You stop immediately when you see police lights"},
+        {"id": "b", "text": "You move to the lane furthest away from a stopped emergency or service vehicle, or slow down significantly if unsafe to move"},
+        {"id": "c", "text": "You speed up to clear the area"},
+        {"id": "d", "text": "You flash your lights at the police"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Drivers approaching a stationary emergency or service vehicle with flashing lights must change lanes to a lane not adjacent to the vehicle. If impossible, they must reduce speed.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-033",
+      "category": "trafficLaws",
+      "questionText": "When you see or hear emergency vehicles responding with sirens and/or flashing lights, you must:",
+      "answers": [
+        {"id": "a", "text": "Speed up"},
+        {"id": "b", "text": "Follow them closely"},
+        {"id": "c", "text": "Pull over to the extreme right of the roadway and stop, waiting for them to pass"},
+        {"id": "d", "text": "Stop immediately where you are"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "New Jersey law requires you to yield to emergency vehicles sounding sirens or flashing lights. Steer to the extreme right of the roadway and stop.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-034",
+      "category": "roadSigns",
+      "questionText": "A triangular shaped sign is a:",
+      "answers": [
+        {"id": "a", "text": "Warning sign"},
+        {"id": "b", "text": "Yield sign"},
+        {"id": "c", "text": "School sign"},
+        {"id": "d", "text": "Stop sign"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A red and white inverted triangle is exclusively used for Yield signs.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-035",
+      "category": "roadSigns",
+      "questionText": "The shape of a stop sign is:",
+      "answers": [
+        {"id": "a", "text": "Triangle"},
+        {"id": "b", "text": "Eight-sided (Octagon)"},
+        {"id": "c", "text": "Circle"},
+        {"id": "d", "text": "Square"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A stop sign is always an eight-sided red octagon.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-036",
+      "category": "roadSigns",
+      "questionText": "A diamond shaped sign is a:",
+      "answers": [
+        {"id": "a", "text": "Stop sign"},
+        {"id": "b", "text": "Yield sign"},
+        {"id": "c", "text": "Construction and warning sign"},
+        {"id": "d", "text": "School sign"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Yellow diamond signs are warning signs; orange diamond signs are construction signs.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-037",
+      "category": "roadSigns",
+      "questionText": "A railroad crossing sign is:",
+      "answers": [
+        {"id": "a", "text": "Black and Yellow (Circle)"},
+        {"id": "b", "text": "Red and White (Triangle)"},
+        {"id": "c", "text": "Blue and White (Square)"},
+        {"id": "d", "text": "Green and White (Rectangle)"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A round yellow sign with a black 'X' and 'RR' is the advance warning sign for a railroad crossing.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-038",
+      "category": "roadSigns",
+      "questionText": "A flashing red traffic light means:",
+      "answers": [
+        {"id": "a", "text": "Slow down"},
+        {"id": "b", "text": "Stop, yield to traffic and pedestrians"},
+        {"id": "c", "text": "Go if safe"},
+        {"id": "d", "text": "Merge"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A flashing red light means stop. Yield to traffic and pedestrians, then proceed only when safe.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-039",
+      "category": "roadSigns",
+      "questionText": "Double solid lines in the center of a road mean:",
+      "answers": [
+        {"id": "a", "text": "Passing is allowed on both sides"},
+        {"id": "b", "text": "Passing is allowed on one side"},
+        {"id": "c", "text": "No passing allowed"},
+        {"id": "d", "text": "Center turn lane"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Double solid lines indicate that passing is prohibited for vehicles in both directions.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-040",
+      "category": "roadSigns",
+      "questionText": "When the pavement is marked with two centerlines, one solid and one broken:",
+      "answers": [
+        {"id": "a", "text": "Passing is permitted only on the side with the broken line"},
+        {"id": "b", "text": "Passing is permitted on both sides"},
+        {"id": "c", "text": "Passing is not permitted on either side"},
+        {"id": "d", "text": "It is a reversible lane"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Passing is allowed only on the side with the broken line. The solid line side cannot pass.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-041",
+      "category": "parking",
+      "questionText": "You cannot park:",
+      "answers": [
+        {"id": "a", "text": "In front of a public or private driveway"},
+        {"id": "b", "text": "Within an intersection"},
+        {"id": "c", "text": "On a crosswalk"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Parking is illegal in all these locations: driveways, intersections, and crosswalks.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-042",
+      "category": "trafficLaws",
+      "questionText": "Effective 2025, holders of a permit under age 21 must complete ___ hours of supervised practice driving.",
+      "answers": [
+        {"id": "a", "text": "20 hours"},
+        {"id": "b", "text": "40 hours"},
+        {"id": "c", "text": "50 hours"},
+        {"id": "d", "text": "100 hours"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Under the new law effective Feb 1, 2025, permit holders under 21 must certify 50 hours of supervised driving (10 at night) before getting their probationary license.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-043",
+      "category": "finesAndLimits",
+      "questionText": "Drivers convicted of a moving violation in a construction zone are subject to:",
+      "answers": [
+        {"id": "a", "text": "Double fines"},
+        {"id": "b", "text": "Half fines"},
+        {"id": "c", "text": "No points"},
+        {"id": "d", "text": "Jail time only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Fines are doubled for motor vehicle violations committed in the area of roadway construction zones.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-044",
+      "category": "safeDriving",
+      "questionText": "To maintain a proper following distance when driving, you should stay at least:",
+      "answers": [
+        {"id": "a", "text": "1 second behind the vehicle in front of you"},
+        {"id": "b", "text": "3 seconds behind the vehicle in front of you"},
+        {"id": "c", "text": "5 seconds behind the vehicle in front of you"},
+        {"id": "d", "text": "100 feet behind the vehicle in front of you"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "New Jersey recommends the 'three-second plus rule' for following distance during normal weather conditions.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-045",
+      "category": "trafficLaws",
+      "questionText": "The implied consent law means when you operate a motor vehicle on New Jersey roads:",
+      "answers": [
+        {"id": "a", "text": "You have agreed to take a breath test following an arrest for a suspected drinking and driving offense"},
+        {"id": "b", "text": "You have agreed to let the police search your car"},
+        {"id": "c", "text": "You have agreed to drive slowly"},
+        {"id": "d", "text": "You have agreed to always wear a seatbelt"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Implied consent means simply by using NJ roads, you have agreed to submit to a breath test if arrested for suspicion of DUI.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-046",
+      "category": "safeDriving",
+      "questionText": "If a vehicle is passing you, you should:",
+      "answers": [
+        {"id": "a", "text": "Speed up so they cannot pass"},
+        {"id": "b", "text": "Flash your lights"},
+        {"id": "c", "text": "Slow down slightly to make it easier for the other motorist to pass"},
+        {"id": "d", "text": "Honk your horn"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "If someone is passing you, be a defensive driver: slow down slightly and stay in your lane to help them pass safely.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-047",
+      "category": "trafficLaws",
+      "questionText": "Habitual Offenders are those who:",
+      "answers": [
+        {"id": "a", "text": "Have 3 license suspensions in 3 years"},
+        {"id": "b", "text": "Have 12 points on their license"},
+        {"id": "c", "text": "Drive without a license"},
+        {"id": "d", "text": "Speed frequently"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A Habitual Offender is a motorist whose license has been suspended three times in three years.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-048",
+      "category": "trafficLaws",
+      "questionText": "If you sell your car (and do not buy another), what should you do with the license plates?",
+      "answers": [
+        {"id": "a", "text": "Keep them as a souvenir"},
+        {"id": "b", "text": "Throw them in the trash"},
+        {"id": "c", "text": "Turn them into any MVC Agency or mail them to Trenton"},
+        {"id": "d", "text": "Give them to the new owner"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "If you sell your vehicle and terminate your insurance, you must return the plates to the MVC.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-049",
+      "category": "roadSigns",
+      "questionText": "When a traffic signal is hung vertically, the order of lights from top to bottom is:",
+      "answers": [
+        {"id": "a", "text": "Red, Yellow, Green"},
+        {"id": "b", "text": "Green, Yellow, Red"},
+        {"id": "c", "text": "Red, Green, Yellow"},
+        {"id": "d", "text": "Yellow, Red, Green"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The standard order for a vertical traffic light is Red on top, Yellow in the middle, and Green on the bottom.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-050",
+      "category": "safeDriving",
+      "questionText": "A motorist should increase following distance behind a large vehicle so its driver:",
+      "answers": [
+        {"id": "a", "text": "Can see the motorist's vehicle in their rearview mirrors"},
+        {"id": "b", "text": "Can speed up"},
+        {"id": "c", "text": "Does not stop suddenly"},
+        {"id": "d", "text": "Can see the motorist's headlights"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Increase distance so the truck driver can spot you in their side-view mirrors. If you can't see their mirrors, they can't see you.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-051",
+      "category": "trafficLaws",
+      "questionText": "Every vehicle registered in New Jersey must be insured for:",
+      "answers": [
+        {"id": "a", "text": "Collision"},
+        {"id": "b", "text": "Liability"},
+        {"id": "c", "text": "Fire damage"},
+        {"id": "d", "text": "Theft"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Liability insurance is mandatory for every vehicle registered in New Jersey.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-052",
+      "category": "roadSigns",
+      "questionText": "An eight-sided sign means:",
+      "answers": [
+        {"id": "a", "text": "Stop"},
+        {"id": "b", "text": "Yield"},
+        {"id": "c", "text": "School"},
+        {"id": "d", "text": "No Passing"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The octagon (8-sided) shape is exclusively reserved for Stop signs.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-053",
+      "category": "safeDriving",
+      "questionText": "To steer the car while moving backward, you should turn the steering wheel:",
+      "answers": [
+        {"id": "a", "text": "In the direction you want the rear of the car to go"},
+        {"id": "b", "text": "Opposite the direction you want to go"},
+        {"id": "c", "text": "To the right always"},
+        {"id": "d", "text": "To the left always"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "When backing up, turn the wheel in the direction you want the rear of the vehicle to go.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-054",
+      "category": "trafficLaws",
+      "questionText": "You cannot park within how many feet of a crosswalk at an intersection?",
+      "answers": [
+        {"id": "a", "text": "25 feet"},
+        {"id": "b", "text": "10 feet"},
+        {"id": "c", "text": "50 feet"},
+        {"id": "d", "text": "20 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Parking is prohibited within 25 feet of a crosswalk.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-055",
+      "category": "finesAndLimits",
+      "questionText": "Applying for a driver’s license illegally may result in:",
+      "answers": [
+        {"id": "a", "text": "Licensed suspension, fine of $200 to $500 and/or imprisonment"},
+        {"id": "b", "text": "A fine of $25 to $100"},
+        {"id": "c", "text": "Imprisonment of 6 months"},
+        {"id": "d", "text": "A court trial"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Illegal application for a license results in a fine of $200-$500 and possible jail time.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-056",
+      "category": "trafficLaws",
+      "questionText": "When two or more roads join and there is no signal or regulatory device, it is good practice to:",
+      "answers": [
+        {"id": "a", "text": "Reduce speed and be ready to stop"},
+        {"id": "b", "text": "Speed up to get through"},
+        {"id": "c", "text": "Blow your horn"},
+        {"id": "d", "text": "Ignore traffic"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "At uncontrolled intersections, reduce speed and be prepared to stop for traffic.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-057",
+      "category": "safeDriving",
+      "questionText": "The best way to talk to other drivers on the road is to:",
+      "answers": [
+        {"id": "a", "text": "Use your horn, lights, and hand signals"},
+        {"id": "b", "text": "Roll down your window and yell"},
+        {"id": "c", "text": "Be impatient"},
+        {"id": "d", "text": "Drive close to them"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Communicate intentions using turn signals, brake lights, and the horn.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-058",
+      "category": "trafficLaws",
+      "questionText": "If you are under 21, New Jersey law states that you may be under the influence if your BAC is:",
+      "answers": [
+        {"id": "a", "text": "More than .10%"},
+        {"id": "b", "text": "More than .05%"},
+        {"id": "c", "text": "More than .01% (anything over 0.00)"},
+        {"id": "d", "text": "More than .08%"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "NJ has zero tolerance for underage drinking and driving; any BAC over 0.01% is a violation.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-059",
+      "category": "safeDriving",
+      "questionText": "If your brakes suddenly fail, the first thing you should try to do is:",
+      "answers": [
+        {"id": "a", "text": "Shift to a lower gear and pump the brakes"},
+        {"id": "b", "text": "Turn off the ignition"},
+        {"id": "c", "text": "Apply the parking brake immediately"},
+        {"id": "d", "text": "Drive onto the shoulder"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Shift to a lower gear and pump the brake pedal fast and hard several times.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-060",
+      "category": "trafficLaws",
+      "questionText": "You may turn on red unless:",
+      "answers": [
+        {"id": "a", "text": "There is a 'No Turn on Red' sign posted"},
+        {"id": "b", "text": "It is raining"},
+        {"id": "c", "text": "You are in a school zone"},
+        {"id": "d", "text": "It is after dark"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Right on red is permitted after a full stop unless a sign prohibits it.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-061",
+      "category": "roadSigns",
+      "questionText": "A yellow pentagon (5-sided) sign indicates:",
+      "answers": [
+        {"id": "a", "text": "School Zone/Crossing"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "Railroad"},
+        {"id": "d", "text": "Warning"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The pentagon shape is exclusively for school zones and crossings.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-062",
+      "category": "trafficLaws",
+      "questionText": "When parking downhill on a street with a curb, the vehicle's wheels should be:",
+      "answers": [
+        {"id": "a", "text": "Turned toward the curb"},
+        {"id": "b", "text": "Turned away from the curb"},
+        {"id": "c", "text": "Straight"},
+        {"id": "d", "text": "Turned to the left"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Turn wheels toward the curb when parking downhill so the vehicle rolls into the curb if brakes fail.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-063",
+      "category": "trafficLaws",
+      "questionText": "When parking uphill on a street with a curb, the vehicle's wheels should be:",
+      "answers": [
+        {"id": "a", "text": "Turned away from the curb"},
+        {"id": "b", "text": "Turned toward the curb"},
+        {"id": "c", "text": "Straight"},
+        {"id": "d", "text": "Turned to the right"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Turn wheels away from the curb when parking uphill so the rear of the tire hits the curb if it rolls back.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-064",
+      "category": "rightOfWay",
+      "questionText": "The speed limit in a school zone, unless otherwise posted, is:",
+      "answers": [
+        {"id": "a", "text": "25 mph"},
+        {"id": "b", "text": "35 mph"},
+        {"id": "c", "text": "15 mph"},
+        {"id": "d", "text": "20 mph"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Standard school zone speed limit is 25 mph.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-065",
+      "category": "trafficLaws",
+      "questionText": "Double solid lines in the center of a road means:",
+      "answers": [
+        {"id": "a", "text": "No passing allowed"},
+        {"id": "b", "text": "Passing allowed on left"},
+        {"id": "c", "text": "Passing allowed on right"},
+        {"id": "d", "text": "One way street"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Solid lines on both sides of the center mean no passing is allowed.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-066",
+      "category": "trafficLaws",
+      "questionText": "When approaching a railroad crossing with flashing lights, you must:",
+      "answers": [
+        {"id": "a", "text": "Stop at least 15 feet from the crossing"},
+        {"id": "b", "text": "Slow down and look both ways"},
+        {"id": "c", "text": "Stop only if you see a train"},
+        {"id": "d", "text": "Speed up to beat the train"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Motorists must stop at least 15 feet from railroad crossings when lights are flashing.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-067",
+      "category": "finesAndLimits",
+      "questionText": "Which of the following is a possible sign of an aggressive driver?",
+      "answers": [
+        {"id": "a", "text": "Improper or erratic lane changes"},
+        {"id": "b", "text": "Failing to yield to the right of way"},
+        {"id": "c", "text": "Following another vehicle too closely"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Aggressive driving includes speeding, tailgating, and erratic lane changes.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-068",
+      "category": "trafficLaws",
+      "questionText": "Except new vehicles, your car must be inspected at either a state inspection facility or a state-licensed private inspection facility every:",
+      "answers": [
+        {"id": "a", "text": "2 years"},
+        {"id": "b", "text": "1 year"},
+        {"id": "c", "text": "5 years"},
+        {"id": "d", "text": "6 months"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "NJ vehicles must be inspected every 2 years.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-069",
+      "category": "safeDriving",
+      "questionText": "If you skid, you should:",
+      "answers": [
+        {"id": "a", "text": "Take your foot off the gas pedal"},
+        {"id": "b", "text": "Brake hard"},
+        {"id": "c", "text": "Turn the steering wheel in the opposite direction of the skid"},
+        {"id": "d", "text": "Accelerate"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "If the rear of the car skids, take your foot off the gas. Do not brake.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-070",
+      "category": "trafficLaws",
+      "questionText": "After two to four drinks, alcohol begins to impair your:",
+      "answers": [
+        {"id": "a", "text": "Reaction time"},
+        {"id": "b", "text": "Coordination and balance"},
+        {"id": "c", "text": "Judgment"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Alcohol affects reaction time, coordination, balance, and judgment.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-071",
+      "category": "trafficLaws",
+      "questionText": "If you miss your exit on an expressway, you should:",
+      "answers": [
+        {"id": "a", "text": "Go to the next exit"},
+        {"id": "b", "text": "Back up on the shoulder"},
+        {"id": "c", "text": "Turn around in the median"},
+        {"id": "d", "text": "Stop and ask for help"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Never back up on an expressway. Go to the next exit.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-072",
+      "category": "roadSigns",
+      "questionText": "A triangular sign with a clipped corner (slow moving vehicle) is what color?",
+      "answers": [
+        {"id": "a", "text": "Orange and Red"},
+        {"id": "b", "text": "Red and White"},
+        {"id": "c", "text": "Yellow and Black"},
+        {"id": "d", "text": "Blue"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The slow-moving vehicle emblem is a reflective orange triangle with a red border.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-073",
+      "category": "rightOfWay",
+      "questionText": "You are required to yield the right-of-way to:",
+      "answers": [
+        {"id": "a", "text": "Buses re-entering traffic"},
+        {"id": "b", "text": "Postal vehicles re-entering traffic"},
+        {"id": "c", "text": "Motorized or mobility-assistance devices"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "NJ law requires yielding to buses, postal vehicles, and mobility devices.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-074",
+      "category": "trafficLaws",
+      "questionText": "When pavement is marked with 2 centerlines, 1 solid and 1 broken:",
+      "answers": [
+        {"id": "a", "text": "Passing is permitted only on the side with the broken line"},
+        {"id": "b", "text": "Passing permitted on both sides"},
+        {"id": "c", "text": "No passing allowed"},
+        {"id": "d", "text": "Passing permitted only on solid side"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Passing is only allowed if the broken line is on your side.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-075",
+      "category": "trafficLaws",
+      "questionText": "New Jersey law allows up to three points to be subtracted from a motorist's point total for every year that a motorist goes without a violation or suspension:",
+      "answers": [
+        {"id": "a", "text": "Though the point total will never be reduced below zero"},
+        {"id": "b", "text": "Even if the point total goes below zero"},
+        {"id": "c", "text": "Only if they take a defensive driving course"},
+        {"id": "d", "text": "Only for non-moving violations"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Up to 3 points are removed for a year of clean driving, but the total cannot go below zero.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-076",
+      "category": "safeDriving",
+      "questionText": "Which of the following actions could lead to distracted driving?",
+      "answers": [
+        {"id": "a", "text": "Adjusting the radio or CD player"},
+        {"id": "b", "text": "Eating"},
+        {"id": "c", "text": "Using a cellular phone"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Any activity that takes attention away from the road is a distraction.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-077",
+      "category": "trafficLaws",
+      "questionText": "Getting a driver license illegally may result in:",
+      "answers": [
+        {"id": "a", "text": "A fine of $200 to $500 and/or imprisonment of 30-90 days"},
+        {"id": "b", "text": "A fine of $25 to $100"},
+        {"id": "c", "text": "Imprisonment of 6 months"},
+        {"id": "d", "text": "Points only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Illegal license procurement carries significant fines and potential jail time.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-078",
+      "category": "roadSigns",
+      "questionText": "What shape is a warning sign?",
+      "answers": [
+        {"id": "a", "text": "Diamond"},
+        {"id": "b", "text": "Octagon"},
+        {"id": "c", "text": "Circle"},
+        {"id": "d", "text": "Triangle"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warning signs are yellow and diamond-shaped.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-079",
+      "category": "trafficLaws",
+      "questionText": "If a motorist has a BAC .10%, the risk of causing an accident is:",
+      "answers": [
+        {"id": "a", "text": "Six times as great"},
+        {"id": "b", "text": "Double"},
+        {"id": "c", "text": "Triple"},
+        {"id": "d", "text": "Twenty-five times as great"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "At 0.10% BAC, the risk of crashing increases to six times.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-080",
+      "category": "safeDriving",
+      "questionText": "When sharing the road with large trucks or buses, you should:",
+      "answers": [
+        {"id": "a", "text": "Give more road space to a truck making a wide turn"},
+        {"id": "b", "text": "Leave space when stopping behind a truck or bus"},
+        {"id": "c", "text": "Maintain a consistent speed when passing"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Trucks make wide turns, roll back on stops, and have large blind spots.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-081",
+      "category": "trafficLaws",
+      "questionText": "A probationary driver is probationary for how long?",
+      "answers": [
+        {"id": "a", "text": "1 year"},
+        {"id": "b", "text": "6 months"},
+        {"id": "c", "text": "3 months"},
+        {"id": "d", "text": "2 years"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A motorist is on probation for 1 year after receiving a Probationary License.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-082",
+      "category": "safeDriving",
+      "questionText": "The best way to reduce your chances of having an alcohol-related accident is to:",
+      "answers": [
+        {"id": "a", "text": "Not drive at all after drinking"},
+        {"id": "b", "text": "Drink coffee"},
+        {"id": "c", "text": "Drink only beer"},
+        {"id": "d", "text": "Eat a big meal"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Abstinence from driving after drinking is the only sure way to prevent alcohol-related accidents.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-083",
+      "category": "roadSigns",
+      "questionText": "A sign with an orange background means:",
+      "answers": [
+        {"id": "a", "text": "Construction or maintenance warning"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "Yield"},
+        {"id": "d", "text": "School zone"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Orange signs indicate road work or construction.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-084",
+      "category": "trafficLaws",
+      "questionText": "If you accumulate 12 to 14 points in a 24-month period, you will receive a Notice of Scheduled Suspension from the MVC. You can:",
+      "answers": [
+        {"id": "a", "text": "Attend a NJ Driver Improvement Program"},
+        {"id": "b", "text": "Request a hearing"},
+        {"id": "c", "text": "Surrender your license for the suspension period"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Upon receiving a suspension notice, you can attend a class, ask for a hearing, or accept the suspension.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-085",
+      "category": "trafficLaws",
+      "questionText": "Which motorist is most at risk for drowsy driving?",
+      "answers": [
+        {"id": "a", "text": "A motorist driving alone"},
+        {"id": "b", "text": "A motorist that is sleep deprived"},
+        {"id": "c", "text": "Young people"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Drowsy driving risks include driving alone, lack of sleep, and youth.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-086",
+      "category": "trafficLaws",
+      "questionText": "You cannot park within how many feet of a fire hydrant?",
+      "answers": [
+        {"id": "a", "text": "10 feet"},
+        {"id": "b", "text": "20 feet"},
+        {"id": "c", "text": "50 feet"},
+        {"id": "d", "text": "15 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Parking is prohibited within 10 feet of a fire hydrant.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-087",
+      "category": "trafficLaws",
+      "questionText": "If a motorist's BAC is slightly above .05%, the risk of causing an accident is:",
+      "answers": [
+        {"id": "a", "text": "Doubled"},
+        {"id": "b", "text": "Tripled"},
+        {"id": "c", "text": "Equal"},
+        {"id": "d", "text": "Six times greater"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "At 0.05% BAC, the risk of a crash doubles.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-088",
+      "category": "trafficLaws",
+      "questionText": "When approaching a curve, your vehicle may tend to:",
+      "answers": [
+        {"id": "a", "text": "Keep going straight"},
+        {"id": "b", "text": "Slow down"},
+        {"id": "c", "text": "Turn with the curve"},
+        {"id": "d", "text": "Stop"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Inertia causes the vehicle to want to continue in a straight line.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-089",
+      "category": "trafficLaws",
+      "questionText": "The holder of a validated GDL Special Learner Permit must not drive between the hours of:",
+      "answers": [
+        {"id": "a", "text": "11:01 PM and 5:00 AM"},
+        {"id": "b", "text": "12:01 AM and 5:00 AM"},
+        {"id": "c", "text": "11:00 PM and 6:00 AM"},
+        {"id": "d", "text": "No restrictions"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Learner Permit holders under 21 are restricted from 11:01 PM to 5:00 AM.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-090",
+      "category": "safeDriving",
+      "questionText": "You can reduce your chances of being involved in an accident by knowing and using the standard accident prevention formula:",
+      "answers": [
+        {"id": "a", "text": "Be alert, be prepared, act in time"},
+        {"id": "b", "text": "Be angry, be fast, act late"},
+        {"id": "c", "text": "Speed up, slow down, stop"},
+        {"id": "d", "text": "Ignore others"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The standard prevention formula is Be Alert, Be Prepared, Act in Time.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-091",
+      "category": "trafficLaws",
+      "questionText": "If the driver of a large truck or bus cannot see you in his rearview mirrors, you are:",
+      "answers": [
+        {"id": "a", "text": "In the truck's no-zone or blind spot"},
+        {"id": "b", "text": "Driving too slowly"},
+        {"id": "c", "text": "Safe"},
+        {"id": "d", "text": "Driving too fast"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "If you cannot see the driver's mirrors, you are in their blind spot (No-Zone).",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-092",
+      "category": "trafficLaws",
+      "questionText": "A supervising driver for the holder of a validated GDL Permit must meet which of the following requirements?",
+      "answers": [
+        {"id": "a", "text": "Must be 21 years or older"},
+        {"id": "b", "text": "Must be a New Jersey licensed driver seated in the front seat"},
+        {"id": "c", "text": "Must be licensed for a minimum of 3 years"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Supervising drivers must be 21+, have a valid NJ license, and 3 years driving experience.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-093",
+      "category": "safeDriving",
+      "questionText": "Unless a no-turn on red sign is posted, NJ law allows a right turn on red after:",
+      "answers": [
+        {"id": "a", "text": "Making a full stop and checking traffic"},
+        {"id": "b", "text": "Slowing down"},
+        {"id": "c", "text": "Checking traffic only"},
+        {"id": "d", "text": "Blowing your horn"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must come to a complete stop and check for traffic/pedestrians before turning right on red.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-094",
+      "category": "trafficLaws",
+      "questionText": "When you move into New Jersey from another state, you must have your vehicle inspected within:",
+      "answers": [
+        {"id": "a", "text": "14 days after registering it"},
+        {"id": "b", "text": "2 months"},
+        {"id": "c", "text": "6 months"},
+        {"id": "d", "text": "1 year"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Vehicles moving to NJ must be inspected within 14 days of registration.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-095",
+      "category": "trafficLaws",
+      "questionText": "The fine for violation of any of the restrictions of the GDL Permit or Probationary License is:",
+      "answers": [
+        {"id": "a", "text": "$100"},
+        {"id": "b", "text": "$50"},
+        {"id": "c", "text": "$500"},
+        {"id": "d", "text": "$250"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Violation of GDL restrictions carries a $100 fine.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-096",
+      "category": "trafficLaws",
+      "questionText": "When parking a vehicle facing uphill, the wheels should be:",
+      "answers": [
+        {"id": "a", "text": "Turned away from the curb"},
+        {"id": "b", "text": "Turned toward the curb"},
+        {"id": "c", "text": "Straight"},
+        {"id": "d", "text": "Turned to the right"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Turn wheels away from the curb (up, up, and away) so the tire hits the curb if it rolls back.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-097",
+      "category": "safeDriving",
+      "questionText": "Signals should be used:",
+      "answers": [
+        {"id": "a", "text": "When turning"},
+        {"id": "b", "text": "When changing lanes"},
+        {"id": "c", "text": "When stopping or slowing down"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Use signals for turns, lane changes, and stopping/slowing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-098",
+      "category": "trafficLaws",
+      "questionText": "The holder of a Probationary Driver License is not permitted to use which of the following while driving:",
+      "answers": [
+        {"id": "a", "text": "Hand-held or hands-free interactive devices"},
+        {"id": "b", "text": "Wireless communication devices"},
+        {"id": "c", "text": "Cell phones, GPS, and video games"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Probationary drivers are prohibited from using any electronic devices, handheld or hands-free.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-099",
+      "category": "finesAndLimits",
+      "questionText": "Driving privileges will be postponed or suspended to any person 13 to 21 years of age if convicted of:",
+      "answers": [
+        {"id": "a", "text": "Graffiti"},
+        {"id": "b", "text": "Setting false alarms"},
+        {"id": "c", "text": "Buying alcoholic beverages and/or driving under the influence (DUI)"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Graffiti, false alarms, and underage drinking/DUI can delay or suspend driving privileges for youth.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-100",
+      "category": "trafficLaws",
+      "questionText": "A motorist should always be prepared to yield to which of the following:",
+      "answers": [
+        {"id": "a", "text": "Trains"},
+        {"id": "b", "text": "Buses"},
+        {"id": "c", "text": "Postal vehicles"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Yield to trains, re-entering buses, and postal vehicles.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-101",
+      "category": "roadSigns",
+      "questionText": "A flashing yellow light means:",
+      "answers": [
+        {"id": "a", "text": "Slow down and proceed with care"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Go"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Flashing yellow indicates caution.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-102",
+      "category": "trafficLaws",
+      "questionText": "When approaching a railroad crossing with flashing lights, you must:",
+      "answers": [
+        {"id": "a", "text": "Stop at least 15 feet from the crossing"},
+        {"id": "b", "text": "Slow down"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Look both ways"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Stop at least 15 feet away when lights flash.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-103",
+      "category": "safeDriving",
+      "questionText": "In the event of a crash or sudden stop, use of seat belts may:",
+      "answers": [
+        {"id": "a", "text": "Keep you from being thrown from the car"},
+        {"id": "b", "text": "Keep you from hitting the windshield or dashboard"},
+        {"id": "c", "text": "Keep you from sliding off the seat and losing control of the car"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Seat belts prevent ejection, impact with the interior, and sliding.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-104",
+      "category": "trafficLaws",
+      "questionText": "Which requirement must be met by the supervisor driver accompanying the holder of a validated GDL Permit?",
+      "answers": [
+        {"id": "a", "text": "Must be 21 years or older and seated in the front seat"},
+        {"id": "b", "text": "Must be a New Jersey licensed driver"},
+        {"id": "c", "text": "Must be licensed for a minimum of 3 years"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Supervisor must be 21+, NJ licensed, and have 3 years experience.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-105",
+      "category": "trafficLaws",
+      "questionText": "Diamond shaped signs are:",
+      "answers": [
+        {"id": "a", "text": "Warning signs"},
+        {"id": "b", "text": "Stop signs"},
+        {"id": "c", "text": "Yield signs"},
+        {"id": "d", "text": "Railroad signs"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warning signs are diamond-shaped.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-106",
+      "category": "safeDriving",
+      "questionText": "If your wheels drift onto the dirt shoulder of the road and you want to return to the paved road, you should:",
+      "answers": [
+        {"id": "a", "text": "Slow down, turn back onto the pavement slowly"},
+        {"id": "b", "text": "Drive along the shoulder until you can get back on the road"},
+        {"id": "c", "text": "Turn abruptly back onto the pavement"},
+        {"id": "d", "text": "Speed up"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Slow down and regain control before turning back onto the road.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-107",
+      "category": "trafficLaws",
+      "questionText": "A Probationary Driver is probationary for how long?",
+      "answers": [
+        {"id": "a", "text": "1 year"},
+        {"id": "b", "text": "6 months"},
+        {"id": "c", "text": "2 years"},
+        {"id": "d", "text": "4 years"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Probationary period is 1 year.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-108",
+      "category": "trafficLaws",
+      "questionText": "Failure to stop for pedestrians in a crosswalk carries a fine of up to:",
+      "answers": [
+        {"id": "a", "text": "$500, up to 25 days in jail, 6 months suspension, 2 points and community service"},
+        {"id": "b", "text": "$100"},
+        {"id": "c", "text": "$50"},
+        {"id": "d", "text": "$200"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Penalties for hitting pedestrians are severe, including $500 fine and jail time.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-109",
+      "category": "trafficLaws",
+      "questionText": "A 12 oz. can of beer has as much alcohol in it as:",
+      "answers": [
+        {"id": "a", "text": "1.5 oz. of 86 proof whiskey"},
+        {"id": "b", "text": "5 oz. glass of wine"},
+        {"id": "c", "text": "Both A and B"},
+        {"id": "d", "text": "A gallon of water"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "12oz beer = 5oz wine = 1.5oz liquor.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-110",
+      "category": "trafficLaws",
+      "questionText": "Whether your BAC rises above legal limits depends on:",
+      "answers": [
+        {"id": "a", "text": "The amount you drink"},
+        {"id": "b", "text": "Your weight"},
+        {"id": "c", "text": "The time you take to drink"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "BAC depends on quantity, weight, time, and food consumed.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-111",
+      "category": "safeDriving",
+      "questionText": "What is a 'Habitual Offender'?",
+      "answers": [
+        {"id": "a", "text": "Any motorist whose license has been suspended 3 times in 3 years"},
+        {"id": "b", "text": "A motorist who speeds"},
+        {"id": "c", "text": "A new driver"},
+        {"id": "d", "text": "A drunk driver"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "3 suspensions in 3 years defines a Habitual Offender.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-112",
+      "category": "trafficLaws",
+      "questionText": "If a person gets drunk in your home and has a motor vehicle accident after leaving your home, you could:",
+      "answers": [
+        {"id": "a", "text": "Become involved in a lawsuit"},
+        {"id": "b", "text": "Be fined"},
+        {"id": "c", "text": "Be arrested"},
+        {"id": "d", "text": "Be charged with a crime"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Hosts can be held liable if a guest drives drunk and crashes.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-113",
+      "category": "roadSigns",
+      "questionText": "A solid white line across a road at an intersection means:",
+      "answers": [
+        {"id": "a", "text": "Stop behind the line for a traffic signal or sign"},
+        {"id": "b", "text": "Bus stop"},
+        {"id": "c", "text": "No parking"},
+        {"id": "d", "text": "Crosswalk"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A solid white line indicates where to stop at an intersection.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-114",
+      "category": "finesAndLimits",
+      "questionText": "Which of the following convictions will result in an Insurance Surcharge?",
+      "answers": [
+        {"id": "a", "text": "Operating Under the Influence of Liquor/Drugs"},
+        {"id": "b", "text": "Refusal to Take a Breathalyzer Test"},
+        {"id": "c", "text": "Both A and B"},
+        {"id": "d", "text": "Speeding"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "DUI and refusal both result in heavy insurance surcharges.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-115",
+      "category": "trafficLaws",
+      "questionText": "The best way to 'talk' to other drivers on the road is to:",
+      "answers": [
+        {"id": "a", "text": "Use your horn, lights and hand signals"},
+        {"id": "b", "text": "Use gestures"},
+        {"id": "c", "text": "Yell"},
+        {"id": "d", "text": "Stare"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Use signals and horn to communicate.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-116",
+      "category": "trafficLaws",
+      "questionText": "To safely share the road with large trucks and buses, you must know:",
+      "answers": [
+        {"id": "a", "text": "The limitations of these vehicles regarding visibility, stopping distances and maneuverability"},
+        {"id": "b", "text": "The driver"},
+        {"id": "c", "text": "The schedule"},
+        {"id": "d", "text": "The route"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Knowing truck limitations is key to safety.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-117",
+      "category": "trafficLaws",
+      "questionText": "If under 21, New Jersey law states that you may be under the influence if your BAC is:",
+      "answers": [
+        {"id": "a", "text": "More than .10%"},
+        {"id": "b", "text": "More than .05%"},
+        {"id": "c", "text": "More than .01%"},
+        {"id": "d", "text": "Any amount"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "0.01% is the limit for under 21.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-118",
+      "category": "safeDriving",
+      "questionText": "When approaching a curve, your vehicle may tend to:",
+      "answers": [
+        {"id": "a", "text": "Keep going straight"},
+        {"id": "b", "text": "Slow down"},
+        {"id": "c", "text": "Turn"},
+        {"id": "d", "text": "Speed up"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Vehicles tend to go straight in curves due to inertia.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-119",
+      "category": "trafficLaws",
+      "questionText": "Before practice driving is permitted, the permit holder must pass the required MVC's Knowledge test and Vision exam, have a validated permit and obtain:",
+      "answers": [
+        {"id": "a", "text": "Two red reflectorized decals, one for each license plate"},
+        {"id": "b", "text": "A new car"},
+        {"id": "c", "text": "Insurance"},
+        {"id": "d", "text": "A map"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Decals are required before practice driving begins.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-120",
+      "category": "trafficLaws",
+      "questionText": "The holder of a validated GDL Special Learner Permit may not drive between the hours of:",
+      "answers": [
+        {"id": "a", "text": "11:01 pm and 5:00 am"},
+        {"id": "b", "text": "12:00 am and 6:00 am"},
+        {"id": "c", "text": "10:00 pm and 5:00 am"},
+        {"id": "d", "text": "No restriction"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "11:01 PM to 5:00 AM restriction applies.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-121",
+      "category": "finesAndLimits",
+      "questionText": "If you are involved in a motor vehicle accident that causes injury to another person while your driving privileges are suspended, you are subject to:",
+      "answers": [
+        {"id": "a", "text": "A fine, continued suspension and potential jail sentence"},
+        {"id": "b", "text": "A fine only"},
+        {"id": "c", "text": "Warning"},
+        {"id": "d", "text": "Points"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Causing injury while suspended results in severe penalties including jail.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-122",
+      "category": "trafficLaws",
+      "questionText": "Driving while under the influence of intoxicating beverages means:",
+      "answers": [
+        {"id": "a", "text": "Your senses and judgment are impaired by alcohol"},
+        {"id": "b", "text": "You are drunk"},
+        {"id": "c", "text": "You drank 2 beers"},
+        {"id": "d", "text": "You feel fine"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "DUI means senses and judgment are impaired.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-123",
+      "category": "trafficLaws",
+      "questionText": "During a probationary period, a motorist must enroll in a Probationary Driving School Program when:",
+      "answers": [
+        {"id": "a", "text": "Accumulating 4 or more points and convicted of 2 or more moving violations"},
+        {"id": "b", "text": "Accumulating 2 points"},
+        {"id": "c", "text": "Convicted of 1 moving violation"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Probationary school is required at 4 points/2 violations.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-124",
+      "category": "trafficLaws",
+      "questionText": "Road surfaces are most slippery:",
+      "answers": [
+        {"id": "a", "text": "During the first few minutes of a rainfall"},
+        {"id": "b", "text": "After it rains"},
+        {"id": "c", "text": "In snow"},
+        {"id": "d", "text": "In ice"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "First few minutes of rain are slickest.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-125",
+      "category": "roadSigns",
+      "questionText": "The meaning of a hand signal when a driver's hand and arm are straight out is:",
+      "answers": [
+        {"id": "a", "text": "Left turn"},
+        {"id": "b", "text": "Right turn"},
+        {"id": "c", "text": "Stop"},
+        {"id": "d", "text": "Slow down"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Arm straight out means Left Turn.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-126",
+      "category": "trafficLaws",
+      "questionText": "Upon completion of the GDL requirements, (one year of supervised driving) the holder of a Probationary License must:",
+      "answers": [
+        {"id": "a", "text": "Visit any MVC agency to obtain an unrestricted Basic License"},
+        {"id": "b", "text": "Wait for mail"},
+        {"id": "c", "text": "Drive as is"},
+        {"id": "d", "text": "Retake test"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must visit MVC to upgrade to a Basic License after probation.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-127",
+      "category": "trafficLaws",
+      "questionText": "If your license plates are lost or stolen, you should immediately notify:",
+      "answers": [
+        {"id": "a", "text": "The police"},
+        {"id": "b", "text": "The MVC"},
+        {"id": "c", "text": "Your insurance"},
+        {"id": "d", "text": "Your parents"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Report lost plates to police immediately.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-128",
+      "category": "trafficLaws",
+      "questionText": "To safely share the road with large trucks and buses, you must know:",
+      "answers": [
+        {"id": "a", "text": "The limitations of these vehicles regarding visibility, stopping distances and maneuverability"},
+        {"id": "b", "text": "Their speed"},
+        {"id": "c", "text": "Their weight"},
+        {"id": "d", "text": "The driver"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Know truck limitations for safety.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-129",
+      "category": "trafficLaws",
+      "questionText": "Excluding dependents, how many passengers may accompany the holder of a validated GDL Special Learner Permit in the vehicle?",
+      "answers": [
+        {"id": "a", "text": "One additional person unless accompanied by a parent or guardian"},
+        {"id": "b", "text": "Two"},
+        {"id": "c", "text": "None"},
+        {"id": "d", "text": "Any number"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Learner Permit holders can have 1 additional passenger unless a parent is present.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-130",
+      "category": "trafficLaws",
+      "questionText": "Getting a driver license illegally may result in:",
+      "answers": [
+        {"id": "a", "text": "A fine of $200 to $500 and/or imprisonment of 30-90 days"},
+        {"id": "b", "text": "Fine only"},
+        {"id": "c", "text": "Warning"},
+        {"id": "d", "text": "Points"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Illegal license procurement leads to fines and jail.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-131",
+      "category": "safeDriving",
+      "questionText": "Before entering an intersection and nearing a yellow or amber traffic signal, you should:",
+      "answers": [
+        {"id": "a", "text": "Stop"},
+        {"id": "b", "text": "Speed up"},
+        {"id": "c", "text": "Honk"},
+        {"id": "d", "text": "Turn"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Stop for yellow if safe; otherwise proceed with caution.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-132",
+      "category": "trafficLaws",
+      "questionText": "The vehicle used for the road test may not have:",
+      "answers": [
+        {"id": "a", "text": "Any obstructions or consoles between the driver and the examiner"},
+        {"id": "b", "text": "A radio"},
+        {"id": "c", "text": "Air conditioning"},
+        {"id": "d", "text": "Passengers"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Examiner must have access to the brake.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-133",
+      "category": "trafficLaws",
+      "questionText": "If you drive 50 mph, your stopping distance is about:",
+      "answers": [
+        {"id": "a", "text": "247 feet"},
+        {"id": "b", "text": "100 feet"},
+        {"id": "c", "text": "50 feet"},
+        {"id": "d", "text": "500 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "At 50 mph, total stopping distance is approx 247 feet on dry pavement.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-134",
+      "category": "finesAndLimits",
+      "questionText": "Which of the following is a possible sign of an aggressive driver?",
+      "answers": [
+        {"id": "a", "text": "Improper or erratic traffic lane changes"},
+        {"id": "b", "text": "Speeding"},
+        {"id": "c", "text": "Tailgating"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Aggressive driving includes many erratic behaviors.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-135",
+      "category": "safeDriving",
+      "questionText": "Emotions can have a great effect on your driving: if you are angry or excited, you should:",
+      "answers": [
+        {"id": "a", "text": "Give yourself time to cool off"},
+        {"id": "b", "text": "Drive fast"},
+        {"id": "c", "text": "Play music"},
+        {"id": "d", "text": "Drive immediately"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Cool off before driving if emotional.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-136",
+      "category": "trafficLaws",
+      "questionText": "If you have a flat tire or blowout, you should:",
+      "answers": [
+        {"id": "a", "text": "Hold the wheel firmly"},
+        {"id": "b", "text": "Brake"},
+        {"id": "c", "text": "Turn"},
+        {"id": "d", "text": "Speed up"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Hold wheel firmly and coast to stop.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-137",
+      "category": "safeDriving",
+      "questionText": "In city driving, you should:",
+      "answers": [
+        {"id": "a", "text": "Drive more slowly"},
+        {"id": "b", "text": "Speed up"},
+        {"id": "c", "text": "Look 1 second ahead"},
+        {"id": "d", "text": "Ignore pedestrians"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Drive slowly and alertly in cities.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-138",
+      "category": "trafficLaws",
+      "questionText": "You may not park within how many feet of a fire hydrant?",
+      "answers": [
+        {"id": "a", "text": "10 feet"},
+        {"id": "b", "text": "20 feet"},
+        {"id": "c", "text": "50 feet"},
+        {"id": "d", "text": "15 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "10 feet from hydrant.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-139",
+      "category": "safeDriving",
+      "questionText": "When checking your blind spot, you should:",
+      "answers": [
+        {"id": "a", "text": "Turn your head and look over your shoulder"},
+        {"id": "b", "text": "Use mirrors only"},
+        {"id": "c", "text": "Honk"},
+        {"id": "d", "text": "Guess"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Physically turn head to check blind spots.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-140",
+      "category": "trafficLaws",
+      "questionText": "High beam lights are used for:",
+      "answers": [
+        {"id": "a", "text": "Open country driving"},
+        {"id": "b", "text": "City driving"},
+        {"id": "c", "text": "Fog"},
+        {"id": "d", "text": "Traffic"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "High beams are for open country driving when no other cars are present.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-141",
+      "category": "trafficLaws",
+      "questionText": "How many points for tailgating?",
+      "answers": [
+        {"id": "a", "text": "5"},
+        {"id": "b", "text": "2"},
+        {"id": "c", "text": "4"},
+        {"id": "d", "text": "3"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Tailgating is a 5-point violation.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-142",
+      "category": "finesAndLimits",
+      "questionText": "Fine for failing to yield to a pedestrian in a crosswalk:",
+      "answers": [
+        {"id": "a", "text": "$500"},
+        {"id": "b", "text": "$100"},
+        {"id": "c", "text": "$50"},
+        {"id": "d", "text": "$200"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Up to $500 fine for failing to yield to pedestrians.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-143",
+      "category": "roadSigns",
+      "questionText": "A yellow pennant shaped sign means:",
+      "answers": [
+        {"id": "a", "text": "No passing zone"},
+        {"id": "b", "text": "School"},
+        {"id": "c", "text": "Stop"},
+        {"id": "d", "text": "Yield"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Pennant indicates start of no passing zone.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-144",
+      "category": "trafficLaws",
+      "questionText": "NJ law requires you to keep to the right except:",
+      "answers": [
+        {"id": "a", "text": "When passing"},
+        {"id": "b", "text": "When speeding"},
+        {"id": "c", "text": "Always"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Keep right except when passing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-145",
+      "category": "trafficLaws",
+      "questionText": "You must stop ___ feet from a school bus with flashing red lights.",
+      "answers": [
+        {"id": "a", "text": "25"},
+        {"id": "b", "text": "10"},
+        {"id": "c", "text": "50"},
+        {"id": "d", "text": "15"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Stop at least 25 feet away from a school bus.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-146",
+      "category": "safeDriving",
+      "questionText": "If your gas pedal sticks:",
+      "answers": [
+        {"id": "a", "text": "Shift to neutral"},
+        {"id": "b", "text": "Brake hard"},
+        {"id": "c", "text": "Turn off engine"},
+        {"id": "d", "text": "Scream"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Shift to neutral and steer off road.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-147",
+      "category": "trafficLaws",
+      "questionText": "Studded snow tires are legal between:",
+      "answers": [
+        {"id": "a", "text": "November 15 and April 1"},
+        {"id": "b", "text": "Dec 1 and Mar 15"},
+        {"id": "c", "text": "Jan 1 and Mar 1"},
+        {"id": "d", "text": "All year"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Studded tires allowed Nov 15 - Apr 1.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nj-148",
+      "category": "parking",
+      "questionText": "Parking distance from a curb:",
+      "answers": [
+        {"id": "a", "text": "6 inches"},
+        {"id": "b", "text": "12 inches"},
+        {"id": "c", "text": "18 inches"},
+        {"id": "d", "text": "24 inches"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Park within 6 inches of curb.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nj-149",
+      "category": "trafficLaws",
+      "questionText": "How far must you stop from a railroad crossing?",
+      "answers": [
+        {"id": "a", "text": "15 feet"},
+        {"id": "b", "text": "50 feet"},
+        {"id": "c", "text": "10 feet"},
+        {"id": "d", "text": "5 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Stop at least 15 feet from railroad.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nj-150",
+      "category": "finesAndLimits",
+      "questionText": "Points for failing to observe traffic signal:",
+      "answers": [
+        {"id": "a", "text": "2"},
+        {"id": "b", "text": "3"},
+        {"id": "c", "text": "4"},
+        {"id": "d", "text": "5"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Failure to observe traffic signal is 2 points.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    }
+  ]
+}

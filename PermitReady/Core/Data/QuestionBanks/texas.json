@@ -1,0 +1,4883 @@
+{
+  "stateCode": "TX",
+  "stateName": "Texas",
+  "version": "2.0.0",
+  "lastUpdated": "2025-12-23",
+  "testInfo": {
+    "questionCount": 30,
+    "passingPercentage": 70,
+    "passingScore": 21,
+    "minimumPermitAge": 15,
+    "hasSplitTest": true,
+    "timeLimit": 60,
+    "uniqueRequirements": [
+      "The test is strictly split into two sections: Highway Signs (15 questions) and Traffic Laws (15 questions)",
+      "You must score at least 70% to pass the exam",
+      "Minors (under 21) face Zero Tolerance laws: Any detectable amount of alcohol results in license suspension",
+      "Provisional license holders (under 18) cannot drive between midnight and 5:00 AM",
+      "Provisional license holders cannot have more than one passenger under 21 who is not a family member"
+    ]
+  },
+  "questions": [
+    {
+      "id": "tx-001",
+      "category": "trafficLaws",
+      "questionText": "Under the Graduated Driver License (GDL) program, a driver with a provisional license may not drive between the hours of:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "10:00 PM and 6:00 AM"
+        },
+        {
+          "id": "b",
+          "text": "Midnight and 5:00 AM"
+        },
+        {
+          "id": "c",
+          "text": "11:00 PM and 5:00 AM"
+        },
+        {
+          "id": "d",
+          "text": "1:00 AM and 6:00 AM"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Drivers with a provisional license are restricted from driving between midnight and 5:00 AM unless it is for work, school, or a medical emergency.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-002",
+      "category": "finesAndLimits",
+      "questionText": "What is the maximum fine for a first conviction of driving without a license?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "$100"
+        },
+        {
+          "id": "b",
+          "text": "$200"
+        },
+        {
+          "id": "c",
+          "text": "$500"
+        },
+        {
+          "id": "d",
+          "text": "$1,000"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Driving without a license is a misdemeanor, and the fine for a first conviction is up to $200.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-003",
+      "category": "finesAndLimits",
+      "questionText": "Under Texas Zero Tolerance Law, a minor (under 21) who drives with any detectable amount of alcohol in their system constitutes the offense of:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Public Intoxication"
+        },
+        {
+          "id": "b",
+          "text": "Driving While Intoxicated (DWI)"
+        },
+        {
+          "id": "c",
+          "text": "Driving Under the Influence of Alcohol by a Minor (DUIA)"
+        },
+        {
+          "id": "d",
+          "text": "Reckless Driving"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Minors are charged with DUIA (Driving Under the Influence of Alcohol by a Minor) if they have *any* detectable amount of alcohol in their system while operating a vehicle.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-004",
+      "category": "trafficLaws",
+      "questionText": "When you are approaching a school bus stopped on a roadway with its flashing red lights active, you must stop unless:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "You are in a hurry"
+        },
+        {
+          "id": "b",
+          "text": "The bus is on the opposite side of a divided highway separated by a physical barrier"
+        },
+        {
+          "id": "c",
+          "text": "The bus driver waves you past"
+        },
+        {
+          "id": "d",
+          "text": "There are no children visible"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You are not required to stop if the school bus is on a different roadway or if the highway is divided by a physical barrier (like a median or island) and the bus is on the opposite side.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-005",
+      "category": "trafficLaws",
+      "questionText": "Unless otherwise posted, the speed limit in an urban district is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "25 mph"
+        },
+        {
+          "id": "b",
+          "text": "30 mph"
+        },
+        {
+          "id": "c",
+          "text": "35 mph"
+        },
+        {
+          "id": "d",
+          "text": "20 mph"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The general statutory speed limit in an urban district in Texas is 30 mph unless signs indicate otherwise.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-006",
+      "category": "trafficLaws",
+      "questionText": "When must you turn on your headlights?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only when it is completely dark"
+        },
+        {
+          "id": "b",
+          "text": "30 minutes after sunset until 30 minutes before sunrise"
+        },
+        {
+          "id": "c",
+          "text": "Whenever you use your windshield wipers"
+        },
+        {
+          "id": "d",
+          "text": "Between 6:00 PM and 6:00 AM"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Texas law requires headlights to be used from 30 minutes after sunset to 30 minutes before sunrise, or whenever visibility is less than 1,000 feet.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-007",
+      "category": "trafficLaws",
+      "questionText": "If you are driving and hear a siren coming from behind you, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Speed up to get out of the way"
+        },
+        {
+          "id": "b",
+          "text": "Maintain your speed and lane"
+        },
+        {
+          "id": "c",
+          "text": "Yield the right-of-way by driving to the right edge of the road and stopping"
+        },
+        {
+          "id": "d",
+          "text": "Stop immediately in your current lane"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Upon the approach of an emergency vehicle using audible and visual signals, you must pull over to the right-hand edge of the roadway and stop.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-008",
+      "category": "trafficLaws",
+      "questionText": "What should you do if you damage an unattended vehicle?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Drive away if no one saw you"
+        },
+        {
+          "id": "b",
+          "text": "Locate the owner or leave a note with your details attached securely to the vehicle"
+        },
+        {
+          "id": "c",
+          "text": "Report it to the police within 24 hours only"
+        },
+        {
+          "id": "d",
+          "text": "Wait for 15 minutes, then leave"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If you collide with an unattended vehicle, you must immediately stop and either locate the owner or leave a written note with your name and address in a conspicuous place.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-009",
+      "category": "trafficLaws",
+      "questionText": "The Texas 'Move Over or Slow Down' law requires you to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop completely on the highway"
+        },
+        {
+          "id": "b",
+          "text": "Vacate the lane closest to stopped emergency vehicles or slow down 20 mph below the limit"
+        },
+        {
+          "id": "c",
+          "text": "Speed up to pass quickly"
+        },
+        {
+          "id": "d",
+          "text": "Flash your headlights"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Drivers must move out of the lane closest to stopped emergency vehicles, tow trucks, or TxDOT vehicles with flashing lights. If unable to move over, you must slow down to 20 mph below the posted limit.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-010",
+      "category": "rightOfWay",
+      "questionText": "At an uncontrolled intersection (no signs or signals), you must yield to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The vehicle on your left"
+        },
+        {
+          "id": "b",
+          "text": "The vehicle on your right"
+        },
+        {
+          "id": "c",
+          "text": "The vehicle that is larger"
+        },
+        {
+          "id": "d",
+          "text": "The vehicle moving faster"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "At an uncontrolled intersection, if two vehicles arrive at approximately the same time, the driver on the left must yield to the driver on the right.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-011",
+      "category": "rightOfWay",
+      "questionText": "When entering a highway from a private road or driveway, you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Honk your horn and proceed"
+        },
+        {
+          "id": "b",
+          "text": "Yield the right-of-way to all approaching vehicles and pedestrians"
+        },
+        {
+          "id": "c",
+          "text": "Drive quickly to merge"
+        },
+        {
+          "id": "d",
+          "text": "Wait for a green light"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A driver entering a public street or highway from a private road, alley, or driveway must yield the right-of-way to all approaching vehicles and pedestrians.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-012",
+      "category": "rightOfWay",
+      "questionText": "If you are turning left at an intersection, you must yield to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Traffic on the cross street only"
+        },
+        {
+          "id": "b",
+          "text": "Vehicles approaching from the opposite direction"
+        },
+        {
+          "id": "c",
+          "text": "Vehicles behind you"
+        },
+        {
+          "id": "d",
+          "text": "No one if you have a green light"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When making a left turn, you must yield the right-of-way to any vehicle approaching from the opposite direction that is close enough to be a hazard.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-013",
+      "category": "rightOfWay",
+      "questionText": "At a T-intersection where you are on the road that ends, you must yield to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vehicles on the through street"
+        },
+        {
+          "id": "b",
+          "text": "Vehicles on your left only"
+        },
+        {
+          "id": "c",
+          "text": "Vehicles on your right only"
+        },
+        {
+          "id": "d",
+          "text": "No one; you have the right-of-way"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "At a T-intersection, the driver on the street that ends (the 'stem' of the T) must yield the right-of-way to vehicles on the through street (the top of the T).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-014",
+      "category": "safeDriving",
+      "questionText": "When driving in fog, heavy rain, or snow, you should use:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "High-beam headlights"
+        },
+        {
+          "id": "b",
+          "text": "Low-beam headlights"
+        },
+        {
+          "id": "c",
+          "text": "Parking lights only"
+        },
+        {
+          "id": "d",
+          "text": "No lights"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Always use low-beam headlights in adverse weather conditions like fog, rain, or snow to reduce glare and improve visibility.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-015",
+      "category": "safeDriving",
+      "questionText": "To avoid highway hypnosis on long trips, you should stop and rest every:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "4 hours or 200 miles"
+        },
+        {
+          "id": "b",
+          "text": "2 hours or 100 miles"
+        },
+        {
+          "id": "c",
+          "text": "6 hours or 300 miles"
+        },
+        {
+          "id": "d",
+          "text": "8 hours"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "To prevent drowsiness and highway hypnosis, the Texas Driver Handbook recommends stopping every 2 hours or every 100 miles to rest.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-016",
+      "category": "safeDriving",
+      "questionText": "When following another vehicle, how much driving time should you maintain between yourself and the vehicle ahead?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1 second"
+        },
+        {
+          "id": "b",
+          "text": "2 seconds"
+        },
+        {
+          "id": "c",
+          "text": "5 seconds"
+        },
+        {
+          "id": "d",
+          "text": "10 seconds"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Texas recommends a minimum following distance of 2 seconds for experienced drivers in good conditions. For novice drivers or bad weather, this should be increased to 4 seconds.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-017",
+      "category": "safeDriving",
+      "questionText": "If you run off the pavement, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Steer straight and slow down before returning to the pavement"
+        },
+        {
+          "id": "b",
+          "text": "Jerk the steering wheel immediately to get back on the road"
+        },
+        {
+          "id": "c",
+          "text": "Slam on the brakes"
+        },
+        {
+          "id": "d",
+          "text": "Accelerate to rejoin traffic"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Do not hit the brakes suddenly or oversteer. Grip the wheel firmly, take your foot off the gas, and steer straight until you slow down enough to safely return to the road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-018",
+      "category": "safeDriving",
+      "questionText": "If a vehicle has a slow-moving vehicle emblem (orange triangle), it usually travels at speeds of:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "40 mph or less"
+        },
+        {
+          "id": "b",
+          "text": "25 mph or less"
+        },
+        {
+          "id": "c",
+          "text": "50 mph or less"
+        },
+        {
+          "id": "d",
+          "text": "10 mph or less"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The slow-moving vehicle emblem indicates that the vehicle is designed to travel at speeds of 25 mph or less.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-019",
+      "category": "safeDriving",
+      "questionText": "What is the first thing you should do if your brakes fail?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Turn off the engine"
+        },
+        {
+          "id": "b",
+          "text": "Shift to a lower gear and pump the brake pedal"
+        },
+        {
+          "id": "c",
+          "text": "Jump out of the car"
+        },
+        {
+          "id": "d",
+          "text": "Drive into a ditch"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If brakes fail, shift to a lower gear to use engine braking and pump the brake pedal quickly to try and build up pressure.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-020",
+      "category": "parking",
+      "questionText": "It is illegal to park within ___ feet of a fire hydrant.",
+      "answers": [
+        {
+          "id": "a",
+          "text": "10 feet"
+        },
+        {
+          "id": "b",
+          "text": "15 feet"
+        },
+        {
+          "id": "c",
+          "text": "20 feet"
+        },
+        {
+          "id": "d",
+          "text": "30 feet"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In Texas, you must not park, stand, or stop a vehicle within 15 feet of a fire hydrant.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-021",
+      "category": "parking",
+      "questionText": "You may not park your vehicle within ___ feet of a crosswalk at an intersection.",
+      "answers": [
+        {
+          "id": "a",
+          "text": "15 feet"
+        },
+        {
+          "id": "b",
+          "text": "20 feet"
+        },
+        {
+          "id": "c",
+          "text": "25 feet"
+        },
+        {
+          "id": "d",
+          "text": "30 feet"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Texas law prohibits parking within 20 feet of a crosswalk at an intersection to ensure visibility for pedestrians and drivers.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-022",
+      "category": "parking",
+      "questionText": "When parking parallel to a curb, your wheels must be within ___ inches of the curb.",
+      "answers": [
+        {
+          "id": "a",
+          "text": "6 inches"
+        },
+        {
+          "id": "b",
+          "text": "12 inches"
+        },
+        {
+          "id": "c",
+          "text": "18 inches"
+        },
+        {
+          "id": "d",
+          "text": "24 inches"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "When parking parallel, the wheels on the curb side must be within 18 inches of the curb.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-023",
+      "category": "roadSigns",
+      "questionText": "An octagonal (8-sided) sign always means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Yield"
+        },
+        {
+          "id": "b",
+          "text": "Stop"
+        },
+        {
+          "id": "c",
+          "text": "School Zone"
+        },
+        {
+          "id": "d",
+          "text": "Railroad Crossing"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The octagon shape is exclusively used for Stop signs. You must come to a complete stop.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-024",
+      "category": "roadSigns",
+      "questionText": "A yellow diamond-shaped sign indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A regulatory law"
+        },
+        {
+          "id": "b",
+          "text": "A warning of hazards ahead"
+        },
+        {
+          "id": "c",
+          "text": "A construction zone"
+        },
+        {
+          "id": "d",
+          "text": "A hospital nearby"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Yellow diamond signs are warning signs that alert drivers to conditions like curves, slippery roads, or intersections ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-025",
+      "category": "roadSigns",
+      "questionText": "A round yellow sign with an 'X' and 'RR' indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Road repair"
+        },
+        {
+          "id": "b",
+          "text": "Railroad crossing ahead"
+        },
+        {
+          "id": "c",
+          "text": "Right lane closed"
+        },
+        {
+          "id": "d",
+          "text": "Rest area ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This circular yellow sign warns that you are approaching a railroad crossing. Slow down and be prepared to stop.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-026",
+      "category": "roadSigns",
+      "questionText": "An inverted triangle sign (pointing down) with a red border means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop"
+        },
+        {
+          "id": "b",
+          "text": "Yield"
+        },
+        {
+          "id": "c",
+          "text": "Do Not Enter"
+        },
+        {
+          "id": "d",
+          "text": "Wrong Way"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The downward-pointing triangle is exclusively used for Yield signs. You must slow down and give the right-of-way to others.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-027",
+      "category": "roadSigns",
+      "questionText": "A sign with an orange background and black letters signifies:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Construction or maintenance zones"
+        },
+        {
+          "id": "b",
+          "text": "School zones"
+        },
+        {
+          "id": "c",
+          "text": "Recreation areas"
+        },
+        {
+          "id": "d",
+          "text": "Directions"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Orange signs are used to warn drivers of construction or maintenance work. Be alert for workers and equipment.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-028",
+      "category": "roadSigns",
+      "questionText": "A sign showing a red circle with a diagonal slash through a picture means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The action is permitted"
+        },
+        {
+          "id": "b",
+          "text": "The action is prohibited"
+        },
+        {
+          "id": "c",
+          "text": "Proceed with caution"
+        },
+        {
+          "id": "d",
+          "text": "Parking only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This symbol is the universal prohibition symbol. Whatever is pictured inside the circle is not allowed (e.g., No Left Turn).",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-029",
+      "category": "roadSigns",
+      "questionText": "A vertical rectangular sign with black text on a white background is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A warning sign"
+        },
+        {
+          "id": "b",
+          "text": "A regulatory sign"
+        },
+        {
+          "id": "c",
+          "text": "A guide sign"
+        },
+        {
+          "id": "d",
+          "text": "A construction sign"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Vertical white rectangles are regulatory signs that inform you of traffic laws you must obey, such as speed limits.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-030",
+      "category": "roadSigns",
+      "questionText": "A pentagon-shaped (5-sided) sign indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A school zone or school crossing"
+        },
+        {
+          "id": "b",
+          "text": "Stop ahead"
+        },
+        {
+          "id": "c",
+          "text": "No passing zone"
+        },
+        {
+          "id": "d",
+          "text": "Yield ahead"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The pentagon shape is reserved for school zones and school crossings. Drivers should watch for children.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-031",
+      "category": "roadSigns",
+      "questionText": "A red and white triangular sign at a railroad crossing means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop and proceed when clear"
+        },
+        {
+          "id": "b",
+          "text": "Yield to trains"
+        },
+        {
+          "id": "c",
+          "text": "Railroad workers ahead"
+        },
+        {
+          "id": "d",
+          "text": "Train station nearby"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A triangular red and white sign at railroad crossings means yield to trains. Always slow down and be prepared to stop.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-032",
+      "category": "roadSigns",
+      "questionText": "A sign showing two cars side by side indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Passing allowed"
+        },
+        {
+          "id": "b",
+          "text": "No passing zone"
+        },
+        {
+          "id": "c",
+          "text": "Carpooling required"
+        },
+        {
+          "id": "d",
+          "text": "Two-way traffic"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns that you are entering a no passing zone. Do not attempt to pass other vehicles.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-033",
+      "category": "roadSigns",
+      "questionText": "A diamond-shaped sign with a truck on a steep hill indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Truck parking ahead"
+        },
+        {
+          "id": "b",
+          "text": "Steep grade or hill ahead"
+        },
+        {
+          "id": "c",
+          "text": "Truck route"
+        },
+        {
+          "id": "d",
+          "text": "Weight station ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This warning sign alerts drivers to a steep downgrade ahead. Use lower gears and control your speed.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-034",
+      "category": "roadSigns",
+      "questionText": "What does a sign with a green background indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Warning of hazard"
+        },
+        {
+          "id": "b",
+          "text": "Guide or directional information"
+        },
+        {
+          "id": "c",
+          "text": "Construction zone"
+        },
+        {
+          "id": "d",
+          "text": "Regulatory requirement"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Green signs provide guide or directional information such as highway exits, distances to cities, and street names.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-035",
+      "category": "roadSigns",
+      "questionText": "A sign showing a curving arrow indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "U-turn required"
+        },
+        {
+          "id": "b",
+          "text": "Sharp curve ahead"
+        },
+        {
+          "id": "c",
+          "text": "Right turn only"
+        },
+        {
+          "id": "d",
+          "text": "Roundabout ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A yellow warning sign with a curving arrow alerts you to a sharp curve in the road ahead. Slow down before entering the curve.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-036",
+      "category": "roadSigns",
+      "questionText": "A blue sign with white letters or symbols indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Regulatory information"
+        },
+        {
+          "id": "b",
+          "text": "Warning of danger"
+        },
+        {
+          "id": "c",
+          "text": "Motorist services or information"
+        },
+        {
+          "id": "d",
+          "text": "Construction zone"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Blue signs provide information about motorist services such as gas stations, restaurants, hospitals, and rest areas.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-037",
+      "category": "roadSigns",
+      "questionText": "A yellow pennant-shaped sign on the left side of the road means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "School zone"
+        },
+        {
+          "id": "b",
+          "text": "No passing zone"
+        },
+        {
+          "id": "c",
+          "text": "One-way street"
+        },
+        {
+          "id": "d",
+          "text": "Construction ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The yellow pennant-shaped sign marks the beginning of a no passing zone on two-lane roads.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-038",
+      "category": "roadSigns",
+      "questionText": "A sign with a bicycle symbol indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Bicycle repair shop"
+        },
+        {
+          "id": "b",
+          "text": "Bicycle lane or crossing"
+        },
+        {
+          "id": "c",
+          "text": "No bicycles allowed"
+        },
+        {
+          "id": "d",
+          "text": "Bicycle parking"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns of a bicycle lane or crossing ahead. Watch for bicyclists and share the road safely.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-039",
+      "category": "roadSigns",
+      "questionText": "What does a brown sign typically indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Hazardous conditions"
+        },
+        {
+          "id": "b",
+          "text": "Recreation areas or points of interest"
+        },
+        {
+          "id": "c",
+          "text": "Speed limits"
+        },
+        {
+          "id": "d",
+          "text": "Emergency services"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Brown signs direct motorists to public recreation areas, parks, historic sites, and other points of interest.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-040",
+      "category": "roadSigns",
+      "questionText": "A sign showing a signal light ahead means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Traffic light malfunction"
+        },
+        {
+          "id": "b",
+          "text": "Traffic signal ahead"
+        },
+        {
+          "id": "c",
+          "text": "School zone ahead"
+        },
+        {
+          "id": "d",
+          "text": "Flashing light ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This warning sign alerts drivers that a traffic signal is ahead. Prepare to stop if necessary.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-041",
+      "category": "roadSigns",
+      "questionText": "A sign with two opposite arrows indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "One-way street"
+        },
+        {
+          "id": "b",
+          "text": "Two-way traffic ahead"
+        },
+        {
+          "id": "c",
+          "text": "Divided highway"
+        },
+        {
+          "id": "d",
+          "text": "No U-turn"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns that you are entering a section of road where traffic flows in both directions.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-042",
+      "category": "roadSigns",
+      "questionText": "A warning sign showing a deer indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Hunting area"
+        },
+        {
+          "id": "b",
+          "text": "Wildlife crossing area"
+        },
+        {
+          "id": "c",
+          "text": "Zoo ahead"
+        },
+        {
+          "id": "d",
+          "text": "Animal shelter nearby"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns that wild animals, particularly deer, frequently cross the road in this area. Be alert and prepared to stop.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-043",
+      "category": "roadSigns",
+      "questionText": "A sign with 'WRONG WAY' in white letters on a red background means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Road closed ahead"
+        },
+        {
+          "id": "b",
+          "text": "You are going the wrong direction"
+        },
+        {
+          "id": "c",
+          "text": "Detour required"
+        },
+        {
+          "id": "d",
+          "text": "One-way street"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign indicates you are traveling in the wrong direction on a one-way roadway or ramp. Turn around immediately.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-044",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a 'T' symbol indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "T-intersection ahead"
+        },
+        {
+          "id": "b",
+          "text": "Turn required"
+        },
+        {
+          "id": "c",
+          "text": "Truck route"
+        },
+        {
+          "id": "d",
+          "text": "Toll booth ahead"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns of a T-intersection ahead where you must turn either left or right.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-045",
+      "category": "roadSigns",
+      "questionText": "A sign showing a narrow bridge symbol means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Bridge weight limit"
+        },
+        {
+          "id": "b",
+          "text": "Bridge under construction"
+        },
+        {
+          "id": "c",
+          "text": "Narrower roadway ahead on bridge"
+        },
+        {
+          "id": "d",
+          "text": "Bridge toll ahead"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "This warning sign indicates the road narrows ahead, typically on a bridge. Slow down and be prepared to yield.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-046",
+      "category": "roadSigns",
+      "questionText": "A sign showing a divided highway symbol indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Divided highway begins"
+        },
+        {
+          "id": "b",
+          "text": "Divided highway ends"
+        },
+        {
+          "id": "c",
+          "text": "Either A or B depending on the sign"
+        },
+        {
+          "id": "d",
+          "text": "Merge area"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "These signs can indicate either that a divided highway is beginning or ending. Pay attention to the specific symbol and direction shown.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-047",
+      "category": "roadSigns",
+      "questionText": "A rectangular white sign with black letters stating 'ROAD CLOSED' means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Road may be used with caution"
+        },
+        {
+          "id": "b",
+          "text": "Road is completely closed to traffic"
+        },
+        {
+          "id": "c",
+          "text": "Road closed at night only"
+        },
+        {
+          "id": "d",
+          "text": "Construction zone ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This regulatory sign indicates the road ahead is closed to all traffic. Do not proceed; find an alternate route.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-048",
+      "category": "roadSigns",
+      "questionText": "A sign showing a merge symbol means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Lane ending, merge left or right"
+        },
+        {
+          "id": "b",
+          "text": "Two roads becoming one"
+        },
+        {
+          "id": "c",
+          "text": "Yield to merging traffic"
+        },
+        {
+          "id": "d",
+          "text": "Construction zone"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns that a lane is ending and traffic must merge. Adjust your speed and position to merge safely.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-049",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a crossroad symbol (+ shape) indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Hospital ahead"
+        },
+        {
+          "id": "b",
+          "text": "Crossroad intersection ahead"
+        },
+        {
+          "id": "c",
+          "text": "Four-way stop"
+        },
+        {
+          "id": "d",
+          "text": "Railroad crossing"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This warning sign alerts you to a crossroad intersection ahead. Be prepared to stop or yield as needed.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-050",
+      "category": "roadSigns",
+      "questionText": "A sign with a winding road symbol indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "One sharp curve ahead"
+        },
+        {
+          "id": "b",
+          "text": "Series of curves ahead"
+        },
+        {
+          "id": "c",
+          "text": "Mountain road"
+        },
+        {
+          "id": "d",
+          "text": "Scenic route"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This warning sign indicates a series of curves or winding road ahead. Reduce speed and stay alert.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-051",
+      "category": "roadSigns",
+      "questionText": "A yellow sign showing a side road at an angle indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Sharp turn ahead"
+        },
+        {
+          "id": "b",
+          "text": "Side road entering at an angle"
+        },
+        {
+          "id": "c",
+          "text": "Y-intersection"
+        },
+        {
+          "id": "d",
+          "text": "Detour route"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns of a side road entering from the left or right at an angle. Watch for entering traffic.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-052",
+      "category": "roadSigns",
+      "questionText": "A sign showing a slippery road symbol means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Icy conditions only"
+        },
+        {
+          "id": "b",
+          "text": "Road may be slippery when wet"
+        },
+        {
+          "id": "c",
+          "text": "Oil spill ahead"
+        },
+        {
+          "id": "d",
+          "text": "Gravel road"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This warning sign alerts drivers that the road may become slippery when wet. Reduce speed in rainy conditions.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-053",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a hill and percentage indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Grade or steepness of hill"
+        },
+        {
+          "id": "b",
+          "text": "Speed limit on hill"
+        },
+        {
+          "id": "c",
+          "text": "Truck weight limit"
+        },
+        {
+          "id": "d",
+          "text": "Distance to top of hill"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns of the grade (steepness) of a hill ahead, shown as a percentage. Steep grades may require lower gears.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-054",
+      "category": "roadSigns",
+      "questionText": "A sign reading 'LANE ENDS MERGE LEFT' means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Right lane is ending"
+        },
+        {
+          "id": "b",
+          "text": "Left lane is ending"
+        },
+        {
+          "id": "c",
+          "text": "All lanes end"
+        },
+        {
+          "id": "d",
+          "text": "Exit ramp ahead"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign indicates the right lane is ending and traffic must merge left. Prepare to merge safely.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-055",
+      "category": "roadSigns",
+      "questionText": "A regulatory sign showing 'ONE WAY' with an arrow means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Suggested direction only"
+        },
+        {
+          "id": "b",
+          "text": "Traffic flows only in the direction of the arrow"
+        },
+        {
+          "id": "c",
+          "text": "Turn required"
+        },
+        {
+          "id": "d",
+          "text": "Exit this way"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign indicates that traffic on this street flows only in the direction shown by the arrow. Do not drive against traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-056",
+      "category": "roadSigns",
+      "questionText": "A sign showing a traffic circle symbol indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Roundabout ahead"
+        },
+        {
+          "id": "b",
+          "text": "Circular driveway"
+        },
+        {
+          "id": "c",
+          "text": "U-turn permitted"
+        },
+        {
+          "id": "d",
+          "text": "Parking lot entrance"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns that a roundabout or traffic circle is ahead. Yield to traffic already in the circle.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-057",
+      "category": "roadSigns",
+      "questionText": "A sign reading 'DO NOT PASS' means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Passing is discouraged"
+        },
+        {
+          "id": "b",
+          "text": "Passing is prohibited"
+        },
+        {
+          "id": "c",
+          "text": "Pass with caution"
+        },
+        {
+          "id": "d",
+          "text": "Trucks cannot pass"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This regulatory sign prohibits passing other vehicles. It is illegal to pass in this area.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-058",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with falling rocks symbol indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Quarry ahead"
+        },
+        {
+          "id": "b",
+          "text": "Rock climbing area"
+        },
+        {
+          "id": "c",
+          "text": "Falling rocks or debris hazard"
+        },
+        {
+          "id": "d",
+          "text": "Mountain road"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "This warning sign alerts drivers to areas where rocks may fall onto the roadway. Stay alert and maintain a safe speed.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-059",
+      "category": "roadSigns",
+      "questionText": "A sign showing a pedestrian crossing symbol indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Sidewalk ahead"
+        },
+        {
+          "id": "b",
+          "text": "Pedestrian crosswalk ahead"
+        },
+        {
+          "id": "c",
+          "text": "School zone"
+        },
+        {
+          "id": "d",
+          "text": "Walking trail"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns of a marked pedestrian crosswalk ahead. Be prepared to yield to pedestrians.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-060",
+      "category": "roadSigns",
+      "questionText": "A sign with 'LOW CLEARANCE' and a height measurement means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Road dips ahead"
+        },
+        {
+          "id": "b",
+          "text": "Bridge or overpass has limited vertical clearance"
+        },
+        {
+          "id": "c",
+          "text": "Tunnel entrance"
+        },
+        {
+          "id": "d",
+          "text": "Parking garage entrance"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns that the overhead clearance of a bridge, overpass, or tunnel is limited to the height shown. Tall vehicles may not fit.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-061",
+      "category": "roadSigns",
+      "questionText": "A sign showing a Y-symbol indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Y-intersection ahead where road divides"
+        },
+        {
+          "id": "b",
+          "text": "Youth center"
+        },
+        {
+          "id": "c",
+          "text": "Yield ahead"
+        },
+        {
+          "id": "d",
+          "text": "YMCA nearby"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This warning sign indicates a Y-intersection ahead where the road splits into two roads. Choose your direction carefully.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-062",
+      "category": "roadSigns",
+      "questionText": "A sign reading 'KEEP RIGHT' with an arrow means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Right turn only"
+        },
+        {
+          "id": "b",
+          "text": "Stay to the right of an obstacle or median"
+        },
+        {
+          "id": "c",
+          "text": "Right lane faster"
+        },
+        {
+          "id": "d",
+          "text": "Exit on right"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This regulatory sign requires drivers to keep to the right side of a roadway divider, obstruction, or median.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-063",
+      "category": "safeDriving",
+      "questionText": "When driving in heavy rain, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Increase your speed to get through it quickly"
+        },
+        {
+          "id": "b",
+          "text": "Use cruise control"
+        },
+        {
+          "id": "c",
+          "text": "Reduce speed and increase following distance"
+        },
+        {
+          "id": "d",
+          "text": "Turn off headlights to reduce glare"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "In heavy rain, visibility and traction are reduced. Slow down, increase following distance, and use headlights.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-064",
+      "category": "safeDriving",
+      "questionText": "Hydroplaning occurs when:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Tires lose contact with the road due to water"
+        },
+        {
+          "id": "b",
+          "text": "Brakes overheat"
+        },
+        {
+          "id": "c",
+          "text": "Engine floods"
+        },
+        {
+          "id": "d",
+          "text": "Windshield fogs up"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Hydroplaning happens when your tires lose contact with the road surface due to a layer of water. Reduce speed and avoid sudden movements.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-065",
+      "category": "safeDriving",
+      "questionText": "If your vehicle starts to hydroplane, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Brake hard immediately"
+        },
+        {
+          "id": "b",
+          "text": "Accelerate to get through the water"
+        },
+        {
+          "id": "c",
+          "text": "Ease off the gas pedal and steer straight"
+        },
+        {
+          "id": "d",
+          "text": "Turn the steering wheel sharply"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "If you hydroplane, ease off the accelerator, hold the steering wheel straight, and avoid sudden braking or steering.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-066",
+      "category": "safeDriving",
+      "questionText": "When driving at night, you should use high beams:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "At all times"
+        },
+        {
+          "id": "b",
+          "text": "Only in cities"
+        },
+        {
+          "id": "c",
+          "text": "On open roads when no other vehicles are nearby"
+        },
+        {
+          "id": "d",
+          "text": "Never"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Use high beams on open roads when there is no oncoming or preceding traffic within 500 feet. Dim for other vehicles.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-067",
+      "category": "safeDriving",
+      "questionText": "You should dim your high beams for oncoming vehicles when they are within:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1,000 feet"
+        },
+        {
+          "id": "b",
+          "text": "500 feet"
+        },
+        {
+          "id": "c",
+          "text": "250 feet"
+        },
+        {
+          "id": "d",
+          "text": "100 feet"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Texas law requires you to dim your high beams when an oncoming vehicle is within 500 feet or when following another vehicle within 300 feet.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-068",
+      "category": "safeDriving",
+      "questionText": "What is the safest way to exit an expressway?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Slow down on the highway then exit"
+        },
+        {
+          "id": "b",
+          "text": "Move to the exit lane well in advance and slow down on the exit ramp"
+        },
+        {
+          "id": "c",
+          "text": "Stop before exiting"
+        },
+        {
+          "id": "d",
+          "text": "Exit at high speed"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Signal early, move to the exit lane well before the exit, and reduce speed once you are in the deceleration lane or on the ramp.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-069",
+      "category": "safeDriving",
+      "questionText": "When entering an expressway, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop and wait for an opening"
+        },
+        {
+          "id": "b",
+          "text": "Merge at any speed"
+        },
+        {
+          "id": "c",
+          "text": "Use the acceleration lane to match the speed of traffic"
+        },
+        {
+          "id": "d",
+          "text": "Enter slowly and speed up later"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Use the acceleration lane to increase your speed to match the flow of traffic, then merge safely when there is a gap.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-070",
+      "category": "safeDriving",
+      "questionText": "When should you check your blind spots?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only when changing lanes"
+        },
+        {
+          "id": "b",
+          "text": "Before changing lanes, merging, or turning"
+        },
+        {
+          "id": "c",
+          "text": "Never, mirrors are sufficient"
+        },
+        {
+          "id": "d",
+          "text": "Only when backing up"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Always check your blind spots by looking over your shoulder before changing lanes, merging, or turning.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-071",
+      "category": "safeDriving",
+      "questionText": "When driving in fog, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Use high beams for better visibility"
+        },
+        {
+          "id": "b",
+          "text": "Use low beams and fog lights if equipped"
+        },
+        {
+          "id": "c",
+          "text": "Drive with parking lights only"
+        },
+        {
+          "id": "d",
+          "text": "Follow closely to the car ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use low-beam headlights in fog. High beams reflect off the fog and reduce visibility. Increase following distance.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-072",
+      "category": "safeDriving",
+      "questionText": "If you are being tailgated, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Brake suddenly to teach them a lesson"
+        },
+        {
+          "id": "b",
+          "text": "Increase your speed"
+        },
+        {
+          "id": "c",
+          "text": "Move to another lane or slow down to let them pass"
+        },
+        {
+          "id": "d",
+          "text": "Turn on your hazard lights"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "If someone is following too closely, move to another lane if possible, or slow down gradually to encourage them to pass.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-073",
+      "category": "safeDriving",
+      "questionText": "When driving on icy or slippery roads, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Brake and steer normally"
+        },
+        {
+          "id": "b",
+          "text": "Increase speed to maintain control"
+        },
+        {
+          "id": "c",
+          "text": "Reduce speed and avoid sudden movements"
+        },
+        {
+          "id": "d",
+          "text": "Use cruise control"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "On icy roads, reduce speed significantly and avoid sudden braking, acceleration, or steering movements.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-074",
+      "category": "safeDriving",
+      "questionText": "If your vehicle starts to skid, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Brake hard and hold"
+        },
+        {
+          "id": "b",
+          "text": "Steer in the direction you want to go"
+        },
+        {
+          "id": "c",
+          "text": "Accelerate"
+        },
+        {
+          "id": "d",
+          "text": "Turn the wheel in the opposite direction"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Steer in the direction you want the front of the vehicle to go. Ease off the gas and avoid sudden braking.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-075",
+      "category": "safeDriving",
+      "questionText": "When passing a large truck, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Pass quickly on the right side"
+        },
+        {
+          "id": "b",
+          "text": "Pass on the left and ensure you can see the driver in your mirror before merging back"
+        },
+        {
+          "id": "c",
+          "text": "Flash your lights to signal"
+        },
+        {
+          "id": "d",
+          "text": "Stay in the truck's blind spot"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Pass trucks on the left when safe, and make sure you can see the truck driver in your mirror before moving back in front.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-076",
+      "category": "safeDriving",
+      "questionText": "A driver should maintain a space cushion around their vehicle to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Prevent other drivers from merging"
+        },
+        {
+          "id": "b",
+          "text": "Provide time to react to hazards"
+        },
+        {
+          "id": "c",
+          "text": "Drive faster"
+        },
+        {
+          "id": "d",
+          "text": "Block aggressive drivers"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Maintaining space around your vehicle gives you time and room to react to unexpected hazards or actions by other drivers.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-077",
+      "category": "safeDriving",
+      "questionText": "When approaching a railroad crossing with flashing lights and bells, you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Slow down and proceed with caution"
+        },
+        {
+          "id": "b",
+          "text": "Stop at least 15 feet from the nearest rail"
+        },
+        {
+          "id": "c",
+          "text": "Speed up to cross quickly"
+        },
+        {
+          "id": "d",
+          "text": "Stop only if you see a train"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When railroad signals are active, you must stop at least 15 feet but not more than 50 feet from the nearest rail and wait until it is safe to proceed.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-078",
+      "category": "safeDriving",
+      "questionText": "At what speed should you drive in adverse weather conditions?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The posted speed limit"
+        },
+        {
+          "id": "b",
+          "text": "Whatever speed feels comfortable"
+        },
+        {
+          "id": "c",
+          "text": "A speed that is safe for conditions, which may be lower than the limit"
+        },
+        {
+          "id": "d",
+          "text": "10 mph below the limit"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "You must adjust your speed to match road and weather conditions. Drive below the posted limit if necessary for safety.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-079",
+      "category": "safeDriving",
+      "questionText": "When should you use your horn?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "To greet friends"
+        },
+        {
+          "id": "b",
+          "text": "To warn others of danger"
+        },
+        {
+          "id": "c",
+          "text": "To express anger"
+        },
+        {
+          "id": "d",
+          "text": "In heavy traffic"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use your horn only to warn other drivers of potential danger, not to express frustration or greet others.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-080",
+      "category": "safeDriving",
+      "questionText": "When driving through a work zone, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Maintain normal speed"
+        },
+        {
+          "id": "b",
+          "text": "Slow down and watch for workers and equipment"
+        },
+        {
+          "id": "c",
+          "text": "Change lanes frequently"
+        },
+        {
+          "id": "d",
+          "text": "Use your phone to report conditions"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Reduce speed in work zones, stay alert for workers and equipment, and follow all posted signs and flaggers' directions.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-081",
+      "category": "safeDriving",
+      "questionText": "What is defensive driving?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Driving aggressively to protect yourself"
+        },
+        {
+          "id": "b",
+          "text": "Anticipating potential hazards and taking action to avoid them"
+        },
+        {
+          "id": "c",
+          "text": "Driving slowly at all times"
+        },
+        {
+          "id": "d",
+          "text": "Honking at other drivers"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Defensive driving means anticipating dangerous situations and making safe, informed decisions to avoid collisions.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-082",
+      "category": "safeDriving",
+      "questionText": "When backing up, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Rely solely on mirrors"
+        },
+        {
+          "id": "b",
+          "text": "Look over your shoulder and use mirrors"
+        },
+        {
+          "id": "c",
+          "text": "Back up quickly"
+        },
+        {
+          "id": "d",
+          "text": "Sound your horn continuously"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Always look over your shoulder and check mirrors when backing up. Move slowly and watch for pedestrians and obstacles.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-083",
+      "category": "safeDriving",
+      "questionText": "If you see a stopped school bus with flashing red lights on your side of the road, you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Slow down and proceed"
+        },
+        {
+          "id": "b",
+          "text": "Stop and remain stopped until the lights stop flashing"
+        },
+        {
+          "id": "c",
+          "text": "Change lanes and pass"
+        },
+        {
+          "id": "d",
+          "text": "Honk to alert the driver"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must stop at least 20 feet from a school bus with flashing red lights and remain stopped until the lights stop flashing or the bus moves.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-084",
+      "category": "safeDriving",
+      "questionText": "When driving in Texas during a dust storm or sandstorm, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Turn on high beams and continue"
+        },
+        {
+          "id": "b",
+          "text": "Pull off the road safely, turn off lights, and wait"
+        },
+        {
+          "id": "c",
+          "text": "Drive faster to get through it"
+        },
+        {
+          "id": "d",
+          "text": "Follow the car ahead closely"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If visibility is severely reduced, pull completely off the road to a safe location, turn off all lights, and wait for conditions to improve.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-085",
+      "category": "safeDriving",
+      "questionText": "When should you signal before making a turn?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "As you begin turning"
+        },
+        {
+          "id": "b",
+          "text": "At least 100 feet before the turn"
+        },
+        {
+          "id": "c",
+          "text": "Only if other vehicles are present"
+        },
+        {
+          "id": "d",
+          "text": "After checking mirrors"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must signal at least 100 feet before turning in a business or residential area, and at least 200 feet on highways.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-086",
+      "category": "safeDriving",
+      "questionText": "When driving near motorcycles, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Treat them like bicycles"
+        },
+        {
+          "id": "b",
+          "text": "Give them a full lane width"
+        },
+        {
+          "id": "c",
+          "text": "Follow closely"
+        },
+        {
+          "id": "d",
+          "text": "Pass them in the same lane"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Motorcycles are entitled to a full lane width. Do not share a lane with a motorcycle or follow too closely.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-087",
+      "category": "safeDriving",
+      "questionText": "When driving through standing water, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Drive through quickly"
+        },
+        {
+          "id": "b",
+          "text": "Avoid it if possible; if you must cross, go slowly"
+        },
+        {
+          "id": "c",
+          "text": "Use cruise control"
+        },
+        {
+          "id": "d",
+          "text": "Accelerate to create a wave"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Avoid standing water when possible. If you must drive through it, slow down to reduce the risk of hydroplaning and water damage.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-088",
+      "category": "safeDriving",
+      "questionText": "Tire tread depth should be at least:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1/8 inch"
+        },
+        {
+          "id": "b",
+          "text": "1/16 inch"
+        },
+        {
+          "id": "c",
+          "text": "1/32 inch"
+        },
+        {
+          "id": "d",
+          "text": "1/4 inch"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Texas law requires tire tread depth of at least 1/32 inch on all tires. Worn tires reduce traction and increase crash risk.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-089",
+      "category": "safeDriving",
+      "questionText": "Before changing lanes on a multi-lane highway, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Signal only"
+        },
+        {
+          "id": "b",
+          "text": "Check mirrors only"
+        },
+        {
+          "id": "c",
+          "text": "Signal, check mirrors, and check blind spots"
+        },
+        {
+          "id": "d",
+          "text": "Just change lanes quickly"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Always signal your intention, check your mirrors, and look over your shoulder to check blind spots before changing lanes.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-090",
+      "category": "safeDriving",
+      "questionText": "When approaching an intersection where you want to turn but the oncoming traffic is heavy, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Force your way into traffic"
+        },
+        {
+          "id": "b",
+          "text": "Wait for a safe gap in traffic"
+        },
+        {
+          "id": "c",
+          "text": "Honk and proceed"
+        },
+        {
+          "id": "d",
+          "text": "Turn from the wrong lane"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Wait for a safe gap in traffic before turning. Do not force your way into heavy traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-091",
+      "category": "trafficLaws",
+      "questionText": "In Texas, using a wireless device to read, write, or send a text message while driving is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Legal for all drivers"
+        },
+        {
+          "id": "b",
+          "text": "Illegal for all drivers"
+        },
+        {
+          "id": "c",
+          "text": "Legal if using hands-free"
+        },
+        {
+          "id": "d",
+          "text": "Legal on highways only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Texas law prohibits all drivers from texting while driving, regardless of age or experience level.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-092",
+      "category": "trafficLaws",
+      "questionText": "Drivers under 18 years old in Texas are prohibited from using a wireless communication device:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only while texting"
+        },
+        {
+          "id": "b",
+          "text": "Only while making calls"
+        },
+        {
+          "id": "c",
+          "text": "For any purpose, including hands-free, with few exceptions"
+        },
+        {
+          "id": "d",
+          "text": "They can use it with parental permission"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Drivers under 18 cannot use any wireless communication device while driving, even with hands-free technology, except for emergencies.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-093",
+      "category": "trafficLaws",
+      "questionText": "Under Texas law, what must you do when a funeral procession is crossing an intersection?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Honk in respect"
+        },
+        {
+          "id": "b",
+          "text": "Yield the right-of-way"
+        },
+        {
+          "id": "c",
+          "text": "Join the procession"
+        },
+        {
+          "id": "d",
+          "text": "Proceed normally"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must yield the right-of-way to funeral processions. Do not interrupt or break into a procession.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-094",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to make a right turn on red in Texas:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "At all times"
+        },
+        {
+          "id": "b",
+          "text": "Unless a sign prohibits it"
+        },
+        {
+          "id": "c",
+          "text": "When a sign prohibits it"
+        },
+        {
+          "id": "d",
+          "text": "During rush hour"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "You may turn right on red after stopping and yielding unless a sign specifically prohibits it.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-095",
+      "category": "trafficLaws",
+      "questionText": "In Texas, a U-turn is prohibited:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "At all intersections"
+        },
+        {
+          "id": "b",
+          "text": "Where a 'No U-Turn' sign is posted"
+        },
+        {
+          "id": "c",
+          "text": "On all highways"
+        },
+        {
+          "id": "d",
+          "text": "During daytime hours"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "U-turns are generally permitted unless prohibited by a sign, or where visibility is limited, or on railroad crossings.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-096",
+      "category": "trafficLaws",
+      "questionText": "Texas law requires all vehicle occupants to wear seat belts:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only on highways"
+        },
+        {
+          "id": "b",
+          "text": "Only in the front seat"
+        },
+        {
+          "id": "c",
+          "text": "In all seating positions"
+        },
+        {
+          "id": "d",
+          "text": "Only for children"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Texas law requires all passengers in all seating positions to wear seat belts or use appropriate child safety seats.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-097",
+      "category": "trafficLaws",
+      "questionText": "Children under ___ years old must be secured in a child safety seat system:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "8"
+        },
+        {
+          "id": "d",
+          "text": "10"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Texas law requires children under 8 years old to be in a child safety seat unless they are taller than 4'9\".",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-098",
+      "category": "trafficLaws",
+      "questionText": "If you are involved in a collision that results in injury or death, you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Leave the scene to get help"
+        },
+        {
+          "id": "b",
+          "text": "Stop immediately and remain at the scene"
+        },
+        {
+          "id": "c",
+          "text": "Move your vehicle away immediately"
+        },
+        {
+          "id": "d",
+          "text": "Wait for 10 minutes"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must stop immediately, remain at the scene, and render aid. Leaving the scene of an injury crash is a serious crime.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-099",
+      "category": "trafficLaws",
+      "questionText": "The Texas Open Container Law prohibits:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Drinking alcohol at home"
+        },
+        {
+          "id": "b",
+          "text": "Having an open container of alcohol in the passenger area of a vehicle"
+        },
+        {
+          "id": "c",
+          "text": "Transporting sealed alcohol"
+        },
+        {
+          "id": "d",
+          "text": "Purchasing alcohol"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "It is illegal to have an open container of alcohol in the passenger area of a vehicle on a public roadway.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-100",
+      "category": "trafficLaws",
+      "questionText": "If you are convicted of driving without insurance in Texas, you may face:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A warning only"
+        },
+        {
+          "id": "b",
+          "text": "Fines and possible vehicle impoundment"
+        },
+        {
+          "id": "c",
+          "text": "Community service"
+        },
+        {
+          "id": "d",
+          "text": "No penalty"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Driving without insurance can result in fines ranging from $175 to $350 for the first offense, plus possible vehicle impoundment.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-101",
+      "category": "trafficLaws",
+      "questionText": "In Texas, headlights must be used when visibility is less than:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "500 feet"
+        },
+        {
+          "id": "b",
+          "text": "1,000 feet"
+        },
+        {
+          "id": "c",
+          "text": "1,500 feet"
+        },
+        {
+          "id": "d",
+          "text": "2,000 feet"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Texas law requires headlights when visibility is less than 1,000 feet due to weather or other conditions.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-102",
+      "category": "trafficLaws",
+      "questionText": "Under the Graduated Driver License program, how long must you hold a learner license before applying for a provisional license?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "3 months"
+        },
+        {
+          "id": "b",
+          "text": "6 months"
+        },
+        {
+          "id": "c",
+          "text": "9 months"
+        },
+        {
+          "id": "d",
+          "text": "12 months"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A learner must hold their learner license for at least 6 months before applying for a provisional license.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-103",
+      "category": "trafficLaws",
+      "questionText": "What is the minimum age to obtain a learner license in Texas?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "14"
+        },
+        {
+          "id": "b",
+          "text": "15"
+        },
+        {
+          "id": "c",
+          "text": "16"
+        },
+        {
+          "id": "d",
+          "text": "17"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must be at least 15 years old to obtain a learner license in Texas.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-104",
+      "category": "trafficLaws",
+      "questionText": "If you are under 18 and convicted of a moving violation, your license may be suspended for:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "No suspension for first offense"
+        },
+        {
+          "id": "b",
+          "text": "30 days"
+        },
+        {
+          "id": "c",
+          "text": "At least 30 days"
+        },
+        {
+          "id": "d",
+          "text": "1 year"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Minors convicted of moving violations may face license suspension of at least 30 days, depending on the offense.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-105",
+      "category": "trafficLaws",
+      "questionText": "Texas law requires that when school buses display alternately flashing red lights, drivers must stop:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only if children are visible"
+        },
+        {
+          "id": "b",
+          "text": "At least 20 feet from the bus"
+        },
+        {
+          "id": "c",
+          "text": "Only if on the same side of the road"
+        },
+        {
+          "id": "d",
+          "text": "Within 10 feet of the bus"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When a school bus displays flashing red lights, you must stop at least 20 feet from the bus and remain stopped until the signals are turned off.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-106",
+      "category": "trafficLaws",
+      "questionText": "The maximum number of passengers under 21 (not family members) a provisional license holder can have is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "None"
+        },
+        {
+          "id": "b",
+          "text": "One"
+        },
+        {
+          "id": "c",
+          "text": "Two"
+        },
+        {
+          "id": "d",
+          "text": "Three"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Provisional license holders cannot have more than one passenger under 21 who is not a family member during the first 12 months.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-107",
+      "category": "trafficLaws",
+      "questionText": "When can a provisional license holder drive with multiple non-family passengers under 21?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Never"
+        },
+        {
+          "id": "b",
+          "text": "After holding the license for 12 months"
+        },
+        {
+          "id": "c",
+          "text": "After turning 17"
+        },
+        {
+          "id": "d",
+          "text": "With parental permission"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "After 12 months of holding a provisional license without violations, the one-passenger restriction is lifted.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-108",
+      "category": "trafficLaws",
+      "questionText": "Texas law allows Parent-Taught Driver Education. Who can teach this course?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Any adult"
+        },
+        {
+          "id": "b",
+          "text": "A parent or guardian who meets certain requirements"
+        },
+        {
+          "id": "c",
+          "text": "Any licensed driver"
+        },
+        {
+          "id": "d",
+          "text": "Only professional instructors"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Texas allows parents or guardians to teach driver education if they meet specific requirements set by the state.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-109",
+      "category": "rightOfWay",
+      "questionText": "At a four-way stop, if two vehicles arrive at the same time, which vehicle has the right-of-way?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The vehicle on the left"
+        },
+        {
+          "id": "b",
+          "text": "The vehicle on the right"
+        },
+        {
+          "id": "c",
+          "text": "The larger vehicle"
+        },
+        {
+          "id": "d",
+          "text": "The vehicle going straight"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "At a four-way stop, when two vehicles arrive simultaneously, the driver on the left must yield to the driver on the right.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-110",
+      "category": "rightOfWay",
+      "questionText": "You must yield the right-of-way to pedestrians:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only in marked crosswalks"
+        },
+        {
+          "id": "b",
+          "text": "In both marked and unmarked crosswalks"
+        },
+        {
+          "id": "c",
+          "text": "Never, pedestrians must yield"
+        },
+        {
+          "id": "d",
+          "text": "Only at intersections with signals"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Drivers must yield to pedestrians in all crosswalks, whether marked or unmarked, at intersections.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-111",
+      "category": "rightOfWay",
+      "questionText": "When two vehicles approach an uncontrolled T-intersection, who has the right-of-way?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The vehicle turning"
+        },
+        {
+          "id": "b",
+          "text": "The vehicle on the through street"
+        },
+        {
+          "id": "c",
+          "text": "The faster vehicle"
+        },
+        {
+          "id": "d",
+          "text": "The vehicle that arrives first"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "At a T-intersection, traffic on the through street (top of the T) has the right-of-way over traffic on the terminating street.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-112",
+      "category": "rightOfWay",
+      "questionText": "When must you yield to emergency vehicles?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only if they are behind you"
+        },
+        {
+          "id": "b",
+          "text": "When they are using lights and sirens"
+        },
+        {
+          "id": "c",
+          "text": "Only on highways"
+        },
+        {
+          "id": "d",
+          "text": "Only during emergencies"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must yield the right-of-way to emergency vehicles using audible and visual signals by pulling to the right and stopping.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-113",
+      "category": "rightOfWay",
+      "questionText": "When entering a traffic circle or roundabout, you must yield to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Traffic entering from the right"
+        },
+        {
+          "id": "b",
+          "text": "Traffic entering from the left"
+        },
+        {
+          "id": "c",
+          "text": "Traffic already in the circle"
+        },
+        {
+          "id": "d",
+          "text": "No one"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "When entering a roundabout, you must yield to traffic already circulating in the roundabout.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-114",
+      "category": "rightOfWay",
+      "questionText": "Who has the right-of-way when a driver is making a left turn and a pedestrian is crossing?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The driver"
+        },
+        {
+          "id": "b",
+          "text": "The pedestrian"
+        },
+        {
+          "id": "c",
+          "text": "Whoever arrives first"
+        },
+        {
+          "id": "d",
+          "text": "Neither"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Drivers must always yield to pedestrians in crosswalks, even when making turns.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-115",
+      "category": "rightOfWay",
+      "questionText": "At an intersection with a flashing yellow light, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop completely"
+        },
+        {
+          "id": "b",
+          "text": "Slow down and proceed with caution"
+        },
+        {
+          "id": "c",
+          "text": "Speed up"
+        },
+        {
+          "id": "d",
+          "text": "Treat it as a four-way stop"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A flashing yellow light warns you to slow down and proceed with caution. You do not need to stop unless necessary for safety.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-116",
+      "category": "rightOfWay",
+      "questionText": "When two cars are turning left from opposite directions at an intersection, they should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Pass in front of each other"
+        },
+        {
+          "id": "b",
+          "text": "Pass behind each other (left side to left side)"
+        },
+        {
+          "id": "c",
+          "text": "Stop and wait"
+        },
+        {
+          "id": "d",
+          "text": "Honk and proceed"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When two vehicles are turning left from opposite directions, they should pass left side to left side (behind each other).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-117",
+      "category": "rightOfWay",
+      "questionText": "You must yield to transit buses that are signaling to re-enter traffic from a stopped position:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only on city streets"
+        },
+        {
+          "id": "b",
+          "text": "On all roads where the speed limit is 35 mph or less"
+        },
+        {
+          "id": "c",
+          "text": "Never"
+        },
+        {
+          "id": "d",
+          "text": "Only during rush hour"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In Texas, you must yield to a transit bus signaling to re-enter traffic from a stop when on roads with speed limits of 35 mph or less.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-118",
+      "category": "rightOfWay",
+      "questionText": "When emerging from an alley or driveway, you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Honk and proceed"
+        },
+        {
+          "id": "b",
+          "text": "Yield to all traffic and pedestrians"
+        },
+        {
+          "id": "c",
+          "text": "Proceed if clear on your right"
+        },
+        {
+          "id": "d",
+          "text": "Have the right-of-way"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When leaving an alley, driveway, or private road, you must stop and yield to all pedestrians and traffic on the public roadway.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-119",
+      "category": "rightOfWay",
+      "questionText": "At an intersection where there is no stop sign or traffic signal, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Speed through quickly"
+        },
+        {
+          "id": "b",
+          "text": "Slow down and be ready to stop"
+        },
+        {
+          "id": "c",
+          "text": "Maintain speed"
+        },
+        {
+          "id": "d",
+          "text": "Honk your horn"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "At uncontrolled intersections, slow down and be prepared to yield to vehicles on your right or to traffic already in the intersection.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-120",
+      "category": "rightOfWay",
+      "questionText": "When a traffic signal is not working at an intersection, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Proceed without stopping"
+        },
+        {
+          "id": "b",
+          "text": "Treat it as a four-way stop"
+        },
+        {
+          "id": "c",
+          "text": "Yield to traffic on the left only"
+        },
+        {
+          "id": "d",
+          "text": "Call the police and wait"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When traffic signals are not working, treat the intersection as a four-way stop and proceed according to right-of-way rules.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-121",
+      "category": "rightOfWay",
+      "questionText": "Blind pedestrians using white canes or guide dogs always have:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Shared right-of-way"
+        },
+        {
+          "id": "b",
+          "text": "The right-of-way"
+        },
+        {
+          "id": "c",
+          "text": "No special privileges"
+        },
+        {
+          "id": "d",
+          "text": "Right-of-way only at crosswalks"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Blind pedestrians using white canes or guide dogs always have the right-of-way. Drivers must stop and yield.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-122",
+      "category": "rightOfWay",
+      "questionText": "When making a right turn, you must yield to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vehicles behind you"
+        },
+        {
+          "id": "b",
+          "text": "Pedestrians and bicyclists"
+        },
+        {
+          "id": "c",
+          "text": "Vehicles turning left"
+        },
+        {
+          "id": "d",
+          "text": "No one"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Before making a right turn, you must yield to pedestrians and bicyclists crossing the street you're entering.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-123",
+      "category": "rightOfWay",
+      "questionText": "At an intersection controlled by a yield sign, you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop completely"
+        },
+        {
+          "id": "b",
+          "text": "Slow down and yield to cross traffic"
+        },
+        {
+          "id": "c",
+          "text": "Proceed at normal speed"
+        },
+        {
+          "id": "d",
+          "text": "Honk before proceeding"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A yield sign requires you to slow down and give the right-of-way to other vehicles and pedestrians. Stop if necessary.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-124",
+      "category": "rightOfWay",
+      "questionText": "When two vehicles approach a four-way stop at different times, which one has the right-of-way?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The larger vehicle"
+        },
+        {
+          "id": "b",
+          "text": "The vehicle that arrived first"
+        },
+        {
+          "id": "c",
+          "text": "The vehicle on the right"
+        },
+        {
+          "id": "d",
+          "text": "The vehicle going straight"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "At a four-way stop, the vehicle that arrives at the intersection first has the right-of-way.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-125",
+      "category": "stateSpecific",
+      "questionText": "Texas has a Zero Tolerance policy for drivers under 21. This means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "No speeding allowed"
+        },
+        {
+          "id": "b",
+          "text": "Any detectable amount of alcohol is illegal"
+        },
+        {
+          "id": "c",
+          "text": "No cell phone use"
+        },
+        {
+          "id": "d",
+          "text": "No passengers allowed"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Texas Zero Tolerance law makes it illegal for anyone under 21 to operate a vehicle with any detectable amount of alcohol in their system.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-126",
+      "category": "stateSpecific",
+      "questionText": "In Texas, the maximum speed limit on some rural highways can be as high as:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "70 mph"
+        },
+        {
+          "id": "b",
+          "text": "75 mph"
+        },
+        {
+          "id": "c",
+          "text": "80 mph"
+        },
+        {
+          "id": "d",
+          "text": "85 mph"
+        }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Texas has the highest posted speed limit in the United States at 85 mph on certain sections of toll roads.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-127",
+      "category": "stateSpecific",
+      "questionText": "Texas law requires drivers to share the road with farm equipment and livestock. When approaching slow-moving farm equipment, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Honk repeatedly"
+        },
+        {
+          "id": "b",
+          "text": "Pass immediately"
+        },
+        {
+          "id": "c",
+          "text": "Be patient and pass only when safe"
+        },
+        {
+          "id": "d",
+          "text": "Flash your lights"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Farm equipment has the right to use Texas roads. Be patient, slow down, and pass only when it is safe to do so.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-128",
+      "category": "stateSpecific",
+      "questionText": "What is the penalty for a first-time DUIA (Driving Under the Influence of Alcohol by a Minor) conviction in Texas?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Warning only"
+        },
+        {
+          "id": "b",
+          "text": "Fine up to $500, 20-40 hours community service, license suspension"
+        },
+        {
+          "id": "c",
+          "text": "Jail time only"
+        },
+        {
+          "id": "d",
+          "text": "$100 fine"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A first DUIA offense can result in a fine up to $500, 20-40 hours of community service, alcohol awareness classes, and a 60-day license suspension.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-129",
+      "category": "stateSpecific",
+      "questionText": "Texas has a Move Over/Slow Down law. If you cannot move over for stopped emergency vehicles, you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Maintain your speed"
+        },
+        {
+          "id": "b",
+          "text": "Slow down to 20 mph below the posted limit"
+        },
+        {
+          "id": "c",
+          "text": "Stop completely"
+        },
+        {
+          "id": "d",
+          "text": "Flash your hazard lights"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If unable to move over, Texas law requires drivers to slow down to 20 mph below the posted speed limit when passing stopped emergency vehicles.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-130",
+      "category": "stateSpecific",
+      "questionText": "Under Texas GDL program, a provisional license holder's curfew restriction (midnight to 5 AM) can be waived for:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Social events"
+        },
+        {
+          "id": "b",
+          "text": "Work, school, or emergency"
+        },
+        {
+          "id": "c",
+          "text": "Any reason with parental note"
+        },
+        {
+          "id": "d",
+          "text": "It cannot be waived"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The midnight-5AM curfew for provisional license holders is waived for work, school activities, or emergencies.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-131",
+      "category": "stateSpecific",
+      "questionText": "What is required to complete driver education in Texas for minors?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Online course only"
+        },
+        {
+          "id": "b",
+          "text": "32 hours of classroom instruction and 7 hours of behind-the-wheel training"
+        },
+        {
+          "id": "c",
+          "text": "20 hours total"
+        },
+        {
+          "id": "d",
+          "text": "No formal education required"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Texas requires minors to complete 32 hours of classroom instruction and at least 7 hours of behind-the-wheel training with an instructor.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-132",
+      "category": "stateSpecific",
+      "questionText": "Texas requires a learner license holder to complete how many hours of supervised driving practice?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "20 hours"
+        },
+        {
+          "id": "b",
+          "text": "30 hours"
+        },
+        {
+          "id": "c",
+          "text": "40 hours"
+        },
+        {
+          "id": "d",
+          "text": "50 hours"
+        }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Learner license holders must complete at least 50 hours of supervised driving practice, including 10 hours at night.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-133",
+      "category": "stateSpecific",
+      "questionText": "In Texas, drivers must stop their vehicle when a train is approaching within:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "500 feet"
+        },
+        {
+          "id": "b",
+          "text": "1,000 feet"
+        },
+        {
+          "id": "c",
+          "text": "1,500 feet"
+        },
+        {
+          "id": "d",
+          "text": "2,000 feet"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Texas law requires drivers to stop when a train is approaching within 1,500 feet of a railroad crossing and is visible or giving warning signals.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-134",
+      "category": "stateSpecific",
+      "questionText": "What does Texas's Implied Consent law mean?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "You consent to follow all traffic laws"
+        },
+        {
+          "id": "b",
+          "text": "You consent to take a chemical test if arrested for DWI"
+        },
+        {
+          "id": "c",
+          "text": "You consent to vehicle searches"
+        },
+        {
+          "id": "d",
+          "text": "You consent to roadside checkpoints"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "By driving in Texas, you automatically consent to chemical testing (breath or blood) if arrested for DWI. Refusal results in automatic license suspension.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-135",
+      "category": "stateSpecific",
+      "questionText": "How many points must accumulate on your driving record within 12 months for it to result in a license suspension for drivers under 21?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "2 points"
+        },
+        {
+          "id": "b",
+          "text": "4 points"
+        },
+        {
+          "id": "c",
+          "text": "6 points"
+        },
+        {
+          "id": "d",
+          "text": "8 points"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "For drivers under 21, accumulating 4 or more points within 12 months can result in license suspension.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-136",
+      "category": "stateSpecific",
+      "questionText": "In Texas, if you refuse to take a chemical test when arrested for DWI, your license will be suspended for:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "90 days"
+        },
+        {
+          "id": "b",
+          "text": "6 months"
+        },
+        {
+          "id": "c",
+          "text": "180 days"
+        },
+        {
+          "id": "d",
+          "text": "1 year"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Refusing a chemical test results in an automatic 180-day license suspension for a first refusal under Texas's Implied Consent law.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-137",
+      "category": "stateSpecific",
+      "questionText": "The Texas Parent-Taught Driver Education program allows parents to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Skip driver education entirely"
+        },
+        {
+          "id": "b",
+          "text": "Conduct the classroom portion of driver education at home"
+        },
+        {
+          "id": "c",
+          "text": "Issue a license to their child"
+        },
+        {
+          "id": "d",
+          "text": "Waive the driving test"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The Parent-Taught program allows qualified parents or guardians to provide the classroom instruction portion of driver education at home.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-138",
+      "category": "stateSpecific",
+      "questionText": "Texas law prohibits littering from a vehicle. The maximum fine for littering can be:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "$100"
+        },
+        {
+          "id": "b",
+          "text": "$500"
+        },
+        {
+          "id": "c",
+          "text": "$2,000"
+        },
+        {
+          "id": "d",
+          "text": "$5,000"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Littering in Texas can result in fines up to $2,000 for larger amounts, plus community service and possible jail time.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-139",
+      "category": "alcoholDrugs",
+      "questionText": "What is the legal BAC (Blood Alcohol Concentration) limit for drivers 21 and over in Texas?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "0.05%"
+        },
+        {
+          "id": "b",
+          "text": "0.08%"
+        },
+        {
+          "id": "c",
+          "text": "0.10%"
+        },
+        {
+          "id": "d",
+          "text": "0.12%"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In Texas, it is illegal for anyone 21 or older to drive with a BAC of 0.08% or higher. Lower limits apply to minors and commercial drivers.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-140",
+      "category": "alcoholDrugs",
+      "questionText": "Which of the following can affect your ability to drive safely?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Alcohol only"
+        },
+        {
+          "id": "b",
+          "text": "Illegal drugs only"
+        },
+        {
+          "id": "c",
+          "text": "Prescription medications only"
+        },
+        {
+          "id": "d",
+          "text": "Alcohol, illegal drugs, and prescription medications"
+        }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Alcohol, illegal drugs, over-the-counter medications, and prescription drugs can all impair your ability to drive safely.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-141",
+      "category": "alcoholDrugs",
+      "questionText": "The only way to sober up after drinking alcohol is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Drinking coffee"
+        },
+        {
+          "id": "b",
+          "text": "Taking a cold shower"
+        },
+        {
+          "id": "c",
+          "text": "Time"
+        },
+        {
+          "id": "d",
+          "text": "Exercising"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Only time will reduce blood alcohol concentration. The body metabolizes alcohol at a fixed rate, typically one drink per hour.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-142",
+      "category": "alcoholDrugs",
+      "questionText": "If you are convicted of DWI (Driving While Intoxicated) for the first time in Texas, you could face:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A warning"
+        },
+        {
+          "id": "b",
+          "text": "Fine up to $2,000, jail time, and license suspension"
+        },
+        {
+          "id": "c",
+          "text": "Community service only"
+        },
+        {
+          "id": "d",
+          "text": "$100 fine"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A first DWI conviction can result in a fine up to $2,000, jail time up to 180 days, and license suspension up to 1 year.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-143",
+      "category": "alcoholDrugs",
+      "questionText": "Alcohol affects which of the following?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Judgment only"
+        },
+        {
+          "id": "b",
+          "text": "Reaction time only"
+        },
+        {
+          "id": "c",
+          "text": "Vision only"
+        },
+        {
+          "id": "d",
+          "text": "Judgment, reaction time, vision, and coordination"
+        }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Alcohol impairs all aspects of driving ability including judgment, reaction time, vision, coordination, and concentration.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-144",
+      "category": "alcoholDrugs",
+      "questionText": "In Texas, it is illegal to drive with an open container of alcohol:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only if you are drinking from it"
+        },
+        {
+          "id": "b",
+          "text": "In the passenger area of the vehicle"
+        },
+        {
+          "id": "c",
+          "text": "Only on highways"
+        },
+        {
+          "id": "d",
+          "text": "If the driver is under 21"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Texas Open Container law prohibits having an open container of alcohol in the passenger area of a motor vehicle on a public roadway.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-145",
+      "category": "alcoholDrugs",
+      "questionText": "DWI stands for:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Driving While Impaired"
+        },
+        {
+          "id": "b",
+          "text": "Driving While Intoxicated"
+        },
+        {
+          "id": "c",
+          "text": "Driving With Influence"
+        },
+        {
+          "id": "d",
+          "text": "Drinking While Inside"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "DWI stands for Driving While Intoxicated, which is the criminal offense of operating a vehicle while impaired by alcohol or drugs.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-146",
+      "category": "alcoholDrugs",
+      "questionText": "Even if your BAC is below 0.08%, you can still be arrested for DWI if:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "This is not possible"
+        },
+        {
+          "id": "b",
+          "text": "An officer determines you are impaired"
+        },
+        {
+          "id": "c",
+          "text": "You are speeding"
+        },
+        {
+          "id": "d",
+          "text": "It is nighttime"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You can be arrested for DWI even with a BAC below 0.08% if an officer has evidence that you are impaired and unable to drive safely.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-147",
+      "category": "alcoholDrugs",
+      "questionText": "Combining alcohol with other drugs:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Reduces impairment"
+        },
+        {
+          "id": "b",
+          "text": "Has no additional effect"
+        },
+        {
+          "id": "c",
+          "text": "Multiplies the impairing effects"
+        },
+        {
+          "id": "d",
+          "text": "Cancels out both effects"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Combining alcohol with other drugs (prescription, over-the-counter, or illegal) can multiply their impairing effects, making driving extremely dangerous.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-148",
+      "category": "alcoholDrugs",
+      "questionText": "What is the BAC limit for a minor (under 21) operating a vehicle in Texas?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "0.00% (any detectable amount)"
+        },
+        {
+          "id": "b",
+          "text": "0.02%"
+        },
+        {
+          "id": "c",
+          "text": "0.05%"
+        },
+        {
+          "id": "d",
+          "text": "0.08%"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Under Texas Zero Tolerance law, any detectable amount of alcohol in a minor's system while driving is illegal.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-149",
+      "category": "alcoholDrugs",
+      "questionText": "If convicted of DWI, you may be required to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Install an ignition interlock device"
+        },
+        {
+          "id": "b",
+          "text": "Attend alcohol education programs"
+        },
+        {
+          "id": "c",
+          "text": "Perform community service"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "DWI convictions can result in multiple penalties including ignition interlock devices, alcohol education, community service, fines, and jail time.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-150",
+      "category": "emergencies",
+      "questionText": "If your vehicle breaks down on a highway, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stay in the vehicle with doors locked"
+        },
+        {
+          "id": "b",
+          "text": "Get out and walk for help"
+        },
+        {
+          "id": "c",
+          "text": "Pull as far off the road as possible, turn on hazards, and stay in the vehicle if safe"
+        },
+        {
+          "id": "d",
+          "text": "Leave the vehicle in the lane"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Pull completely off the roadway if possible, activate hazard lights, and remain in your vehicle with seat belt fastened unless it is unsafe to do so.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-151",
+      "category": "emergencies",
+      "questionText": "If your accelerator sticks while driving, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Turn off the ignition immediately"
+        },
+        {
+          "id": "b",
+          "text": "Shift to neutral and apply brakes"
+        },
+        {
+          "id": "c",
+          "text": "Pump the accelerator"
+        },
+        {
+          "id": "d",
+          "text": "Steer off the road immediately"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If your accelerator sticks, shift to neutral, apply the brakes, and safely pull off the road. Do not turn off the ignition while moving.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-152",
+      "category": "emergencies",
+      "questionText": "If your vehicle catches fire while driving, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Continue driving to find water"
+        },
+        {
+          "id": "b",
+          "text": "Pull over, turn off the engine, and get everyone out"
+        },
+        {
+          "id": "c",
+          "text": "Open the hood to see the problem"
+        },
+        {
+          "id": "d",
+          "text": "Use the air conditioning"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If your vehicle catches fire, pull over immediately, turn off the engine, get everyone out, and move away from the vehicle. Call 911.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-153",
+      "category": "emergencies",
+      "questionText": "If you experience a tire blowout while driving, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Brake hard immediately"
+        },
+        {
+          "id": "b",
+          "text": "Hold the steering wheel firmly, ease off the gas, and slow down gradually"
+        },
+        {
+          "id": "c",
+          "text": "Accelerate"
+        },
+        {
+          "id": "d",
+          "text": "Turn sharply"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In a blowout, grip the steering wheel firmly, take your foot off the gas, avoid braking suddenly, and slow down gradually before pulling off the road.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-154",
+      "category": "emergencies",
+      "questionText": "If your power steering fails, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop immediately"
+        },
+        {
+          "id": "b",
+          "text": "Maintain speed and steer harder"
+        },
+        {
+          "id": "c",
+          "text": "Use more force to steer and slow down"
+        },
+        {
+          "id": "d",
+          "text": "Turn off the engine"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "If power steering fails, the vehicle can still be steered but will require significantly more effort. Slow down and use extra force on the wheel.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-155",
+      "category": "emergencies",
+      "questionText": "If you see a vehicle approaching from the wrong direction in your lane, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Flash your lights and honk"
+        },
+        {
+          "id": "b",
+          "text": "Slow down and move to the right"
+        },
+        {
+          "id": "c",
+          "text": "Speed up to pass them"
+        },
+        {
+          "id": "d",
+          "text": "Swerve left"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If a vehicle is approaching head-on in your lane, slow down, pull to the right as far as possible, and sound your horn.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-156",
+      "category": "speedLimits",
+      "questionText": "Unless otherwise posted, the speed limit in an alley in Texas is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "10 mph"
+        },
+        {
+          "id": "b",
+          "text": "15 mph"
+        },
+        {
+          "id": "c",
+          "text": "20 mph"
+        },
+        {
+          "id": "d",
+          "text": "25 mph"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The default speed limit in alleys in Texas is 15 mph unless otherwise posted.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-157",
+      "category": "speedLimits",
+      "questionText": "Unless otherwise posted, what is the speed limit in a residential area?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "20 mph"
+        },
+        {
+          "id": "b",
+          "text": "25 mph"
+        },
+        {
+          "id": "c",
+          "text": "30 mph"
+        },
+        {
+          "id": "d",
+          "text": "35 mph"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The default speed limit in residential or urban areas is 30 mph unless signs indicate otherwise.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-158",
+      "category": "speedLimits",
+      "questionText": "Unless otherwise posted, the daytime speed limit on a numbered highway outside an urban district is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "55 mph"
+        },
+        {
+          "id": "b",
+          "text": "60 mph"
+        },
+        {
+          "id": "c",
+          "text": "65 mph"
+        },
+        {
+          "id": "d",
+          "text": "70 mph"
+        }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "On numbered highways outside urban areas, the daytime speed limit is 70 mph unless otherwise posted.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-159",
+      "category": "speedLimits",
+      "questionText": "When driving in a school zone during school hours with children present, the speed limit is typically:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "15 mph"
+        },
+        {
+          "id": "b",
+          "text": "20 mph"
+        },
+        {
+          "id": "c",
+          "text": "25 mph"
+        },
+        {
+          "id": "d",
+          "text": "30 mph"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "School zone speed limits are typically 20 mph when children are present or when signs are flashing during designated school hours.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-160",
+      "category": "speedLimits",
+      "questionText": "The speed limit on most Texas urban interstate highways is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "55 mph"
+        },
+        {
+          "id": "b",
+          "text": "60 mph"
+        },
+        {
+          "id": "c",
+          "text": "65 mph"
+        },
+        {
+          "id": "d",
+          "text": "70 mph"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The typical speed limit on urban interstate highways in Texas is 65 mph unless otherwise posted.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-161",
+      "category": "speedLimits",
+      "questionText": "You should reduce your speed when:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Approaching intersections or curves"
+        },
+        {
+          "id": "b",
+          "text": "Weather or road conditions are poor"
+        },
+        {
+          "id": "c",
+          "text": "Traffic is heavy or visibility is reduced"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "You must adjust speed for intersections, curves, weather, road conditions, traffic, and visibility. Drive at a safe speed for conditions.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-162",
+      "category": "speedLimits",
+      "questionText": "Driving too slowly on a highway can:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Improve safety"
+        },
+        {
+          "id": "b",
+          "text": "Impede traffic and create hazards"
+        },
+        {
+          "id": "c",
+          "text": "Save fuel"
+        },
+        {
+          "id": "d",
+          "text": "Be encouraged"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Driving significantly below the speed limit can impede traffic flow and create dangerous situations. Keep pace with traffic when safe.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-163",
+      "category": "speedLimits",
+      "questionText": "What is the nighttime speed limit on some farm-to-market roads in Texas?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "55 mph"
+        },
+        {
+          "id": "b",
+          "text": "60 mph"
+        },
+        {
+          "id": "c",
+          "text": "65 mph"
+        },
+        {
+          "id": "d",
+          "text": "70 mph"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "On some farm-to-market roads, the nighttime speed limit may be reduced to 60 mph. Always check posted signs.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-164",
+      "category": "parking",
+      "questionText": "You must not park within ___ feet of a stop sign.",
+      "answers": [
+        {
+          "id": "a",
+          "text": "10 feet"
+        },
+        {
+          "id": "b",
+          "text": "20 feet"
+        },
+        {
+          "id": "c",
+          "text": "30 feet"
+        },
+        {
+          "id": "d",
+          "text": "50 feet"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Texas law prohibits parking within 30 feet of a stop sign to ensure visibility for other drivers.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-165",
+      "category": "parking",
+      "questionText": "When parking on a hill with a curb and facing downhill, you should turn your wheels:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Straight"
+        },
+        {
+          "id": "b",
+          "text": "Toward the curb"
+        },
+        {
+          "id": "c",
+          "text": "Away from the curb"
+        },
+        {
+          "id": "d",
+          "text": "Left"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When parking downhill with a curb, turn your front wheels toward the curb so if the vehicle rolls, it will roll into the curb.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-166",
+      "category": "parking",
+      "questionText": "When parking on a hill with no curb, you should turn your wheels:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Straight"
+        },
+        {
+          "id": "b",
+          "text": "To the right"
+        },
+        {
+          "id": "c",
+          "text": "To the left"
+        },
+        {
+          "id": "d",
+          "text": "Toward the road edge"
+        }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "When parking on a hill with no curb, turn wheels toward the road edge so the vehicle will roll off the road if it moves.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-167",
+      "category": "parking",
+      "questionText": "You may not park within ___ feet of a railroad crossing.",
+      "answers": [
+        {
+          "id": "a",
+          "text": "25 feet"
+        },
+        {
+          "id": "b",
+          "text": "30 feet"
+        },
+        {
+          "id": "c",
+          "text": "40 feet"
+        },
+        {
+          "id": "d",
+          "text": "50 feet"
+        }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Texas law prohibits parking within 50 feet of a railroad crossing to maintain clear visibility and access.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-168",
+      "category": "parking",
+      "questionText": "Parking is prohibited:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "In front of driveways"
+        },
+        {
+          "id": "b",
+          "text": "On bridges and overpasses"
+        },
+        {
+          "id": "c",
+          "text": "In fire lanes"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Parking is illegal in front of driveways, on bridges, in fire lanes, and many other restricted areas to ensure safety and access.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-169",
+      "category": "parking",
+      "questionText": "When parking uphill with a curb, you should turn your wheels:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Toward the curb"
+        },
+        {
+          "id": "b",
+          "text": "Away from the curb"
+        },
+        {
+          "id": "c",
+          "text": "Straight"
+        },
+        {
+          "id": "d",
+          "text": "To the right"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When parking uphill with a curb, turn wheels away from the curb so the back of the tire will catch the curb if the vehicle rolls backward.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-170",
+      "category": "parking",
+      "questionText": "Double parking (parking alongside another parked vehicle) is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Legal if only for a few minutes"
+        },
+        {
+          "id": "b",
+          "text": "Legal with hazard lights on"
+        },
+        {
+          "id": "c",
+          "text": "Illegal"
+        },
+        {
+          "id": "d",
+          "text": "Legal in residential areas"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Double parking is illegal as it blocks traffic and creates a hazard. Always park in designated spaces.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-171",
+      "category": "finesAndLimits",
+      "questionText": "Passing a stopped school bus with flashing red lights can result in a fine of up to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "$500"
+        },
+        {
+          "id": "b",
+          "text": "$1,000"
+        },
+        {
+          "id": "c",
+          "text": "$1,250"
+        },
+        {
+          "id": "d",
+          "text": "$2,000"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Illegally passing a stopped school bus can result in a fine up to $1,250 for the first offense.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-172",
+      "category": "finesAndLimits",
+      "questionText": "If you are convicted of reckless driving, you may face:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Fine up to $200"
+        },
+        {
+          "id": "b",
+          "text": "Fine up to $200 and up to 30 days in jail"
+        },
+        {
+          "id": "c",
+          "text": "No penalties for first offense"
+        },
+        {
+          "id": "d",
+          "text": "License suspension only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Reckless driving can result in a fine up to $200 and/or up to 30 days in jail, plus points on your record.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-173",
+      "category": "finesAndLimits",
+      "questionText": "Texting while driving in Texas can result in a fine of up to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "$99"
+        },
+        {
+          "id": "b",
+          "text": "$199"
+        },
+        {
+          "id": "c",
+          "text": "$299"
+        },
+        {
+          "id": "d",
+          "text": "$399"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A first offense for texting while driving can result in a fine of up to $99. Subsequent offenses increase to $200.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-174",
+      "category": "finesAndLimits",
+      "questionText": "If you are under 21 and convicted of DUIA, your license will be suspended for:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "30 days"
+        },
+        {
+          "id": "b",
+          "text": "60 days"
+        },
+        {
+          "id": "c",
+          "text": "90 days"
+        },
+        {
+          "id": "d",
+          "text": "6 months"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A first DUIA conviction for a minor results in a 60-day license suspension, among other penalties.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-175",
+      "category": "finesAndLimits",
+      "questionText": "Driving without a valid license in Texas can result in a fine of:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Up to $100"
+        },
+        {
+          "id": "b",
+          "text": "Up to $200"
+        },
+        {
+          "id": "c",
+          "text": "Up to $500"
+        },
+        {
+          "id": "d",
+          "text": "Up to $1,000"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Driving without a valid license is a misdemeanor punishable by a fine up to $200.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "tx-176",
+      "category": "finesAndLimits",
+      "questionText": "Speeding in a school zone can result in fines of:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Same as regular speeding"
+        },
+        {
+          "id": "b",
+          "text": "Double the normal fine"
+        },
+        {
+          "id": "c",
+          "text": "Triple the normal fine"
+        },
+        {
+          "id": "d",
+          "text": "$50 maximum"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Speeding violations in school zones typically carry double the normal fines to protect children.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-177",
+      "category": "finesAndLimits",
+      "questionText": "Leaving the scene of an accident with property damage can result in:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A warning"
+        },
+        {
+          "id": "b",
+          "text": "Misdemeanor charges and fine up to $2,000"
+        },
+        {
+          "id": "c",
+          "text": "$100 fine"
+        },
+        {
+          "id": "d",
+          "text": "Community service only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Leaving the scene of an accident is a crime. With property damage, it's a misdemeanor with fines up to $2,000 and possible jail time.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "tx-178",
+      "category": "finesAndLimits",
+      "questionText": "Driving without insurance in Texas can result in a fine of:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "$50-$100"
+        },
+        {
+          "id": "b",
+          "text": "$100-$250"
+        },
+        {
+          "id": "c",
+          "text": "$175-$350"
+        },
+        {
+          "id": "d",
+          "text": "$500-$1,000"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "First offense for driving without insurance carries a fine of $175 to $350, plus possible vehicle impoundment.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-179",
+      "category": "finesAndLimits",
+      "questionText": "A minor who commits a traffic offense may be required to attend:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "No special programs"
+        },
+        {
+          "id": "b",
+          "text": "Driving safety course"
+        },
+        {
+          "id": "c",
+          "text": "College courses"
+        },
+        {
+          "id": "d",
+          "text": "Parenting classes"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Minors convicted of traffic violations may be required to complete a driving safety course in addition to other penalties.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "tx-180",
+      "category": "finesAndLimits",
+      "questionText": "How many points are added to your driving record for running a red light in Texas?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1 point"
+        },
+        {
+          "id": "b",
+          "text": "2 points"
+        },
+        {
+          "id": "c",
+          "text": "3 points"
+        },
+        {
+          "id": "d",
+          "text": "4 points"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Running a red light or stop sign typically adds 3 points to your driving record in Texas.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    }
+  ]
+}

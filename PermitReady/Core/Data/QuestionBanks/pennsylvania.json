@@ -1,0 +1,2273 @@
+{
+  "stateCode": "PA",
+  "stateName": "Pennsylvania",
+  "version": "2.0.0",
+  "lastUpdated": "2025-12-23",
+  "testInfo": {
+    "questionCount": 18,
+    "passingPercentage": 83,
+    "passingScore": 15,
+    "minimumPermitAge": 16,
+    "hasSplitTest": false,
+    "timeLimit": null,
+    "uniqueRequirements": [
+      "Must successfully answer 15 of the 18 questions to pass (83%)",
+      "Permit is valid for one year from the date of issue",
+      "Must complete 65 hours of supervised practice (including 10 at night and 5 in bad weather) before road test",
+      "Junior license holders cannot drive between 11 PM and 5 AM",
+      "Mandatory physical examination (Form DL-180) must be completed by a doctor/nurse practitioner before applying"
+    ]
+  },
+  "questions": [
+    {
+      "id": "pa-001",
+      "category": "trafficLaws",
+      "questionText": "A driver with a Junior Learner's Permit may not drive between the hours of ___ and ___ unless accompanied by a parent, guardian, or spouse over 18.",
+      "answers": [
+        {"id": "a", "text": "10:00 PM and 6:00 AM"},
+        {"id": "b", "text": "11:00 PM and 5:00 AM"},
+        {"id": "c", "text": "Midnight and 5:00 AM"},
+        {"id": "d", "text": "Midnight and 6:00 AM"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Holders of a Junior Learner's Permit or Junior Driver's License are restricted from driving between 11 PM and 5 AM unless for work or charitable service with proper documentation.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-002",
+      "category": "trafficLaws",
+      "questionText": "Pennsylvania law requires you to turn on your headlights:",
+      "answers": [
+        {"id": "a", "text": "Only when it is completely dark"},
+        {"id": "b", "text": "Whenever your windshield wipers are in continuous or intermittent use"},
+        {"id": "c", "text": "Only on the highway"},
+        {"id": "d", "text": "When driving in a residential area"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must turn on your headlights anytime your vehicle's windshield wipers are in use due to rain, snow, sleet, or mist.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-003",
+      "category": "trafficLaws",
+      "questionText": "When driving through an active work zone, you must:",
+      "answers": [
+        {"id": "a", "text": "Turn on your hazard lights"},
+        {"id": "b", "text": "Turn on your headlights"},
+        {"id": "c", "text": "Honk your horn to alert workers"},
+        {"id": "d", "text": "Drive in the left lane"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In Pennsylvania, you must turn on your headlights while driving through an active work zone, regardless of the time of day.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-004",
+      "category": "trafficLaws",
+      "questionText": "Under Pennsylvania's 'Move Over' law, if you approach a stationary emergency vehicle or tow truck with flashing lights, you must:",
+      "answers": [
+        {"id": "a", "text": "Stop immediately"},
+        {"id": "b", "text": "Move into a lane not adjacent to the emergency vehicle if possible, or slow down significantly"},
+        {"id": "c", "text": "Speed up to clear the area quickly"},
+        {"id": "d", "text": "Maintain your speed and stay in your lane"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Drivers must move over to a lane furthest from the emergency vehicle. If unable to move over safely, they must slow down to a speed no more than 20 mph below the posted limit.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-005",
+      "category": "finesAndLimits",
+      "questionText": "For the first 6 months of holding a Junior Driver's License, you may not carry more than ___ passenger(s) under age 18 who is not an immediate family member.",
+      "answers": [
+        {"id": "a", "text": "1"},
+        {"id": "b", "text": "2"},
+        {"id": "c", "text": "3"},
+        {"id": "d", "text": "0"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "During the first 6 months of a junior license, you are limited to 1 passenger under 18 who is not immediate family, unless a parent/guardian is in the vehicle.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-006",
+      "category": "safeDriving",
+      "questionText": "When following another vehicle, the Pennsylvania Driver's Manual recommends using the:",
+      "answers": [
+        {"id": "a", "text": "2-second rule"},
+        {"id": "b", "text": "3-second rule"},
+        {"id": "c", "text": "4-second rule"},
+        {"id": "d", "text": "10-second rule"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Pennsylvania recommends a 4-second following distance to allow enough time to react to hazards.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-007",
+      "category": "safeDriving",
+      "questionText": "Hydroplaning can start at speeds as low as:",
+      "answers": [
+        {"id": "a", "text": "35 mph"},
+        {"id": "b", "text": "45 mph"},
+        {"id": "c", "text": "55 mph"},
+        {"id": "d", "text": "65 mph"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Hydroplaning (tires riding on a film of water) can occur at speeds as low as 35 mph. Slow down in wet conditions.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-008",
+      "category": "safeDriving",
+      "questionText": "When you hear a siren or see a vehicle approaching with flashing red lights, you must:",
+      "answers": [
+        {"id": "a", "text": "Speed up and get out of the way"},
+        {"id": "b", "text": "Drive to the right-hand curb or edge of the road and stop"},
+        {"id": "c", "text": "Stop immediately in your lane"},
+        {"id": "d", "text": "Turn into the nearest driveway"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must yield the right-of-way to emergency vehicles by pulling over to the right edge of the road and stopping.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-009",
+      "category": "safeDriving",
+      "questionText": "If you drift off the pavement onto the shoulder, you should:",
+      "answers": [
+        {"id": "a", "text": "Slam on your brakes"},
+        {"id": "b", "text": "Ease off the gas, slow down, and steer back onto the road gradually"},
+        {"id": "c", "text": "Jerk the wheel immediately to get back on the road"},
+        {"id": "d", "text": "Accelerate to match traffic speed"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Do not brake suddenly or steer sharply. Ease off the gas, grip the wheel tightly, and steer back onto the road when safe.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-010",
+      "category": "parking",
+      "questionText": "It is illegal to park within ___ feet of a fire hydrant.",
+      "answers": [
+        {"id": "a", "text": "10 feet"},
+        {"id": "b", "text": "15 feet"},
+        {"id": "c", "text": "20 feet"},
+        {"id": "d", "text": "25 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You may not park within 15 feet of a fire hydrant in Pennsylvania.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-011",
+      "category": "parking",
+      "questionText": "When parking downhill with a curb, turn your steering wheel:",
+      "answers": [
+        {"id": "a", "text": "To the left (away from curb)"},
+        {"id": "b", "text": "To the right (towards the curb)"},
+        {"id": "c", "text": "Straight ahead"},
+        {"id": "d", "text": "Towards the street"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Turn your wheels to the right (towards the curb) when parking downhill so the vehicle will roll into the curb if the brakes fail.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-012",
+      "category": "rightOfWay",
+      "questionText": "At a four-way stop, if two vehicles arrive at the same time:",
+      "answers": [
+        {"id": "a", "text": "The vehicle on the left has the right-of-way"},
+        {"id": "b", "text": "The vehicle on the right has the right-of-way"},
+        {"id": "c", "text": "The larger vehicle goes first"},
+        {"id": "d", "text": "The driver who signals first goes"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "At a 4-way stop, the driver on the left must yield to the driver on the right if they arrive simultaneously.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-013",
+      "category": "rightOfWay",
+      "questionText": "Who must yield when a driver is turning left?",
+      "answers": [
+        {"id": "a", "text": "The driver going straight"},
+        {"id": "b", "text": "The driver turning left must yield to oncoming traffic"},
+        {"id": "c", "text": "No one yields"},
+        {"id": "d", "text": "Pedestrians must yield to the car"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Drivers turning left must yield the right-of-way to oncoming vehicles and pedestrians.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-014",
+      "category": "roadSigns",
+      "questionText": "A yellow pennant-shaped sign on the left side of the road means:",
+      "answers": [
+        {"id": "a", "text": "School zone ahead"},
+        {"id": "b", "text": "No Passing Zone"},
+        {"id": "c", "text": "Merging traffic"},
+        {"id": "d", "text": "Divided highway"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The pennant (sideways triangle) shape is used exclusively to mark the beginning of a No Passing Zone.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-015",
+      "category": "roadSigns",
+      "questionText": "An orange triangle with a red border on the back of a vehicle indicates:",
+      "answers": [
+        {"id": "a", "text": "Hazardous materials"},
+        {"id": "b", "text": "Student driver"},
+        {"id": "c", "text": "Slow-moving vehicle (traveling less than 25 mph)"},
+        {"id": "d", "text": "Emergency vehicle"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The slow-moving vehicle emblem is a fluorescent orange triangle with a red border, indicating the vehicle travels at 25 mph or less.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-016",
+      "category": "roadSigns",
+      "questionText": "A red and white inverted triangle sign means:",
+      "answers": [
+        {"id": "a", "text": "Stop"},
+        {"id": "b", "text": "Yield"},
+        {"id": "c", "text": "Do Not Enter"},
+        {"id": "d", "text": "One Way"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The inverted (downward-pointing) triangle is the standard shape for a Yield sign.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-017",
+      "category": "roadSigns",
+      "questionText": "A diamond-shaped sign with black arrows in a circular pattern means:",
+      "answers": [
+        {"id": "a", "text": "Roundabout ahead"},
+        {"id": "b", "text": "U-turn permitted"},
+        {"id": "c", "text": "Winding road"},
+        {"id": "d", "text": "Slippery when wet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns of a circular intersection or roundabout ahead.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-018",
+      "category": "roadSigns",
+      "questionText": "A rectangular white sign with black lettering usually indicates:",
+      "answers": [
+        {"id": "a", "text": "A warning"},
+        {"id": "b", "text": "Construction"},
+        {"id": "c", "text": "Regulatory information (laws)"},
+        {"id": "d", "text": "Directions"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Rectangular white signs are regulatory signs that inform you of traffic laws (e.g., Speed Limit, No Turn on Red).",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-019",
+      "category": "trafficLaws",
+      "questionText": "If you are under 21 years old, you are considered to be driving under the influence (DUI) if your Blood Alcohol Concentration (BAC) is ___ or higher.",
+      "answers": [
+        {"id": "a", "text": "0.08%"},
+        {"id": "b", "text": "0.05%"},
+        {"id": "c", "text": "0.02%"},
+        {"id": "d", "text": "0.01%"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Pennsylvania is a Zero Tolerance state. For drivers under 21, the legal limit is 0.02%.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-020",
+      "category": "trafficLaws",
+      "questionText": "When stopping for a school bus with flashing red lights, you must stop at least ___ feet away from the bus.",
+      "answers": [
+        {"id": "a", "text": "20 feet"},
+        {"id": "b", "text": "10 feet"},
+        {"id": "c", "text": "50 feet"},
+        {"id": "d", "text": "15 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must stop at least 10 feet away from a school bus with flashing red lights and extended stop arm.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-021",
+      "category": "trafficLaws",
+      "questionText": "You must signal your turn at least ___ feet before turning if you are driving less than 35 mph.",
+      "answers": [
+        {"id": "a", "text": "50 feet"},
+        {"id": "b", "text": "100 feet"},
+        {"id": "c", "text": "200 feet"},
+        {"id": "d", "text": "300 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If driving under 35 mph, signal at least 100 feet before the turn. If driving 35 mph or more, signal at least 300 feet.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-022",
+      "category": "trafficLaws",
+      "questionText": "If you are driving 35 mph or more, you must signal your turn at least ___ feet before turning.",
+      "answers": [
+        {"id": "a", "text": "100 feet"},
+        {"id": "b", "text": "200 feet"},
+        {"id": "c", "text": "300 feet"},
+        {"id": "d", "text": "500 feet"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "For speeds of 35 mph or higher, Pennsylvania law requires signaling at least 300 feet in advance.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-023",
+      "category": "safeDriving",
+      "questionText": "To avoid a collision with a deer, you should:",
+      "answers": [
+        {"id": "a", "text": "Swerve into the other lane"},
+        {"id": "b", "text": "Brake firmly and hold the wheel straight"},
+        {"id": "c", "text": "Speed up to scare it"},
+        {"id": "d", "text": "Flash your headlights repeatedly"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Do not swerve, as this may cause you to lose control or hit another vehicle. Brake firmly and stay in your lane.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-024",
+      "category": "roadSigns",
+      "questionText": "A yellow diamond-shaped sign with a truck going down a slope means:",
+      "answers": [
+        {"id": "a", "text": "Truck entrance"},
+        {"id": "b", "text": "Steep hill ahead"},
+        {"id": "c", "text": "No trucks allowed"},
+        {"id": "d", "text": "Construction zone"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns of a steep downgrade/hill ahead where heavy vehicles may need to use lower gears.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-025",
+      "category": "roadSigns",
+      "questionText": "A sign with a black crossbuck ('X') and the letters 'RR' indicates:",
+      "answers": [
+        {"id": "a", "text": "Railroad crossing ahead"},
+        {"id": "b", "text": "Restricted Road"},
+        {"id": "c", "text": "Road Repair"},
+        {"id": "d", "text": "Railroad crossing at the location of the sign"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "The Crossbuck sign is placed at the railroad crossing itself. The round yellow 'RR' sign is the advanced warning.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-026",
+      "category": "trafficLaws",
+      "questionText": "Unless otherwise posted, the maximum speed limit in a residential area is:",
+      "answers": [
+        {"id": "a", "text": "15 mph"},
+        {"id": "b", "text": "25 mph"},
+        {"id": "c", "text": "35 mph"},
+        {"id": "d", "text": "45 mph"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The default speed limit in residential districts is 25 mph unless posted otherwise.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-027",
+      "category": "trafficLaws",
+      "questionText": "Under the 'Implied Consent' law, by driving in Pennsylvania, you agree to:",
+      "answers": [
+        {"id": "a", "text": "Always wear a seatbelt"},
+        {"id": "b", "text": "Submit to a chemical test for alcohol or drugs if suspected of DUI"},
+        {"id": "c", "text": "Drive only during daylight hours"},
+        {"id": "d", "text": "Carry liability insurance"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Implied Consent means you have agreed to take a breath, blood, or urine test if arrested for DUI. Refusal results in automatic license suspension.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-028",
+      "category": "safeDriving",
+      "questionText": "The top major cause of crashes in work zones is:",
+      "answers": [
+        {"id": "a", "text": "Speeding"},
+        {"id": "b", "text": "Drunk driving"},
+        {"id": "c", "text": "Driver inattention"},
+        {"id": "d", "text": "Tailgating"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Speeding is the number one cause of crashes in work zones.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-029",
+      "category": "parking",
+      "questionText": "You cannot park within ___ feet of a crosswalk at an intersection.",
+      "answers": [
+        {"id": "a", "text": "10 feet"},
+        {"id": "b", "text": "15 feet"},
+        {"id": "c", "text": "20 feet"},
+        {"id": "d", "text": "30 feet"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Parking is prohibited within 20 feet of a crosswalk at an intersection.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-030",
+      "category": "rightOfWay",
+      "questionText": "When entering a highway from an entrance ramp, you should:",
+      "answers": [
+        {"id": "a", "text": "Stop at the end of the ramp and wait for a gap"},
+        {"id": "b", "text": "Drive slowly to let other drivers see you"},
+        {"id": "c", "text": "Accelerate to the speed of traffic and merge safely"},
+        {"id": "d", "text": "Flash your lights to ask for permission"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Use the acceleration lane to match the speed of highway traffic before merging.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-031",
+      "category": "safeDriving",
+      "questionText": "If your gas pedal sticks, you should:",
+      "answers": [
+        {"id": "a", "text": "Turn off the ignition immediately"},
+        {"id": "b", "text": "Shift to Neutral and steer to a safe stop"},
+        {"id": "c", "text": "Pump the gas pedal"},
+        {"id": "d", "text": "Slam on the brakes"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Shift to Neutral to disconnect the engine from the wheels, then guide the car to the side of the road.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-032",
+      "category": "roadSigns",
+      "questionText": "A five-sided (pentagon) sign indicating a School Zone is:",
+      "answers": [
+        {"id": "a", "text": "Red"},
+        {"id": "b", "text": "Yellow or Fluorescent Yellow-Green"},
+        {"id": "c", "text": "White"},
+        {"id": "d", "text": "Blue"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "School zone signs are pentagon-shaped and colored yellow or fluorescent yellow-green.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-033",
+      "category": "trafficLaws",
+      "questionText": "You are required to use your turn signals at least ___ before changing lanes on the highway.",
+      "answers": [
+        {"id": "a", "text": "100 feet"},
+        {"id": "b", "text": "200 feet"},
+        {"id": "c", "text": "300 feet"},
+        {"id": "d", "text": "500 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "While turning requires 300 feet at highway speeds, general lane changes should be signaled well in advance. The specific statutory requirement for speeds >35mph is 300 feet. Let's stick to the 300 feet rule for consistency.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-034",
+      "category": "trafficLaws",
+      "questionText": "What is the penalty for a first-time conviction of driving without insurance in PA?",
+      "answers": [
+        {"id": "a", "text": "A warning"},
+        {"id": "b", "text": "$300 fine and 3-month license suspension"},
+        {"id": "c", "text": "$500 fine and 1-year suspension"},
+        {"id": "d", "text": "Jail time"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Driving without insurance results in a $300 fine and a 3-month suspension of your license and vehicle registration.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-035",
+      "category": "rightOfWay",
+      "questionText": "Pedestrians in a crosswalk:",
+      "answers": [
+        {"id": "a", "text": "Must yield to vehicles"},
+        {"id": "b", "text": "Have the right-of-way at all times"},
+        {"id": "c", "text": "Only have the right-of-way when the light is green"},
+        {"id": "d", "text": "Should run across quickly"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Drivers must yield to pedestrians in a crosswalk, whether marked or unmarked.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-036",
+      "category": "roadSigns",
+      "questionText": "A sign with a curved arrow and a red circle with a slash means:",
+      "answers": [
+        {"id": "a", "text": "Curve ahead"},
+        {"id": "b", "text": "No U-turn (or No Turn in direction shown)"},
+        {"id": "c", "text": "Right turn permitted"},
+        {"id": "d", "text": "Roundabout"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A red circle with a slash over a symbol means that action is prohibited.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-037",
+      "category": "safeDriving",
+      "questionText": "The most effective thing you can do to reduce your risk of injury in a crash is:",
+      "answers": [
+        {"id": "a", "text": "Drive a large SUV"},
+        {"id": "b", "text": "Wear your seat belt"},
+        {"id": "c", "text": "Have airbags"},
+        {"id": "d", "text": "Avoid driving at night"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Wearing a seat belt is the single most effective way to prevent death or injury in a crash.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-038",
+      "category": "parking",
+      "questionText": "It is illegal to park within ___ feet of a stop sign.",
+      "answers": [
+        {"id": "a", "text": "15 feet"},
+        {"id": "b", "text": "20 feet"},
+        {"id": "c", "text": "30 feet"},
+        {"id": "d", "text": "50 feet"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Parking is prohibited within 30 feet of any flashing signal, stop sign, or traffic control signal.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-039",
+      "category": "finesAndLimits",
+      "questionText": "Fines in a construction zone are ___ if workers are present.",
+      "answers": [
+        {"id": "a", "text": "The same"},
+        {"id": "b", "text": "Doubled"},
+        {"id": "c", "text": "Tripled"},
+        {"id": "d", "text": "Reduced"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Fines for moving violations in active work zones are doubled.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-040",
+      "category": "roadSigns",
+      "questionText": "Green highway guide signs indicate:",
+      "answers": [
+        {"id": "a", "text": "Directions and distances"},
+        {"id": "b", "text": "Parks and recreation"},
+        {"id": "c", "text": "Motorist services"},
+        {"id": "d", "text": "Warnings"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Green signs provide guidance information, such as destinations, directions, and distances.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-041",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to pass another vehicle:",
+      "answers": [
+        {"id": "a", "text": "On a multi-lane highway"},
+        {"id": "b", "text": "Within 100 feet of a railroad crossing or intersection"},
+        {"id": "c", "text": "When there is a broken yellow line"},
+        {"id": "d", "text": "When the vehicle ahead is going below the speed limit"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Passing is prohibited within 100 feet of an intersection, railroad crossing, bridge, viaduct, or tunnel.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-042",
+      "category": "safeDriving",
+      "questionText": "When checking your blind spots before changing lanes, you should:",
+      "answers": [
+        {"id": "a", "text": "Rely only on your side mirrors"},
+        {"id": "b", "text": "Turn your head to look over your shoulder"},
+        {"id": "c", "text": "Glance in the rearview mirror"},
+        {"id": "d", "text": "Honk briefly"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must turn your head to look over your shoulder to check the area your mirrors cannot see.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-043",
+      "category": "trafficLaws",
+      "questionText": "In PA, who must wear a seat belt?",
+      "answers": [
+        {"id": "a", "text": "Only the driver"},
+        {"id": "b", "text": "The driver and all passengers under age 18"},
+        {"id": "c", "text": "The driver and front seat passengers, plus anyone under 18 in the back"},
+        {"id": "d", "text": "Only passengers in the front seat"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "PA law requires the driver and front seat passengers to wear seat belts. Additionally, all passengers under age 18 must be buckled regardless of seating position.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-044",
+      "category": "roadSigns",
+      "questionText": "A sign with two arrows pointing in opposite directions (up and down) means:",
+      "answers": [
+        {"id": "a", "text": "Two-way traffic ahead"},
+        {"id": "b", "text": "Divided highway begins"},
+        {"id": "c", "text": "Keep Right"},
+        {"id": "d", "text": "Merge"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This warning sign indicates that you are leaving a one-way street and entering a two-way street.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-045",
+      "category": "rightOfWay",
+      "questionText": "When approaching a steady yellow traffic light, you should:",
+      "answers": [
+        {"id": "a", "text": "Speed up to beat the red light"},
+        {"id": "b", "text": "Stop if it is safe to do so"},
+        {"id": "c", "text": "Keep going at the same speed"},
+        {"id": "d", "text": "Treat it as a stop sign"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A steady yellow light means the signal is changing to red. Stop if you can do so safely; otherwise, proceed with caution.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-046",
+      "category": "parking",
+      "questionText": "Parking is prohibited within ___ feet of a railroad crossing.",
+      "answers": [
+        {"id": "a", "text": "25 feet"},
+        {"id": "b", "text": "50 feet"},
+        {"id": "c", "text": "75 feet"},
+        {"id": "d", "text": "100 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You may not park within 50 feet of the nearest rail of a railroad crossing.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-047",
+      "category": "safeDriving",
+      "questionText": "If you miss your exit on an expressway, you should:",
+      "answers": [
+        {"id": "a", "text": "Stop and back up"},
+        {"id": "b", "text": "Make a U-turn in the median"},
+        {"id": "c", "text": "Continue to the next exit"},
+        {"id": "d", "text": "Pull onto the shoulder and wait"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Never back up on a highway. Go to the next exit and work your way back.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-048",
+      "category": "roadSigns",
+      "questionText": "A chevron sign (arrow pointing to the right or left) indicates:",
+      "answers": [
+        {"id": "a", "text": "Sharp curve in the direction of the arrow"},
+        {"id": "b", "text": "Lane ends"},
+        {"id": "c", "text": "Merge"},
+        {"id": "d", "text": "Detour"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Chevrons mark the edge of the road on sharp curves.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-049",
+      "category": "finesAndLimits",
+      "questionText": "If you accumulate ___ or more points on your driving record, PennDOT will take corrective action.",
+      "answers": [
+        {"id": "a", "text": "3"},
+        {"id": "b", "text": "6"},
+        {"id": "c", "text": "5"},
+        {"id": "d", "text": "4"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "PennDOT begins corrective action (exams, hearings) when a driver reaches 6 points.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-050",
+      "category": "trafficLaws",
+      "questionText": "In a school zone, when the yellow lights are flashing, the speed limit is:",
+      "answers": [
+        {"id": "a", "text": "20 mph"},
+        {"id": "b", "text": "15 mph"},
+        {"id": "c", "text": "25 mph"},
+        {"id": "d", "text": "35 mph"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The speed limit in an active school zone with flashing lights is 15 mph.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-051",
+      "category": "safeDriving",
+      "questionText": "The only thing that will sober you up after drinking is:",
+      "answers": [
+        {"id": "a", "text": "Coffee"},
+        {"id": "b", "text": "Cold shower"},
+        {"id": "c", "text": "Fresh air"},
+        {"id": "d", "text": "Time"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Only time allows the body to process and remove alcohol. Coffee and showers do not lower BAC.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-052",
+      "category": "roadSigns",
+      "questionText": "Blue signs usually indicate:",
+      "answers": [
+        {"id": "a", "text": "Motorist services (Gas, Food, Lodging)"},
+        {"id": "b", "text": "Parks and Recreation"},
+        {"id": "c", "text": "Construction"},
+        {"id": "d", "text": "Regulatory warnings"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Blue signs provide information about motorist services like gas, food, and hospitals.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-053",
+      "category": "trafficLaws",
+      "questionText": "When exiting a driveway or alley, you must:",
+      "answers": [
+        {"id": "a", "text": "Honk your horn"},
+        {"id": "b", "text": "Stop and yield to pedestrians and traffic"},
+        {"id": "c", "text": "Drive out quickly"},
+        {"id": "d", "text": "Yield only to cars"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must stop before the sidewalk and yield to pedestrians and traffic when emerging from an alley or driveway.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-054",
+      "category": "roadSigns",
+      "questionText": "A sign with a truck and a red circle/slash means:",
+      "answers": [
+        {"id": "a", "text": "No trucks allowed"},
+        {"id": "b", "text": "Truck route"},
+        {"id": "c", "text": "Truck parking"},
+        {"id": "d", "text": "Steep hill"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The red circle with a slash indicates 'No Trucks'.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-055",
+      "category": "rightOfWay",
+      "questionText": "You are approaching a blind pedestrian carrying a white cane. You must:",
+      "answers": [
+        {"id": "a", "text": "Yield the right-of-way"},
+        {"id": "b", "text": "Honk to let them know you are there"},
+        {"id": "c", "text": "Drive around them quickly"},
+        {"id": "d", "text": "Flash your lights"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Drivers must always yield to blind pedestrians using a white cane or guide dog.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-056",
+      "category": "safeDriving",
+      "questionText": "When night driving, you should dim your high beams when an oncoming vehicle is within:",
+      "answers": [
+        {"id": "a", "text": "300 feet"},
+        {"id": "b", "text": "500 feet"},
+        {"id": "c", "text": "200 feet"},
+        {"id": "d", "text": "1000 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must switch to low beams within 500 feet of an oncoming vehicle.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-057",
+      "category": "safeDriving",
+      "questionText": "When following another vehicle at night, dim your high beams within:",
+      "answers": [
+        {"id": "a", "text": "100 feet"},
+        {"id": "b", "text": "200 feet"},
+        {"id": "c", "text": "300 feet"},
+        {"id": "d", "text": "500 feet"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Switch to low beams when following a vehicle within 300 feet.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-058",
+      "category": "roadSigns",
+      "questionText": "Brown signs indicate:",
+      "answers": [
+        {"id": "a", "text": "Public recreation and scenic guidance"},
+        {"id": "b", "text": "Construction"},
+        {"id": "c", "text": "Stop or Yield"},
+        {"id": "d", "text": "Services"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Brown signs point to parks, recreation areas, museums, and historical sites.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-059",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to use a cell phone for texting while driving:",
+      "answers": [
+        {"id": "a", "text": "Only for drivers under 18"},
+        {"id": "b", "text": "For all drivers"},
+        {"id": "c", "text": "Only on highways"},
+        {"id": "d", "text": "Unless stopped at a red light"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Texting while driving is banned for all drivers in Pennsylvania.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-060",
+      "category": "parking",
+      "questionText": "You cannot park within ___ feet of a driveway entrance to a fire station.",
+      "answers": [
+        {"id": "a", "text": "20 feet"},
+        {"id": "b", "text": "30 feet"},
+        {"id": "c", "text": "75 feet (on the opposite side of the street)"},
+        {"id": "d", "text": "Both A and C"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "You cannot park within 20 feet of a fire station driveway, or 75 feet on the opposite side of the street if posted.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-061",
+      "category": "finesAndLimits",
+      "questionText": "Exceeding the speed limit in an active work zone by 11 mph or more results in a mandatory ___ suspension.",
+      "answers": [
+        {"id": "a", "text": "15-day"},
+        {"id": "b", "text": "30-day"},
+        {"id": "c", "text": "60-day"},
+        {"id": "d", "text": "90-day"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Excessive speeding in a work zone (11+ mph over) results in a 15-day license suspension.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-062",
+      "category": "roadSigns",
+      "questionText": "A sign with a bicycle symbol indicates:",
+      "answers": [
+        {"id": "a", "text": "Bicycles prohibited"},
+        {"id": "b", "text": "Bike route or crossing"},
+        {"id": "c", "text": "Motorcycle route"},
+        {"id": "d", "text": "Toy store"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns that bicyclists may be on the road or crossing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-063",
+      "category": "trafficLaws",
+      "questionText": "You may turn right on red:",
+      "answers": [
+        {"id": "a", "text": "Always"},
+        {"id": "b", "text": "Unless a sign prohibits it, after stopping and yielding"},
+        {"id": "c", "text": "Without stopping if safe"},
+        {"id": "d", "text": "Only on one-way streets"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Right on red is permitted after a full stop, unless a 'No Turn on Red' sign is posted.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-064",
+      "category": "safeDriving",
+      "questionText": "In heavy fog, use your:",
+      "answers": [
+        {"id": "a", "text": "High beams"},
+        {"id": "b", "text": "Low beams"},
+        {"id": "c", "text": "Parking lights"},
+        {"id": "d", "text": "Hazard lights only"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use low beams in fog. High beams reflect off the moisture and cause glare.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-065",
+      "category": "rightOfWay",
+      "questionText": "When entering a roundabout:",
+      "answers": [
+        {"id": "a", "text": "You have the right of way"},
+        {"id": "b", "text": "Yield to traffic already in the roundabout"},
+        {"id": "c", "text": "Stop in the middle"},
+        {"id": "d", "text": "Speed up to merge"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Drivers entering a roundabout must yield to traffic already circulating.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-066",
+      "category": "roadSigns",
+      "questionText": "A sign with a 'T' shape intersection means:",
+      "answers": [
+        {"id": "a", "text": "Crossroad ahead"},
+        {"id": "b", "text": "Road ends, be prepared to turn left or right"},
+        {"id": "c", "text": "Merge"},
+        {"id": "d", "text": "Turn right only"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The T-intersection sign warns that the road ends ahead and you must turn.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-067",
+      "category": "safeDriving",
+      "questionText": "The blind spots for large trucks are called:",
+      "answers": [
+        {"id": "a", "text": "No-Zones"},
+        {"id": "b", "text": "Danger Zones"},
+        {"id": "c", "text": "Safety Zones"},
+        {"id": "d", "text": "Empty Zones"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "No-Zones are the large blind spots around trucks where cars disappear from the driver's view.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-068",
+      "category": "trafficLaws",
+      "questionText": "A steady red arrow means:",
+      "answers": [
+        {"id": "a", "text": "Turn with caution"},
+        {"id": "b", "text": "Stop, do not turn"},
+        {"id": "c", "text": "Yield then turn"},
+        {"id": "d", "text": "Stop, then turn when safe"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A steady red arrow means you must stop and may not turn in the direction of the arrow.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-069",
+      "category": "roadSigns",
+      "questionText": "An octagon shaped sign is always a:",
+      "answers": [
+        {"id": "a", "text": "Stop sign"},
+        {"id": "b", "text": "Yield sign"},
+        {"id": "c", "text": "School sign"},
+        {"id": "d", "text": "Speed limit sign"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The octagon (8-sided) shape is exclusively reserved for Stop signs.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-070",
+      "category": "safeDriving",
+      "questionText": "If you experience brake failure, you should:",
+      "answers": [
+        {"id": "a", "text": "Pump the brake pedal rapidly"},
+        {"id": "b", "text": "Shift to a lower gear"},
+        {"id": "c", "text": "Use the parking brake carefully"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Pump brakes, shift down, and use the parking brake to stop a vehicle with failed service brakes.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-071",
+      "category": "finesAndLimits",
+      "questionText": "Failure to stop for a school bus with flashing red lights carries a penalty of:",
+      "answers": [
+        {"id": "a", "text": "$250 fine and 5 points"},
+        {"id": "b", "text": "$100 fine"},
+        {"id": "c", "text": "Warning"},
+        {"id": "d", "text": "60-day license suspension, 5 points, and $250 fine"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Passing a school bus results in a 60-day suspension, 5 points, and a $250 fine.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-072",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a deer symbol means:",
+      "answers": [
+        {"id": "a", "text": "Deer crossing area"},
+        {"id": "b", "text": "Zoo nearby"},
+        {"id": "c", "text": "Hunting area"},
+        {"id": "d", "text": "Wildlife preserve"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns drivers that deer are likely to cross the road in this area.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-073",
+      "category": "trafficLaws",
+      "questionText": "When turning, the rear wheels follow a ___ path than the front wheels.",
+      "answers": [
+        {"id": "a", "text": "Longer"},
+        {"id": "b", "text": "Shorter"},
+        {"id": "c", "text": "Same"},
+        {"id": "d", "text": "Wider"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Rear wheels off-track and follow a shorter path (cut the corner) compared to front wheels.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-074",
+      "category": "safeDriving",
+      "questionText": "On a wet road, you should reduce your speed by about:",
+      "answers": [
+        {"id": "a", "text": "5 mph"},
+        {"id": "b", "text": "10 mph"},
+        {"id": "c", "text": "One-quarter"},
+        {"id": "d", "text": "Half"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "PA manual suggests slowing down by 10 mph on wet roads and even more on snow.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-075",
+      "category": "rightOfWay",
+      "questionText": "When two vehicles meet on a steep mountain road where neither can pass, which vehicle has the right-of-way?",
+      "answers": [
+        {"id": "a", "text": "The vehicle traveling downhill"},
+        {"id": "b", "text": "The vehicle traveling uphill"},
+        {"id": "c", "text": "The larger vehicle"},
+        {"id": "d", "text": "Neither"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The vehicle facing downhill must yield and back up, as the uphill vehicle has less control when backing.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-076",
+      "category": "parking",
+      "questionText": "Double parking (parking parallel to a vehicle already at the curb) is:",
+      "answers": [
+        {"id": "a", "text": "Allowed for loading"},
+        {"id": "b", "text": "Illegal at all times"},
+        {"id": "c", "text": "Allowed on weekends"},
+        {"id": "d", "text": "Allowed with flashers on"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Double parking is illegal in Pennsylvania.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-077",
+      "category": "roadSigns",
+      "questionText": "A vertical rectangular sign is typically:",
+      "answers": [
+        {"id": "a", "text": "Regulatory"},
+        {"id": "b", "text": "Warning"},
+        {"id": "c", "text": "School"},
+        {"id": "d", "text": "Construction"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Vertical rectangles are used for regulatory signs like Speed Limit.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-078",
+      "category": "trafficLaws",
+      "questionText": "A broken yellow centerline means:",
+      "answers": [
+        {"id": "a", "text": "Passing is permitted"},
+        {"id": "b", "text": "No passing"},
+        {"id": "c", "text": "One-way traffic"},
+        {"id": "d", "text": "Merge"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Broken yellow lines separate traffic moving in opposite directions and indicate passing is allowed.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-079",
+      "category": "safeDriving",
+      "questionText": "If you see a funeral procession, you should:",
+      "answers": [
+        {"id": "a", "text": "Cut through it if there is a gap"},
+        {"id": "b", "text": "Yield the right-of-way until it passes"},
+        {"id": "c", "text": "Honk to pay respects"},
+        {"id": "d", "text": "Pass them on the right"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Drivers must yield to funeral processions and not cut in between vehicles.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-080",
+      "category": "finesAndLimits",
+      "questionText": "Homicide by vehicle while DUI results in a minimum ___ prison term.",
+      "answers": [
+        {"id": "a", "text": "1 year"},
+        {"id": "b", "text": "3 years"},
+        {"id": "c", "text": "5 years"},
+        {"id": "d", "text": "10 years"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Homicide by vehicle while DUI carries a 3-year mandatory minimum prison sentence.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-081",
+      "category": "roadSigns",
+      "questionText": "A sign showing a car with 'squiggly' lines behind the tires means:",
+      "answers": [
+        {"id": "a", "text": "Slippery when wet"},
+        {"id": "b", "text": "Winding road"},
+        {"id": "c", "text": "Drunk driving check"},
+        {"id": "d", "text": "Rough road"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns that the road surface is slippery when wet.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-082",
+      "category": "trafficLaws",
+      "questionText": "You are approaching an intersection with a flashing yellow light. You should:",
+      "answers": [
+        {"id": "a", "text": "Stop"},
+        {"id": "b", "text": "Slow down and proceed with caution"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Yield to right"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A flashing yellow light means caution. Slow down and look carefully.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-083",
+      "category": "safeDriving",
+      "questionText": "To prevent highway hypnosis, you should:",
+      "answers": [
+        {"id": "a", "text": "Stare straight ahead"},
+        {"id": "b", "text": "Keep your eyes moving and take breaks"},
+        {"id": "c", "text": "Drive faster"},
+        {"id": "d", "text": "Turn off the radio"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Keep eyes moving, check mirrors, and stop every 2 hours to avoid fatigue.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-084",
+      "category": "roadSigns",
+      "questionText": "A sign with a '+ ' symbol indicates:",
+      "answers": [
+        {"id": "a", "text": "Cross road / Intersection"},
+        {"id": "b", "text": "First Aid"},
+        {"id": "c", "text": "Church"},
+        {"id": "d", "text": "No passing"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The cross symbol warns of a 4-way intersection ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-085",
+      "category": "rightOfWay",
+      "questionText": "When entering a public road from a private driveway:",
+      "answers": [
+        {"id": "a", "text": "You have the right of way"},
+        {"id": "b", "text": "Yield to all vehicles and pedestrians"},
+        {"id": "c", "text": "Honk and proceed"},
+        {"id": "d", "text": "Yield only to vehicles from the left"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Vehicles entering from a driveway must yield to all traffic and pedestrians on the main road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-086",
+      "category": "parking",
+      "questionText": "A white curb usually indicates:",
+      "answers": [
+        {"id": "a", "text": "Loading zone for passengers"},
+        {"id": "b", "text": "No parking"},
+        {"id": "c", "text": "Handicap parking"},
+        {"id": "d", "text": "Bus stop"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "White curbs typically indicate a passenger loading/unloading zone.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-087",
+      "category": "finesAndLimits",
+      "questionText": "Speeding 6 to 10 mph over the limit results in ___ points.",
+      "answers": [
+        {"id": "a", "text": "2"},
+        {"id": "b", "text": "3"},
+        {"id": "c", "text": "4"},
+        {"id": "d", "text": "0"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Speeding 6-10 mph over the limit is a 2-point violation in PA.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-088",
+      "category": "safeDriving",
+      "questionText": "You should check your mirrors:",
+      "answers": [
+        {"id": "a", "text": "Every 3 to 5 seconds"},
+        {"id": "b", "text": "Only when turning"},
+        {"id": "c", "text": "Only when changing lanes"},
+        {"id": "d", "text": "Once a minute"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Check mirrors every 3 to 5 seconds to stay aware of surroundings.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-089",
+      "category": "roadSigns",
+      "questionText": "A sign with a clearance height (e.g., 12' 6\") warns of:",
+      "answers": [
+        {"id": "a", "text": "Low bridge or underpass"},
+        {"id": "b", "text": "Maximum vehicle length"},
+        {"id": "c", "text": "Mountain peak height"},
+        {"id": "d", "text": "Speed limit"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns of low clearance structures ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-090",
+      "category": "trafficLaws",
+      "questionText": "When passing a bicyclist, you must allow at least ___ of clearance.",
+      "answers": [
+        {"id": "a", "text": "2 feet"},
+        {"id": "b", "text": "3 feet"},
+        {"id": "c", "text": "4 feet"},
+        {"id": "d", "text": "6 feet"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "PA law requires a minimum of 4 feet of clearance when passing a bicycle.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-091",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a black arrow curving right means:",
+      "answers": [
+        {"id": "a", "text": "Curve to the right ahead"},
+        {"id": "b", "text": "Right turn only"},
+        {"id": "c", "text": "Keep right"},
+        {"id": "d", "text": "One way"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This warning sign indicates a curve to the right is approaching.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-092",
+      "category": "safeDriving",
+      "questionText": "If you have a tire blowout:",
+      "answers": [
+        {"id": "a", "text": "Hold the steering wheel firmly and ease off the gas"},
+        {"id": "b", "text": "Brake hard immediately"},
+        {"id": "c", "text": "Turn sharply to the shoulder"},
+        {"id": "d", "text": "Speed up"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Do not brake. Grip the wheel, ease off the gas, and stabilize the vehicle before pulling over.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-093",
+      "category": "trafficLaws",
+      "questionText": "A solid white line between lanes means:",
+      "answers": [
+        {"id": "a", "text": "Lane changing is discouraged/prohibited"},
+        {"id": "b", "text": "Passing permitted"},
+        {"id": "c", "text": "Two-way traffic"},
+        {"id": "d", "text": "Stop line"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Solid white lines indicate lane changes are discouraged or prohibited (e.g., tunnels, bridges).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-094",
+      "category": "rightOfWay",
+      "questionText": "When exiting a parking spot:",
+      "answers": [
+        {"id": "a", "text": "Yield to all traffic"},
+        {"id": "b", "text": "Traffic must yield to you"},
+        {"id": "c", "text": "Honk and go"},
+        {"id": "d", "text": "Go if you signaled"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must yield to all moving traffic when pulling out of a parking spot.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-095",
+      "category": "finesAndLimits",
+      "questionText": "If you fail to stop for a school bus with flashing red lights, how many points are added to your record?",
+      "answers": [
+        {"id": "a", "text": "2"},
+        {"id": "b", "text": "3"},
+        {"id": "c", "text": "5"},
+        {"id": "d", "text": "6"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Violating the school bus stopping law results in 5 points on your driving record.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-096",
+      "category": "roadSigns",
+      "questionText": "A sign with a 'No Left Turn' symbol means:",
+      "answers": [
+        {"id": "a", "text": "Left turn prohibited"},
+        {"id": "b", "text": "Left turn permitted"},
+        {"id": "c", "text": "Yield before turning left"},
+        {"id": "d", "text": "One way street"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The red circle with a slash and a left arrow means left turns are prohibited.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-097",
+      "category": "safeDriving",
+      "questionText": "The law requires that you park:",
+      "answers": [
+        {"id": "a", "text": "No more than 12 inches from the curb"},
+        {"id": "b", "text": "No more than 6 inches from the curb"},
+        {"id": "c", "text": "At least 2 feet from the curb"},
+        {"id": "d", "text": "Touching the curb"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must park no more than 12 inches from the curb.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-098",
+      "category": "trafficLaws",
+      "questionText": "If you change your address, you must notify PennDOT within:",
+      "answers": [
+        {"id": "a", "text": "15 days"},
+        {"id": "b", "text": "30 days"},
+        {"id": "c", "text": "60 days"},
+        {"id": "d", "text": "10 days"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must notify PennDOT of an address change within 15 days.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-099",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Keep Right' and an arrow around a median:",
+      "answers": [
+        {"id": "a", "text": "Stay to the right of the obstruction"},
+        {"id": "b", "text": "Turn right"},
+        {"id": "c", "text": "Exit right"},
+        {"id": "d", "text": "Pass on the right"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This regulatory sign tells you to keep to the right of a traffic island or divider.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-100",
+      "category": "safeDriving",
+      "questionText": "When passing a large truck, you should:",
+      "answers": [
+        {"id": "a", "text": "Pass quickly and don't linger in the blind spot"},
+        {"id": "b", "text": "Pass on the right"},
+        {"id": "c", "text": "Flash your brights"},
+        {"id": "d", "text": "Follow closely before passing"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Pass trucks quickly to minimize time in their 'No-Zones' (blind spots).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-101",
+      "category": "roadSigns",
+      "questionText": "A sign with a 'Merge' arrow means:",
+      "answers": [
+        {"id": "a", "text": "Traffic is entering from side"},
+        {"id": "b", "text": "Lane ends"},
+        {"id": "c", "text": "Divided highway"},
+        {"id": "d", "text": "Two-way traffic"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This warning sign indicates traffic from another road is merging into your lane.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-102",
+      "category": "finesAndLimits",
+      "questionText": "Speeding 31 mph or more over the limit results in:",
+      "answers": [
+        {"id": "a", "text": "5 points, 15-day suspension, and departmental hearing"},
+        {"id": "b", "text": "3 points"},
+        {"id": "c", "text": "Warning"},
+        {"id": "d", "text": "$50 fine only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Excessive speeding (31+ mph over) triggers a departmental hearing, 5 points, and mandatory 15-day suspension.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-103",
+      "category": "trafficLaws",
+      "questionText": "The 'Steer Clear' law requires you to:",
+      "answers": [
+        {"id": "a", "text": "Move over for emergency vehicles"},
+        {"id": "b", "text": "Avoid potholes"},
+        {"id": "c", "text": "Steer clear of trucks"},
+        {"id": "d", "text": "Stay off the shoulder"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The Steer Clear law (now 'Move Over') requires moving over or slowing down for stopped emergency/service vehicles.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-104",
+      "category": "safeDriving",
+      "questionText": "If you see a blind pedestrian, you should:",
+      "answers": [
+        {"id": "a", "text": "Stop immediately and let them pass"},
+        {"id": "b", "text": "Honk"},
+        {"id": "c", "text": "Drive around them"},
+        {"id": "d", "text": "Yell directions"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Always yield to blind pedestrians; do not honk as it may confuse them.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-105",
+      "category": "parking",
+      "questionText": "You cannot park within ___ feet of the driveway entrance to a fire station on the opposite side of the street (if posted).",
+      "answers": [
+        {"id": "a", "text": "75 feet"},
+        {"id": "b", "text": "20 feet"},
+        {"id": "c", "text": "50 feet"},
+        {"id": "d", "text": "100 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "If posted, you cannot park within 75 feet of a fire station entrance on the opposite side of the street.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-106",
+      "category": "roadSigns",
+      "questionText": "A sign showing a person using a shovel means:",
+      "answers": [
+        {"id": "a", "text": "Workers ahead / Road work"},
+        {"id": "b", "text": "Garden center"},
+        {"id": "c", "text": "Playground"},
+        {"id": "d", "text": "Hiking trail"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This symbol warns of road workers or maintenance ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-107",
+      "category": "rightOfWay",
+      "questionText": "When a traffic light turns green, you should:",
+      "answers": [
+        {"id": "a", "text": "Check the intersection for traffic and pedestrians before proceeding"},
+        {"id": "b", "text": "Go immediately"},
+        {"id": "c", "text": "Honk"},
+        {"id": "d", "text": "Yield to everyone"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Do not enter the intersection until you verify it is clear of cross traffic and pedestrians.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-108",
+      "category": "safeDriving",
+      "questionText": "If your vehicle begins to skid:",
+      "answers": [
+        {"id": "a", "text": "Steer in the direction you want the front of the vehicle to go"},
+        {"id": "b", "text": "Brake hard"},
+        {"id": "c", "text": "Accelerate"},
+        {"id": "d", "text": "Steer opposite to the skid"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Turn the wheel in the direction you want to go (steer into the skid).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-109",
+      "category": "trafficLaws",
+      "questionText": "Using a handheld cell phone while driving is allowed for:",
+      "answers": [
+        {"id": "a", "text": "Making a call (for adults) but NO texting"},
+        {"id": "b", "text": "Texting only"},
+        {"id": "c", "text": "Nothing, it's totally banned"},
+        {"id": "d", "text": "Navigation only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Adults may make calls, but texting/emailing is banned. (Note: Junior license holders cannot use it at all? Actually, PA law bans texting for all. Handheld calls are not banned for adults, but strongly discouraged).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-110",
+      "category": "roadSigns",
+      "questionText": "A sign with 'EXIT 25 MPH' indicates:",
+      "answers": [
+        {"id": "a", "text": "Advisory safe speed for exit ramp"},
+        {"id": "b", "text": "Speed limit on highway"},
+        {"id": "c", "text": "Exit number 25"},
+        {"id": "d", "text": "Minimum speed"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This is an advisory speed sign recommending a safe speed for the exit ramp.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-111",
+      "category": "trafficLaws",
+      "questionText": "Who is responsible for passengers under 18 wearing seat belts?",
+      "answers": [
+        {"id": "a", "text": "The driver"},
+        {"id": "b", "text": "The passenger"},
+        {"id": "c", "text": "The parents"},
+        {"id": "d", "text": "No one"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The driver is legally responsible for ensuring all passengers under 18 are buckled up.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-112",
+      "category": "roadSigns",
+      "questionText": "A sign with a flagger symbol means:",
+      "answers": [
+        {"id": "a", "text": "Flagger ahead controlling traffic"},
+        {"id": "b", "text": "Parade route"},
+        {"id": "c", "text": "School crossing"},
+        {"id": "d", "text": "Rest area"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns that a flagger is controlling traffic in a work zone ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-113",
+      "category": "finesAndLimits",
+      "questionText": "Driving with a suspended license results in:",
+      "answers": [
+        {"id": "a", "text": "Additional 1-year suspension and $500 fine"},
+        {"id": "b", "text": "Warning"},
+        {"id": "c", "text": "$50 fine"},
+        {"id": "d", "text": "Points only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Driving while suspended usually results in an additional 1-year suspension and at least a $500 fine.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-114",
+      "category": "safeDriving",
+      "questionText": "When roads are slippery, you should:",
+      "answers": [
+        {"id": "a", "text": "Increase following distance"},
+        {"id": "b", "text": "Decrease following distance"},
+        {"id": "c", "text": "Drive normal speed"},
+        {"id": "d", "text": "Use cruise control"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Increase following distance to 5 or 6 seconds on slippery roads.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-115",
+      "category": "roadSigns",
+      "questionText": "A sign with 'No Turn on Red' means:",
+      "answers": [
+        {"id": "a", "text": "You must wait for a green light to turn"},
+        {"id": "b", "text": "You can turn on red after stopping"},
+        {"id": "c", "text": "Yield only"},
+        {"id": "d", "text": "Left turn only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This regulatory sign prohibits turning right on red.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-116",
+      "category": "trafficLaws",
+      "questionText": "You may use a shared center turn lane to:",
+      "answers": [
+        {"id": "a", "text": "Make a left turn"},
+        {"id": "b", "text": "Pass other cars"},
+        {"id": "c", "text": "Park"},
+        {"id": "d", "text": "Drive for miles"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Center lanes are reserved for making left turns in either direction, not for passing or driving.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-117",
+      "category": "rightOfWay",
+      "questionText": "When a school bus is loading students in a loading zone off the roadway (school yard) with no flashing lights:",
+      "answers": [
+        {"id": "a", "text": "You can pass with caution"},
+        {"id": "b", "text": "You must stop"},
+        {"id": "c", "text": "You must honk"},
+        {"id": "d", "text": "You cannot pass"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "If the bus is in a recessed loading zone and lights are NOT flashing, you may pass with caution.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-118",
+      "category": "safeDriving",
+      "questionText": "If an oncoming driver flashes headlights at you, it likely means:",
+      "answers": [
+        {"id": "a", "text": "Your high beams are on or there is a hazard ahead"},
+        {"id": "b", "text": "Hello"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Turn off your lights"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Flashing lights usually indicate you have high beams on or there is danger ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-119",
+      "category": "parking",
+      "questionText": "Is it legal to park on a sidewalk?",
+      "answers": [
+        {"id": "a", "text": "No, never"},
+        {"id": "b", "text": "Yes, if leaving room for pedestrians"},
+        {"id": "c", "text": "Yes, on Sundays"},
+        {"id": "d", "text": "Yes, for 5 minutes"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Parking on a sidewalk is illegal at all times.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-120",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Wrong Way' means:",
+      "answers": [
+        {"id": "a", "text": "You are driving against traffic flow"},
+        {"id": "b", "text": "Detour ahead"},
+        {"id": "c", "text": "Road closed"},
+        {"id": "d", "text": "Left turn only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns you are going the wrong direction on a one-way street or ramp.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-121",
+      "category": "trafficLaws",
+      "questionText": "You must use your low beams when you are within ___ feet of the vehicle you are following.",
+      "answers": [
+        {"id": "a", "text": "300 feet"},
+        {"id": "b", "text": "500 feet"},
+        {"id": "c", "text": "200 feet"},
+        {"id": "d", "text": "100 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Switch to low beams within 300 feet of the vehicle ahead.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-122",
+      "category": "safeDriving",
+      "questionText": "If you are involved in a crash with a parked vehicle, you must:",
+      "answers": [
+        {"id": "a", "text": "Leave a note with your info and report it"},
+        {"id": "b", "text": "Drive away if no one saw"},
+        {"id": "c", "text": "Wait for the owner"},
+        {"id": "d", "text": "Call a tow truck"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must locate the owner or leave a note with your name, address, and insurance info, and report it.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-123",
+      "category": "roadSigns",
+      "questionText": "A pentagon sign is used for:",
+      "answers": [
+        {"id": "a", "text": "School zones"},
+        {"id": "b", "text": "Stop signs"},
+        {"id": "c", "text": "Yield signs"},
+        {"id": "d", "text": "Railroad crossings"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The pentagon shape is exclusively for School Zones and School Crossings.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-124",
+      "category": "finesAndLimits",
+      "questionText": "A first DUI offense with BAC .10% to .159% results in:",
+      "answers": [
+        {"id": "a", "text": "12-month suspension and jail time"},
+        {"id": "b", "text": "No suspension"},
+        {"id": "c", "text": "Warning"},
+        {"id": "d", "text": "6 month suspension"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "High tier DUI (BAC .10-.159) carries a 12-month suspension, jail time, and fines.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-125",
+      "category": "rightOfWay",
+      "questionText": "When turning left at an intersection without a specific turn light, you must:",
+      "answers": [
+        {"id": "a", "text": "Yield to oncoming traffic"},
+        {"id": "b", "text": "Go before oncoming traffic"},
+        {"id": "c", "text": "Force your way"},
+        {"id": "d", "text": "Wait for a green arrow"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Left turners must yield to straight-through traffic on green.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-126",
+      "category": "roadSigns",
+      "questionText": "A sign with a 'Soft Shoulder' warning means:",
+      "answers": [
+        {"id": "a", "text": "Do not drive off the pavement"},
+        {"id": "b", "text": "Shoulder is paved"},
+        {"id": "c", "text": "Rest area"},
+        {"id": "d", "text": "Parking allowed"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The shoulder is soft earth/gravel and may be dangerous if you drive on it.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-127",
+      "category": "trafficLaws",
+      "questionText": "You are not allowed to use your high beams within ___ feet of an oncoming vehicle.",
+      "answers": [
+        {"id": "a", "text": "500 feet"},
+        {"id": "b", "text": "300 feet"},
+        {"id": "c", "text": "200 feet"},
+        {"id": "d", "text": "100 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dim high beams within 500 feet of approaching traffic.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-128",
+      "category": "safeDriving",
+      "questionText": "Alcohol affects a driver by:",
+      "answers": [
+        {"id": "a", "text": "Slowing reaction time and impairing judgment"},
+        {"id": "b", "text": "Increasing alertness"},
+        {"id": "c", "text": "Improving vision"},
+        {"id": "d", "text": "Making them better drivers"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Alcohol slows reflexes, impairs coordination, and reduces judgment.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-129",
+      "category": "parking",
+      "questionText": "Parking is prohibited within ___ feet of a fire hydrant.",
+      "answers": [
+        {"id": "a", "text": "15 feet"},
+        {"id": "b", "text": "20 feet"},
+        {"id": "c", "text": "10 feet"},
+        {"id": "d", "text": "30 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Do not park within 15 feet of a hydrant.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-130",
+      "category": "roadSigns",
+      "questionText": "A sign with a 'Lane Ends' symbol means:",
+      "answers": [
+        {"id": "a", "text": "Merge into the remaining lane"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "Turn right"},
+        {"id": "d", "text": "Speed up"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns that a lane is ending and traffic must merge.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-131",
+      "category": "trafficLaws",
+      "questionText": "You may pass a school bus with flashing red lights ONLY if:",
+      "answers": [
+        {"id": "a", "text": "You are on the opposite side of a divided highway with a physical barrier"},
+        {"id": "b", "text": "You are in a hurry"},
+        {"id": "c", "text": "The bus is stopped at a house"},
+        {"id": "d", "text": "You honk first"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "If a physical barrier separates the lanes, oncoming traffic does not need to stop.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-132",
+      "category": "safeDriving",
+      "questionText": "If you are under emotional stress:",
+      "answers": [
+        {"id": "a", "text": "Do not drive"},
+        {"id": "b", "text": "Drive faster"},
+        {"id": "c", "text": "Listen to loud music"},
+        {"id": "d", "text": "Drive with windows down"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Emotions affect driving; it is best to let someone else drive or wait until you are calm.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-133",
+      "category": "roadSigns",
+      "questionText": "A sign with '35 MPH' under a curve arrow means:",
+      "answers": [
+        {"id": "a", "text": "Recommended safe speed for curve is 35"},
+        {"id": "b", "text": "Minimum speed 35"},
+        {"id": "c", "text": "Route 35"},
+        {"id": "d", "text": "Exit 35"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Advisory speed signs show the maximum safe speed for a curve.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-134",
+      "category": "trafficLaws",
+      "questionText": "Drivers under 18 cannot have more than ___ non-family passenger(s) for the first 6 months.",
+      "answers": [
+        {"id": "a", "text": "1"},
+        {"id": "b", "text": "2"},
+        {"id": "c", "text": "3"},
+        {"id": "d", "text": "0"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Junior license holders are limited to 1 non-family passenger for the first 6 months.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-135",
+      "category": "rightOfWay",
+      "questionText": "Who has the right of way in a traffic circle (roundabout)?",
+      "answers": [
+        {"id": "a", "text": "Traffic already in the circle"},
+        {"id": "b", "text": "Traffic entering"},
+        {"id": "c", "text": "Faster traffic"},
+        {"id": "d", "text": "Larger vehicles"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Entering traffic yields to circulating traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-136",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Center Lane Only' and two-way arrows means:",
+      "answers": [
+        {"id": "a", "text": "Center lane is for left turns only"},
+        {"id": "b", "text": "Center lane is for passing"},
+        {"id": "c", "text": "Center lane is for trucks"},
+        {"id": "d", "text": "Reversible lane"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The center lane is shared for left turns from both directions.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-137",
+      "category": "safeDriving",
+      "questionText": "Seat belts prevent:",
+      "answers": [
+        {"id": "a", "text": "Being thrown from the car"},
+        {"id": "b", "text": "Hitting the dashboard"},
+        {"id": "c", "text": "Sliding on seat"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Seat belts keep you inside the vehicle and prevent impact with the interior.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-138",
+      "category": "parking",
+      "questionText": "Can you park in front of a public driveway?",
+      "answers": [
+        {"id": "a", "text": "No, never"},
+        {"id": "b", "text": "Yes, for 5 minutes"},
+        {"id": "c", "text": "Yes, if hazard lights on"},
+        {"id": "d", "text": "Yes, on Sundays"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Blocking a private or public driveway is illegal.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-139",
+      "category": "finesAndLimits",
+      "questionText": "Driving 26-30 mph over the limit results in:",
+      "answers": [
+        {"id": "a", "text": "5 points"},
+        {"id": "b", "text": "3 points"},
+        {"id": "c", "text": "2 points"},
+        {"id": "d", "text": "Warning"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Speeding 26-30 mph over the limit is a 5-point violation.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "pa-140",
+      "category": "roadSigns",
+      "questionText": "A sign with a 'Do Not Pass' text means:",
+      "answers": [
+        {"id": "a", "text": "You are in a no passing zone"},
+        {"id": "b", "text": "Pass with caution"},
+        {"id": "c", "text": "End no passing zone"},
+        {"id": "d", "text": "Merge"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This regulatory sign marks the start of a zone where passing is prohibited.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-141",
+      "category": "trafficLaws",
+      "questionText": "Are you allowed to back up on an expressway shoulder?",
+      "answers": [
+        {"id": "a", "text": "No, never"},
+        {"id": "b", "text": "Yes, if you missed exit"},
+        {"id": "c", "text": "Yes, if careful"},
+        {"id": "d", "text": "Yes, to help a friend"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Backing up on a highway or shoulder is strictly prohibited.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-142",
+      "category": "safeDriving",
+      "questionText": "Before reversing, you should:",
+      "answers": [
+        {"id": "a", "text": "Check mirrors and look over shoulder"},
+        {"id": "b", "text": "Honk"},
+        {"id": "c", "text": "Rely on camera"},
+        {"id": "d", "text": "Open door"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Check all blind spots by looking over your shoulder before backing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-143",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Mile Marker 44':",
+      "answers": [
+        {"id": "a", "text": "Location reference"},
+        {"id": "b", "text": "Speed limit 44"},
+        {"id": "c", "text": "Exit 44"},
+        {"id": "d", "text": "44 miles to destination"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Mile markers indicate your specific location on the highway for emergencies.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-144",
+      "category": "trafficLaws",
+      "questionText": "When can you legally drive around a railroad gate that is down?",
+      "answers": [
+        {"id": "a", "text": "Never"},
+        {"id": "b", "text": "If no train is coming"},
+        {"id": "c", "text": "If you are quick"},
+        {"id": "d", "text": "If directed by a flagger/police"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Never drive around gates unless directed by authorized personnel.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-145",
+      "category": "rightOfWay",
+      "questionText": "If you approach a traffic light that is not working (black):",
+      "answers": [
+        {"id": "a", "text": "Treat it as a 4-way stop"},
+        {"id": "b", "text": "Go fast"},
+        {"id": "c", "text": "Yield to right"},
+        {"id": "d", "text": "Main road has right of way"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A malfunctioning signal is treated as a 4-way stop.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-146",
+      "category": "parking",
+      "questionText": "Is it legal to park on a bridge?",
+      "answers": [
+        {"id": "a", "text": "No"},
+        {"id": "b", "text": "Yes"},
+        {"id": "c", "text": "Only if wide enough"},
+        {"id": "d", "text": "Only for emergencies"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Parking on a bridge or overpass is illegal.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-147",
+      "category": "safeDriving",
+      "questionText": "To enter a gap in highway traffic:",
+      "answers": [
+        {"id": "a", "text": "Check your blind spot and signal"},
+        {"id": "b", "text": "Force your way in"},
+        {"id": "c", "text": "Wait for a huge gap"},
+        {"id": "d", "text": "Stop on ramp"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Signal early, check blind spots, and merge smoothly.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-148",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Bridge Ices Before Road' means:",
+      "answers": [
+        {"id": "a", "text": "Bridges freeze faster than pavement"},
+        {"id": "b", "text": "Bridge is closed"},
+        {"id": "c", "text": "Salt trucks ahead"},
+        {"id": "d", "text": "Ice skating area"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Bridges lack earth insulation and freeze first in cold weather.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pa-149",
+      "category": "trafficLaws",
+      "questionText": "How often must your vehicle be inspected in PA?",
+      "answers": [
+        {"id": "a", "text": "Every 12 months"},
+        {"id": "b", "text": "Every 6 months"},
+        {"id": "c", "text": "Every 2 years"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Vehicles must pass a safety inspection every 12 months.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pa-150",
+      "category": "finesAndLimits",
+      "questionText": "If you are under 21, you cannot buy, consume, or possess alcohol. This is:",
+      "answers": [
+        {"id": "a", "text": "Zero Tolerance"},
+        {"id": "b", "text": "Implied Consent"},
+        {"id": "c", "text": "Megan's Law"},
+        {"id": "d", "text": "Common Sense"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Zero Tolerance laws prohibit alcohol use by minors.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    }
+  ]
+}

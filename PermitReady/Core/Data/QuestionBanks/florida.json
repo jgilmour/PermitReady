@@ -1,0 +1,2272 @@
+{
+  "stateCode": "FL",
+  "stateName": "Florida",
+  "version": "2.0.0",
+  "lastUpdated": "2025-12-23",
+  "testInfo": {
+    "questionCount": 50,
+    "passingPercentage": 80,
+    "passingScore": 40,
+    "minimumPermitAge": 15,
+    "hasSplitTest": false,
+    "timeLimit": 60,
+    "uniqueRequirements": [
+      "Applicants under 18 can take the Class E Knowledge Exam online",
+      "Applicants under 18 must complete the 6-hour Driver Education Traffic Safety (DETS) course (replaced TLSAE in Aug 2025)",
+      "Permit holders must be accompanied by a licensed driver 21+ in the front passenger seat",
+      "For the first 3 months, driving is restricted to daylight hours only; after 3 months, until 10 PM"
+    ]
+  },
+  "questions": [
+    {
+      "id": "fl-001",
+      "category": "trafficLaws",
+      "questionText": "If you are a licensed driver aged 16, you may not drive between ___ unless accompanied by a licensed driver age 21 or older.",
+      "answers": [
+        {"id": "a", "text": "10:00 PM and 6:00 AM"},
+        {"id": "b", "text": "11:00 PM and 6:00 AM"},
+        {"id": "c", "text": "Midnight and 6:00 AM"},
+        {"id": "d", "text": "1:00 AM and 5:00 AM"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A 16-year-old licensed driver may not drive between 11:00 PM and 6:00 AM unless driving to or from work or accompanied by a licensed driver 21 years of age or older.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-002",
+      "category": "trafficLaws",
+      "questionText": "Under Florida's 'Move Over' law, if you approach an emergency vehicle stopped with lights flashing on a two-lane road, you must:",
+      "answers": [
+        {"id": "a", "text": "Move to the opposite lane immediately"},
+        {"id": "b", "text": "Slow down to a speed that is 20 mph less than the posted speed limit"},
+        {"id": "c", "text": "Maintain your speed but stay alert"},
+        {"id": "d", "text": "Stop until the emergency vehicle leaves"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "On a two-lane road where you cannot move over, you must slow to a speed that is 20 mph less than the posted speed limit. If the speed limit is 20 mph or less, you must travel at 5 mph.",
+      "imageAssetName": "fl_move_over_diagram",
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-003",
+      "category": "finesAndLimits",
+      "questionText": "Any driver under 21 years of age who is stopped by law enforcement and has a blood alcohol level of ___ or higher will automatically have their driving privilege suspended for one year.",
+      "answers": [
+        {"id": "a", "text": "0.02%"},
+        {"id": "b", "text": "0.05%"},
+        {"id": "c", "text": "0.08%"},
+        {"id": "d", "text": "0.01%"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Florida has a Zero Tolerance policy. Any driver under 21 with a breath or blood alcohol level of 0.02% or higher will have their license suspended for one year.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-004",
+      "category": "finesAndLimits",
+      "questionText": "The standard speed limit in a residential or business district in Florida, unless otherwise posted, is:",
+      "answers": [
+        {"id": "a", "text": "20 mph"},
+        {"id": "b", "text": "25 mph"},
+        {"id": "c", "text": "30 mph"},
+        {"id": "d", "text": "35 mph"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Unless otherwise posted, the speed limit in municipal speed areas, business, or residential districts is 30 mph.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-005",
+      "category": "finesAndLimits",
+      "questionText": "The speed limit in a school zone in Florida is typically:",
+      "answers": [
+        {"id": "a", "text": "15 mph"},
+        {"id": "b", "text": "20 mph"},
+        {"id": "c", "text": "25 mph"},
+        {"id": "d", "text": "30 mph"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The standard speed limit for school zones in Florida is 20 mph.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-006",
+      "category": "trafficLaws",
+      "questionText": "When you are approaching a bicyclist from the rear, you must give them a minimum clearance of:",
+      "answers": [
+        {"id": "a", "text": "1 foot"},
+        {"id": "b", "text": "2 feet"},
+        {"id": "c", "text": "3 feet"},
+        {"id": "d", "text": "4 feet"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Florida law requires drivers to give bicyclists a minimum of 3 feet of clearance when passing.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-007",
+      "category": "trafficLaws",
+      "questionText": "You are required to turn on your headlights:",
+      "answers": [
+        {"id": "a", "text": "Only at night"},
+        {"id": "b", "text": "From sunset to sunrise, and whenever visibility is reduced"},
+        {"id": "c", "text": "Between 8:00 PM and 6:00 AM"},
+        {"id": "d", "text": "Whenever you are on a highway"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must use headlights between sunset and sunrise, and during rain, smoke, or fog.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-008",
+      "category": "trafficLaws",
+      "questionText": "If a school bus stops to unload children on a divided highway with a raised barrier of at least 5 feet:",
+      "answers": [
+        {"id": "a", "text": "Vehicles traveling in the opposite direction must stop"},
+        {"id": "b", "text": "Vehicles traveling in the opposite direction do not have to stop"},
+        {"id": "c", "text": "All vehicles on both sides must stop"},
+        {"id": "d", "text": "Vehicles behind the bus can pass if safe"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If a raised barrier or an unpaved median at least 5 feet wide divides the highway, vehicles traveling in the opposite direction are not required to stop.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-009",
+      "category": "trafficLaws",
+      "questionText": "Texting while driving in Florida is:",
+      "answers": [
+        {"id": "a", "text": "Allowed for drivers over 21"},
+        {"id": "b", "text": "A secondary offense"},
+        {"id": "c", "text": "Illegal and a primary offense"},
+        {"id": "d", "text": "Allowed at red lights"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Texting while driving is illegal and is a primary offense in Florida, meaning an officer can pull you over specifically for that violation.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-010",
+      "category": "trafficLaws",
+      "questionText": "If you are involved in a crash that results in property damage of ___ or more, you must report it to the police.",
+      "answers": [
+        {"id": "a", "text": "$200"},
+        {"id": "b", "text": "$500"},
+        {"id": "c", "text": "$750"},
+        {"id": "d", "text": "$1,000"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Crashes involving injury, death, or property damage of at least $500 must be reported to law enforcement immediately.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-011",
+      "category": "trafficLaws",
+      "questionText": "What are the driving restrictions for a 17-year-old with a Class E license?",
+      "answers": [
+        {"id": "a", "text": "No driving between 11 PM and 6 AM"},
+        {"id": "b", "text": "No driving between 1 AM and 5 AM unless for work or supervised"},
+        {"id": "c", "text": "Daylight driving only"},
+        {"id": "d", "text": "No restrictions"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A 17-year-old licensed driver may not drive between 1:00 AM and 5:00 AM unless driving to/from work or accompanied by a licensed driver over 21.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-012",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to use ___ while driving a motor vehicle.",
+      "answers": [
+        {"id": "a", "text": "Sunglasses"},
+        {"id": "b", "text": "Headphones or headsets"},
+        {"id": "c", "text": "The radio"},
+        {"id": "d", "text": "GPS navigation"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "It is illegal to wear a headset, headphone, or other listening device, other than a hearing aid, while driving.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-013",
+      "category": "trafficLaws",
+      "questionText": "Who is required to wear a seat belt in Florida?",
+      "answers": [
+        {"id": "a", "text": "Only the driver"},
+        {"id": "b", "text": "The driver and front-seat passengers"},
+        {"id": "c", "text": "The driver, front-seat passengers, and all passengers under 18"},
+        {"id": "d", "text": "Only passengers under 18"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The driver, front seat passengers, and all passengers under the age of 18 must wear a seat belt.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-014",
+      "category": "trafficLaws",
+      "questionText": "Children under the age of ___ must be secured in a federally approved child-restraint seat.",
+      "answers": [
+        {"id": "a", "text": "2 years"},
+        {"id": "b", "text": "4 years"},
+        {"id": "c", "text": "5 years"},
+        {"id": "d", "text": "6 years"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Children aged 5 and under must be secured in a federally approved child restraint device. Children 0-3 must be in a carrier/seat; aged 4-5 can use a seat or booster.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-015",
+      "category": "trafficLaws",
+      "questionText": "If you refuse to take a breath test when asked by an officer (Implied Consent Law), your license will be suspended for:",
+      "answers": [
+        {"id": "a", "text": "3 months"},
+        {"id": "b", "text": "6 months"},
+        {"id": "c", "text": "1 year"},
+        {"id": "d", "text": "2 years"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Refusal to submit to a breath, urine, or blood test results in a mandatory one-year license suspension for a first offense.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-016",
+      "category": "safeDriving",
+      "questionText": "When driving in rain, the road is most slippery:",
+      "answers": [
+        {"id": "a", "text": "After it has rained for an hour"},
+        {"id": "b", "text": "Just after the rain begins"},
+        {"id": "c", "text": "When the rain stops"},
+        {"id": "d", "text": "During a light drizzle only"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Roads are most slippery just after rain begins because the oil and grease on the pavement mix with the water.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-017",
+      "category": "safeDriving",
+      "questionText": "The safe following distance for normal driving conditions in Florida is:",
+      "answers": [
+        {"id": "a", "text": "1 second"},
+        {"id": "b", "text": "2 seconds"},
+        {"id": "c", "text": "4 seconds"},
+        {"id": "d", "text": "10 seconds"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Florida recommends a minimum following distance of 4 seconds during normal weather and traffic conditions.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-018",
+      "category": "safeDriving",
+      "questionText": "If your vehicle breaks down on the highway, you should:",
+      "answers": [
+        {"id": "a", "text": "Stop in the middle of the lane"},
+        {"id": "b", "text": "Move completely off the pavement and turn on hazard flashers"},
+        {"id": "c", "text": "Stand behind your car to warn traffic"},
+        {"id": "d", "text": "Leave the car and walk for help immediately"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If your vehicle breaks down, move it completely off the pavement if possible and turn on your emergency flashers.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-019",
+      "category": "safeDriving",
+      "questionText": "When entering an expressway (interstate), you should:",
+      "answers": [
+        {"id": "a", "text": "Stop at the end of the ramp"},
+        {"id": "b", "text": "Use the acceleration lane to build up speed to match traffic"},
+        {"id": "c", "text": "Drive slowly until you find a gap"},
+        {"id": "d", "text": "Honk to let others know you are entering"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use the acceleration lane to increase your speed to match the flow of traffic before merging.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-020",
+      "category": "safeDriving",
+      "questionText": "If you drive past your exit on an interstate highway:",
+      "answers": [
+        {"id": "a", "text": "Back up on the shoulder"},
+        {"id": "b", "text": "Make a U-turn at the nearest median crossing"},
+        {"id": "c", "text": "Go to the next exit"},
+        {"id": "d", "text": "Stop and wait for a gap in traffic"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Never back up or make a U-turn on an interstate. If you miss your exit, you must proceed to the next one.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-021",
+      "category": "safeDriving",
+      "questionText": "High beam headlights can reveal objects up to a distance of:",
+      "answers": [
+        {"id": "a", "text": "250 feet"},
+        {"id": "b", "text": "350 feet"},
+        {"id": "c", "text": "450 feet"},
+        {"id": "d", "text": "600 feet"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "High beam headlights can reveal objects up to 450 feet away. Low beams are effective for about 150 feet.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-022",
+      "category": "safeDriving",
+      "questionText": "You must lower your high beam headlights when approaching an oncoming vehicle within:",
+      "answers": [
+        {"id": "a", "text": "200 feet"},
+        {"id": "b", "text": "300 feet"},
+        {"id": "c", "text": "500 feet"},
+        {"id": "d", "text": "1,000 feet"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "You must dim your high beams within 500 feet of an oncoming vehicle.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-023",
+      "category": "safeDriving",
+      "questionText": "If your gas pedal sticks, you should:",
+      "answers": [
+        {"id": "a", "text": "Turn off the ignition immediately"},
+        {"id": "b", "text": "Shift into Neutral"},
+        {"id": "c", "text": "Apply the parking brake"},
+        {"id": "d", "text": "Try to unstick it with your foot while looking down"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If the gas pedal jams, tap it to free it. If that fails, shift into Neutral, steer to a safe place, and then turn off the engine.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-024",
+      "category": "safeDriving",
+      "questionText": "A defensive driver should check their rearview mirror approximately every:",
+      "answers": [
+        {"id": "a", "text": "10 seconds"},
+        {"id": "b", "text": "30 seconds"},
+        {"id": "c", "text": "60 seconds"},
+        {"id": "d", "text": "5 minutes"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Check your mirrors every 10 seconds or so to be aware of traffic behind you.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-025",
+      "category": "safeDriving",
+      "questionText": "When sharing the road with a large truck, you should avoid:",
+      "answers": [
+        {"id": "a", "text": "Driving in their 'No Zones' (blind spots)"},
+        {"id": "b", "text": "Passing on the left"},
+        {"id": "c", "text": "Using your signals"},
+        {"id": "d", "text": "Staying far behind"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Large trucks have large blind spots called 'No Zones' on the front, back, and sides. Avoid driving in these areas.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-026",
+      "category": "safeDriving",
+      "questionText": "If you are driving and a tire blows out, you should:",
+      "answers": [
+        {"id": "a", "text": "Slam on the brakes"},
+        {"id": "b", "text": "Grip the steering wheel firmly and take your foot off the gas"},
+        {"id": "c", "text": "Turn quickly to the shoulder"},
+        {"id": "d", "text": "Accelerate to stabilize the car"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Do not brake. Grip the wheel firmly, ease off the gas, and keep the car going straight until it slows down enough to pull over.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-027",
+      "category": "rightOfWay",
+      "questionText": "At a four-way stop, if two cars arrive at the same time, who yields?",
+      "answers": [
+        {"id": "a", "text": "The driver on the right yields to the driver on the left"},
+        {"id": "b", "text": "The driver on the left yields to the driver on the right"},
+        {"id": "c", "text": "The driver going straight yields to the driver turning"},
+        {"id": "d", "text": "The smaller vehicle yields"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "At a four-way stop, if vehicles arrive simultaneously, the driver on the left must yield to the driver on the right.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-028",
+      "category": "rightOfWay",
+      "questionText": "When entering a public road from a private driveway or alley, you must:",
+      "answers": [
+        {"id": "a", "text": "Yield to all approaching traffic and pedestrians"},
+        {"id": "b", "text": "Honk your horn and proceed"},
+        {"id": "c", "text": "Only yield to cars, not pedestrians"},
+        {"id": "d", "text": "Drive out slowly to block traffic"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must yield the right-of-way to all vehicles and pedestrians on the roadway you are entering.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-029",
+      "category": "rightOfWay",
+      "questionText": "You are approaching an intersection with a green light, but traffic is blocking the intersection. You should:",
+      "answers": [
+        {"id": "a", "text": "Enter the intersection and wait"},
+        {"id": "b", "text": "Stay out of the intersection until traffic clears"},
+        {"id": "c", "text": "Honk at the cars blocking you"},
+        {"id": "d", "text": "Drive around the traffic"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Do not enter an intersection unless you can clear it completely. Blocking an intersection is illegal (often called 'blocking the box').",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-030",
+      "category": "rightOfWay",
+      "questionText": "When turning left at an intersection, you must yield to:",
+      "answers": [
+        {"id": "a", "text": "Traffic behind you"},
+        {"id": "b", "text": "No one if the light is green"},
+        {"id": "c", "text": "Oncoming traffic and pedestrians"},
+        {"id": "d", "text": "Traffic on the cross street only"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "When making a left turn, you must yield right-of-way to any oncoming vehicles and pedestrians crossing your path.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-031",
+      "category": "rightOfWay",
+      "questionText": "If a traffic signal is out of order (not working), you should treat the intersection as:",
+      "answers": [
+        {"id": "a", "text": "A yield sign"},
+        {"id": "b", "text": "A four-way stop"},
+        {"id": "c", "text": "A free-for-all"},
+        {"id": "d", "text": "A green light"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If a traffic signal is inoperative, treat the intersection as a four-way stop.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-032",
+      "category": "rightOfWay",
+      "questionText": "Pedestrians have the right-of-way:",
+      "answers": [
+        {"id": "a", "text": "Only in marked crosswalks"},
+        {"id": "b", "text": "Only when they have a 'Walk' signal"},
+        {"id": "c", "text": "At all times in a crosswalk (marked or unmarked) and intersections"},
+        {"id": "d", "text": "Only if they are wearing bright clothing"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Drivers must yield to pedestrians crossing the street or driveway at any marked or unmarked crosswalk at an intersection.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-033",
+      "category": "parking",
+      "questionText": "It is illegal to park within ___ feet of a fire hydrant.",
+      "answers": [
+        {"id": "a", "text": "10 feet"},
+        {"id": "b", "text": "15 feet"},
+        {"id": "c", "text": "20 feet"},
+        {"id": "d", "text": "25 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Parking is prohibited within 15 feet of a fire hydrant.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-034",
+      "category": "parking",
+      "questionText": "When parking downhill with a curb, you should turn your wheels:",
+      "answers": [
+        {"id": "a", "text": "Away from the curb"},
+        {"id": "b", "text": "Towards the curb"},
+        {"id": "c", "text": "Straight ahead"},
+        {"id": "d", "text": "It doesn't matter"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When parking downhill with a curb, turn your wheels toward the curb so the vehicle will roll into the curb if the brakes fail.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-035",
+      "category": "parking",
+      "questionText": "You cannot park within ___ feet of a railroad crossing.",
+      "answers": [
+        {"id": "a", "text": "15 feet"},
+        {"id": "b", "text": "20 feet"},
+        {"id": "c", "text": "30 feet"},
+        {"id": "d", "text": "50 feet"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "It is illegal to park within 50 feet of a railroad crossing.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-036",
+      "category": "parking",
+      "questionText": "Before leaving your parked vehicle, you must always:",
+      "answers": [
+        {"id": "a", "text": "Leave the radio on"},
+        {"id": "b", "text": "Set the parking brake and take the keys"},
+        {"id": "c", "text": "Leave the window cracked open"},
+        {"id": "d", "text": "Leave the hazard lights on"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Always set the parking brake, stop the engine, and take your keys with you when leaving your vehicle.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-037",
+      "category": "parking",
+      "questionText": "Parking is not allowed within ___ feet of an intersection.",
+      "answers": [
+        {"id": "a", "text": "15 feet"},
+        {"id": "b", "text": "20 feet"},
+        {"id": "c", "text": "30 feet"},
+        {"id": "d", "text": "50 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must not park within 20 feet of an intersection.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-038",
+      "category": "roadSigns",
+      "questionText": "A red octagonal sign always means:",
+      "answers": [
+        {"id": "a", "text": "Stop"},
+        {"id": "b", "text": "Yield"},
+        {"id": "c", "text": "Do Not Enter"},
+        {"id": "d", "text": "School Zone"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The octagon (8-sided) shape is exclusively used for Stop signs.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-039",
+      "category": "roadSigns",
+      "questionText": "A triangular sign pointing down means:",
+      "answers": [
+        {"id": "a", "text": "Stop"},
+        {"id": "b", "text": "Yield"},
+        {"id": "c", "text": "Speed Limit"},
+        {"id": "d", "text": "One Way"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The inverted triangle is exclusively used for Yield signs.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-040",
+      "category": "roadSigns",
+      "questionText": "A diamond-shaped yellow sign is a:",
+      "answers": [
+        {"id": "a", "text": "Regulatory sign"},
+        {"id": "b", "text": "Warning sign"},
+        {"id": "c", "text": "Guide sign"},
+        {"id": "d", "text": "Construction sign"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Yellow diamond-shaped signs are warning signs alerting you to hazards or road conditions ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-041",
+      "category": "roadSigns",
+      "questionText": "An orange sign typically indicates:",
+      "answers": [
+        {"id": "a", "text": "School zones"},
+        {"id": "b", "text": "Construction or maintenance work"},
+        {"id": "c", "text": "Parks and recreation"},
+        {"id": "d", "text": "Tourist info"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Orange signs are used for construction and maintenance warning.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-042",
+      "category": "roadSigns",
+      "questionText": "A pentagon (5-sided) sign marks:",
+      "answers": [
+        {"id": "a", "text": "A school zone or school crossing"},
+        {"id": "b", "text": "A no passing zone"},
+        {"id": "c", "text": "A railroad crossing"},
+        {"id": "d", "text": "A stop sign ahead"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The pentagon shape is reserved for school zones and school crossings.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-043",
+      "category": "roadSigns",
+      "questionText": "A pennant-shaped yellow sign on the left side of the road indicates:",
+      "answers": [
+        {"id": "a", "text": "No Passing Zone"},
+        {"id": "b", "text": "Merging Traffic"},
+        {"id": "c", "text": "School Crossing"},
+        {"id": "d", "text": "Divided Highway Ends"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The pennant (flag) shape is used exclusively to mark the beginning of a No Passing Zone.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-044",
+      "category": "roadSigns",
+      "questionText": "A round yellow sign with an 'X' and 'RR' means:",
+      "answers": [
+        {"id": "a", "text": "Road Repair"},
+        {"id": "b", "text": "Railroad Crossing Ahead"},
+        {"id": "c", "text": "Wrong Way"},
+        {"id": "d", "text": "Roundabout Ahead"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Circular yellow signs warn of an upcoming railroad crossing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-045",
+      "category": "roadSigns",
+      "questionText": "Green road signs are used for:",
+      "answers": [
+        {"id": "a", "text": "Warnings"},
+        {"id": "b", "text": "Guide and directional information"},
+        {"id": "c", "text": "Construction"},
+        {"id": "d", "text": "Regulatory laws"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Green signs provide guidance, such as distances, directions, and exit numbers.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-046",
+      "category": "roadSigns",
+      "questionText": "Blue road signs indicate:",
+      "answers": [
+        {"id": "a", "text": "Motorist services (gas, food, lodging)"},
+        {"id": "b", "text": "State parks"},
+        {"id": "c", "text": "Detours"},
+        {"id": "d", "text": "Speed limits"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Blue signs guide motorists to services like gas, food, lodging, and hospitals.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-047",
+      "category": "roadSigns",
+      "questionText": "A sign with a red circle and a slash through it means:",
+      "answers": [
+        {"id": "a", "text": "Caution required"},
+        {"id": "b", "text": "The action shown is prohibited"},
+        {"id": "c", "text": "Stop immediately"},
+        {"id": "d", "text": "Yield ahead"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The red circle with a slash is the universal symbol for 'No' or 'Prohibited'.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-048",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a 'plus' (+) sign indicates:",
+      "answers": [
+        {"id": "a", "text": "Hospital ahead"},
+        {"id": "b", "text": "Crossroad / Intersection ahead"},
+        {"id": "c", "text": "First aid station"},
+        {"id": "d", "text": "Church ahead"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A cross symbol (+) on a warning sign indicates a four-way intersection (crossroad) ahead.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-049",
+      "category": "roadSigns",
+      "questionText": "A sign with two arrows pointing down and away from a divider indicates:",
+      "answers": [
+        {"id": "a", "text": "Traffic flows to both sides of the divider"},
+        {"id": "b", "text": "Divided highway begins"},
+        {"id": "c", "text": "Lane ends"},
+        {"id": "d", "text": "Merge"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign is often placed at the beginning of an island or obstruction, meaning traffic can pass on either side.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-050",
+      "category": "roadSigns",
+      "questionText": "A sign showing a car with 'squiggly' lines behind it means:",
+      "answers": [
+        {"id": "a", "text": "Winding road"},
+        {"id": "b", "text": "Slippery when wet"},
+        {"id": "c", "text": "Drunk drivers ahead"},
+        {"id": "d", "text": "Loose gravel"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns that the road surface becomes slippery when wet. Slow down.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-051",
+      "category": "finesAndLimits",
+      "questionText": "In Florida, the Financial Responsibility Law requires drivers to carry at least ___ in Personal Injury Protection (PIP) coverage.",
+      "answers": [
+        {"id": "a", "text": "$5,000"},
+        {"id": "b", "text": "$10,000"},
+        {"id": "c", "text": "$20,000"},
+        {"id": "d", "text": "$100,000"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Florida law requires owners to carry a minimum of $10,000 in Personal Injury Protection (PIP) and $10,000 in Property Damage Liability (PDL).",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-052",
+      "category": "finesAndLimits",
+      "questionText": "If you accumulate 12 points on your driving record within 12 months, your license will be suspended for:",
+      "answers": [
+        {"id": "a", "text": "10 days"},
+        {"id": "b", "text": "30 days"},
+        {"id": "c", "text": "3 months"},
+        {"id": "d", "text": "1 year"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The suspension period for 12 points in 12 months is 30 days.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-053",
+      "category": "trafficLaws",
+      "questionText": "You are approaching a drawbridge that has a red light and a gate that is lowering. You must:",
+      "answers": [
+        {"id": "a", "text": "Drive around the gate quickly"},
+        {"id": "b", "text": "Stop at the marked stop line"},
+        {"id": "c", "text": "Slow down and watch for the bridge tender"},
+        {"id": "d", "text": "Honk your horn"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Drivers must stop at the marked stop line when drawbridge signals are red or the gate is lowering.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-054",
+      "category": "safeDriving",
+      "questionText": "When checking your blind spots before changing lanes, you should:",
+      "answers": [
+        {"id": "a", "text": "Turn your head and look over your shoulder"},
+        {"id": "b", "text": "Only use your side mirrors"},
+        {"id": "c", "text": "Only use your rearview mirror"},
+        {"id": "d", "text": "Lean forward to look in the mirror"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Mirrors leave blind spots. You must physically turn your head to check over your shoulder.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-055",
+      "category": "finesAndLimits",
+      "questionText": "A first conviction for DUI (Driving Under the Influence) can result in a fine of up to:",
+      "answers": [
+        {"id": "a", "text": "$500"},
+        {"id": "b", "text": "$1,000"},
+        {"id": "c", "text": "$2,000"},
+        {"id": "d", "text": "$5,000"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A first DUI conviction is punishable by a fine of $500 to $1,000 (more if BAL is .15 or higher or a minor is in the car).",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-056",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to park within ___ feet of the entrance to a fire, ambulance, or rescue squad station.",
+      "answers": [
+        {"id": "a", "text": "15 feet"},
+        {"id": "b", "text": "20 feet"},
+        {"id": "c", "text": "30 feet"},
+        {"id": "d", "text": "50 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You cannot park within 20 feet of the entrance to a fire, ambulance, or rescue squad station.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-057",
+      "category": "roadSigns",
+      "questionText": "A white sign with a U-turn arrow and a red circle/slash means:",
+      "answers": [
+        {"id": "a", "text": "U-turn permitted"},
+        {"id": "b", "text": "No U-turn"},
+        {"id": "c", "text": "Sharp turn ahead"},
+        {"id": "d", "text": "One way street"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The red circle and slash symbol indicates the action (U-turn) is prohibited.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-058",
+      "category": "safeDriving",
+      "questionText": "If you are behind a motorcycle, you should allow:",
+      "answers": [
+        {"id": "a", "text": "The same following distance as a car"},
+        {"id": "b", "text": "A 1-second gap"},
+        {"id": "c", "text": "More following distance (at least 4 seconds)"},
+        {"id": "d", "text": "Less following distance to see past them"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Motorcycles can stop quickly. Allow more following distance (4 seconds minimum) for safety.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-059",
+      "category": "rightOfWay",
+      "questionText": "When arriving at a roundabout, you must yield to:",
+      "answers": [
+        {"id": "a", "text": "Traffic entering from the right"},
+        {"id": "b", "text": "Traffic already inside the roundabout"},
+        {"id": "c", "text": "No one, you have the right of way"},
+        {"id": "d", "text": "Pedestrians only"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Drivers entering a roundabout must yield to traffic already circulating within the roundabout.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-060",
+      "category": "trafficLaws",
+      "questionText": "Unless otherwise posted, the speed limit on a rural interstate highway in Florida is:",
+      "answers": [
+        {"id": "a", "text": "55 mph"},
+        {"id": "b", "text": "60 mph"},
+        {"id": "c", "text": "65 mph"},
+        {"id": "d", "text": "70 mph"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "The standard speed limit on rural interstate highways in Florida is 70 mph.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-061",
+      "category": "finesAndLimits",
+      "questionText": "If you are found guilty of racing on the highway, your license can be revoked for:",
+      "answers": [
+        {"id": "a", "text": "1 month"},
+        {"id": "b", "text": "6 months"},
+        {"id": "c", "text": "1 year"},
+        {"id": "d", "text": "5 years"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Conviction for racing on the highway results in a mandatory license revocation for 1 year.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-062",
+      "category": "safeDriving",
+      "questionText": "When parking on a hill facing uphill with a curb, turn your wheels:",
+      "answers": [
+        {"id": "a", "text": "Away from the curb"},
+        {"id": "b", "text": "Toward the curb"},
+        {"id": "c", "text": "Straight"},
+        {"id": "d", "text": "Parallel to the road"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Turn wheels away from the curb so if the car rolls back, the back of the tire hits the curb.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-063",
+      "category": "trafficLaws",
+      "questionText": "You are driving during the day in a heavy rainstorm. You must turn on:",
+      "answers": [
+        {"id": "a", "text": "High beam headlights"},
+        {"id": "b", "text": "Low beam headlights"},
+        {"id": "c", "text": "Parking lights only"},
+        {"id": "d", "text": "Hazard lights"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Florida law requires headlights (low beams) to be on when it is raining, smoking, or foggy.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-064",
+      "category": "roadSigns",
+      "questionText": "A rectangular sign with black letters on a white background indicates:",
+      "answers": [
+        {"id": "a", "text": "A regulatory sign"},
+        {"id": "b", "text": "A warning sign"},
+        {"id": "c", "text": "A guide sign"},
+        {"id": "d", "text": "A construction sign"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "White rectangular signs with black lettering are regulatory signs (e.g., Speed Limit, No Right Turn).",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-065",
+      "category": "trafficLaws",
+      "questionText": "Passing on the right is legal when:",
+      "answers": [
+        {"id": "a", "text": "There are two or more lanes of traffic moving in the same direction"},
+        {"id": "b", "text": "You drive off the pavement"},
+        {"id": "c", "text": "The car ahead is going too slow"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You may pass on the right if there are two or more lanes in your direction, or the vehicle ahead is turning left.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-066",
+      "category": "safeDriving",
+      "questionText": "To avoid being blinded by oncoming high beams at night, you should:",
+      "answers": [
+        {"id": "a", "text": "Look at the center line"},
+        {"id": "b", "text": "Look toward the right edge of the road"},
+        {"id": "c", "text": "Flash your high beams back"},
+        {"id": "d", "text": "Close one eye"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Look toward the right edge of the road to avoid the glare until the vehicle passes.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-067",
+      "category": "rightOfWay",
+      "questionText": "You are preparing to turn right at a red light. You must:",
+      "answers": [
+        {"id": "a", "text": "Slow down and turn"},
+        {"id": "b", "text": "Stop completely, yield to all traffic and pedestrians, then turn if safe"},
+        {"id": "c", "text": "Honk before turning"},
+        {"id": "d", "text": "Wait for the green light regardless of traffic"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A complete stop is required before turning right on red. You must yield to all cross traffic and pedestrians.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-068",
+      "category": "trafficLaws",
+      "questionText": "Florida's 'No-Fault' Law requires proof of insurance for:",
+      "answers": [
+        {"id": "a", "text": "Comprehensive and Collision"},
+        {"id": "b", "text": "PIP and PDL"},
+        {"id": "c", "text": "Bodily Injury Liability"},
+        {"id": "d", "text": "Uninsured Motorist"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must show proof of Personal Injury Protection (PIP) and Property Damage Liability (PDL) to register a vehicle.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-069",
+      "category": "trafficLaws",
+      "questionText": "If you hit a parked car and cannot find the owner, you must:",
+      "answers": [
+        {"id": "a", "text": "Leave immediately"},
+        {"id": "b", "text": "Leave a note with your name, address, and license plate number"},
+        {"id": "c", "text": "Wait for 2 hours"},
+        {"id": "d", "text": "Call a tow truck"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must leave a note securely attached to the vehicle with your contact information and report the accident to police.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-070",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a winding arrow indicates:",
+      "answers": [
+        {"id": "a", "text": "Slippery when wet"},
+        {"id": "b", "text": "Winding road ahead"},
+        {"id": "c", "text": "Right turn only"},
+        {"id": "d", "text": "Merge left"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns that the road ahead winds with a series of turns.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-071",
+      "category": "trafficLaws",
+      "questionText": "A flashing yellow traffic light means:",
+      "answers": [
+        {"id": "a", "text": "Stop immediately"},
+        {"id": "b", "text": "Proceed with caution"},
+        {"id": "c", "text": "The light is about to turn red"},
+        {"id": "d", "text": "Yield to oncoming traffic"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Flashing yellow means you should slow down and proceed with caution.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-072",
+      "category": "trafficLaws",
+      "questionText": "Unless posted otherwise, the speed limit on a 4-lane highway in Florida is:",
+      "answers": [
+        {"id": "a", "text": "55 mph"},
+        {"id": "b", "text": "60 mph"},
+        {"id": "c", "text": "65 mph"},
+        {"id": "d", "text": "70 mph"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "For highways that are not interstates, the standard unposted limit is typically 55 mph.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-073",
+      "category": "safeDriving",
+      "questionText": "Alcohol affects a driver's judgment and reaction time:",
+      "answers": [
+        {"id": "a", "text": "After 3 drinks"},
+        {"id": "b", "text": "After 1 drink"},
+        {"id": "c", "text": "Only if they are under 21"},
+        {"id": "d", "text": "Only on an empty stomach"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Alcohol begins to affect judgment, vision, and reaction time after just one drink.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-074",
+      "category": "roadSigns",
+      "questionText": "A sign with a truck on a steep slope means:",
+      "answers": [
+        {"id": "a", "text": "Trucks only lane"},
+        {"id": "b", "text": "Hill/Downgrade ahead"},
+        {"id": "c", "text": "No trucks allowed"},
+        {"id": "d", "text": "Slippery road"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This warning sign indicates a steep hill or downgrade ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-075",
+      "category": "trafficLaws",
+      "questionText": "You are driving on a multi-lane highway and wish to change lanes. You must signal your intention:",
+      "answers": [
+        {"id": "a", "text": "At least 100 feet before turning"},
+        {"id": "b", "text": "At least 50 feet before turning"},
+        {"id": "c", "text": "Only if cars are nearby"},
+        {"id": "d", "text": "After you begin moving over"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must signal your intent to turn or change lanes at least 100 feet before doing so.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-076",
+      "category": "trafficLaws",
+      "questionText": "If a law enforcement officer stops you, you should:",
+      "answers": [
+        {"id": "a", "text": "Get out of the car immediately"},
+        {"id": "b", "text": "Turn off your engine and roll down the window"},
+        {"id": "c", "text": "Reach into the glovebox for your license before they approach"},
+        {"id": "d", "text": "Keep driving until you find a parking lot"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Turn off the engine, roll down the window, and keep your hands visible on the wheel.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-077",
+      "category": "finesAndLimits",
+      "questionText": "Passing a stopped school bus with flashing red lights will result in how many points on your license?",
+      "answers": [
+        {"id": "a", "text": "3 points"},
+        {"id": "b", "text": "4 points"},
+        {"id": "c", "text": "6 points"},
+        {"id": "d", "text": "2 points"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Passing a stopped school bus is a serious violation carrying 4 points.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-078",
+      "category": "roadSigns",
+      "questionText": "A fluorescent yellow-green sign indicates:",
+      "answers": [
+        {"id": "a", "text": "School zone or pedestrian crossing"},
+        {"id": "b", "text": "Construction zone"},
+        {"id": "c", "text": "Stop ahead"},
+        {"id": "d", "text": "No passing"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Fluorescent yellow-green is reserved for school zones, pedestrian, and bicycle crossings.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-079",
+      "category": "safeDriving",
+      "questionText": "When two cars enter an open intersection at the same time, the driver on the left must yield to:",
+      "answers": [
+        {"id": "a", "text": "The driver on the right"},
+        {"id": "b", "text": "No one"},
+        {"id": "c", "text": "The driver signaling a turn"},
+        {"id": "d", "text": "The faster vehicle"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "At an open intersection (no signs/signals), yield to the vehicle on the right if arriving simultaneously.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-080",
+      "category": "safeDriving",
+      "questionText": "Hydroplaning happens when:",
+      "answers": [
+        {"id": "a", "text": "Tires ride on a thin film of water"},
+        {"id": "b", "text": "You brake too hard on dry pavement"},
+        {"id": "c", "text": "You drive too slow in rain"},
+        {"id": "d", "text": "Your tires are over-inflated"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Hydroplaning occurs when tires lose contact with the road due to water, usually at higher speeds.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-081",
+      "category": "trafficLaws",
+      "questionText": "You may not pass another vehicle within ___ feet of a bridge, viaduct, or tunnel.",
+      "answers": [
+        {"id": "a", "text": "50 feet"},
+        {"id": "b", "text": "100 feet"},
+        {"id": "c", "text": "200 feet"},
+        {"id": "d", "text": "300 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Passing is prohibited within 100 feet of bridges, viaducts, tunnels, or railroad crossings.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-082",
+      "category": "roadSigns",
+      "questionText": "A sign with two people walking indicates:",
+      "answers": [
+        {"id": "a", "text": "School zone"},
+        {"id": "b", "text": "Playground"},
+        {"id": "c", "text": "Pedestrian crossing"},
+        {"id": "d", "text": "School crossing"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "A pentagon with two people walking marks a school crossing.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-083",
+      "category": "trafficLaws",
+      "questionText": "If you are under 18, you cannot drive between 11 PM and 6 AM unless accompanied by a driver 21+ or:",
+      "answers": [
+        {"id": "a", "text": "You are driving to or from work"},
+        {"id": "b", "text": "You are driving a sibling"},
+        {"id": "c", "text": "It is a weekend"},
+        {"id": "d", "text": "You have had your license for 6 months"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Driving for employment purposes is an exception to the curfew for minors.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-084",
+      "category": "finesAndLimits",
+      "questionText": "Littering more than 15 pounds is considered:",
+      "answers": [
+        {"id": "a", "text": "A misdemeanor"},
+        {"id": "b", "text": "A felony"},
+        {"id": "c", "text": "A civil infraction"},
+        {"id": "d", "text": "Legal in rural areas"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Littering more than 15 lbs is a first-degree misdemeanor and can result in a $1,000 fine.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-085",
+      "category": "roadSigns",
+      "questionText": "A vertical rectangular sign is typically:",
+      "answers": [
+        {"id": "a", "text": "A regulatory sign"},
+        {"id": "b", "text": "A warning sign"},
+        {"id": "c", "text": "A school sign"},
+        {"id": "d", "text": "A construction sign"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Vertical rectangles are generally regulatory signs like Speed Limit or Keep Right.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-086",
+      "category": "trafficLaws",
+      "questionText": "Florida law requires that you dim your high beams within ___ feet of an oncoming vehicle.",
+      "answers": [
+        {"id": "a", "text": "200 feet"},
+        {"id": "b", "text": "300 feet"},
+        {"id": "c", "text": "500 feet"},
+        {"id": "d", "text": "1000 feet"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "You must dim high beams 500 feet before meeting an oncoming vehicle.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-087",
+      "category": "trafficLaws",
+      "questionText": "When you approach a flashing red light, you must:",
+      "answers": [
+        {"id": "a", "text": "Slow down and proceed with caution"},
+        {"id": "b", "text": "Come to a complete stop"},
+        {"id": "c", "text": "Stop only if traffic is coming"},
+        {"id": "d", "text": "Treat it as a yield sign"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A flashing red light is treated the same as a stop sign.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-088",
+      "category": "trafficLaws",
+      "questionText": "If you experience a tire blowout, do not:",
+      "answers": [
+        {"id": "a", "text": "Use the brakes immediately"},
+        {"id": "b", "text": "Steer straight"},
+        {"id": "c", "text": "Slow down gradually"},
+        {"id": "d", "text": "Take your foot off the gas"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Do not brake immediately. Grip the wheel, slow down gradually, and pull off the road.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-089",
+      "category": "roadSigns",
+      "questionText": "A sign with a wheelchair symbol means:",
+      "answers": [
+        {"id": "a", "text": "Handicapped parking"},
+        {"id": "b", "text": "Hospital zone"},
+        {"id": "c", "text": "Wheelchair crossing"},
+        {"id": "d", "text": "Medical center"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign marks parking spaces reserved for individuals with disabilities.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-090",
+      "category": "finesAndLimits",
+      "questionText": "Driving 16 mph or more over the speed limit will result in ___ points on your license.",
+      "answers": [
+        {"id": "a", "text": "3 points"},
+        {"id": "b", "text": "4 points"},
+        {"id": "c", "text": "6 points"},
+        {"id": "d", "text": "2 points"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Speeding 16 mph or more over the limit is a 4-point violation.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-091",
+      "category": "trafficLaws",
+      "questionText": "You are approaching an intersection with a steady yellow light. You should:",
+      "answers": [
+        {"id": "a", "text": "Speed up to beat the red light"},
+        {"id": "b", "text": "Stop if you can do so safely"},
+        {"id": "c", "text": "Continue through at the same speed"},
+        {"id": "d", "text": "Treat it as a yield sign"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A steady yellow light means the light is about to turn red. Stop if you can do so safely; otherwise proceed with caution.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-092",
+      "category": "trafficLaws",
+      "questionText": "When parking on a hill facing uphill without a curb, turn your wheels:",
+      "answers": [
+        {"id": "a", "text": "To the right"},
+        {"id": "b", "text": "To the left"},
+        {"id": "c", "text": "Straight ahead"},
+        {"id": "d", "text": "Any direction"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Without a curb, turn wheels to the right so the car rolls off the road if brakes fail.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-093",
+      "category": "trafficLaws",
+      "questionText": "Unless otherwise posted, the speed limit on a limited access highway is:",
+      "answers": [
+        {"id": "a", "text": "55 mph"},
+        {"id": "b", "text": "65 mph"},
+        {"id": "c", "text": "70 mph"},
+        {"id": "d", "text": "75 mph"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Limited access highways (interstates) are typically 70 mph.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-094",
+      "category": "trafficLaws",
+      "questionText": "Drivers entering a roundabout must yield to:",
+      "answers": [
+        {"id": "a", "text": "Traffic already in the roundabout"},
+        {"id": "b", "text": "Traffic entering from the left"},
+        {"id": "c", "text": "Traffic entering from the right"},
+        {"id": "d", "text": "No one"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Traffic inside the roundabout has the right of way.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-095",
+      "category": "safeDriving",
+      "questionText": "Using a cell phone while driving increases your crash risk by:",
+      "answers": [
+        {"id": "a", "text": "2 times"},
+        {"id": "b", "text": "3 times"},
+        {"id": "c", "text": "4 times"},
+        {"id": "d", "text": "10 times"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Studies cited in the Florida manual indicate texting/using a phone increases crash risk by 4 times.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-096",
+      "category": "roadSigns",
+      "questionText": "A yellow diamond sign with a merging arrow means:",
+      "answers": [
+        {"id": "a", "text": "Merging traffic entering from the right"},
+        {"id": "b", "text": "Right lane ends"},
+        {"id": "c", "text": "Added lane"},
+        {"id": "d", "text": "Divided highway begins"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns that traffic is merging from the side.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-097",
+      "category": "finesAndLimits",
+      "questionText": "Leaving the scene of a crash involving property damage results in ___ points.",
+      "answers": [
+        {"id": "a", "text": "3 points"},
+        {"id": "b", "text": "4 points"},
+        {"id": "c", "text": "6 points"},
+        {"id": "d", "text": "12 points"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Leaving the scene of an accident with property damage is a 6-point violation.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-098",
+      "category": "trafficLaws",
+      "questionText": "When passing, you must return to the right side of the road before coming within ___ feet of an oncoming vehicle.",
+      "answers": [
+        {"id": "a", "text": "100 feet"},
+        {"id": "b", "text": "200 feet"},
+        {"id": "c", "text": "300 feet"},
+        {"id": "d", "text": "500 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must complete the pass before coming within 200 feet of oncoming traffic.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-099",
+      "category": "trafficLaws",
+      "questionText": "It is unlawful to drive at a slow speed that:",
+      "answers": [
+        {"id": "a", "text": "Impedes or blocks the normal flow of traffic"},
+        {"id": "b", "text": "Is 5 mph below the limit"},
+        {"id": "c", "text": "Saves gas"},
+        {"id": "d", "text": "Is comfortable for the driver"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You cannot drive so slowly that you block or impede normal traffic flow.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-100",
+      "category": "safeDriving",
+      "questionText": "To prevent 'highway hypnosis', you should:",
+      "answers": [
+        {"id": "a", "text": "Stare at the center line"},
+        {"id": "b", "text": "Open the window and shift your eyes frequently"},
+        {"id": "c", "text": "Drive faster"},
+        {"id": "d", "text": "Drink coffee only"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Keep your eyes moving and get fresh air to avoid drowsiness.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-101",
+      "category": "roadSigns",
+      "questionText": "A sign with a 'T' intersection symbol means:",
+      "answers": [
+        {"id": "a", "text": "The roadway ends ahead, you must turn right or left"},
+        {"id": "b", "text": "Crossroad ahead"},
+        {"id": "c", "text": "Yield ahead"},
+        {"id": "d", "text": "No turn on red"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "T-intersection sign warns that the road ends and you must turn.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-102",
+      "category": "finesAndLimits",
+      "questionText": "If your license is suspended for 12 points in 12 months, the suspension lasts:",
+      "answers": [
+        {"id": "a", "text": "30 days"},
+        {"id": "b", "text": "3 months"},
+        {"id": "c", "text": "6 months"},
+        {"id": "d", "text": "1 year"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "12 points in 12 months results in a 30-day suspension.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-103",
+      "category": "trafficLaws",
+      "questionText": "You may turn left on red only when:",
+      "answers": [
+        {"id": "a", "text": "Turning from a one-way street onto another one-way street"},
+        {"id": "b", "text": "There is no traffic"},
+        {"id": "c", "text": "Turning onto a two-way street"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Left on red is only permitted when turning from a one-way street onto another one-way street.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-104",
+      "category": "trafficLaws",
+      "questionText": "Bicyclists on the roadway are considered:",
+      "answers": [
+        {"id": "a", "text": "Pedestrians"},
+        {"id": "b", "text": "Vehicles with the same rights and responsibilities as cars"},
+        {"id": "c", "text": "Hazards"},
+        {"id": "d", "text": "Second-class traffic"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Bicycles are legally defined as vehicles in Florida and must obey traffic laws.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-105",
+      "category": "trafficLaws",
+      "questionText": "Motorcycles are entitled to:",
+      "answers": [
+        {"id": "a", "text": "The full width of a lane"},
+        {"id": "b", "text": "Share a lane with a car"},
+        {"id": "c", "text": "Drive on the shoulder"},
+        {"id": "d", "text": "Ignore speed limits"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Motorcycles have the right to the full width of a lane.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-106",
+      "category": "safeDriving",
+      "questionText": "If you are being followed too closely (tailgated), you should:",
+      "answers": [
+        {"id": "a", "text": "Brake suddenly"},
+        {"id": "b", "text": "Slow down and allow the other driver to pass"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Honk your horn"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Slow down gently or move to another lane to encourage the tailgater to pass.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-107",
+      "category": "finesAndLimits",
+      "questionText": "A second DUI conviction within 5 years results in a minimum imprisonment of:",
+      "answers": [
+        {"id": "a", "text": "10 days"},
+        {"id": "b", "text": "30 days"},
+        {"id": "c", "text": "6 months"},
+        {"id": "d", "text": "1 year"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A second DUI within 5 years carries a mandatory 10-day jail sentence.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-108",
+      "category": "trafficLaws",
+      "questionText": "You cannot park within ___ feet of a crosswalk at an intersection.",
+      "answers": [
+        {"id": "a", "text": "20 feet"},
+        {"id": "b", "text": "15 feet"},
+        {"id": "c", "text": "10 feet"},
+        {"id": "d", "text": "30 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Parking is prohibited within 20 feet of a crosswalk.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-109",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a deer symbol means:",
+      "answers": [
+        {"id": "a", "text": "Deer crossing area"},
+        {"id": "b", "text": "Zoo nearby"},
+        {"id": "c", "text": "Hunting allowed"},
+        {"id": "d", "text": "Farm ahead"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns that deer may cross the road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-110",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to use your high beams when following another vehicle within:",
+      "answers": [
+        {"id": "a", "text": "300 feet"},
+        {"id": "b", "text": "200 feet"},
+        {"id": "c", "text": "500 feet"},
+        {"id": "d", "text": "100 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dim high beams when following within 300 feet.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-111",
+      "category": "trafficLaws",
+      "questionText": "When checking mirrors, you should also check:",
+      "answers": [
+        {"id": "a", "text": "Blind spots by turning your head"},
+        {"id": "b", "text": "Your phone"},
+        {"id": "c", "text": "The radio"},
+        {"id": "d", "text": "The glove box"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Mirrors don't show everything; head checks are required.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-112",
+      "category": "safeDriving",
+      "questionText": "If your brakes fail, you should first:",
+      "answers": [
+        {"id": "a", "text": "Pump the brake pedal"},
+        {"id": "b", "text": "Use the parking brake immediately"},
+        {"id": "c", "text": "Turn off the engine"},
+        {"id": "d", "text": "Shift into reverse"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Pump the brakes to build pressure. If that fails, use the parking brake slowly.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-113",
+      "category": "trafficLaws",
+      "questionText": "The law requiring drivers to yield to funeral processions is:",
+      "answers": [
+        {"id": "a", "text": "True"},
+        {"id": "b", "text": "False, they must yield to traffic"},
+        {"id": "c", "text": "Only if police are present"},
+        {"id": "d", "text": "Only on Sundays"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Florida law requires yielding to funeral processions.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-114",
+      "category": "roadSigns",
+      "questionText": "A brown sign indicates:",
+      "answers": [
+        {"id": "a", "text": "Public recreation and scenic guidance"},
+        {"id": "b", "text": "Construction"},
+        {"id": "c", "text": "Warning"},
+        {"id": "d", "text": "Stop"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Brown signs denote parks, recreation, and cultural points.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-115",
+      "category": "finesAndLimits",
+      "questionText": "A violation of the Open Container Law results in:",
+      "answers": [
+        {"id": "a", "text": "A moving violation and 3 points"},
+        {"id": "b", "text": "A non-moving violation"},
+        {"id": "c", "text": "A warning"},
+        {"id": "d", "text": "Jail time"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Possession of an open container of alcohol by the driver is a moving violation carrying 3 points.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-116",
+      "category": "trafficLaws",
+      "questionText": "Golf carts may be operated on roads only if:",
+      "answers": [
+        {"id": "a", "text": "The posted speed limit is 30 mph or less"},
+        {"id": "b", "text": "It is daytime"},
+        {"id": "c", "text": "The driver is 14"},
+        {"id": "d", "text": "They stay on the sidewalk"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Golf carts are generally limited to roads with speed limits of 30 mph or less.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-117",
+      "category": "trafficLaws",
+      "questionText": "When towing a trailer, you must have:",
+      "answers": [
+        {"id": "a", "text": "Safety chains"},
+        {"id": "b", "text": "A flag"},
+        {"id": "c", "text": "Hazard lights on"},
+        {"id": "d", "text": "A passenger"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Safety chains are required between the vehicle and trailer.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-118",
+      "category": "safeDriving",
+      "questionText": "At night, if a vehicle is coming toward you with high beams on, look to:",
+      "answers": [
+        {"id": "a", "text": "The right edge of your lane"},
+        {"id": "b", "text": "The center of the road"},
+        {"id": "c", "text": "The lights"},
+        {"id": "d", "text": "The rearview mirror"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Look at the right edge of the lane to avoid glare.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-119",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a sharp left arrow means:",
+      "answers": [
+        {"id": "a", "text": "Sharp left turn ahead"},
+        {"id": "b", "text": "One way left"},
+        {"id": "c", "text": "Left lane ends"},
+        {"id": "d", "text": "Merge left"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warning sign for a sharp curve to the left.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-120",
+      "category": "trafficLaws",
+      "questionText": "Unless otherwise posted, the maximum speed limit in a residential area is:",
+      "answers": [
+        {"id": "a", "text": "30 mph"},
+        {"id": "b", "text": "25 mph"},
+        {"id": "c", "text": "35 mph"},
+        {"id": "d", "text": "20 mph"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "30 mph is the default for residential/business districts.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-121",
+      "category": "finesAndLimits",
+      "questionText": "If you are caught driving with a suspended license, you may be:",
+      "answers": [
+        {"id": "a", "text": "Jailed and fined"},
+        {"id": "b", "text": "Given a warning"},
+        {"id": "c", "text": "Sent to traffic school only"},
+        {"id": "d", "text": "Points only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Driving on a suspended license is a crime punishable by jail and fines.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-122",
+      "category": "trafficLaws",
+      "questionText": "A solid yellow line on your side of the center line means:",
+      "answers": [
+        {"id": "a", "text": "Do not pass"},
+        {"id": "b", "text": "Pass with caution"},
+        {"id": "c", "text": "Merge"},
+        {"id": "d", "text": "One way"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Solid yellow line indicates no passing zone.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-123",
+      "category": "trafficLaws",
+      "questionText": "Broken white lines separate lanes of traffic:",
+      "answers": [
+        {"id": "a", "text": "Moving in the same direction"},
+        {"id": "b", "text": "Moving in opposite directions"},
+        {"id": "c", "text": "On a one-way street only"},
+        {"id": "d", "text": "In a school zone"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "White lines separate traffic moving in the same direction.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-124",
+      "category": "roadSigns",
+      "questionText": "A sign saying 'Slippery When Wet' is:",
+      "answers": [
+        {"id": "a", "text": "Yellow diamond"},
+        {"id": "b", "text": "Red octagon"},
+        {"id": "c", "text": "White rectangle"},
+        {"id": "d", "text": "Green square"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This is a standard warning sign.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-125",
+      "category": "safeDriving",
+      "questionText": "If your vehicle skids, you should:",
+      "answers": [
+        {"id": "a", "text": "Take your foot off the gas and steer in the direction of the skid"},
+        {"id": "b", "text": "Brake hard"},
+        {"id": "c", "text": "Accelerate"},
+        {"id": "d", "text": "Turn the wheel opposite the skid"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Steer into the skid (where the rear is going) and avoid braking.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-126",
+      "category": "trafficLaws",
+      "questionText": "You are approaching an intersection with a stop sign, but no stop line. You must stop:",
+      "answers": [
+        {"id": "a", "text": "Before entering the crosswalk or intersection"},
+        {"id": "b", "text": "At the sign"},
+        {"id": "c", "text": "In the middle of the intersection"},
+        {"id": "d", "text": "Only if traffic is coming"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Stop before the crosswalk or intersection if no line is present.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-127",
+      "category": "trafficLaws",
+      "questionText": "Double solid white lines mean:",
+      "answers": [
+        {"id": "a", "text": "Crossing is prohibited"},
+        {"id": "b", "text": "Passing permitted"},
+        {"id": "c", "text": "Lane change allowed"},
+        {"id": "d", "text": "Stop ahead"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Double solid white lines prohibit lane changes.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-128",
+      "category": "finesAndLimits",
+      "questionText": "The fine for unlawful speeding in a school zone is:",
+      "answers": [
+        {"id": "a", "text": "Doubled"},
+        {"id": "b", "text": "Tripled"},
+        {"id": "c", "text": "The same as normal"},
+        {"id": "d", "text": "$50 flat fee"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Fines are doubled in school and construction zones.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-129",
+      "category": "safeDriving",
+      "questionText": "When driving in fog, avoid using:",
+      "answers": [
+        {"id": "a", "text": "High beam headlights"},
+        {"id": "b", "text": "Low beam headlights"},
+        {"id": "c", "text": "Windshield wipers"},
+        {"id": "d", "text": "Defrosters"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "High beams reflect off fog and reduce visibility.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-130",
+      "category": "roadSigns",
+      "questionText": "A sign indicating 'Lane Ends' means:",
+      "answers": [
+        {"id": "a", "text": "Merge into the adjacent lane"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Turn right"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warning that the lane is ending and traffic must merge.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-131",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to park on the paved part of a highway:",
+      "answers": [
+        {"id": "a", "text": "Unless your vehicle is disabled"},
+        {"id": "b", "text": "At night only"},
+        {"id": "c", "text": "If it is raining"},
+        {"id": "d", "text": "For lunch"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Parking on the pavement of a highway is prohibited unless the vehicle is disabled.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-132",
+      "category": "finesAndLimits",
+      "questionText": "If a driver refuses a blood alcohol test and has a prior refusal, their license is suspended for:",
+      "answers": [
+        {"id": "a", "text": "18 months"},
+        {"id": "b", "text": "12 months"},
+        {"id": "c", "text": "6 months"},
+        {"id": "d", "text": "30 days"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A second refusal results in an 18-month suspension.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-133",
+      "category": "safeDriving",
+      "questionText": "When entering a tunnel, you should:",
+      "answers": [
+        {"id": "a", "text": "Turn on your headlights"},
+        {"id": "b", "text": "Turn on high beams"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Stop"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Turn on lights to increase visibility.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-134",
+      "category": "trafficLaws",
+      "questionText": "Drivers must yield to public transit buses:",
+      "answers": [
+        {"id": "a", "text": "Re-entering the flow of traffic"},
+        {"id": "b", "text": "At all times"},
+        {"id": "c", "text": "Only at stops"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must yield to buses signaling to re-enter traffic.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-135",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a truck rollover symbol means:",
+      "answers": [
+        {"id": "a", "text": "Risk of rollover on curve"},
+        {"id": "b", "text": "Trucks only"},
+        {"id": "c", "text": "No trucks"},
+        {"id": "d", "text": "Rest area"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns of rollover risk, usually on ramps.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-136",
+      "category": "trafficLaws",
+      "questionText": "Bicyclists under the age of ___ must wear a helmet.",
+      "answers": [
+        {"id": "a", "text": "16"},
+        {"id": "b", "text": "18"},
+        {"id": "c", "text": "12"},
+        {"id": "d", "text": "21"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Florida law requires helmets for riders under 16.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-137",
+      "category": "trafficLaws",
+      "questionText": "You are involved in a minor crash with no injuries and the vehicles are movable. You must:",
+      "answers": [
+        {"id": "a", "text": "Move them out of the flow of traffic"},
+        {"id": "b", "text": "Leave them where they are for police"},
+        {"id": "c", "text": "Wait for a tow truck"},
+        {"id": "d", "text": "Leave the scene"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Move vehicles off the road to prevent traffic blocking.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-138",
+      "category": "safeDriving",
+      "questionText": "To enter a highway from a driveway, you should:",
+      "answers": [
+        {"id": "a", "text": "Yield to all traffic"},
+        {"id": "b", "text": "Honk and go"},
+        {"id": "c", "text": "Drive quickly"},
+        {"id": "d", "text": "Wait for a green light"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Yield to all vehicles on the main road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-139",
+      "category": "roadSigns",
+      "questionText": "A sign indicating 'Reduced Speed Ahead' means:",
+      "answers": [
+        {"id": "a", "text": "Slow down, lower speed limit ahead"},
+        {"id": "b", "text": "Stop ahead"},
+        {"id": "c", "text": "Construction"},
+        {"id": "d", "text": "School zone"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warning that the speed limit is about to decrease.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-140",
+      "category": "trafficLaws",
+      "questionText": "You may not coast with the transmission in neutral or the clutch disengaged while driving:",
+      "answers": [
+        {"id": "a", "text": "Down a hill"},
+        {"id": "b", "text": "Up a hill"},
+        {"id": "c", "text": "On a flat road"},
+        {"id": "d", "text": "In a parking lot"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Coasting downhill in neutral is illegal and dangerous.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-141",
+      "category": "finesAndLimits",
+      "questionText": "If you are convicted of DUI, your insurance costs (FR-44) will:",
+      "answers": [
+        {"id": "a", "text": "Increase significantly"},
+        {"id": "b", "text": "Stay the same"},
+        {"id": "c", "text": "Decrease"},
+        {"id": "d", "text": "Be waived"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "DUI convictions require higher liability limits (100/300/50), increasing costs.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-142",
+      "category": "trafficLaws",
+      "questionText": "When a traffic light turns green, you must:",
+      "answers": [
+        {"id": "a", "text": "Yield to vehicles and pedestrians still in the intersection"},
+        {"id": "b", "text": "Go immediately"},
+        {"id": "c", "text": "Honk"},
+        {"id": "d", "text": "Turn left"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Green means go only if the intersection is clear.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-143",
+      "category": "trafficLaws",
+      "questionText": "You may use a center left turn lane to:",
+      "answers": [
+        {"id": "a", "text": "Make a left turn or U-turn"},
+        {"id": "b", "text": "Pass other cars"},
+        {"id": "c", "text": "Drive for long distances"},
+        {"id": "d", "text": "Park"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Center lanes are for turning only, not driving or passing.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-144",
+      "category": "safeDriving",
+      "questionText": "If you see a flooded road ahead:",
+      "answers": [
+        {"id": "a", "text": "Turn around and find another route"},
+        {"id": "b", "text": "Drive through it fast"},
+        {"id": "c", "text": "Drive through it slow"},
+        {"id": "d", "text": "Follow the car ahead"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Turn Around, Don't Drown. Water depth is deceptive.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-145",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to park on a sidewalk:",
+      "answers": [
+        {"id": "a", "text": "At all times"},
+        {"id": "b", "text": "Unless loading"},
+        {"id": "c", "text": "Unless it is your driveway"},
+        {"id": "d", "text": "At night"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Parking on sidewalks is prohibited.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-146",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a 'T' shape means:",
+      "answers": [
+        {"id": "a", "text": "T-intersection ahead"},
+        {"id": "b", "text": "No turns"},
+        {"id": "c", "text": "Taxi stand"},
+        {"id": "d", "text": "Trucks"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warning for a T-intersection.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-147",
+      "category": "finesAndLimits",
+      "questionText": "Driving 50 mph or more over the speed limit incurs a fine of:",
+      "answers": [
+        {"id": "a", "text": "$1,000"},
+        {"id": "b", "text": "$500"},
+        {"id": "c", "text": "$100"},
+        {"id": "d", "text": "$5,000"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Speeding 50+ over is a $1,000 fine for the first offense.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fl-148",
+      "category": "trafficLaws",
+      "questionText": "If your hood flies up while driving:",
+      "answers": [
+        {"id": "a", "text": "Look through the crack below the hood or out the window and pull over"},
+        {"id": "b", "text": "Slam on brakes"},
+        {"id": "c", "text": "Stop in the lane"},
+        {"id": "d", "text": "Speed up to blow it down"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Maintain visibility and pull over safely.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "fl-149",
+      "category": "safeDriving",
+      "questionText": "Carbon monoxide gas from the exhaust is:",
+      "answers": [
+        {"id": "a", "text": "Odorless and deadly"},
+        {"id": "b", "text": "Visible smoke"},
+        {"id": "c", "text": "Harmless"},
+        {"id": "d", "text": "Smells like gas"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Carbon monoxide is invisible, odorless, and fatal.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "fl-150",
+      "category": "trafficLaws",
+      "questionText": "Headlights must be dimmed when following within ___ feet.",
+      "answers": [
+        {"id": "a", "text": "300 feet"},
+        {"id": "b", "text": "500 feet"},
+        {"id": "c", "text": "200 feet"},
+        {"id": "d", "text": "100 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dim lights 300 feet when following another vehicle.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,2272 @@
+{
+  "stateCode": "OH",
+  "stateName": "Ohio",
+  "version": "2.0.0",
+  "lastUpdated": "2025-12-23",
+  "testInfo": {
+    "questionCount": 40,
+    "passingPercentage": 75,
+    "passingScore": 30,
+    "minimumPermitAge": 15.5,
+    "hasSplitTest": false,
+    "timeLimit": null,
+    "uniqueRequirements": [
+      "The test is cumulative: You must answer 30 out of 40 questions correctly (75%) to pass",
+      "Drivers under 18 holding a probationary license for less than 12 months cannot drive between midnight and 6 AM",
+      "Temporary Instruction Permit Identification Card (TIPIC) holders under 18 must practice for 50 hours (10 at night) before the road test",
+      "During the first 12 months of a probationary license, you may not drive with more than one non-family member passenger"
+    ]
+  },
+  "questions": [
+    {
+      "id": "oh-001",
+      "category": "trafficLaws",
+      "questionText": "In Ohio, it is illegal to operate a vehicle with a BAC of ___ or higher if you are 21 or older.",
+      "answers": [
+        {"id": "a", "text": "0.05%"},
+        {"id": "b", "text": "0.08%"},
+        {"id": "c", "text": "0.10%"},
+        {"id": "d", "text": "0.12%"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The legal limit for BAC in Ohio is 0.08% for drivers 21 and over.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-002",
+      "category": "trafficLaws",
+      "questionText": "For drivers under 21, the legal BAC limit is:",
+      "answers": [
+        {"id": "a", "text": "0.00%"},
+        {"id": "b", "text": "0.02%"},
+        {"id": "c", "text": "0.05%"},
+        {"id": "d", "text": "0.08%"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Ohio has a 'zero tolerance' law. Drivers under 21 are considered impaired with a BAC of 0.02% or higher.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-003",
+      "category": "trafficLaws",
+      "questionText": "Ohio's Move Over Law requires drivers approaching a stationary public safety vehicle with lights flashing to:",
+      "answers": [
+        {"id": "a", "text": "Speed up"},
+        {"id": "b", "text": "Change lanes into a lane not adjacent to the vehicle, or slow down if changing lanes is impossible"},
+        {"id": "c", "text": "Stop immediately"},
+        {"id": "d", "text": "Honk to alert the officer"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must move over to a non-adjacent lane. If you cannot, you must slow down and proceed with caution.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-004",
+      "category": "trafficLaws",
+      "questionText": "Using a handheld electronic wireless communications device while driving is a ___ offense for adults in Ohio.",
+      "answers": [
+        {"id": "a", "text": "Primary"},
+        {"id": "b", "text": "Secondary"},
+        {"id": "c", "text": "Non-moving"},
+        {"id": "d", "text": "Permitted"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Distracted driving (using a phone) is a primary offense in Ohio.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-005",
+      "category": "trafficLaws",
+      "questionText": "If a school bus is stopped on a road with fewer than four lanes and its red lights are flashing:",
+      "answers": [
+        {"id": "a", "text": "Only traffic behind the bus must stop"},
+        {"id": "b", "text": "Traffic in both directions must stop"},
+        {"id": "c", "text": "You may pass at 10 mph"},
+        {"id": "d", "text": "Opposite traffic does not stop"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "On a road with fewer than four lanes, all traffic approaching the bus from either direction must stop at least 10 feet from the bus.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-006",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to park within ___ feet of a fire hydrant.",
+      "answers": [
+        {"id": "a", "text": "5 feet"},
+        {"id": "b", "text": "10 feet"},
+        {"id": "c", "text": "15 feet"},
+        {"id": "d", "text": "20 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In Ohio, parking within 10 feet of a fire hydrant is prohibited.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-007",
+      "category": "trafficLaws",
+      "questionText": "Probationary license holders under 18 may not drive between:",
+      "answers": [
+        {"id": "a", "text": "10 PM and 5 AM"},
+        {"id": "b", "text": "Midnight and 6 AM"},
+        {"id": "c", "text": "1 AM and 5 AM"},
+        {"id": "d", "text": "11 PM and 6 AM"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "For the first 12 months, license holders under 18 may not drive between midnight and 6 AM.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-008",
+      "category": "trafficLaws",
+      "questionText": "Unless otherwise posted, the speed limit in a municipal corporation (town/city) is:",
+      "answers": [
+        {"id": "a", "text": "20 mph"},
+        {"id": "b", "text": "25 mph"},
+        {"id": "c", "text": "35 mph"},
+        {"id": "d", "text": "45 mph"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The statutory speed limit in most Ohio residential/business districts is 25 mph.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-009",
+      "category": "trafficLaws",
+      "questionText": "Use of studded tires is permitted only between:",
+      "answers": [
+        {"id": "a", "text": "November 1 and April 15"},
+        {"id": "b", "text": "December 1 and March 31"},
+        {"id": "c", "text": "October 1 and May 1"},
+        {"id": "d", "text": "All year round"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Studded tires are legal in Ohio from November 1 through April 15.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-010",
+      "category": "trafficLaws",
+      "questionText": "You must stop for a school bus with flashing red lights on a four-lane road:",
+      "answers": [
+        {"id": "a", "text": "Only if you are traveling in the same direction as the bus"},
+        {"id": "b", "text": "In both directions"},
+        {"id": "c", "text": "Never"},
+        {"id": "d", "text": "Only if police are present"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "On a road with four or more lanes, only traffic proceeding in the same direction as the bus must stop.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-011",
+      "category": "trafficLaws",
+      "questionText": "The speed limit in alleys is:",
+      "answers": [
+        {"id": "a", "text": "10 mph"},
+        {"id": "b", "text": "15 mph"},
+        {"id": "c", "text": "20 mph"},
+        {"id": "d", "text": "25 mph"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The statutory speed limit for alleys in Ohio is 15 mph.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-012",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to turn left on red unless:",
+      "answers": [
+        {"id": "a", "text": "Turning from a one-way street onto another one-way street"},
+        {"id": "b", "text": "Traffic is clear"},
+        {"id": "c", "text": "It is late at night"},
+        {"id": "d", "text": "Never allowed"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Left on red is only legal when turning from a one-way street onto another one-way street.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-013",
+      "category": "trafficLaws",
+      "questionText": "You must use headlights:",
+      "answers": [
+        {"id": "a", "text": "From sunset to sunrise and during rain/snow/fog"},
+        {"id": "b", "text": "Only at night"},
+        {"id": "c", "text": "Only on highways"},
+        {"id": "d", "text": "Between 8 PM and 6 AM"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Headlights are required from sunset to sunrise and whenever wipers are used.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-014",
+      "category": "trafficLaws",
+      "questionText": "Vehicles moving slower than the flow of traffic must:",
+      "answers": [
+        {"id": "a", "text": "Keep to the right"},
+        {"id": "b", "text": "Keep to the left"},
+        {"id": "c", "text": "Use flashers"},
+        {"id": "d", "text": "Drive on the shoulder"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Slower traffic must keep to the right lane.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-015",
+      "category": "trafficLaws",
+      "questionText": "When you move, you must notify the BMV of your new address within:",
+      "answers": [
+        {"id": "a", "text": "10 days"},
+        {"id": "b", "text": "30 days"},
+        {"id": "c", "text": "60 days"},
+        {"id": "d", "text": "24 hours"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Ohio law requires reporting an address change within 10 days.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-016",
+      "category": "trafficLaws",
+      "questionText": "Front seat passengers must wear a seat belt:",
+      "answers": [
+        {"id": "a", "text": "Only if under 18"},
+        {"id": "b", "text": "At all times"},
+        {"id": "c", "text": "Only on highways"},
+        {"id": "d", "text": "Only if the driver is under 18"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Ohio requires the driver and front-seat passengers to wear seat belts.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-017",
+      "category": "trafficLaws",
+      "questionText": "Children under the age of ___ or weighing less than 40 pounds must be in a child safety seat.",
+      "answers": [
+        {"id": "a", "text": "4"},
+        {"id": "b", "text": "5"},
+        {"id": "c", "text": "6"},
+        {"id": "d", "text": "8"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Children under 4 years old or under 40 pounds must be in a safety seat.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-018",
+      "category": "trafficLaws",
+      "questionText": "A child aged 4 to 8 who is less than 4 feet 9 inches tall must use:",
+      "answers": [
+        {"id": "a", "text": "A booster seat"},
+        {"id": "b", "text": "A standard seat belt"},
+        {"id": "c", "text": "A rear-facing seat"},
+        {"id": "d", "text": "The front seat"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Children 4-8 years old and under 4'9\" require a booster seat.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-019",
+      "category": "trafficLaws",
+      "questionText": "The speed limit on state routes within municipal corporations outside business districts is:",
+      "answers": [
+        {"id": "a", "text": "25 mph"},
+        {"id": "b", "text": "35 mph"},
+        {"id": "c", "text": "45 mph"},
+        {"id": "d", "text": "50 mph"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The standard limit on state routes inside municipalities (not business districts) is 35 mph.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-020",
+      "category": "trafficLaws",
+      "questionText": "In Ohio, it is illegal to park within ___ feet of a stop sign.",
+      "answers": [
+        {"id": "a", "text": "10"},
+        {"id": "b", "text": "20"},
+        {"id": "c", "text": "30"},
+        {"id": "d", "text": "50"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Parking is prohibited within 30 feet of a stop sign, flashing beacon, or traffic signal.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-021",
+      "category": "trafficLaws",
+      "questionText": "When driving in fog, you must use:",
+      "answers": [
+        {"id": "a", "text": "High beams"},
+        {"id": "b", "text": "Low beams"},
+        {"id": "c", "text": "Parking lights"},
+        {"id": "d", "text": "Hazard lights"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "High beams reflect off fog; low beams are required.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-022",
+      "category": "trafficLaws",
+      "questionText": "Littering from a motor vehicle is:",
+      "answers": [
+        {"id": "a", "text": "A minor inconvenience"},
+        {"id": "b", "text": "Illegal and punishable by a fine and jail"},
+        {"id": "c", "text": "Allowed on rural roads"},
+        {"id": "d", "text": "Permitted for biodegradable items"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Littering is a serious offense in Ohio carrying fines and potential jail time.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-023",
+      "category": "trafficLaws",
+      "questionText": "A turn signal must be given at least ___ feet before the turn.",
+      "answers": [
+        {"id": "a", "text": "50"},
+        {"id": "b", "text": "100"},
+        {"id": "c", "text": "150"},
+        {"id": "d", "text": "200"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must signal at least 100 feet before making a turn.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-024",
+      "category": "trafficLaws",
+      "questionText": "If you are approached by an emergency vehicle displaying flashing lights and an audible signal, you must:",
+      "answers": [
+        {"id": "a", "text": "Speed up"},
+        {"id": "b", "text": "Stop in your lane"},
+        {"id": "c", "text": "Drive to the right curb and stop"},
+        {"id": "d", "text": "Turn left"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Yield the right of way, drive to the right edge of the road, and stop.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-025",
+      "category": "trafficLaws",
+      "questionText": "Tinted glass on the front side windows must allow ___ light transmittance.",
+      "answers": [
+        {"id": "a", "text": "30%"},
+        {"id": "b", "text": "50%"},
+        {"id": "c", "text": "70%"},
+        {"id": "d", "text": "100%"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Ohio law requires 50% light transmittance for front side windows.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-026",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to drive with parking lights illuminated:",
+      "answers": [
+        {"id": "a", "text": "At any time"},
+        {"id": "b", "text": "When windshield wipers are on"},
+        {"id": "c", "text": "While the vehicle is in motion"},
+        {"id": "d", "text": "During the day"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Driving with only parking lights on is illegal in Ohio.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-027",
+      "category": "trafficLaws",
+      "questionText": "Unless posted otherwise, the speed limit on rural interstates in Ohio is:",
+      "answers": [
+        {"id": "a", "text": "55 mph"},
+        {"id": "b", "text": "65 mph"},
+        {"id": "c", "text": "70 mph"},
+        {"id": "d", "text": "75 mph"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Rural interstates often have a speed limit of 70 mph.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-028",
+      "category": "trafficLaws",
+      "questionText": "When a car is stopped at a crosswalk to allow a pedestrian to cross, you must:",
+      "answers": [
+        {"id": "a", "text": "Pass it on the right"},
+        {"id": "b", "text": "Pass it on the left"},
+        {"id": "c", "text": "Not pass"},
+        {"id": "d", "text": "Honk"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "It is illegal to pass a vehicle stopped for a pedestrian.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-029",
+      "category": "trafficLaws",
+      "questionText": "Vehicles parked on a roadway must be within ___ of the curb.",
+      "answers": [
+        {"id": "a", "text": "6 inches"},
+        {"id": "b", "text": "12 inches"},
+        {"id": "c", "text": "18 inches"},
+        {"id": "d", "text": "24 inches"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In Ohio, parked vehicles must be within 12 inches of the curb.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-030",
+      "category": "trafficLaws",
+      "questionText": "If you damage a parked vehicle, you must:",
+      "answers": [
+        {"id": "a", "text": "Leave immediately"},
+        {"id": "b", "text": "Wait for the owner"},
+        {"id": "c", "text": "Leave a note with your info and notify police"},
+        {"id": "d", "text": "Call your insurance agent only"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "You must leave your information and notify the police.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-031",
+      "category": "roadSigns",
+      "questionText": "A broken yellow line on your side of the roadway means:",
+      "answers": [
+        {"id": "a", "text": "Passing is prohibited"},
+        {"id": "b", "text": "Passing is permitted when safe"},
+        {"id": "c", "text": "One-way street"},
+        {"id": "d", "text": "Stop ahead"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A broken yellow line indicates passing is allowed if safe.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-032",
+      "category": "roadSigns",
+      "questionText": "A pennant-shaped sign on the left side of the road means:",
+      "answers": [
+        {"id": "a", "text": "No Passing Zone"},
+        {"id": "b", "text": "School Zone"},
+        {"id": "c", "text": "Railroad Crossing"},
+        {"id": "d", "text": "Merge"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The pennant shape is exclusively used for No Passing Zones.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-033",
+      "category": "roadSigns",
+      "questionText": "A five-sided sign shaped like an old schoolhouse means:",
+      "answers": [
+        {"id": "a", "text": "School Zone or School Crossing"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "Yield"},
+        {"id": "d", "text": "Railroad Crossing"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The pentagon shape indicates a school zone or crossing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-034",
+      "category": "roadSigns",
+      "questionText": "A red circle with a slash through it means:",
+      "answers": [
+        {"id": "a", "text": "Prohibited action"},
+        {"id": "b", "text": "Warning"},
+        {"id": "c", "text": "Allowed with caution"},
+        {"id": "d", "text": "Stop"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This symbol means 'NO' - the action pictured is prohibited.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-035",
+      "category": "roadSigns",
+      "questionText": "A yellow diamond sign with a truck going down a hill means:",
+      "answers": [
+        {"id": "a", "text": "Truck entrance"},
+        {"id": "b", "text": "Steep hill ahead"},
+        {"id": "c", "text": "No trucks allowed"},
+        {"id": "d", "text": "Slippery when wet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns of a steep downgrade.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-036",
+      "category": "roadSigns",
+      "questionText": "A round yellow sign with X and RR indicates:",
+      "answers": [
+        {"id": "a", "text": "Railroad crossing ahead"},
+        {"id": "b", "text": "No passing"},
+        {"id": "c", "text": "Rest area"},
+        {"id": "d", "text": "Intersection"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The advance warning sign for a railroad crossing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-037",
+      "category": "roadSigns",
+      "questionText": "Orange signs indicate:",
+      "answers": [
+        {"id": "a", "text": "Construction or work zones"},
+        {"id": "b", "text": "Parks"},
+        {"id": "c", "text": "Hospitals"},
+        {"id": "d", "text": "Directions"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Orange signs warn of construction zones.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-038",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a cross (+) means:",
+      "answers": [
+        {"id": "a", "text": "Intersection ahead"},
+        {"id": "b", "text": "Hospital"},
+        {"id": "c", "text": "Church"},
+        {"id": "d", "text": "First Aid"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A cross symbol warns of a crossroad/intersection.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-039",
+      "category": "roadSigns",
+      "questionText": "A vertical rectangle sign indicates:",
+      "answers": [
+        {"id": "a", "text": "Law/Regulation"},
+        {"id": "b", "text": "Warning"},
+        {"id": "c", "text": "Construction"},
+        {"id": "d", "text": "School"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Vertical rectangles are regulatory signs (e.g., Speed Limit).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-040",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a deer means:",
+      "answers": [
+        {"id": "a", "text": "Deer crossing"},
+        {"id": "b", "text": "Zoo ahead"},
+        {"id": "c", "text": "Hunting area"},
+        {"id": "d", "text": "Farm ahead"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Deer crossing warning.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-041",
+      "category": "roadSigns",
+      "questionText": "An octagon shaped sign is a:",
+      "answers": [
+        {"id": "a", "text": "Stop sign"},
+        {"id": "b", "text": "Yield sign"},
+        {"id": "c", "text": "School sign"},
+        {"id": "d", "text": "Railroad sign"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The octagon is exclusively for Stop signs.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-042",
+      "category": "roadSigns",
+      "questionText": "An inverted triangle (pointing down) sign is a:",
+      "answers": [
+        {"id": "a", "text": "Stop sign"},
+        {"id": "b", "text": "Yield sign"},
+        {"id": "c", "text": "Warning sign"},
+        {"id": "d", "text": "School sign"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The inverted triangle is exclusively for Yield signs.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-043",
+      "category": "roadSigns",
+      "questionText": "Blue signs indicate:",
+      "answers": [
+        {"id": "a", "text": "Services (Gas, Food, Lodging)"},
+        {"id": "b", "text": "Construction"},
+        {"id": "c", "text": "Parks"},
+        {"id": "d", "text": "Laws"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Blue signs provide motorist service information.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-044",
+      "category": "roadSigns",
+      "questionText": "Brown signs indicate:",
+      "answers": [
+        {"id": "a", "text": "Public Recreation and Scenic Guidance"},
+        {"id": "b", "text": "Construction"},
+        {"id": "c", "text": "Services"},
+        {"id": "d", "text": "Warnings"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Brown signs point to parks, museums, and recreation.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-045",
+      "category": "roadSigns",
+      "questionText": "A diamond shaped sign is a:",
+      "answers": [
+        {"id": "a", "text": "Warning sign"},
+        {"id": "b", "text": "Stop sign"},
+        {"id": "c", "text": "Yield sign"},
+        {"id": "d", "text": "Speed limit sign"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Diamond shapes are used for warnings.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-046",
+      "category": "roadSigns",
+      "questionText": "A sign with two arrows pointing in opposite directions means:",
+      "answers": [
+        {"id": "a", "text": "Two-way traffic"},
+        {"id": "b", "text": "Divided highway ends"},
+        {"id": "c", "text": "Keep right"},
+        {"id": "d", "text": "Merge"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns of two-way traffic ahead.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-047",
+      "category": "roadSigns",
+      "questionText": "A sign showing a car with squiggly lines behind the tires means:",
+      "answers": [
+        {"id": "a", "text": "Slippery when wet"},
+        {"id": "b", "text": "Winding road"},
+        {"id": "c", "text": "Rough road"},
+        {"id": "d", "text": "Drunk driving"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns that the road is slippery when wet.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-048",
+      "category": "roadSigns",
+      "questionText": "A sign with a right angle arrow means:",
+      "answers": [
+        {"id": "a", "text": "Sharp right turn"},
+        {"id": "b", "text": "Curve right"},
+        {"id": "c", "text": "Merge right"},
+        {"id": "d", "text": "Exit right"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Indicates a sharp turn to the right.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-049",
+      "category": "roadSigns",
+      "questionText": "A sign with a curved arrow means:",
+      "answers": [
+        {"id": "a", "text": "Curve ahead"},
+        {"id": "b", "text": "Sharp turn"},
+        {"id": "c", "text": "Winding road"},
+        {"id": "d", "text": "Merge"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns of a curve in the road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-050",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Merge' arrow means:",
+      "answers": [
+        {"id": "a", "text": "Traffic entering from side"},
+        {"id": "b", "text": "Lane ends"},
+        {"id": "c", "text": "Turn right"},
+        {"id": "d", "text": "Stop ahead"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns that traffic is merging into your lane.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-051",
+      "category": "roadSigns",
+      "questionText": "A sign with a flagger symbol means:",
+      "answers": [
+        {"id": "a", "text": "Flagger ahead"},
+        {"id": "b", "text": "School crossing"},
+        {"id": "c", "text": "Factory entrance"},
+        {"id": "d", "text": "Pedestrian crossing"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns of a flagger controlling traffic in a work zone.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-052",
+      "category": "roadSigns",
+      "questionText": "A red and white sign saying 'Wrong Way' means:",
+      "answers": [
+        {"id": "a", "text": "You are driving against traffic"},
+        {"id": "b", "text": "Detour"},
+        {"id": "c", "text": "Stop"},
+        {"id": "d", "text": "Yield"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Do not enter; you are going against traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-053",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Do Not Enter' means:",
+      "answers": [
+        {"id": "a", "text": "You may not enter this road"},
+        {"id": "b", "text": "Enter with caution"},
+        {"id": "c", "text": "Stop"},
+        {"id": "d", "text": "Yield"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Prohibits entry into a roadway.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-054",
+      "category": "roadSigns",
+      "questionText": "A sign with 'No U-Turn' means:",
+      "answers": [
+        {"id": "a", "text": "U-turns are prohibited"},
+        {"id": "b", "text": "U-turns allowed"},
+        {"id": "c", "text": "Left turn only"},
+        {"id": "d", "text": "Right turn only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Prohibits making a U-turn.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-055",
+      "category": "roadSigns",
+      "questionText": "A sign with a bicycle symbol means:",
+      "answers": [
+        {"id": "a", "text": "Bicycle crossing/route"},
+        {"id": "b", "text": "No bicycles"},
+        {"id": "c", "text": "Toy store"},
+        {"id": "d", "text": "Motorcycles only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns of bicycle traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-056",
+      "category": "roadSigns",
+      "questionText": "A sign with a pedestrian symbol means:",
+      "answers": [
+        {"id": "a", "text": "Pedestrian crossing"},
+        {"id": "b", "text": "School zone"},
+        {"id": "c", "text": "Playground"},
+        {"id": "d", "text": "No walking"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns of pedestrian activity.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-057",
+      "category": "roadSigns",
+      "questionText": "A sign with a tractor symbol means:",
+      "answers": [
+        {"id": "a", "text": "Farm machinery crossing"},
+        {"id": "b", "text": "Construction"},
+        {"id": "c", "text": "Truck route"},
+        {"id": "d", "text": "No tractors"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns of farm machinery on or crossing the road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-058",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Lane Ends Merge Left' means:",
+      "answers": [
+        {"id": "a", "text": "Right lane ends"},
+        {"id": "b", "text": "Left lane ends"},
+        {"id": "c", "text": "Road ends"},
+        {"id": "d", "text": "Divided highway"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The right lane is ending; merge left.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-059",
+      "category": "roadSigns",
+      "questionText": "A sign with a signal light symbol means:",
+      "answers": [
+        {"id": "a", "text": "Traffic signal ahead"},
+        {"id": "b", "text": "Stop sign ahead"},
+        {"id": "c", "text": "Railroad ahead"},
+        {"id": "d", "text": "Flashing light"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns of a traffic signal ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-060",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Keep Right' and an arrow around a divider means:",
+      "answers": [
+        {"id": "a", "text": "Keep to the right of the obstruction"},
+        {"id": "b", "text": "Turn right"},
+        {"id": "c", "text": "Exit right"},
+        {"id": "d", "text": "One way"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Keep to the right of the median/divider.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-061",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Low Clearance 12ft 6in' means:",
+      "answers": [
+        {"id": "a", "text": "The overpass is 12ft 6in high"},
+        {"id": "b", "text": "The road is 12ft wide"},
+        {"id": "c", "text": "Speed limit 12"},
+        {"id": "d", "text": "Bridge ahead"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns of low overhead clearance.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-062",
+      "category": "roadSigns",
+      "questionText": "A sign with 'No Turn on Red' means:",
+      "answers": [
+        {"id": "a", "text": "You must wait for green to turn"},
+        {"id": "b", "text": "Stop then turn"},
+        {"id": "c", "text": "Yield"},
+        {"id": "d", "text": "Merge"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Prohibits turning right on a red light.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-063",
+      "category": "roadSigns",
+      "questionText": "A shield-shaped sign usually indicates:",
+      "answers": [
+        {"id": "a", "text": "An Interstate or Route marker"},
+        {"id": "b", "text": "A warning"},
+        {"id": "c", "text": "A school"},
+        {"id": "d", "text": "A law"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Shields identify route numbers (Interstate, US, State).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-064",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Dip' means:",
+      "answers": [
+        {"id": "a", "text": "Low place in the road"},
+        {"id": "b", "text": "Water ahead"},
+        {"id": "c", "text": "Bump ahead"},
+        {"id": "d", "text": "Dead end"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns of a depression in the road surface.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-065",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Soft Shoulder' means:",
+      "answers": [
+        {"id": "a", "text": "Shoulder is unpaved/soft"},
+        {"id": "b", "text": "No shoulder"},
+        {"id": "c", "text": "Parking allowed"},
+        {"id": "d", "text": "Construction"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Do not drive on the shoulder as it may be soft.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-066",
+      "category": "safeDriving",
+      "questionText": "In fog, rain, or snow, you should use:",
+      "answers": [
+        {"id": "a", "text": "High beams"},
+        {"id": "b", "text": "Low beams"},
+        {"id": "c", "text": "Parking lights"},
+        {"id": "d", "text": "No lights"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use low beams. High beams will reflect off precipitation and blind you.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-067",
+      "category": "safeDriving",
+      "questionText": "If your vehicle goes into a skid:",
+      "answers": [
+        {"id": "a", "text": "Slam on the brakes"},
+        {"id": "b", "text": "Steer in the direction of the skid"},
+        {"id": "c", "text": "Accelerate"},
+        {"id": "d", "text": "Steer opposite to the skid"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Take your foot off the gas and turn the steering wheel in the direction the rear of the vehicle is skidding.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-068",
+      "category": "safeDriving",
+      "questionText": "When you are being passed, you should:",
+      "answers": [
+        {"id": "a", "text": "Speed up"},
+        {"id": "b", "text": "Maintain speed and stay to the right"},
+        {"id": "c", "text": "Swerve to the left"},
+        {"id": "d", "text": "Brake hard"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Maintain a constant speed and keep to the right to allow the other vehicle to pass safely.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-069",
+      "category": "safeDriving",
+      "questionText": "If a tire blows out:",
+      "answers": [
+        {"id": "a", "text": "Brake hard immediately"},
+        {"id": "b", "text": "Keep the wheel straight and slow down gradually"},
+        {"id": "c", "text": "Accelerate"},
+        {"id": "d", "text": "Turn quickly"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Do not panic brake. Keep vehicle straight and let it slow down.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-070",
+      "category": "safeDriving",
+      "questionText": "When merging onto a freeway:",
+      "answers": [
+        {"id": "a", "text": "Stop and wait"},
+        {"id": "b", "text": "Accelerate to the speed of traffic"},
+        {"id": "c", "text": "Drive slowly"},
+        {"id": "d", "text": "Flash lights"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use the ramp to accelerate to highway speed to merge safely.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-071",
+      "category": "safeDriving",
+      "questionText": "To prevent fatigue on long trips:",
+      "answers": [
+        {"id": "a", "text": "Stop every 2 hours or 100 miles"},
+        {"id": "b", "text": "Drink coffee only"},
+        {"id": "c", "text": "Play loud music"},
+        {"id": "d", "text": "Drive faster"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Rest frequently to stay alert.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-072",
+      "category": "safeDriving",
+      "questionText": "To recover from a skid, you should:",
+      "answers": [
+        {"id": "a", "text": "Steer into the skid (direction rear is going)"},
+        {"id": "b", "text": "Brake hard"},
+        {"id": "c", "text": "Accelerate"},
+        {"id": "d", "text": "Steer away from the skid"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Steer in the direction the rear is sliding.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-073",
+      "category": "safeDriving",
+      "questionText": "The 'three-second rule' applies to:",
+      "answers": [
+        {"id": "a", "text": "Following distance"},
+        {"id": "b", "text": "Stopping time"},
+        {"id": "c", "text": "Reaction time"},
+        {"id": "d", "text": "Passing time"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Ohio recommends maintaining a three-second following distance.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-074",
+      "category": "safeDriving",
+      "questionText": "When roads are wet, you should:",
+      "answers": [
+        {"id": "a", "text": "Drive the speed limit"},
+        {"id": "b", "text": "Reduce speed"},
+        {"id": "c", "text": "Use high beams"},
+        {"id": "d", "text": "Follow closer"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Reduce speed to prevent hydroplaning.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-075",
+      "category": "safeDriving",
+      "questionText": "If you run off the pavement:",
+      "answers": [
+        {"id": "a", "text": "Jerk the wheel back"},
+        {"id": "b", "text": "Slow down and steer back gradually"},
+        {"id": "c", "text": "Brake hard"},
+        {"id": "d", "text": "Accelerate"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Do not jerk the wheel. Slow down first, then steer back.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-076",
+      "category": "safeDriving",
+      "questionText": "Hydroplaning can occur at speeds as low as:",
+      "answers": [
+        {"id": "a", "text": "35 mph"},
+        {"id": "b", "text": "45 mph"},
+        {"id": "c", "text": "55 mph"},
+        {"id": "d", "text": "65 mph"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Tires can lose contact with the road at speeds as low as 35 mph in rain.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-077",
+      "category": "safeDriving",
+      "questionText": "If your brakes fail:",
+      "answers": [
+        {"id": "a", "text": "Pump the brake pedal"},
+        {"id": "b", "text": "Accelerate"},
+        {"id": "c", "text": "Turn off engine"},
+        {"id": "d", "text": "Jump out"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Pump the brakes to build pressure. If that fails, use the parking brake.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-078",
+      "category": "safeDriving",
+      "questionText": "Night driving is dangerous because:",
+      "answers": [
+        {"id": "a", "text": "Distance is harder to judge"},
+        {"id": "b", "text": "There are more cars"},
+        {"id": "c", "text": "Roads are slippery"},
+        {"id": "d", "text": "Speed limits are higher"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Vision is reduced and distance judgment is impaired.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-079",
+      "category": "safeDriving",
+      "questionText": "When passing a bicyclist, you should:",
+      "answers": [
+        {"id": "a", "text": "Honk"},
+        {"id": "b", "text": "Pass closely"},
+        {"id": "c", "text": "Leave ample room (at least 3 feet)"},
+        {"id": "d", "text": "Speed up"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Ohio requires leaving at least 3 feet of clearance when passing a bicycle.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-080",
+      "category": "safeDriving",
+      "questionText": "Blind spots are:",
+      "answers": [
+        {"id": "a", "text": "Areas you can't see in mirrors"},
+        {"id": "b", "text": "Areas on the windshield"},
+        {"id": "c", "text": "Dark roads"},
+        {"id": "d", "text": "Tunnels"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Areas to the side/rear not visible in mirrors.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-081",
+      "category": "safeDriving",
+      "questionText": "Large trucks have:",
+      "answers": [
+        {"id": "a", "text": "Larger blind spots"},
+        {"id": "b", "text": "Better brakes"},
+        {"id": "c", "text": "Faster acceleration"},
+        {"id": "d", "text": "No blind spots"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Trucks have large 'No-Zones' where cars disappear.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-082",
+      "category": "safeDriving",
+      "questionText": "When following a motorcycle, you should:",
+      "answers": [
+        {"id": "a", "text": "Follow closer"},
+        {"id": "b", "text": "Increase following distance"},
+        {"id": "c", "text": "Share the lane"},
+        {"id": "d", "text": "Honk"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Motorcycles can stop quickly; allow extra space.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-083",
+      "category": "safeDriving",
+      "questionText": "If an oncoming vehicle has high beams on:",
+      "answers": [
+        {"id": "a", "text": "Flash yours"},
+        {"id": "b", "text": "Look to the right edge of the road"},
+        {"id": "c", "text": "Stare at them"},
+        {"id": "d", "text": "Turn yours on"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Look to the right to avoid glare.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-084",
+      "category": "safeDriving",
+      "questionText": "In work zones, you should:",
+      "answers": [
+        {"id": "a", "text": "Speed up"},
+        {"id": "b", "text": "Slow down and be alert"},
+        {"id": "c", "text": "Ignore signs"},
+        {"id": "d", "text": "Pass on shoulder"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Traffic fines are doubled in work zones; drive carefully.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-085",
+      "category": "safeDriving",
+      "questionText": "Carbon monoxide is:",
+      "answers": [
+        {"id": "a", "text": "Smell-less, deadly gas"},
+        {"id": "b", "text": "Safe"},
+        {"id": "c", "text": "Visible"},
+        {"id": "d", "text": "Blue"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Exhaust leaks can cause deadly carbon monoxide poisoning.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-086",
+      "category": "safeDriving",
+      "questionText": "If your accelerator sticks:",
+      "answers": [
+        {"id": "a", "text": "Shift to Neutral"},
+        {"id": "b", "text": "Turn off key immediately"},
+        {"id": "c", "text": "Brake hard"},
+        {"id": "d", "text": "Jump out"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Shift to neutral to disengage engine power.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-087",
+      "category": "safeDriving",
+      "questionText": "Alcohol affects:",
+      "answers": [
+        {"id": "a", "text": "Judgment and coordination"},
+        {"id": "b", "text": "Vision only"},
+        {"id": "c", "text": "Hearing only"},
+        {"id": "d", "text": "Nothing"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Alcohol impairs all driving skills.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-088",
+      "category": "safeDriving",
+      "questionText": "The only thing that sobers you up is:",
+      "answers": [
+        {"id": "a", "text": "Coffee"},
+        {"id": "b", "text": "Time"},
+        {"id": "c", "text": "Cold shower"},
+        {"id": "d", "text": "Food"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Only time allows the body to process alcohol.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-089",
+      "category": "safeDriving",
+      "questionText": "When entering a curve, you should:",
+      "answers": [
+        {"id": "a", "text": "Speed up"},
+        {"id": "b", "text": "Slow down before entering"},
+        {"id": "c", "text": "Brake in the curve"},
+        {"id": "d", "text": "Coast"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Slow down before the curve to maintain control.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-090",
+      "category": "safeDriving",
+      "questionText": "Distracted driving includes:",
+      "answers": [
+        {"id": "a", "text": "Texting"},
+        {"id": "b", "text": "Eating"},
+        {"id": "c", "text": "Adjusting radio"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Anything taking attention from the road is a distraction.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-091",
+      "category": "safeDriving",
+      "questionText": "If you are tired:",
+      "answers": [
+        {"id": "a", "text": "Drive faster"},
+        {"id": "b", "text": "Stop and rest"},
+        {"id": "c", "text": "Open window"},
+        {"id": "d", "text": "Turn up radio"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Rest is the only cure for fatigue.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-092",
+      "category": "safeDriving",
+      "questionText": "During a tire blowout, steer:",
+      "answers": [
+        {"id": "a", "text": "Straight"},
+        {"id": "b", "text": "Left"},
+        {"id": "c", "text": "Right"},
+        {"id": "d", "text": "Zigzag"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Keep the car going straight until it slows down.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-093",
+      "category": "safeDriving",
+      "questionText": "Use your horn:",
+      "answers": [
+        {"id": "a", "text": "To say hello"},
+        {"id": "b", "text": "To warn others of danger"},
+        {"id": "c", "text": "In anger"},
+        {"id": "d", "text": "To clear traffic"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The horn is a warning device.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-094",
+      "category": "safeDriving",
+      "questionText": "Check your mirrors:",
+      "answers": [
+        {"id": "a", "text": "Every 5 seconds"},
+        {"id": "b", "text": "Every 10 seconds"},
+        {"id": "c", "text": "Often"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Check mirrors frequently to know traffic conditions.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-095",
+      "category": "safeDriving",
+      "questionText": "Before backing up:",
+      "answers": [
+        {"id": "a", "text": "Check mirrors"},
+        {"id": "b", "text": "Look over your shoulder"},
+        {"id": "c", "text": "Honk"},
+        {"id": "d", "text": "Check mirrors and look over shoulder"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Check all blind spots before backing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-096",
+      "category": "parking",
+      "questionText": "It is illegal to park within ___ feet of a fire hydrant.",
+      "answers": [
+        {"id": "a", "text": "5"},
+        {"id": "b", "text": "10"},
+        {"id": "c", "text": "15"},
+        {"id": "d", "text": "20"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "10 feet is the minimum distance.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-097",
+      "category": "parking",
+      "questionText": "It is illegal to park within ___ feet of a stop sign.",
+      "answers": [
+        {"id": "a", "text": "10"},
+        {"id": "b", "text": "20"},
+        {"id": "c", "text": "30"},
+        {"id": "d", "text": "50"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "30 feet is the minimum distance from a stop sign or traffic signal.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-098",
+      "category": "parking",
+      "questionText": "When parking downhill with a curb, turn wheels:",
+      "answers": [
+        {"id": "a", "text": "To the right (toward curb)"},
+        {"id": "b", "text": "To the left"},
+        {"id": "c", "text": "Straight"},
+        {"id": "d", "text": "Any way"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Turn wheels to curb so car rolls into it if brakes fail.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-099",
+      "category": "parking",
+      "questionText": "When parking uphill with a curb, turn wheels:",
+      "answers": [
+        {"id": "a", "text": "Away from curb (left)"},
+        {"id": "b", "text": "Toward curb"},
+        {"id": "c", "text": "Straight"},
+        {"id": "d", "text": "Right"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Turn wheels away from curb so tire catches curb if car rolls back.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-100",
+      "category": "parking",
+      "questionText": "Vehicles parked on a roadway must be within ___ of the curb.",
+      "answers": [
+        {"id": "a", "text": "6 inches"},
+        {"id": "b", "text": "12 inches"},
+        {"id": "c", "text": "18 inches"},
+        {"id": "d", "text": "24 inches"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Must be within 12 inches.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-101",
+      "category": "parking",
+      "questionText": "Parking is prohibited:",
+      "answers": [
+        {"id": "a", "text": "On a sidewalk"},
+        {"id": "b", "text": "In front of a driveway"},
+        {"id": "c", "text": "Within an intersection"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "All listed locations are illegal for parking.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-102",
+      "category": "parking",
+      "questionText": "It is illegal to park within ___ feet of a railroad crossing.",
+      "answers": [
+        {"id": "a", "text": "15"},
+        {"id": "b", "text": "25"},
+        {"id": "c", "text": "50"},
+        {"id": "d", "text": "100"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Do not park within 50 feet of a railroad track.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-103",
+      "category": "parking",
+      "questionText": "It is illegal to park within ___ feet of a crosswalk at an intersection.",
+      "answers": [
+        {"id": "a", "text": "10"},
+        {"id": "b", "text": "20"},
+        {"id": "c", "text": "30"},
+        {"id": "d", "text": "40"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Do not park within 20 feet of a crosswalk.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-104",
+      "category": "parking",
+      "questionText": "When parking on a hill without a curb, turn wheels:",
+      "answers": [
+        {"id": "a", "text": "To the right"},
+        {"id": "b", "text": "To the left"},
+        {"id": "c", "text": "Straight"},
+        {"id": "d", "text": "Any way"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Turn wheels to the right so car rolls off road, not into traffic.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-105",
+      "category": "parking",
+      "questionText": "Handicapped parking spaces are marked by:",
+      "answers": [
+        {"id": "a", "text": "Blue lines/signs"},
+        {"id": "b", "text": "Red lines"},
+        {"id": "c", "text": "Yellow lines"},
+        {"id": "d", "text": "Green lines"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Blue indicates disabled parking.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-106",
+      "category": "rightOfWay",
+      "questionText": "When two vehicles arrive at a 4-way stop at the same time:",
+      "answers": [
+        {"id": "a", "text": "Vehicle on left yields to right"},
+        {"id": "b", "text": "Vehicle on right yields to left"},
+        {"id": "c", "text": "Faster car goes"},
+        {"id": "d", "text": "Larger car goes"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Left yields to right.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-107",
+      "category": "rightOfWay",
+      "questionText": "You are approaching a yield sign. You must:",
+      "answers": [
+        {"id": "a", "text": "Slow down and yield to traffic"},
+        {"id": "b", "text": "Stop always"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Ignore it"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Yield means give way to cross traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-108",
+      "category": "rightOfWay",
+      "questionText": "Pedestrians have the right of way:",
+      "answers": [
+        {"id": "a", "text": "In crosswalks"},
+        {"id": "b", "text": "Only with green light"},
+        {"id": "c", "text": "Only in school zones"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Yield to pedestrians in crosswalks.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-109",
+      "category": "rightOfWay",
+      "questionText": "When turning left, you must yield to:",
+      "answers": [
+        {"id": "a", "text": "Oncoming traffic"},
+        {"id": "b", "text": "Traffic behind you"},
+        {"id": "c", "text": "Traffic on right"},
+        {"id": "d", "text": "No one"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Left turners yield to oncoming traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-110",
+      "category": "rightOfWay",
+      "questionText": "At an uncontrolled intersection (no signs/lights):",
+      "answers": [
+        {"id": "a", "text": "Yield to vehicle on right"},
+        {"id": "b", "text": "Yield to vehicle on left"},
+        {"id": "c", "text": "Go fast"},
+        {"id": "d", "text": "Stop always"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Treat as a 4-way stop/yield to right.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-111",
+      "category": "rightOfWay",
+      "questionText": "When entering a road from a driveway:",
+      "answers": [
+        {"id": "a", "text": "Yield to all traffic"},
+        {"id": "b", "text": "You have right of way"},
+        {"id": "c", "text": "Honk"},
+        {"id": "d", "text": "Go slow"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Traffic on the road has right of way.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-112",
+      "category": "rightOfWay",
+      "questionText": "Emergency vehicles with lights flashing have right of way. You must:",
+      "answers": [
+        {"id": "a", "text": "Drive to right edge and stop"},
+        {"id": "b", "text": "Speed up"},
+        {"id": "c", "text": "Stop in lane"},
+        {"id": "d", "text": "Turn left"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Clear the way for emergency vehicles.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-113",
+      "category": "rightOfWay",
+      "questionText": "A funeral procession has the right of way:",
+      "answers": [
+        {"id": "a", "text": "Always"},
+        {"id": "b", "text": "Never"},
+        {"id": "c", "text": "Only on Sundays"},
+        {"id": "d", "text": "Only if police led"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Do not cut through a funeral procession.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-114",
+      "category": "rightOfWay",
+      "questionText": "When making a right turn on red:",
+      "answers": [
+        {"id": "a", "text": "Stop and yield to traffic/pedestrians"},
+        {"id": "b", "text": "Go without stopping"},
+        {"id": "c", "text": "Yield only"},
+        {"id": "d", "text": "Wait for green"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Stop fully, then turn if clear.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-115",
+      "category": "rightOfWay",
+      "questionText": "In a traffic circle/roundabout:",
+      "answers": [
+        {"id": "a", "text": "Yield to traffic in circle"},
+        {"id": "b", "text": "Enter quickly"},
+        {"id": "c", "text": "Traffic in circle yields"},
+        {"id": "d", "text": "Stop in circle"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Yield to circulating traffic.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-116",
+      "category": "rightOfWay",
+      "questionText": "Blind pedestrians with a white cane:",
+      "answers": [
+        {"id": "a", "text": "Have absolute right of way"},
+        {"id": "b", "text": "Yield to cars"},
+        {"id": "c", "text": "Must run"},
+        {"id": "d", "text": "Wait for signal"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Always yield to blind pedestrians.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-117",
+      "category": "rightOfWay",
+      "questionText": "If you arrive at a stop sign before another car:",
+      "answers": [
+        {"id": "a", "text": "You go first"},
+        {"id": "b", "text": "They go first"},
+        {"id": "c", "text": "Yield to right"},
+        {"id": "d", "text": "Yield to left"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "First to stop, first to go.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-118",
+      "category": "rightOfWay",
+      "questionText": "When a traffic light turns green:",
+      "answers": [
+        {"id": "a", "text": "Yield to traffic clearing intersection"},
+        {"id": "b", "text": "Go immediately"},
+        {"id": "c", "text": "Honk"},
+        {"id": "d", "text": "Speed up"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Wait for intersection to clear.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-119",
+      "category": "rightOfWay",
+      "questionText": "On a T-intersection, traffic on the terminating road must:",
+      "answers": [
+        {"id": "a", "text": "Yield to traffic on through road"},
+        {"id": "b", "text": "Have right of way"},
+        {"id": "c", "text": "Stop only"},
+        {"id": "d", "text": "Go"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Ending road yields to through road.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-120",
+      "category": "rightOfWay",
+      "questionText": "When passing a vehicle traveling in the same direction, you must yield to:",
+      "answers": [
+        {"id": "a", "text": "Oncoming traffic"},
+        {"id": "b", "text": "The car you pass"},
+        {"id": "c", "text": "Traffic behind"},
+        {"id": "d", "text": "No one"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Ensure no oncoming traffic before passing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-121",
+      "category": "finesAndLimits",
+      "questionText": "Which of the following is a 6-point violation in Ohio?",
+      "answers": [
+        {"id": "a", "text": "Speeding 10 mph over"},
+        {"id": "b", "text": "Fleeing/eluding police"},
+        {"id": "c", "text": "Running red light"},
+        {"id": "d", "text": "Failure to yield"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Fleeing/eluding, Hit-skip, OVI are 6 points.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-122",
+      "category": "finesAndLimits",
+      "questionText": "Speeding 30 mph or more over the limit results in ___ points.",
+      "answers": [
+        {"id": "a", "text": "2"},
+        {"id": "b", "text": "3"},
+        {"id": "c", "text": "4"},
+        {"id": "d", "text": "6"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "30+ mph over is a 4-point violation.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-123",
+      "category": "finesAndLimits",
+      "questionText": "Operating a Vehicle Impaired (OVI) results in ___ points.",
+      "answers": [
+        {"id": "a", "text": "2"},
+        {"id": "b", "text": "4"},
+        {"id": "c", "text": "6"},
+        {"id": "d", "text": "12"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "OVI is a 6-point offense.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-124",
+      "category": "finesAndLimits",
+      "questionText": "A driver accumulates 12 points in 2 years. They face:",
+      "answers": [
+        {"id": "a", "text": "Suspension of license"},
+        {"id": "b", "text": "Warning"},
+        {"id": "c", "text": "$50 fine"},
+        {"id": "d", "text": "Retest only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "12 points in 2 years leads to suspension.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-125",
+      "category": "finesAndLimits",
+      "questionText": "Texting while driving (adults) is a ___ offense.",
+      "answers": [
+        {"id": "a", "text": "Primary"},
+        {"id": "b", "text": "Secondary"},
+        {"id": "c", "text": "Minor"},
+        {"id": "d", "text": "Non-moving"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Texting is a primary offense.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-126",
+      "category": "finesAndLimits",
+      "questionText": "Failure to stop for a school bus is a fine of up to:",
+      "answers": [
+        {"id": "a", "text": "$500"},
+        {"id": "b", "text": "$100"},
+        {"id": "c", "text": "$50"},
+        {"id": "d", "text": "$1000"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Fines can be up to $500.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-127",
+      "category": "finesAndLimits",
+      "questionText": "Refusal to take a chemical test (Implied Consent) results in:",
+      "answers": [
+        {"id": "a", "text": "License suspension"},
+        {"id": "b", "text": "Warning"},
+        {"id": "c", "text": "$100 fine"},
+        {"id": "d", "text": "Jail"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Automatic Administrative License Suspension (ALS).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-128",
+      "category": "finesAndLimits",
+      "questionText": "Not wearing a seat belt is a ___ offense.",
+      "answers": [
+        {"id": "a", "text": "Primary"},
+        {"id": "b", "text": "Secondary"},
+        {"id": "c", "text": "Felony"},
+        {"id": "d", "text": "None"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Seat belt violation is a secondary offense (except for children).",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-129",
+      "category": "finesAndLimits",
+      "questionText": "Speeding 1-5 mph over the limit usually results in ___ points.",
+      "answers": [
+        {"id": "a", "text": "0"},
+        {"id": "b", "text": "2"},
+        {"id": "c", "text": "4"},
+        {"id": "d", "text": "1"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Usually 0 points for <5 mph over (unless specific zones).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-130",
+      "category": "finesAndLimits",
+      "questionText": "Speeding 6-29 mph over the limit results in ___ points.",
+      "answers": [
+        {"id": "a", "text": "0"},
+        {"id": "b", "text": "2"},
+        {"id": "c", "text": "4"},
+        {"id": "d", "text": "6"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "2 points for moderate speeding.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-131",
+      "category": "finesAndLimits",
+      "questionText": "Failure to stop at a stop sign is ___ points.",
+      "answers": [
+        {"id": "a", "text": "0"},
+        {"id": "b", "text": "2"},
+        {"id": "c", "text": "4"},
+        {"id": "d", "text": "6"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Stop sign violation is 2 points.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-132",
+      "category": "finesAndLimits",
+      "questionText": "Following too closely (tailgating) is ___ points.",
+      "answers": [
+        {"id": "a", "text": "0"},
+        {"id": "b", "text": "2"},
+        {"id": "c", "text": "4"},
+        {"id": "d", "text": "6"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Tailgating is 2 points.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-133",
+      "category": "finesAndLimits",
+      "questionText": "The reinstatement fee for a suspended license (12 points) is:",
+      "answers": [
+        {"id": "a", "text": "$40"},
+        {"id": "b", "text": "$100"},
+        {"id": "c", "text": "$200"},
+        {"id": "d", "text": "$500"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Reinstatement fee is $40.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-134",
+      "category": "finesAndLimits",
+      "questionText": "Driving under suspension is a ___ offense.",
+      "answers": [
+        {"id": "a", "text": "First degree misdemeanor"},
+        {"id": "b", "text": "Minor misdemeanor"},
+        {"id": "c", "text": "Felony"},
+        {"id": "d", "text": "Warning"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "First degree misdemeanor.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-135",
+      "category": "finesAndLimits",
+      "questionText": "Street racing is a ___ point violation.",
+      "answers": [
+        {"id": "a", "text": "2"},
+        {"id": "b", "text": "4"},
+        {"id": "c", "text": "6"},
+        {"id": "d", "text": "12"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Street racing is 6 points.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "oh-136",
+      "category": "trafficLaws",
+      "questionText": "A flashing yellow light means:",
+      "answers": [
+        {"id": "a", "text": "Stop"},
+        {"id": "b", "text": "Proceed with caution"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Turn"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Caution.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-137",
+      "category": "roadSigns",
+      "questionText": "A sign with 'One Way' and an arrow:",
+      "answers": [
+        {"id": "a", "text": "Traffic flows only in direction of arrow"},
+        {"id": "b", "text": "Look one way"},
+        {"id": "c", "text": "Stop"},
+        {"id": "d", "text": "Yield"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Traffic flows only in direction of arrow.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-138",
+      "category": "safeDriving",
+      "questionText": "When backing up, you should:",
+      "answers": [
+        {"id": "a", "text": "Look in mirror"},
+        {"id": "b", "text": "Look over shoulder"},
+        {"id": "c", "text": "Honk"},
+        {"id": "d", "text": "Trust camera"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Look over shoulder to check blind spots.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-139",
+      "category": "trafficLaws",
+      "questionText": "Can you turn left on red from a two-way to a one-way street?",
+      "answers": [
+        {"id": "a", "text": "Yes"},
+        {"id": "b", "text": "No"},
+        {"id": "c", "text": "Only on Sundays"},
+        {"id": "d", "text": "If no cops"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "No. Only one-way to one-way.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-140",
+      "category": "trafficLaws",
+      "questionText": "Who has the right of way at a T-intersection?",
+      "answers": [
+        {"id": "a", "text": "Traffic on the through road"},
+        {"id": "b", "text": "Traffic on the ending road"},
+        {"id": "c", "text": "Faster car"},
+        {"id": "d", "text": "Car on left"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Through road has right of way.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-141",
+      "category": "roadSigns",
+      "questionText": "A sign with a 'Soft Shoulder' means:",
+      "answers": [
+        {"id": "a", "text": "Do not drive off pavement"},
+        {"id": "b", "text": "Shoulder is paved"},
+        {"id": "c", "text": "Park here"},
+        {"id": "d", "text": "Bump"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Shoulder is soft/unpaved.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-142",
+      "category": "safeDriving",
+      "questionText": "If you are tired:",
+      "answers": [
+        {"id": "a", "text": "Stop and rest"},
+        {"id": "b", "text": "Drink coffee"},
+        {"id": "c", "text": "Open window"},
+        {"id": "d", "text": "Radio up"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Rest is the only cure.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-143",
+      "category": "trafficLaws",
+      "questionText": "Passing on the right is permitted when:",
+      "answers": [
+        {"id": "a", "text": "Vehicle ahead turning left & room to pass"},
+        {"id": "b", "text": "On shoulder"},
+        {"id": "c", "text": "In school zone"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Legal if vehicle turning left and pavement is wide enough.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-144",
+      "category": "roadSigns",
+      "questionText": "A sign with 'No Outlet' means:",
+      "answers": [
+        {"id": "a", "text": "Dead end"},
+        {"id": "b", "text": "Through street"},
+        {"id": "c", "text": "Merge"},
+        {"id": "d", "text": "Turn"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Road does not connect.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-145",
+      "category": "safeDriving",
+      "questionText": "Most rear-end collisions are caused by:",
+      "answers": [
+        {"id": "a", "text": "Following too closely"},
+        {"id": "b", "text": "Bad brakes"},
+        {"id": "c", "text": "Rain"},
+        {"id": "d", "text": "Speeding"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Tailgating causes rear-end crashes.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-146",
+      "category": "trafficLaws",
+      "questionText": "Headlights must be used when visibility is less than:",
+      "answers": [
+        {"id": "a", "text": "1000 feet"},
+        {"id": "b", "text": "500 feet"},
+        {"id": "c", "text": "100 feet"},
+        {"id": "d", "text": "2000 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Usually 1000 feet or when wipers are on (Ohio law says sunset/sunrise & precipitation; generally 1000ft is the visibility standard).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-147",
+      "category": "rightOfWay",
+      "questionText": "You are entering a roadway from an alley:",
+      "answers": [
+        {"id": "a", "text": "Yield to all traffic"},
+        {"id": "b", "text": "Honk and go"},
+        {"id": "c", "text": "Right of way"},
+        {"id": "d", "text": "Stop only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Yield to roadway traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "oh-148",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Dip' means:",
+      "answers": [
+        {"id": "a", "text": "Low place in road"},
+        {"id": "b", "text": "Bump"},
+        {"id": "c", "text": "Water"},
+        {"id": "d", "text": "Curve"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Depression in road.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-149",
+      "category": "safeDriving",
+      "questionText": "If an animal runs in front of you:",
+      "answers": [
+        {"id": "a", "text": "Concentrate on keeping control"},
+        {"id": "b", "text": "Swerve"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Close eyes"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Don't swerve dangerously.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "oh-150",
+      "category": "trafficLaws",
+      "questionText": "Bicycles on the road:",
+      "answers": [
+        {"id": "a", "text": "Are vehicles with same rights"},
+        {"id": "b", "text": "Have no rights"},
+        {"id": "c", "text": "Must ride against traffic"},
+        {"id": "d", "text": "Should be on sidewalk"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Bicycles are vehicles.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    }
+  ]
+}

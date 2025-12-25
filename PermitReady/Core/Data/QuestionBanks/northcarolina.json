@@ -1,0 +1,4747 @@
+{
+  "stateCode": "NC",
+  "stateName": "North Carolina",
+  "version": "2.0.0",
+  "lastUpdated": "2025-12-23",
+  "testInfo": {
+    "questionCount": 25,
+    "passingPercentage": 80,
+    "passingScore": 20,
+    "minimumPermitAge": 15,
+    "hasSplitTest": true,
+    "timeLimit": null,
+    "uniqueRequirements": [
+      "The test is strictly split: You must pass a 'Regulatory Signs' recognition test (identifying signs by shape/color only) BEFORE you can take the 25-question written knowledge test",
+      "Level 1 Limited Learner Permit holders can only drive between 5 AM and 9 PM for the first 6 months",
+      "Under the 'Fender Bender' law, you must move your vehicle to the shoulder if involved in a minor crash with no injuries",
+      "Must have a 'Driving Eligibility Certificate' from your school to prove you are passing your classes"
+    ]
+  },
+  "questions": [
+    {
+      "id": "nc-001",
+      "category": "trafficLaws",
+      "questionText": "Under the Graduated Licensing Law, a Level 2 Limited Provisional License holder may drive without supervision only between the hours of:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "6:00 AM and 8:00 PM"
+        },
+        {
+          "id": "b",
+          "text": "5:00 AM and 9:00 PM"
+        },
+        {
+          "id": "c",
+          "text": "7:00 AM and 10:00 PM"
+        },
+        {
+          "id": "d",
+          "text": "5:00 AM and Midnight"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A Level 2 Limited Provisional License holder may drive without supervision from 5:00 AM to 9:00 PM. Driving outside these hours requires supervision or a specific work/volunteer exception.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-002",
+      "category": "finesAndLimits",
+      "questionText": "Conviction of which offense carries the highest number of driver license points (5 points) in North Carolina?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Reckless driving"
+        },
+        {
+          "id": "b",
+          "text": "Passing a stopped school bus"
+        },
+        {
+          "id": "c",
+          "text": "Speeding more than 75 mph"
+        },
+        {
+          "id": "d",
+          "text": "Running a red light"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Passing a stopped school bus that is loading or unloading children carries 5 driver license points, the highest for a non-commercial violation.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-003",
+      "category": "trafficLaws",
+      "questionText": "Unless otherwise posted, the speed limit inside cities and towns is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "20 mph"
+        },
+        {
+          "id": "b",
+          "text": "25 mph"
+        },
+        {
+          "id": "c",
+          "text": "35 mph"
+        },
+        {
+          "id": "d",
+          "text": "45 mph"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Unless otherwise posted, the standard speed limit within cities and towns in North Carolina is 35 mph.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-004",
+      "category": "trafficLaws",
+      "questionText": "When windshield wipers are in use because of inclement weather, you must also:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Turn on your hazard lights"
+        },
+        {
+          "id": "b",
+          "text": "Turn on your headlamps (headlights)"
+        },
+        {
+          "id": "c",
+          "text": "Drive 10 mph below the limit"
+        },
+        {
+          "id": "d",
+          "text": "Use your high beams"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "North Carolina law requires that motorists turn on their headlights whenever they are using their windshield wipers due to bad weather.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-005",
+      "category": "finesAndLimits",
+      "questionText": "If you refuse to take a chemical test (breathalyzer) when charged with DWI, your license will be revoked immediately for at least:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "30 days"
+        },
+        {
+          "id": "b",
+          "text": "6 months"
+        },
+        {
+          "id": "c",
+          "text": "12 months (1 year)"
+        },
+        {
+          "id": "d",
+          "text": "2 years"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Refusing to perform any required test will result in the immediate revocation of your driver license for at least 30 days and an additional, minimum 12-month revocation by the DMV.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-006",
+      "category": "safeDriving",
+      "questionText": "The 'Two-Second Rule' is used to determine:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "How long to stop at a stop sign"
+        },
+        {
+          "id": "b",
+          "text": "Safe following distance"
+        },
+        {
+          "id": "c",
+          "text": "Reaction time"
+        },
+        {
+          "id": "d",
+          "text": "How long to signal before turning"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The 'Two-Second Rule' helps you maintain a safe following distance. Allow two seconds of space between your vehicle and the vehicle ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-007",
+      "category": "trafficLaws",
+      "questionText": "When approaching a traffic circle (roundabout), you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Speed up to enter"
+        },
+        {
+          "id": "b",
+          "text": "Yield to vehicles already in the circle"
+        },
+        {
+          "id": "c",
+          "text": "Stop completely before entering"
+        },
+        {
+          "id": "d",
+          "text": "Always go left"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Traffic in a roundabout moves counter-clockwise. You must yield the right-of-way to vehicles already circulating within the roundabout.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-008",
+      "category": "trafficLaws",
+      "questionText": "It is illegal for any person under age 18 to use a cell phone while driving:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Except when calling a parent"
+        },
+        {
+          "id": "b",
+          "text": "Unless using a hands-free device"
+        },
+        {
+          "id": "c",
+          "text": "At any time, except in an emergency"
+        },
+        {
+          "id": "d",
+          "text": "Only during night hours"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Drivers under 18 are prohibited from using any mobile telephone or technology associated with a mobile telephone while the vehicle is in motion, except in emergencies.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-009",
+      "category": "trafficLaws",
+      "questionText": "If you are driving on a two-lane roadway with a center turning lane, and a school bus stops with red flashing lights on the opposite side:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "You do not need to stop"
+        },
+        {
+          "id": "b",
+          "text": "You must stop"
+        },
+        {
+          "id": "c",
+          "text": "You must stop only if children are present"
+        },
+        {
+          "id": "d",
+          "text": "You should slow down to 10 mph"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "On a two-lane road with a center turning lane, traffic from BOTH directions must stop for a school bus with flashing red lights.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-010",
+      "category": "safeDriving",
+      "questionText": "Hydroplaning can occur at speeds as low as:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "30 mph"
+        },
+        {
+          "id": "b",
+          "text": "45 mph"
+        },
+        {
+          "id": "c",
+          "text": "55 mph"
+        },
+        {
+          "id": "d",
+          "text": "65 mph"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Hydroplaning, where tires lose contact with the road due to water, can start at speeds as low as 30 mph if the water is deep enough and tires are worn.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-011",
+      "category": "safeDriving",
+      "questionText": "When driving in fog, you should use:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "High beam headlights"
+        },
+        {
+          "id": "b",
+          "text": "Low beam headlights"
+        },
+        {
+          "id": "c",
+          "text": "Parking lights"
+        },
+        {
+          "id": "d",
+          "text": "Hazard lights only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use low beam headlights in fog. High beams reflect off the water particles in the fog, causing glare that makes it harder to see.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-012",
+      "category": "rightOfWay",
+      "questionText": "At an intersection without traffic signs or signals, you must yield to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vehicles approaching from the left"
+        },
+        {
+          "id": "b",
+          "text": "Vehicles approaching from the right"
+        },
+        {
+          "id": "c",
+          "text": "Vehicles going straight"
+        },
+        {
+          "id": "d",
+          "text": "The largest vehicle"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "At uncontrolled intersections, the vehicle on the left must yield the right-of-way to the vehicle on the right.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-013",
+      "category": "rightOfWay",
+      "questionText": "When entering an interstate highway, you should use the acceleration lane to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop and wait for a gap"
+        },
+        {
+          "id": "b",
+          "text": "Match the speed of traffic and merge when safe"
+        },
+        {
+          "id": "c",
+          "text": "Drive slowly until you find an opening"
+        },
+        {
+          "id": "d",
+          "text": "Pass slower cars"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use the acceleration lane to speed up and match the flow of traffic on the interstate before merging.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-014",
+      "category": "rightOfWay",
+      "questionText": "Farm equipment and other slow-moving vehicles usually travel at speeds of:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "15-25 mph"
+        },
+        {
+          "id": "b",
+          "text": "30-40 mph"
+        },
+        {
+          "id": "c",
+          "text": "45-50 mph"
+        },
+        {
+          "id": "d",
+          "text": "55 mph"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Farm equipment usually travels 15-25 mph. Drivers should approach them with caution and be prepared to slow down.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-015",
+      "category": "parking",
+      "questionText": "You are not allowed to park within ___ feet of a fire hydrant.",
+      "answers": [
+        {
+          "id": "a",
+          "text": "10 feet"
+        },
+        {
+          "id": "b",
+          "text": "15 feet"
+        },
+        {
+          "id": "c",
+          "text": "25 feet"
+        },
+        {
+          "id": "d",
+          "text": "50 feet"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Do not park within 15 feet of a fire hydrant in North Carolina.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-016",
+      "category": "parking",
+      "questionText": "When parking near a curb, your vehicle must be within ___ inches of the curb.",
+      "answers": [
+        {
+          "id": "a",
+          "text": "6 inches"
+        },
+        {
+          "id": "b",
+          "text": "12 inches"
+        },
+        {
+          "id": "c",
+          "text": "18 inches"
+        },
+        {
+          "id": "d",
+          "text": "24 inches"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When parking parallel to the curb, your vehicle should be within 12 inches of the curb.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-017",
+      "category": "safeDriving",
+      "questionText": "If your vehicle breaks down, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stand in the road to flag down help"
+        },
+        {
+          "id": "b",
+          "text": "Move the vehicle off the paved portion of the road"
+        },
+        {
+          "id": "c",
+          "text": "Leave the vehicle where it is"
+        },
+        {
+          "id": "d",
+          "text": "Sit inside with no lights on"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If possible, move your vehicle completely off the paved portion of the road to the shoulder. Turn on emergency flashers.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-018",
+      "category": "roadSigns",
+      "questionText": "A pennant-shaped yellow sign on the left side of the road indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "School Zone"
+        },
+        {
+          "id": "b",
+          "text": "No Passing Zone"
+        },
+        {
+          "id": "c",
+          "text": "Merge Left"
+        },
+        {
+          "id": "d",
+          "text": "Divided Highway"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The pennant (sideways triangle) shape is exclusively used to mark the beginning of a No Passing Zone.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-019",
+      "category": "roadSigns",
+      "questionText": "An eight-sided red sign means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop"
+        },
+        {
+          "id": "b",
+          "text": "Yield"
+        },
+        {
+          "id": "c",
+          "text": "School Crossing"
+        },
+        {
+          "id": "d",
+          "text": "Do Not Enter"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The octagon is exclusively used for STOP signs.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-020",
+      "category": "roadSigns",
+      "questionText": "A diamond-shaped sign with an orange background indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Warning"
+        },
+        {
+          "id": "b",
+          "text": "Construction or work zone"
+        },
+        {
+          "id": "c",
+          "text": "School zone"
+        },
+        {
+          "id": "d",
+          "text": "Regulatory info"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Orange diamond signs are used to warn drivers of construction and maintenance work zones.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-021",
+      "category": "roadSigns",
+      "questionText": "A circular yellow sign with a black 'X' and 'RR' means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Road Repair"
+        },
+        {
+          "id": "b",
+          "text": "Railroad Crossing Ahead"
+        },
+        {
+          "id": "c",
+          "text": "Do Not Enter"
+        },
+        {
+          "id": "d",
+          "text": "Rest Area"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The round yellow sign is the advance warning sign for a railroad crossing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-022",
+      "category": "roadSigns",
+      "questionText": "A five-sided (pentagon) sign indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop ahead"
+        },
+        {
+          "id": "b",
+          "text": "School zone or school crossing"
+        },
+        {
+          "id": "c",
+          "text": "Yield"
+        },
+        {
+          "id": "d",
+          "text": "No parking"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The pentagon shape is reserved for school zones and school crossings. Drive with caution.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-023",
+      "category": "roadSigns",
+      "questionText": "A white rectangular sign indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Warning"
+        },
+        {
+          "id": "b",
+          "text": "Regulatory/Traffic Laws"
+        },
+        {
+          "id": "c",
+          "text": "Construction"
+        },
+        {
+          "id": "d",
+          "text": "Directions"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Vertical white rectangles are regulatory signs that tell you about traffic laws (e.g., Speed Limit, No Left Turn).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-024",
+      "category": "roadSigns",
+      "questionText": "A red and white inverted triangle sign means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop"
+        },
+        {
+          "id": "b",
+          "text": "Yield"
+        },
+        {
+          "id": "c",
+          "text": "Wrong Way"
+        },
+        {
+          "id": "d",
+          "text": "Slow Down"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The inverted triangle is the standard shape for a Yield sign.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-025",
+      "category": "roadSigns",
+      "questionText": "A yellow diamond-shaped sign indicates:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop"
+        },
+        {
+          "id": "b",
+          "text": "Warning or hazard"
+        },
+        {
+          "id": "c",
+          "text": "Railroad crossing"
+        },
+        {
+          "id": "d",
+          "text": "Speed limit"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Yellow diamond signs are warning signs that alert you to potential hazards or changes in road conditions.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-026",
+      "category": "roadSigns",
+      "questionText": "A square orange sign with black lettering means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Work zone or construction area"
+        },
+        {
+          "id": "b",
+          "text": "School zone"
+        },
+        {
+          "id": "c",
+          "text": "Detour ahead"
+        },
+        {
+          "id": "d",
+          "text": "Parking permitted"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Square orange signs indicate work zones or construction areas where workers may be present.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-027",
+      "category": "roadSigns",
+      "questionText": "A red circle with a red line through it means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop"
+        },
+        {
+          "id": "b",
+          "text": "The action is prohibited"
+        },
+        {
+          "id": "c",
+          "text": "Yield"
+        },
+        {
+          "id": "d",
+          "text": "One way"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A red circle with a diagonal red line through it is the international prohibition symbol, indicating that the pictured action is not allowed.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-028",
+      "category": "roadSigns",
+      "questionText": "Green signs on highways provide:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Warning information"
+        },
+        {
+          "id": "b",
+          "text": "Regulatory information"
+        },
+        {
+          "id": "c",
+          "text": "Directional and distance information"
+        },
+        {
+          "id": "d",
+          "text": "Construction alerts"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Green signs provide directional guidance and distance information on highways and expressways.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-029",
+      "category": "roadSigns",
+      "questionText": "Blue service signs indicate:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Emergency services only"
+        },
+        {
+          "id": "b",
+          "text": "Motorist services like food, gas, lodging"
+        },
+        {
+          "id": "c",
+          "text": "Hospital locations only"
+        },
+        {
+          "id": "d",
+          "text": "Police stations"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Blue signs provide information about motorist services such as rest areas, gas stations, food, and lodging.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-030",
+      "category": "roadSigns",
+      "questionText": "Brown signs indicate:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Construction zones"
+        },
+        {
+          "id": "b",
+          "text": "Recreational areas and points of interest"
+        },
+        {
+          "id": "c",
+          "text": "Warning hazards"
+        },
+        {
+          "id": "d",
+          "text": "School zones"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Brown signs provide information about recreational facilities, historic sites, and scenic areas.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-031",
+      "category": "roadSigns",
+      "questionText": "A flashing yellow traffic signal means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop completely"
+        },
+        {
+          "id": "b",
+          "text": "Proceed with caution"
+        },
+        {
+          "id": "c",
+          "text": "Speed up to clear the intersection"
+        },
+        {
+          "id": "d",
+          "text": "Yield to all traffic"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A flashing yellow light warns you to slow down and proceed with caution.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-032",
+      "category": "roadSigns",
+      "questionText": "A flashing red traffic signal means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Slow down"
+        },
+        {
+          "id": "b",
+          "text": "Stop and proceed when safe"
+        },
+        {
+          "id": "c",
+          "text": "Road closed"
+        },
+        {
+          "id": "d",
+          "text": "Emergency vehicles only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A flashing red signal means the same as a stop sign - you must come to a complete stop and proceed when safe.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-033",
+      "category": "roadSigns",
+      "questionText": "What does a yellow 'X' above a lane mean?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Lane is for emergency vehicles only"
+        },
+        {
+          "id": "b",
+          "text": "Prepare to leave the lane safely"
+        },
+        {
+          "id": "c",
+          "text": "No turns allowed"
+        },
+        {
+          "id": "d",
+          "text": "Construction ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A yellow 'X' signal indicates that the lane will soon be closed and drivers should prepare to move to another lane.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-034",
+      "category": "roadSigns",
+      "questionText": "A red 'X' displayed above a lane means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Drive faster"
+        },
+        {
+          "id": "b",
+          "text": "The lane is closed to traffic"
+        },
+        {
+          "id": "c",
+          "text": "Trucks only"
+        },
+        {
+          "id": "d",
+          "text": "Merge left"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A red 'X' means the lane is closed and you must not drive in that lane.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-035",
+      "category": "roadSigns",
+      "questionText": "A sign with a picture of a truck going downhill means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Truck weighing station ahead"
+        },
+        {
+          "id": "b",
+          "text": "Steep grade or hill ahead"
+        },
+        {
+          "id": "c",
+          "text": "No trucks allowed"
+        },
+        {
+          "id": "d",
+          "text": "Truck parking"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns of a steep grade or hill, particularly important for trucks and heavy vehicles.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-036",
+      "category": "roadSigns",
+      "questionText": "A sign showing a car with skid marks means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Slippery when wet"
+        },
+        {
+          "id": "b",
+          "text": "Sharp turn ahead"
+        },
+        {
+          "id": "c",
+          "text": "Road work"
+        },
+        {
+          "id": "d",
+          "text": "No passing"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns that the road may be slippery when wet, requiring reduced speed and increased caution.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-037",
+      "category": "roadSigns",
+      "questionText": "A sign with two arrows pointing in opposite directions means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Two-way traffic ahead"
+        },
+        {
+          "id": "b",
+          "text": "Divided highway ends"
+        },
+        {
+          "id": "c",
+          "text": "Lane ends"
+        },
+        {
+          "id": "d",
+          "text": "Keep right"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns that you are approaching a section of road where traffic flows in both directions.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-038",
+      "category": "roadSigns",
+      "questionText": "A diamond-shaped sign with a picture of a deer means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Hunting area"
+        },
+        {
+          "id": "b",
+          "text": "Wildlife crossing area"
+        },
+        {
+          "id": "c",
+          "text": "Zoo ahead"
+        },
+        {
+          "id": "d",
+          "text": "Game preserve"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns drivers to watch for deer and other wildlife that may cross the road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-039",
+      "category": "roadSigns",
+      "questionText": "A sign showing a bicycle means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Bicycle parking"
+        },
+        {
+          "id": "b",
+          "text": "Bicycles prohibited"
+        },
+        {
+          "id": "c",
+          "text": "Bicycle crossing or shared roadway"
+        },
+        {
+          "id": "d",
+          "text": "Bicycle repair shop"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "This sign warns motorists to watch for bicycles crossing or sharing the roadway.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-040",
+      "category": "roadSigns",
+      "questionText": "A sign with a picture of a traffic signal ahead means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Signal out of service"
+        },
+        {
+          "id": "b",
+          "text": "Signal ahead where you may not expect one"
+        },
+        {
+          "id": "c",
+          "text": "Yield to signal"
+        },
+        {
+          "id": "d",
+          "text": "Signal maintenance area"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns that there is a traffic signal ahead, often in a location where drivers might not expect one.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-041",
+      "category": "roadSigns",
+      "questionText": "A sign showing a merging arrow means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Two lanes merge into one"
+        },
+        {
+          "id": "b",
+          "text": "Exit ahead"
+        },
+        {
+          "id": "c",
+          "text": "Divided highway"
+        },
+        {
+          "id": "d",
+          "text": "No passing"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns that two lanes of traffic will merge into one lane ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-042",
+      "category": "roadSigns",
+      "questionText": "A sign with a winding road symbol means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Series of curves ahead"
+        },
+        {
+          "id": "b",
+          "text": "One sharp turn"
+        },
+        {
+          "id": "c",
+          "text": "Slippery road"
+        },
+        {
+          "id": "d",
+          "text": "Road under construction"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign warns of a series of curves or turns ahead, requiring reduced speed.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-043",
+      "category": "roadSigns",
+      "questionText": "A 'WRONG WAY' sign is usually paired with what other sign?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop"
+        },
+        {
+          "id": "b",
+          "text": "Do Not Enter"
+        },
+        {
+          "id": "c",
+          "text": "Yield"
+        },
+        {
+          "id": "d",
+          "text": "One Way"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Wrong Way signs are typically found with Do Not Enter signs to warn drivers they are heading the wrong direction.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-044",
+      "category": "roadSigns",
+      "questionText": "A white rectangular sign with 'ONLY' written below an arrow means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Traffic must move in the direction shown"
+        },
+        {
+          "id": "b",
+          "text": "One lane only"
+        },
+        {
+          "id": "c",
+          "text": "Turn only when safe"
+        },
+        {
+          "id": "d",
+          "text": "Passing allowed"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This lane use control sign indicates that traffic in that lane must move only in the direction of the arrow.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-045",
+      "category": "roadSigns",
+      "questionText": "A sign reading 'SLOWER TRAFFIC KEEP RIGHT' means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "All traffic must stay right"
+        },
+        {
+          "id": "b",
+          "text": "Slow vehicles should use the right lane"
+        },
+        {
+          "id": "c",
+          "text": "Right lane closed"
+        },
+        {
+          "id": "d",
+          "text": "Trucks only on right"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign reminds slower-moving vehicles to stay in the right lane to allow faster traffic to pass on the left.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-046",
+      "category": "roadSigns",
+      "questionText": "A sign showing a divided highway symbol means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Highway ends"
+        },
+        {
+          "id": "b",
+          "text": "Divided highway begins"
+        },
+        {
+          "id": "c",
+          "text": "Two-way traffic"
+        },
+        {
+          "id": "d",
+          "text": "Merge ahead"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign indicates that the highway ahead is divided with a median or barrier separating opposing traffic.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-047",
+      "category": "roadSigns",
+      "questionText": "What shape is a stop sign?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Triangle"
+        },
+        {
+          "id": "b",
+          "text": "Octagon (eight-sided)"
+        },
+        {
+          "id": "c",
+          "text": "Circle"
+        },
+        {
+          "id": "d",
+          "text": "Square"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A stop sign is always an octagon (eight-sided), the only sign that uses this shape.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-048",
+      "category": "roadSigns",
+      "questionText": "A sign with a large arrow curving to the right or left means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Sharp curve ahead in the direction of the arrow"
+        },
+        {
+          "id": "b",
+          "text": "Merge in that direction"
+        },
+        {
+          "id": "c",
+          "text": "Exit ramp"
+        },
+        {
+          "id": "d",
+          "text": "One way street"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A large curved arrow sign warns of a sharp curve ahead in the direction the arrow points.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-049",
+      "category": "roadSigns",
+      "questionText": "A circular sign with a diagonal line through a turn arrow means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "No turns in that direction"
+        },
+        {
+          "id": "b",
+          "text": "Sharp turn ahead"
+        },
+        {
+          "id": "c",
+          "text": "Yield before turning"
+        },
+        {
+          "id": "d",
+          "text": "Turn signal required"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This regulatory sign prohibits turns in the direction shown by the crossed-out arrow.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-050",
+      "category": "roadSigns",
+      "questionText": "A yellow warning sign with black arrows showing one arrow going straight and another turning means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "You can go straight or turn"
+        },
+        {
+          "id": "b",
+          "text": "Intersection ahead with turning traffic"
+        },
+        {
+          "id": "c",
+          "text": "Divided road"
+        },
+        {
+          "id": "d",
+          "text": "Lane ends"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign warns of an intersection ahead where traffic may be turning.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-051",
+      "category": "roadSigns",
+      "questionText": "What does a white 'X' shaped sign with black 'RR' letters indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Rest area"
+        },
+        {
+          "id": "b",
+          "text": "Railroad crossing"
+        },
+        {
+          "id": "c",
+          "text": "Road repair"
+        },
+        {
+          "id": "d",
+          "text": "Restricted road"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The white X-shaped crossbuck sign marks a railroad crossing and requires drivers to yield to trains.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-052",
+      "category": "roadSigns",
+      "questionText": "A sign reading 'PED XING' means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Pedestrian crossing"
+        },
+        {
+          "id": "b",
+          "text": "Parking excluded"
+        },
+        {
+          "id": "c",
+          "text": "Pedestrians excluded"
+        },
+        {
+          "id": "d",
+          "text": "Pedal crossing for bicycles"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "'PED XING' is an abbreviation for pedestrian crossing, warning drivers to watch for people crossing the road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-053",
+      "category": "roadSigns",
+      "questionText": "A sign with 'SLOWER TRAFFIC KEEP RIGHT' specifically enforces:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "North Carolina's Slow Poke Law"
+        },
+        {
+          "id": "b",
+          "text": "Speed limits"
+        },
+        {
+          "id": "c",
+          "text": "Truck regulations"
+        },
+        {
+          "id": "d",
+          "text": "Lane closure"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This sign enforces North Carolina's Slow Poke Law, requiring slower traffic to use the right lane on multi-lane highways.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-054",
+      "category": "roadSigns",
+      "questionText": "A diamond-shaped orange sign with 'FLAGGER AHEAD' means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Flag ceremony ahead"
+        },
+        {
+          "id": "b",
+          "text": "Person directing traffic ahead in work zone"
+        },
+        {
+          "id": "c",
+          "text": "Police checkpoint"
+        },
+        {
+          "id": "d",
+          "text": "Toll booth"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This work zone sign warns that a person (flagger) will be directing traffic ahead, and you must obey their signals.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-055",
+      "category": "roadSigns",
+      "questionText": "A sign with 'ROAD WORK AHEAD' and an arrow pointing right means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Exit for road work"
+        },
+        {
+          "id": "b",
+          "text": "Road work is on the right side"
+        },
+        {
+          "id": "c",
+          "text": "Merge right due to road work"
+        },
+        {
+          "id": "d",
+          "text": "Turn right to avoid road work"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The arrow indicates the location of the road work, warning drivers to expect construction activity on that side.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-056",
+      "category": "roadSigns",
+      "questionText": "A regulatory sign showing a red circle with '35' inside means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Minimum speed 35 mph"
+        },
+        {
+          "id": "b",
+          "text": "Maximum speed 35 mph"
+        },
+        {
+          "id": "c",
+          "text": "Exit 35"
+        },
+        {
+          "id": "d",
+          "text": "Route 35"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A number inside a red circle indicates the maximum speed limit for that area.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-057",
+      "category": "roadSigns",
+      "questionText": "A sign reading 'KEEP RIGHT' with an arrow means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stay in right lane"
+        },
+        {
+          "id": "b",
+          "text": "Pass an obstruction on the right"
+        },
+        {
+          "id": "c",
+          "text": "Turn right only"
+        },
+        {
+          "id": "d",
+          "text": "Slower traffic"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This sign directs traffic to pass an obstruction, median, or island on the right side.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-058",
+      "category": "roadSigns",
+      "questionText": "An orange sign with 'DETOUR' and an arrow means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Road closed, follow arrow for alternate route"
+        },
+        {
+          "id": "b",
+          "text": "Scenic route"
+        },
+        {
+          "id": "c",
+          "text": "Exit ramp"
+        },
+        {
+          "id": "d",
+          "text": "Rest area direction"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Detour signs direct traffic around road closures or construction to an alternate route.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-059",
+      "category": "roadSigns",
+      "questionText": "A yellow pennant-shaped sign is always placed:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "On the right side of the road"
+        },
+        {
+          "id": "b",
+          "text": "On the left side of the road"
+        },
+        {
+          "id": "c",
+          "text": "Above the road"
+        },
+        {
+          "id": "d",
+          "text": "At intersections"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The pennant-shaped No Passing Zone sign is always on the left side of the road, marking where passing is prohibited.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-060",
+      "category": "safeDriving",
+      "questionText": "When driving in heavy rain, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Increase speed to get through it quickly"
+        },
+        {
+          "id": "b",
+          "text": "Use cruise control"
+        },
+        {
+          "id": "c",
+          "text": "Reduce speed and increase following distance"
+        },
+        {
+          "id": "d",
+          "text": "Turn off headlights to reduce glare"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "In heavy rain, reduce your speed, increase following distance, and turn on headlights. Never use cruise control in wet conditions.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-061",
+      "category": "safeDriving",
+      "questionText": "If you experience a tire blowout while driving, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Brake hard immediately"
+        },
+        {
+          "id": "b",
+          "text": "Hold the steering wheel firmly and gradually slow down"
+        },
+        {
+          "id": "c",
+          "text": "Accelerate to maintain control"
+        },
+        {
+          "id": "d",
+          "text": "Turn sharply to the shoulder"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "During a blowout, grip the steering wheel firmly, ease off the gas pedal, and brake gently once you have control. Avoid sudden braking or turning.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-062",
+      "category": "safeDriving",
+      "questionText": "When approaching a curve, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Accelerate through it"
+        },
+        {
+          "id": "b",
+          "text": "Slow down before entering the curve"
+        },
+        {
+          "id": "c",
+          "text": "Brake while in the curve"
+        },
+        {
+          "id": "d",
+          "text": "Maintain the same speed"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Slow down before entering a curve, not while in it. Braking in a curve can cause loss of control.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-063",
+      "category": "safeDriving",
+      "questionText": "The safest way to exit an expressway is to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Slow down before reaching the exit ramp"
+        },
+        {
+          "id": "b",
+          "text": "Slow down on the exit ramp"
+        },
+        {
+          "id": "c",
+          "text": "Maintain highway speed until you exit"
+        },
+        {
+          "id": "d",
+          "text": "Brake hard at the last minute"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Maintain your speed on the highway and use the deceleration lane (exit ramp) to slow down to the posted ramp speed.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-064",
+      "category": "safeDriving",
+      "questionText": "When driving at night, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Always use high beams"
+        },
+        {
+          "id": "b",
+          "text": "Overdrive your headlights"
+        },
+        {
+          "id": "c",
+          "text": "Reduce speed and use low beams in traffic"
+        },
+        {
+          "id": "d",
+          "text": "Follow other cars closely to see better"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "At night, reduce speed and use low beams when following other vehicles or meeting oncoming traffic. Never 'overdrive' your headlights.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-065",
+      "category": "safeDriving",
+      "questionText": "If your brakes fail while driving, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Pump the brake pedal"
+        },
+        {
+          "id": "b",
+          "text": "Turn off the engine"
+        },
+        {
+          "id": "c",
+          "text": "Pull the parking brake hard"
+        },
+        {
+          "id": "d",
+          "text": "Shift to neutral immediately"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "If brakes fail, pump the brake pedal rapidly to build up brake fluid pressure. Downshift to lower gears and use the parking brake gently if needed.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-066",
+      "category": "safeDriving",
+      "questionText": "When being passed by another vehicle, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Speed up"
+        },
+        {
+          "id": "b",
+          "text": "Move to the right and maintain your speed"
+        },
+        {
+          "id": "c",
+          "text": "Slow down significantly"
+        },
+        {
+          "id": "d",
+          "text": "Follow closely behind"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When being passed, stay in your lane, maintain a steady speed, and move to the right if possible to give the passing vehicle more room.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-067",
+      "category": "safeDriving",
+      "questionText": "You should use your horn:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "To alert other drivers of potential danger"
+        },
+        {
+          "id": "b",
+          "text": "To express anger at another driver"
+        },
+        {
+          "id": "c",
+          "text": "When passing another vehicle"
+        },
+        {
+          "id": "d",
+          "text": "At every intersection"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Use your horn only to warn others of danger or to get attention when necessary, not to express frustration.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-068",
+      "category": "safeDriving",
+      "questionText": "The best way to handle a skid is to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Brake hard"
+        },
+        {
+          "id": "b",
+          "text": "Accelerate"
+        },
+        {
+          "id": "c",
+          "text": "Steer in the direction you want to go"
+        },
+        {
+          "id": "d",
+          "text": "Turn the wheel sharply"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "In a skid, ease off the gas, avoid braking, and steer in the direction you want the front of the car to go.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-069",
+      "category": "safeDriving",
+      "questionText": "When driving in work zones, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Maintain highway speed"
+        },
+        {
+          "id": "b",
+          "text": "Watch for workers and obey posted signs"
+        },
+        {
+          "id": "c",
+          "text": "Change lanes frequently"
+        },
+        {
+          "id": "d",
+          "text": "Use your phone to report delays"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In work zones, slow down, obey all posted signs and speed limits, stay alert for workers, and avoid distractions.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-070",
+      "category": "safeDriving",
+      "questionText": "If you are involved in a minor crash with no injuries, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Leave immediately"
+        },
+        {
+          "id": "b",
+          "text": "Move vehicles to the shoulder if possible"
+        },
+        {
+          "id": "c",
+          "text": "Wait for police in the travel lane"
+        },
+        {
+          "id": "d",
+          "text": "Argue with the other driver"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Under NC's 'Fender Bender' law, if there are no injuries and vehicles can be moved, you must move them to the shoulder to avoid blocking traffic.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-071",
+      "category": "safeDriving",
+      "questionText": "When should you use your high beam headlights?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "In fog or heavy rain"
+        },
+        {
+          "id": "b",
+          "text": "On open highways with no oncoming traffic"
+        },
+        {
+          "id": "c",
+          "text": "When following another vehicle closely"
+        },
+        {
+          "id": "d",
+          "text": "In city traffic"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use high beams on open highways when there is no oncoming traffic and you are not following another vehicle. Dim them within 500 feet of oncoming traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-072",
+      "category": "safeDriving",
+      "questionText": "If you are driving and feel drowsy, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Open windows and continue"
+        },
+        {
+          "id": "b",
+          "text": "Drink coffee and keep driving"
+        },
+        {
+          "id": "c",
+          "text": "Pull over and rest"
+        },
+        {
+          "id": "d",
+          "text": "Turn up the radio"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The only safe solution to drowsy driving is to pull over in a safe location and rest or sleep.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-073",
+      "category": "safeDriving",
+      "questionText": "When driving on ice or snow, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Use cruise control"
+        },
+        {
+          "id": "b",
+          "text": "Reduce speed and increase following distance"
+        },
+        {
+          "id": "c",
+          "text": "Brake hard to maintain control"
+        },
+        {
+          "id": "d",
+          "text": "Accelerate quickly"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "On ice and snow, reduce speed significantly, increase following distance to 8-10 seconds, and avoid sudden movements.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-074",
+      "category": "safeDriving",
+      "questionText": "The 'Three-Second Rule' means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Look three seconds ahead"
+        },
+        {
+          "id": "b",
+          "text": "Signal for three seconds"
+        },
+        {
+          "id": "c",
+          "text": "Maintain at least three seconds following distance"
+        },
+        {
+          "id": "d",
+          "text": "Stop for three seconds"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The Three-Second Rule is a method to maintain safe following distance by keeping at least three seconds between your vehicle and the one ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-075",
+      "category": "safeDriving",
+      "questionText": "When changing lanes, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Signal, check mirrors and blind spots, then change lanes"
+        },
+        {
+          "id": "b",
+          "text": "Change lanes first, then signal"
+        },
+        {
+          "id": "c",
+          "text": "Only check your mirrors"
+        },
+        {
+          "id": "d",
+          "text": "Speed up while changing"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Always signal first, check mirrors and blind spots, and then change lanes when safe. Make the signal early enough to warn other drivers.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-076",
+      "category": "safeDriving",
+      "questionText": "If your vehicle starts to hydroplane, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Brake firmly"
+        },
+        {
+          "id": "b",
+          "text": "Ease off the gas and steer straight"
+        },
+        {
+          "id": "c",
+          "text": "Accelerate"
+        },
+        {
+          "id": "d",
+          "text": "Turn the steering wheel rapidly"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If you hydroplane, ease off the gas pedal, hold the steering wheel straight, and avoid braking until you regain traction.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-077",
+      "category": "safeDriving",
+      "questionText": "When backing up, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only use your mirrors"
+        },
+        {
+          "id": "b",
+          "text": "Turn and look over your shoulder"
+        },
+        {
+          "id": "c",
+          "text": "Back up quickly"
+        },
+        {
+          "id": "d",
+          "text": "Honk your horn continuously"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When backing, turn your body and look over your shoulder in the direction you're backing. Also check mirrors and proceed slowly.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-078",
+      "category": "safeDriving",
+      "questionText": "Anti-lock brakes (ABS) help you:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop faster on dry roads"
+        },
+        {
+          "id": "b",
+          "text": "Maintain steering control while braking hard"
+        },
+        {
+          "id": "c",
+          "text": "Stop instantly"
+        },
+        {
+          "id": "d",
+          "text": "Drive faster safely"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "ABS prevents wheel lockup during hard braking, allowing you to maintain steering control. Apply steady, firm pressure to the brake pedal.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-079",
+      "category": "safeDriving",
+      "questionText": "A good defensive driver should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Expect other drivers to make mistakes"
+        },
+        {
+          "id": "b",
+          "text": "Always drive at the speed limit"
+        },
+        {
+          "id": "c",
+          "text": "Focus only on the car ahead"
+        },
+        {
+          "id": "d",
+          "text": "Tailgate slow drivers"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Defensive driving means anticipating potential hazards and being prepared for mistakes by other drivers.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-080",
+      "category": "safeDriving",
+      "questionText": "When should you check your blind spots?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only when changing lanes"
+        },
+        {
+          "id": "b",
+          "text": "Before changing lanes and merging"
+        },
+        {
+          "id": "c",
+          "text": "Never, mirrors are sufficient"
+        },
+        {
+          "id": "d",
+          "text": "Only on highways"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Always check blind spots before changing lanes, merging, or turning. Mirrors alone cannot show everything.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-081",
+      "category": "safeDriving",
+      "questionText": "If you miss your exit on an interstate, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Back up to the exit"
+        },
+        {
+          "id": "b",
+          "text": "Stop and turn around"
+        },
+        {
+          "id": "c",
+          "text": "Continue to the next exit"
+        },
+        {
+          "id": "d",
+          "text": "Make a U-turn"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Never back up, stop, or turn around on an interstate. Continue to the next exit and find your way from there.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-082",
+      "category": "safeDriving",
+      "questionText": "When approaching a railroad crossing with flashing lights, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Speed up to cross quickly"
+        },
+        {
+          "id": "b",
+          "text": "Stop and wait for the train"
+        },
+        {
+          "id": "c",
+          "text": "Slow down and look both ways"
+        },
+        {
+          "id": "d",
+          "text": "Honk and proceed"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When lights are flashing at a railroad crossing, you must stop at least 15 feet from the nearest rail and wait for the train to pass.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-083",
+      "category": "safeDriving",
+      "questionText": "Space cushion driving means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Using soft seats"
+        },
+        {
+          "id": "b",
+          "text": "Keeping space around your vehicle on all sides"
+        },
+        {
+          "id": "c",
+          "text": "Following closely"
+        },
+        {
+          "id": "d",
+          "text": "Driving in the center lane only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A space cushion means maintaining adequate space on all sides of your vehicle to give you time to react to hazards.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-084",
+      "category": "safeDriving",
+      "questionText": "When driving near large trucks, you should avoid:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Their blind spots (no-zones)"
+        },
+        {
+          "id": "b",
+          "text": "Passing them"
+        },
+        {
+          "id": "c",
+          "text": "Using turn signals"
+        },
+        {
+          "id": "d",
+          "text": "Highway driving"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Large trucks have significant blind spots on all sides. Avoid lingering in these 'no-zones' where the truck driver cannot see you.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-085",
+      "category": "safeDriving",
+      "questionText": "Driving distractions include:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Eating and drinking"
+        },
+        {
+          "id": "b",
+          "text": "Using a cell phone"
+        },
+        {
+          "id": "c",
+          "text": "Adjusting the radio"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "All of these are distractions that take your attention from driving. Avoid all distractions and focus on the road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-086",
+      "category": "safeDriving",
+      "questionText": "When driving on a wet road, your following distance should be:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The same as on dry roads"
+        },
+        {
+          "id": "b",
+          "text": "At least double"
+        },
+        {
+          "id": "c",
+          "text": "Half the normal distance"
+        },
+        {
+          "id": "d",
+          "text": "One car length"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "On wet roads, you need at least twice the normal following distance because stopping distance increases significantly.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-087",
+      "category": "safeDriving",
+      "questionText": "If you see a pedestrian with a white cane or guide dog, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Honk to alert them"
+        },
+        {
+          "id": "b",
+          "text": "Proceed normally"
+        },
+        {
+          "id": "c",
+          "text": "Stop and yield right-of-way"
+        },
+        {
+          "id": "d",
+          "text": "Speed up to pass quickly"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "A white cane or guide dog indicates a blind pedestrian. You must stop and yield the right-of-way.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-088",
+      "category": "trafficLaws",
+      "questionText": "North Carolina's Hands Free Law prohibits drivers from:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Holding a mobile phone while driving"
+        },
+        {
+          "id": "b",
+          "text": "Using hands-free devices"
+        },
+        {
+          "id": "c",
+          "text": "Having a phone in the car"
+        },
+        {
+          "id": "d",
+          "text": "Talking on the phone only"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "North Carolina's Hands Free Law (effective 2019) prohibits drivers from holding a mobile phone while driving. Hands-free use is permitted for those 18 and over.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-089",
+      "category": "trafficLaws",
+      "questionText": "What is North Carolina's Move Over Law?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Move right for faster traffic"
+        },
+        {
+          "id": "b",
+          "text": "Change lanes or slow down for stopped emergency vehicles"
+        },
+        {
+          "id": "c",
+          "text": "Pull over for school buses"
+        },
+        {
+          "id": "d",
+          "text": "Move over for pedestrians"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The Move Over Law requires drivers to change lanes away from or slow down for stopped emergency, law enforcement, and utility vehicles with flashing lights.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-090",
+      "category": "trafficLaws",
+      "questionText": "On North Carolina highways, the left lane is intended for:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Faster moving traffic and passing"
+        },
+        {
+          "id": "b",
+          "text": "Trucks only"
+        },
+        {
+          "id": "c",
+          "text": "Continuous travel at any speed"
+        },
+        {
+          "id": "d",
+          "text": "Emergency vehicles only"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The left lane is for passing and faster-moving traffic. Slower traffic must keep right per the Slow Poke Law.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-091",
+      "category": "trafficLaws",
+      "questionText": "Unless otherwise posted, the speed limit on interstate highways in North Carolina is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "55 mph"
+        },
+        {
+          "id": "b",
+          "text": "65 mph"
+        },
+        {
+          "id": "c",
+          "text": "70 mph"
+        },
+        {
+          "id": "d",
+          "text": "75 mph"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The maximum speed limit on North Carolina interstate highways is 70 mph unless otherwise posted.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-092",
+      "category": "trafficLaws",
+      "questionText": "You may turn right on red after stopping:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Never"
+        },
+        {
+          "id": "b",
+          "text": "Only if no sign prohibits it"
+        },
+        {
+          "id": "c",
+          "text": "Without stopping"
+        },
+        {
+          "id": "d",
+          "text": "Only on highways"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In North Carolina, you may turn right on red after coming to a complete stop and yielding to traffic, unless a sign prohibits it.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-093",
+      "category": "trafficLaws",
+      "questionText": "During the first 6 months of a Limited Provisional License, a driver under 18 may not carry:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Any passengers"
+        },
+        {
+          "id": "b",
+          "text": "More than one passenger under 21 who is not a family member"
+        },
+        {
+          "id": "c",
+          "text": "More than two passengers"
+        },
+        {
+          "id": "d",
+          "text": "Any passengers under 16"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "For the first 6 months of a Limited Provisional License, drivers under 18 cannot have more than one passenger under 21 who is not a family member.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-094",
+      "category": "trafficLaws",
+      "questionText": "Aggressive driving in North Carolina includes:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Speeding, following too closely, unsafe lane changes"
+        },
+        {
+          "id": "b",
+          "text": "Driving slowly"
+        },
+        {
+          "id": "c",
+          "text": "Using turn signals"
+        },
+        {
+          "id": "d",
+          "text": "Stopping at red lights"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Aggressive driving includes speeding, tailgating, unsafe lane changes, running red lights, and other dangerous behaviors.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-095",
+      "category": "trafficLaws",
+      "questionText": "What is the speed limit in school zones when children are present?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "15 mph"
+        },
+        {
+          "id": "b",
+          "text": "20 mph"
+        },
+        {
+          "id": "c",
+          "text": "25 mph"
+        },
+        {
+          "id": "d",
+          "text": "35 mph"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "In North Carolina school zones, the speed limit is typically 25 mph when children are present or signs are flashing.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-096",
+      "category": "trafficLaws",
+      "questionText": "If you approach a school bus with flashing red lights and a stop arm on a four-lane highway divided by a median, you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop if traveling in either direction"
+        },
+        {
+          "id": "b",
+          "text": "Stop only if traveling in the same direction"
+        },
+        {
+          "id": "c",
+          "text": "Slow down but not stop"
+        },
+        {
+          "id": "d",
+          "text": "Stop only if children are visible"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "On a divided highway with a median, only traffic traveling in the same direction as the school bus must stop.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-097",
+      "category": "trafficLaws",
+      "questionText": "Texting while driving is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Legal for drivers over 21"
+        },
+        {
+          "id": "b",
+          "text": "Illegal for all drivers"
+        },
+        {
+          "id": "c",
+          "text": "Legal at stop lights"
+        },
+        {
+          "id": "d",
+          "text": "Legal with hands-free devices"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Texting while driving is illegal for all drivers in North Carolina, regardless of age.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-098",
+      "category": "trafficLaws",
+      "questionText": "Unless otherwise posted, what is the speed limit in residential areas?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "25 mph"
+        },
+        {
+          "id": "b",
+          "text": "35 mph"
+        },
+        {
+          "id": "c",
+          "text": "45 mph"
+        },
+        {
+          "id": "d",
+          "text": "55 mph"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Unless otherwise posted, the speed limit in residential areas in North Carolina is 35 mph.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-099",
+      "category": "trafficLaws",
+      "questionText": "When must you use headlights in North Carolina?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "From sunset to sunrise only"
+        },
+        {
+          "id": "b",
+          "text": "When wipers are in use and from sunset to sunrise"
+        },
+        {
+          "id": "c",
+          "text": "Only in bad weather"
+        },
+        {
+          "id": "d",
+          "text": "Only at night"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "North Carolina law requires headlights from sunset to sunrise and whenever windshield wipers are in continuous use.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-100",
+      "category": "trafficLaws",
+      "questionText": "A Limited Learner Permit holder must be supervised by a licensed driver who is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "At least 18 years old"
+        },
+        {
+          "id": "b",
+          "text": "At least 21 years old with at least one year of experience"
+        },
+        {
+          "id": "c",
+          "text": "Any licensed driver"
+        },
+        {
+          "id": "d",
+          "text": "A parent or guardian only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A Limited Learner Permit holder must be supervised by a licensed driver who is at least 21 years old with at least one year of driving experience.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-101",
+      "category": "trafficLaws",
+      "questionText": "Seat belts must be worn by:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The driver only"
+        },
+        {
+          "id": "b",
+          "text": "Front seat passengers only"
+        },
+        {
+          "id": "c",
+          "text": "All occupants of the vehicle"
+        },
+        {
+          "id": "d",
+          "text": "Only passengers under 16"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "North Carolina law requires all occupants of a vehicle to wear seat belts, regardless of seating position.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-102",
+      "category": "trafficLaws",
+      "questionText": "At what age can you get a Limited Learner Permit in North Carolina?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "14 years old"
+        },
+        {
+          "id": "b",
+          "text": "15 years old"
+        },
+        {
+          "id": "c",
+          "text": "16 years old"
+        },
+        {
+          "id": "d",
+          "text": "17 years old"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In North Carolina, you can apply for a Limited Learner Permit at age 15.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-103",
+      "category": "trafficLaws",
+      "questionText": "The curfew for drivers under 18 with a Limited Provisional License is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "10 PM to 6 AM"
+        },
+        {
+          "id": "b",
+          "text": "9 PM to 5 AM"
+        },
+        {
+          "id": "c",
+          "text": "11 PM to 6 AM"
+        },
+        {
+          "id": "d",
+          "text": "Midnight to 5 AM"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Drivers under 18 with a Limited Provisional License cannot drive between 9 PM and 5 AM unless for work, school, or emergencies.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-104",
+      "category": "trafficLaws",
+      "questionText": "When can you legally pass a vehicle on the right?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Never"
+        },
+        {
+          "id": "b",
+          "text": "On a one-way street or when the vehicle ahead is turning left"
+        },
+        {
+          "id": "c",
+          "text": "Anytime"
+        },
+        {
+          "id": "d",
+          "text": "Only on highways"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You may pass on the right when on a one-way street, when the vehicle ahead is making a left turn, or on roads with two or more lanes in your direction.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-105",
+      "category": "trafficLaws",
+      "questionText": "You must yield to pedestrians:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only at crosswalks"
+        },
+        {
+          "id": "b",
+          "text": "Only when they have a walk signal"
+        },
+        {
+          "id": "c",
+          "text": "At all times when they are in the roadway"
+        },
+        {
+          "id": "d",
+          "text": "Never"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Drivers must yield to pedestrians at all times when they are lawfully in the roadway, including crosswalks and intersections.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-106",
+      "category": "rightOfWay",
+      "questionText": "When two vehicles arrive at an uncontrolled T-intersection at the same time:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The vehicle on the through road has the right-of-way"
+        },
+        {
+          "id": "b",
+          "text": "The vehicle turning has the right-of-way"
+        },
+        {
+          "id": "c",
+          "text": "The larger vehicle has the right-of-way"
+        },
+        {
+          "id": "d",
+          "text": "Both must stop indefinitely"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "At a T-intersection, vehicles on the through road (the top of the T) have the right-of-way over vehicles on the terminating road.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-107",
+      "category": "rightOfWay",
+      "questionText": "When making a left turn, you must yield to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Oncoming traffic and pedestrians"
+        },
+        {
+          "id": "b",
+          "text": "Nothing if you have a green light"
+        },
+        {
+          "id": "c",
+          "text": "Only pedestrians"
+        },
+        {
+          "id": "d",
+          "text": "Only vehicles turning right"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "When making a left turn, you must yield to all oncoming traffic and pedestrians crossing the street, even if you have a green light.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-108",
+      "category": "rightOfWay",
+      "questionText": "Emergency vehicles with sirens and lights activated have:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "No special privileges"
+        },
+        {
+          "id": "b",
+          "text": "The right-of-way over all other traffic"
+        },
+        {
+          "id": "c",
+          "text": "The right-of-way only at intersections"
+        },
+        {
+          "id": "d",
+          "text": "The same rights as other vehicles"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Emergency vehicles with lights and sirens activated have the right-of-way. You must pull over and stop until they pass.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-109",
+      "category": "rightOfWay",
+      "questionText": "Who has the right-of-way at a roundabout?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vehicles entering the roundabout"
+        },
+        {
+          "id": "b",
+          "text": "Vehicles already in the roundabout"
+        },
+        {
+          "id": "c",
+          "text": "Larger vehicles"
+        },
+        {
+          "id": "d",
+          "text": "The first vehicle to arrive"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Vehicles already circulating in the roundabout have the right-of-way. Entering vehicles must yield.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-110",
+      "category": "rightOfWay",
+      "questionText": "When you hear a siren or see flashing lights from an emergency vehicle, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Speed up to get out of the way"
+        },
+        {
+          "id": "b",
+          "text": "Stop immediately in your lane"
+        },
+        {
+          "id": "c",
+          "text": "Pull to the right and stop"
+        },
+        {
+          "id": "d",
+          "text": "Continue at the same speed"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "When an emergency vehicle approaches with lights and sirens, pull to the right side of the road and stop until it passes.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-111",
+      "category": "rightOfWay",
+      "questionText": "You must stop for a school bus:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only if children are visible"
+        },
+        {
+          "id": "b",
+          "text": "When its red lights are flashing and stop arm is extended"
+        },
+        {
+          "id": "c",
+          "text": "Only in school zones"
+        },
+        {
+          "id": "d",
+          "text": "Never on highways"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must stop when a school bus displays flashing red lights and extends its stop arm, indicating children are loading or unloading.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-112",
+      "category": "rightOfWay",
+      "questionText": "At a four-way stop, if two cars arrive at different times:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The larger vehicle goes first"
+        },
+        {
+          "id": "b",
+          "text": "The vehicle that arrived first goes first"
+        },
+        {
+          "id": "c",
+          "text": "The vehicle on the right goes first"
+        },
+        {
+          "id": "d",
+          "text": "Both go at the same time"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "At a four-way stop, vehicles proceed in the order they arrived. The first vehicle to stop is the first to go.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-113",
+      "category": "rightOfWay",
+      "questionText": "When entering traffic from a parked position, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Enter quickly"
+        },
+        {
+          "id": "b",
+          "text": "Signal and yield to traffic"
+        },
+        {
+          "id": "c",
+          "text": "Honk and proceed"
+        },
+        {
+          "id": "d",
+          "text": "Expect traffic to stop for you"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When entering traffic from a parked position, signal your intention and yield to traffic already on the roadway.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-114",
+      "category": "rightOfWay",
+      "questionText": "You are driving and an emergency vehicle approaches from behind. You should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Speed up"
+        },
+        {
+          "id": "b",
+          "text": "Stop in your lane"
+        },
+        {
+          "id": "c",
+          "text": "Pull to the right and stop"
+        },
+        {
+          "id": "d",
+          "text": "Change lanes quickly"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Pull to the right side of the road and come to a complete stop until the emergency vehicle passes.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-115",
+      "category": "rightOfWay",
+      "questionText": "At an intersection with a flashing yellow light, you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop completely"
+        },
+        {
+          "id": "b",
+          "text": "Slow down and proceed with caution"
+        },
+        {
+          "id": "c",
+          "text": "Speed up"
+        },
+        {
+          "id": "d",
+          "text": "Treat it as a four-way stop"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A flashing yellow light means slow down and proceed with caution. Be prepared to yield if necessary.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-116",
+      "category": "rightOfWay",
+      "questionText": "When approaching a yield sign, you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Always come to a complete stop"
+        },
+        {
+          "id": "b",
+          "text": "Slow down and yield to traffic"
+        },
+        {
+          "id": "c",
+          "text": "Maintain speed"
+        },
+        {
+          "id": "d",
+          "text": "Honk your horn"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "At a yield sign, slow down and be prepared to stop if necessary to yield the right-of-way to other vehicles or pedestrians.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-117",
+      "category": "rightOfWay",
+      "questionText": "Funeral processions have the right-of-way:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Never"
+        },
+        {
+          "id": "b",
+          "text": "Only at intersections"
+        },
+        {
+          "id": "c",
+          "text": "When led by an escort vehicle"
+        },
+        {
+          "id": "d",
+          "text": "At all times"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Funeral processions led by an escort vehicle have the right-of-way. Do not interrupt or pass through a procession.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-118",
+      "category": "rightOfWay",
+      "questionText": "When turning left from a two-way street onto a one-way street, you should turn into:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Any lane"
+        },
+        {
+          "id": "b",
+          "text": "The lane closest to the center line"
+        },
+        {
+          "id": "c",
+          "text": "The right lane"
+        },
+        {
+          "id": "d",
+          "text": "The far left lane"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When turning left onto a one-way street, turn into the lane closest to the center line of the road you are entering.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-119",
+      "category": "rightOfWay",
+      "questionText": "Mail carriers and newspaper delivery drivers have:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "No special privileges"
+        },
+        {
+          "id": "b",
+          "text": "The right to block traffic"
+        },
+        {
+          "id": "c",
+          "text": "Limited parking privileges while making deliveries"
+        },
+        {
+          "id": "d",
+          "text": "The right-of-way at all times"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Mail carriers and delivery drivers have limited privileges to stop briefly for deliveries, but other traffic laws still apply.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-120",
+      "category": "rightOfWay",
+      "questionText": "A green arrow pointing left at an intersection means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "You may turn left but must yield to pedestrians"
+        },
+        {
+          "id": "b",
+          "text": "You may turn left and have the right-of-way"
+        },
+        {
+          "id": "c",
+          "text": "You must turn left"
+        },
+        {
+          "id": "d",
+          "text": "Left turns are prohibited"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A green arrow means you may proceed in the direction of the arrow and have the right-of-way over other traffic.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-121",
+      "category": "rightOfWay",
+      "questionText": "When exiting a driveway or alley, you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Yield to all traffic and pedestrians"
+        },
+        {
+          "id": "b",
+          "text": "Have the right-of-way"
+        },
+        {
+          "id": "c",
+          "text": "Honk before entering"
+        },
+        {
+          "id": "d",
+          "text": "Enter quickly"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "When exiting a private driveway or alley, you must stop and yield to all traffic and pedestrians on the sidewalk or roadway.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-122",
+      "category": "rightOfWay",
+      "questionText": "If you arrive at a stop sign at the same time as another vehicle on your right:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "You have the right-of-way"
+        },
+        {
+          "id": "b",
+          "text": "The vehicle on the right has the right-of-way"
+        },
+        {
+          "id": "c",
+          "text": "Both proceed at the same time"
+        },
+        {
+          "id": "d",
+          "text": "The larger vehicle goes first"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When two vehicles arrive at a stop sign simultaneously, the vehicle on the right has the right-of-way.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-123",
+      "category": "stateSpecific",
+      "questionText": "In North Carolina, the separate road signs test requires you to correctly identify:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "8 out of 10 signs"
+        },
+        {
+          "id": "b",
+          "text": "10 out of 12 signs"
+        },
+        {
+          "id": "c",
+          "text": "12 out of 15 signs"
+        },
+        {
+          "id": "d",
+          "text": "15 out of 20 signs"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "North Carolina requires a separate road signs test where applicants must correctly identify 10 out of 12 signs (80%) by shape and color.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-124",
+      "category": "stateSpecific",
+      "questionText": "The 'Fender Bender' law in North Carolina requires drivers to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Call police for any crash"
+        },
+        {
+          "id": "b",
+          "text": "Move vehicles to the shoulder if no injuries and vehicles are operable"
+        },
+        {
+          "id": "c",
+          "text": "Leave the scene if damage is minor"
+        },
+        {
+          "id": "d",
+          "text": "Wait in the travel lane for police"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "NC's Fender Bender law requires drivers to move vehicles out of the travel lane to the shoulder if there are no injuries and vehicles are operable.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-125",
+      "category": "stateSpecific",
+      "questionText": "North Carolina's Slow Poke Law specifically requires:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "All traffic to use the right lane"
+        },
+        {
+          "id": "b",
+          "text": "Slower traffic to keep right on multi-lane highways"
+        },
+        {
+          "id": "c",
+          "text": "Trucks to stay right at all times"
+        },
+        {
+          "id": "d",
+          "text": "A minimum speed on highways"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The Slow Poke Law requires slower-moving traffic to keep right on multi-lane highways, keeping the left lane available for passing.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-126",
+      "category": "stateSpecific",
+      "questionText": "In North Carolina, drivers under 18 are prohibited from using cell phones:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only while texting"
+        },
+        {
+          "id": "b",
+          "text": "At all times except emergencies"
+        },
+        {
+          "id": "c",
+          "text": "Only on highways"
+        },
+        {
+          "id": "d",
+          "text": "Unless hands-free"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "North Carolina law prohibits all cell phone use (including hands-free) for drivers under 18, except in emergency situations.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-127",
+      "category": "stateSpecific",
+      "questionText": "A Limited Learner Permit in North Carolina allows driving:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Without supervision"
+        },
+        {
+          "id": "b",
+          "text": "Only with a supervising driver age 21+ with 1 year experience"
+        },
+        {
+          "id": "c",
+          "text": "Only during daylight"
+        },
+        {
+          "id": "d",
+          "text": "Only to school"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A Limited Learner Permit requires supervision by a licensed driver age 21 or older with at least one year of driving experience.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-128",
+      "category": "stateSpecific",
+      "questionText": "North Carolina's Graduated Licensing system includes how many levels?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Two levels"
+        },
+        {
+          "id": "b",
+          "text": "Three levels"
+        },
+        {
+          "id": "c",
+          "text": "Four levels"
+        },
+        {
+          "id": "d",
+          "text": "Five levels"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "North Carolina has three levels: Level 1 (Limited Learner Permit), Level 2 (Limited Provisional License), and Level 3 (Full Provisional License).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-129",
+      "category": "stateSpecific",
+      "questionText": "The North Carolina Move Over Law applies to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Emergency vehicles only"
+        },
+        {
+          "id": "b",
+          "text": "Emergency, law enforcement, utility, and DOT vehicles"
+        },
+        {
+          "id": "c",
+          "text": "Police cars only"
+        },
+        {
+          "id": "d",
+          "text": "Ambulances only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The Move Over Law applies to emergency vehicles, law enforcement, utility vehicles, tow trucks, and DOT vehicles with activated lights.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-130",
+      "category": "stateSpecific",
+      "questionText": "Under North Carolina law, a Level 1 Limited Learner Permit holder must hold the permit for at least:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "3 months"
+        },
+        {
+          "id": "b",
+          "text": "6 months"
+        },
+        {
+          "id": "c",
+          "text": "12 months"
+        },
+        {
+          "id": "d",
+          "text": "18 months"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "A Level 1 Limited Learner Permit must be held for at least 12 months before advancing to a Level 2 Limited Provisional License.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-131",
+      "category": "stateSpecific",
+      "questionText": "For the first 6 months with a Limited Provisional License, drivers under 18 cannot drive between:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "10 PM and 6 AM"
+        },
+        {
+          "id": "b",
+          "text": "9 PM and 5 AM"
+        },
+        {
+          "id": "c",
+          "text": "11 PM and 5 AM"
+        },
+        {
+          "id": "d",
+          "text": "Midnight and 6 AM"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "For the first 6 months of a Limited Provisional License, drivers under 18 cannot drive between 9 PM and 5 AM without a valid exception.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-132",
+      "category": "stateSpecific",
+      "questionText": "North Carolina's implied consent law means:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "You can refuse a chemical test"
+        },
+        {
+          "id": "b",
+          "text": "By driving, you consent to chemical testing if suspected of DWI"
+        },
+        {
+          "id": "c",
+          "text": "Testing is optional"
+        },
+        {
+          "id": "d",
+          "text": "Only police can be tested"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Implied consent means that by driving in NC, you automatically consent to chemical testing if suspected of DWI. Refusal results in license revocation.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-133",
+      "category": "stateSpecific",
+      "questionText": "In North Carolina, how many points on your license within 3 years can result in suspension?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "6 points"
+        },
+        {
+          "id": "b",
+          "text": "8 points"
+        },
+        {
+          "id": "c",
+          "text": "12 points"
+        },
+        {
+          "id": "d",
+          "text": "15 points"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Accumulating 12 or more points within 3 years can result in license suspension in North Carolina.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-134",
+      "category": "stateSpecific",
+      "questionText": "When the North Carolina Move Over Law cannot be safely followed, you must:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Maintain speed"
+        },
+        {
+          "id": "b",
+          "text": "Slow down to a safe speed below the posted limit"
+        },
+        {
+          "id": "c",
+          "text": "Stop completely"
+        },
+        {
+          "id": "d",
+          "text": "Flash your lights"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If you cannot safely move over for emergency vehicles, you must slow down to a safe speed below the posted limit and proceed with caution.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-135",
+      "category": "stateSpecific",
+      "questionText": "North Carolina's Hands Free Law was enacted in:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "2015"
+        },
+        {
+          "id": "b",
+          "text": "2017"
+        },
+        {
+          "id": "c",
+          "text": "2019"
+        },
+        {
+          "id": "d",
+          "text": "2021"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "North Carolina's Hands Free Law prohibiting hand-held mobile phone use while driving was enacted in 2019.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-136",
+      "category": "stateSpecific",
+      "questionText": "After 6 months with a Limited Provisional License, passenger restrictions:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Are removed completely"
+        },
+        {
+          "id": "b",
+          "text": "Are increased"
+        },
+        {
+          "id": "c",
+          "text": "Remain the same"
+        },
+        {
+          "id": "d",
+          "text": "Apply only at night"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "After the first 6 months of a Limited Provisional License, the passenger restriction (no more than one under-21 non-family member) is lifted.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-137",
+      "category": "alcoholDrugs",
+      "questionText": "In North Carolina, the legal blood alcohol concentration (BAC) limit for drivers 21 and over is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "0.04%"
+        },
+        {
+          "id": "b",
+          "text": "0.06%"
+        },
+        {
+          "id": "c",
+          "text": "0.08%"
+        },
+        {
+          "id": "d",
+          "text": "0.10%"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The legal BAC limit for drivers 21 and over in North Carolina is 0.08%. Any higher constitutes Driving While Impaired (DWI).",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-138",
+      "category": "alcoholDrugs",
+      "questionText": "For drivers under 21, the legal BAC limit in North Carolina is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "0.00%"
+        },
+        {
+          "id": "b",
+          "text": "0.02%"
+        },
+        {
+          "id": "c",
+          "text": "0.04%"
+        },
+        {
+          "id": "d",
+          "text": "0.08%"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "North Carolina has a zero-tolerance policy for drivers under 21. Any detectable amount of alcohol can result in charges.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-139",
+      "category": "alcoholDrugs",
+      "questionText": "DWI stands for:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Drinking While Intoxicated"
+        },
+        {
+          "id": "b",
+          "text": "Driving While Impaired"
+        },
+        {
+          "id": "c",
+          "text": "Driving While Intoxicated"
+        },
+        {
+          "id": "d",
+          "text": "Drinking While Inside"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "In North Carolina, DWI stands for Driving While Impaired, which includes impairment by alcohol, drugs, or any impairing substance.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-140",
+      "category": "alcoholDrugs",
+      "questionText": "If convicted of DWI, you may face:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "License suspension, fines, and possible jail time"
+        },
+        {
+          "id": "b",
+          "text": "A warning only"
+        },
+        {
+          "id": "c",
+          "text": "Community service only"
+        },
+        {
+          "id": "d",
+          "text": "No penalties for first offense"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "DWI conviction can result in license suspension, substantial fines, increased insurance rates, mandatory substance abuse assessment, and possible jail time.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-141",
+      "category": "alcoholDrugs",
+      "questionText": "The only way to sober up is to:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Drink coffee"
+        },
+        {
+          "id": "b",
+          "text": "Take a cold shower"
+        },
+        {
+          "id": "c",
+          "text": "Wait for time to pass"
+        },
+        {
+          "id": "d",
+          "text": "Exercise"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Time is the only way to reduce blood alcohol concentration. Coffee, showers, and exercise do not speed up the process.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-142",
+      "category": "alcoholDrugs",
+      "questionText": "Driving under the influence of prescription drugs:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Is legal if prescribed to you"
+        },
+        {
+          "id": "b",
+          "text": "Can result in a DWI if they impair your driving"
+        },
+        {
+          "id": "c",
+          "text": "Is always legal"
+        },
+        {
+          "id": "d",
+          "text": "Is only illegal for certain medications"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Even legal prescription drugs can result in DWI charges if they impair your ability to drive safely.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-143",
+      "category": "alcoholDrugs",
+      "questionText": "Alcohol affects:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Judgment and reaction time"
+        },
+        {
+          "id": "b",
+          "text": "Vision and coordination"
+        },
+        {
+          "id": "c",
+          "text": "Decision-making ability"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Alcohol impairs judgment, reaction time, vision, coordination, and decision-making abilities, all critical for safe driving.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-144",
+      "category": "alcoholDrugs",
+      "questionText": "If you refuse a chemical test when suspected of DWI:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "There are no consequences"
+        },
+        {
+          "id": "b",
+          "text": "Your license will be immediately revoked for at least one year"
+        },
+        {
+          "id": "c",
+          "text": "You will get a warning"
+        },
+        {
+          "id": "d",
+          "text": "You can take the test later"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Under NC's implied consent law, refusing a chemical test results in immediate license revocation for at least one year.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-145",
+      "category": "alcoholDrugs",
+      "questionText": "Combining alcohol with other drugs:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Reduces impairment"
+        },
+        {
+          "id": "b",
+          "text": "Has no effect"
+        },
+        {
+          "id": "c",
+          "text": "Multiplies the impairing effects"
+        },
+        {
+          "id": "d",
+          "text": "Is safe in small amounts"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Combining alcohol with other drugs, including over-the-counter medications, can multiply the impairing effects and is extremely dangerous.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-146",
+      "category": "alcoholDrugs",
+      "questionText": "The average person metabolizes alcohol at a rate of approximately:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "One drink per hour"
+        },
+        {
+          "id": "b",
+          "text": "Two drinks per hour"
+        },
+        {
+          "id": "c",
+          "text": "Three drinks per hour"
+        },
+        {
+          "id": "d",
+          "text": "One drink per 30 minutes"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The liver metabolizes alcohol at approximately one standard drink per hour, though this varies by individual.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-147",
+      "category": "alcoholDrugs",
+      "questionText": "If you are convicted of DWI and someone was seriously injured, you may be charged with:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A minor traffic violation"
+        },
+        {
+          "id": "b",
+          "text": "A misdemeanor only"
+        },
+        {
+          "id": "c",
+          "text": "A felony"
+        },
+        {
+          "id": "d",
+          "text": "No additional charges"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "DWI resulting in serious injury or death can be charged as a felony in North Carolina, carrying severe penalties including prison time.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-148",
+      "category": "speedLimits",
+      "questionText": "Unless otherwise posted, the speed limit on North Carolina primary and secondary roads outside city limits is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "45 mph"
+        },
+        {
+          "id": "b",
+          "text": "55 mph"
+        },
+        {
+          "id": "c",
+          "text": "65 mph"
+        },
+        {
+          "id": "d",
+          "text": "70 mph"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "On primary and secondary roads outside city limits, the default speed limit is 55 mph unless otherwise posted.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-149",
+      "category": "speedLimits",
+      "questionText": "In North Carolina, you must reduce your speed:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only in bad weather"
+        },
+        {
+          "id": "b",
+          "text": "When conditions require it for safety"
+        },
+        {
+          "id": "c",
+          "text": "Never below the posted limit"
+        },
+        {
+          "id": "d",
+          "text": "Only at night"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must always drive at a speed that is reasonable and prudent for conditions, which may be below the posted limit.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-150",
+      "category": "speedLimits",
+      "questionText": "Speeding in a school zone can result in:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The same penalty as other speeding"
+        },
+        {
+          "id": "b",
+          "text": "Double fines"
+        },
+        {
+          "id": "c",
+          "text": "No penalty"
+        },
+        {
+          "id": "d",
+          "text": "A warning only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Speeding in a school zone during posted hours typically results in doubled fines due to the increased danger to children.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-151",
+      "category": "speedLimits",
+      "questionText": "On a four-lane highway with a median, unless posted otherwise, the speed limit is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "55 mph"
+        },
+        {
+          "id": "b",
+          "text": "60 mph"
+        },
+        {
+          "id": "c",
+          "text": "65 mph"
+        },
+        {
+          "id": "d",
+          "text": "70 mph"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "On divided highways (four lanes with a median), the default speed limit is typically 65 mph unless otherwise posted.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-152",
+      "category": "speedLimits",
+      "questionText": "When approaching a work zone with workers present, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Maintain the posted speed limit"
+        },
+        {
+          "id": "b",
+          "text": "Obey reduced speed limit signs"
+        },
+        {
+          "id": "c",
+          "text": "Speed up to clear the area quickly"
+        },
+        {
+          "id": "d",
+          "text": "Stop completely"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Work zones often have reduced speed limits when workers are present. Obey all posted work zone speed limits for everyone's safety.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-153",
+      "category": "speedLimits",
+      "questionText": "Driving too slowly can be:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Always safe"
+        },
+        {
+          "id": "b",
+          "text": "Illegal and dangerous"
+        },
+        {
+          "id": "c",
+          "text": "Recommended"
+        },
+        {
+          "id": "d",
+          "text": "Required by law"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Driving significantly below the speed limit can be illegal and create hazards by impeding traffic flow and causing dangerous speed differentials.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-154",
+      "category": "speedLimits",
+      "questionText": "Speed limits are based on ideal conditions. In bad weather, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Drive at the posted speed limit"
+        },
+        {
+          "id": "b",
+          "text": "Drive faster to reduce time on the road"
+        },
+        {
+          "id": "c",
+          "text": "Reduce your speed below the posted limit"
+        },
+        {
+          "id": "d",
+          "text": "Pull over and wait"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Speed limits assume ideal conditions. In rain, fog, ice, or snow, you must reduce speed below the posted limit for safety.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-155",
+      "category": "speedLimits",
+      "questionText": "Speeding violations in North Carolina result in:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "No consequences"
+        },
+        {
+          "id": "b",
+          "text": "Points on your license and fines"
+        },
+        {
+          "id": "c",
+          "text": "A warning"
+        },
+        {
+          "id": "d",
+          "text": "Community service only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Speeding violations result in points on your license, fines, increased insurance rates, and possible license suspension.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-156",
+      "category": "parking",
+      "questionText": "You must not park within ___ feet of a stop sign.",
+      "answers": [
+        {
+          "id": "a",
+          "text": "10 feet"
+        },
+        {
+          "id": "b",
+          "text": "20 feet"
+        },
+        {
+          "id": "c",
+          "text": "30 feet"
+        },
+        {
+          "id": "d",
+          "text": "50 feet"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "You must not park within 30 feet of a stop sign in North Carolina to ensure visibility for other drivers.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-157",
+      "category": "parking",
+      "questionText": "When parking on a hill without a curb, you should turn your wheels:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Toward the side of the road"
+        },
+        {
+          "id": "b",
+          "text": "Away from the side of the road"
+        },
+        {
+          "id": "c",
+          "text": "Straight ahead"
+        },
+        {
+          "id": "d",
+          "text": "It doesn't matter"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "When parking on a hill without a curb, turn wheels toward the side of the road so the vehicle will roll off the road if brakes fail.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-158",
+      "category": "parking",
+      "questionText": "When parking uphill with a curb, you should turn your wheels:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Toward the curb"
+        },
+        {
+          "id": "b",
+          "text": "Away from the curb"
+        },
+        {
+          "id": "c",
+          "text": "Straight ahead"
+        },
+        {
+          "id": "d",
+          "text": "Either direction"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When parking uphill with a curb, turn wheels away from the curb so if the vehicle rolls back, the rear of the front tire will hit the curb.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-159",
+      "category": "parking",
+      "questionText": "Parking in a space reserved for disabled persons without proper authorization:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Is allowed if you're only stopping briefly"
+        },
+        {
+          "id": "b",
+          "text": "Results in fines and possible towing"
+        },
+        {
+          "id": "c",
+          "text": "Is acceptable if no other spaces are available"
+        },
+        {
+          "id": "d",
+          "text": "Has no consequences"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Parking in a disabled space without proper authorization results in substantial fines and possible vehicle towing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-160",
+      "category": "parking",
+      "questionText": "When parking downhill with a curb, you should turn your wheels:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Away from the curb"
+        },
+        {
+          "id": "b",
+          "text": "Toward the curb"
+        },
+        {
+          "id": "c",
+          "text": "Straight ahead"
+        },
+        {
+          "id": "d",
+          "text": "To the left"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "When parking downhill with a curb, turn wheels toward the curb so the vehicle will roll into the curb if brakes fail.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-161",
+      "category": "parking",
+      "questionText": "You must not park within ___ feet of a crosswalk.",
+      "answers": [
+        {
+          "id": "a",
+          "text": "10 feet"
+        },
+        {
+          "id": "b",
+          "text": "20 feet"
+        },
+        {
+          "id": "c",
+          "text": "25 feet"
+        },
+        {
+          "id": "d",
+          "text": "30 feet"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must not park within 20 feet of a crosswalk at an intersection to ensure pedestrian visibility.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-162",
+      "category": "parking",
+      "questionText": "Double parking (parking next to another parked vehicle) is:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Legal if brief"
+        },
+        {
+          "id": "b",
+          "text": "Illegal and blocks traffic"
+        },
+        {
+          "id": "c",
+          "text": "Allowed in emergencies"
+        },
+        {
+          "id": "d",
+          "text": "Permitted on residential streets"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Double parking is illegal as it blocks traffic flow and creates a hazard for other drivers.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-163",
+      "category": "emergencies",
+      "questionText": "If your gas pedal sticks, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Turn off the ignition immediately"
+        },
+        {
+          "id": "b",
+          "text": "Shift to neutral and brake"
+        },
+        {
+          "id": "c",
+          "text": "Pump the gas pedal"
+        },
+        {
+          "id": "d",
+          "text": "Continue driving"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If your gas pedal sticks, shift to neutral immediately, apply brakes, and pull off the road safely. Then turn off the engine.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-164",
+      "category": "emergencies",
+      "questionText": "If your headlights fail at night, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Continue driving using street lights"
+        },
+        {
+          "id": "b",
+          "text": "Use emergency flashers and pull off the road"
+        },
+        {
+          "id": "c",
+          "text": "Speed up to reach your destination quickly"
+        },
+        {
+          "id": "d",
+          "text": "Follow another vehicle closely"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If headlights fail at night, turn on emergency flashers and carefully pull off the road to a safe location.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-165",
+      "category": "emergencies",
+      "questionText": "If you are in a crash, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Leave immediately"
+        },
+        {
+          "id": "b",
+          "text": "Stop, check for injuries, call 911 if needed, and exchange information"
+        },
+        {
+          "id": "c",
+          "text": "Argue about fault"
+        },
+        {
+          "id": "d",
+          "text": "Wait for police only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "After a crash, stop immediately, check for injuries, call 911 if needed, move vehicles if possible, and exchange information with other drivers.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-166",
+      "category": "emergencies",
+      "questionText": "If your engine overheats, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Continue driving to a mechanic"
+        },
+        {
+          "id": "b",
+          "text": "Pull over, turn off the engine, and wait for it to cool"
+        },
+        {
+          "id": "c",
+          "text": "Open the radiator cap immediately"
+        },
+        {
+          "id": "d",
+          "text": "Pour cold water on the engine"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If your engine overheats, pull over safely, turn off the engine, and wait for it to cool before checking coolant. Never open a hot radiator cap.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-167",
+      "category": "emergencies",
+      "questionText": "If you see smoke coming from under your hood, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Keep driving to find help"
+        },
+        {
+          "id": "b",
+          "text": "Pull over, turn off engine, get away from vehicle, and call 911"
+        },
+        {
+          "id": "c",
+          "text": "Open the hood immediately"
+        },
+        {
+          "id": "d",
+          "text": "Pour water on the hood"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If you see smoke or fire, pull over immediately, turn off the engine, evacuate everyone from the vehicle, move to a safe distance, and call 911.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-168",
+      "category": "emergencies",
+      "questionText": "If you witness a crash, you should:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Drive past quickly"
+        },
+        {
+          "id": "b",
+          "text": "Stop safely, call 911, and provide assistance if trained"
+        },
+        {
+          "id": "c",
+          "text": "Take photos for social media"
+        },
+        {
+          "id": "d",
+          "text": "Move the vehicles yourself"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "If you witness a crash, pull over safely, call 911, protect the scene, and provide first aid only if you are trained to do so.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "nc-169",
+      "category": "finesAndLimits",
+      "questionText": "Driving 15 mph over the speed limit in North Carolina typically results in:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1 point"
+        },
+        {
+          "id": "b",
+          "text": "2 points"
+        },
+        {
+          "id": "c",
+          "text": "3 points"
+        },
+        {
+          "id": "d",
+          "text": "5 points"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Speeding more than 10 mph over the limit typically results in 3 points on your license in North Carolina.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-170",
+      "category": "finesAndLimits",
+      "questionText": "Running a red light in North Carolina results in:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1 point"
+        },
+        {
+          "id": "b",
+          "text": "3 points"
+        },
+        {
+          "id": "c",
+          "text": "4 points"
+        },
+        {
+          "id": "d",
+          "text": "5 points"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Running a red light or stop sign results in 3 points on your driver's license in North Carolina.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-171",
+      "category": "finesAndLimits",
+      "questionText": "Reckless driving in North Carolina carries:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "2 points"
+        },
+        {
+          "id": "b",
+          "text": "3 points"
+        },
+        {
+          "id": "c",
+          "text": "4 points"
+        },
+        {
+          "id": "d",
+          "text": "5 points"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Reckless driving is a serious offense that carries 4 points on your license in North Carolina.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-172",
+      "category": "finesAndLimits",
+      "questionText": "Points stay on your driving record in North Carolina for:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1 year"
+        },
+        {
+          "id": "b",
+          "text": "2 years"
+        },
+        {
+          "id": "c",
+          "text": "3 years"
+        },
+        {
+          "id": "d",
+          "text": "5 years"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Points remain on your driving record for 3 years from the date of conviction in North Carolina.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-173",
+      "category": "finesAndLimits",
+      "questionText": "Failing to yield right-of-way results in:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1 point"
+        },
+        {
+          "id": "b",
+          "text": "2 points"
+        },
+        {
+          "id": "c",
+          "text": "3 points"
+        },
+        {
+          "id": "d",
+          "text": "4 points"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Failing to yield right-of-way carries 3 points on your license in North Carolina.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "nc-174",
+      "category": "finesAndLimits",
+      "questionText": "Accumulating how many points in one year triggers a warning letter from the DMV?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "4 points"
+        },
+        {
+          "id": "b",
+          "text": "6 points"
+        },
+        {
+          "id": "c",
+          "text": "7 points"
+        },
+        {
+          "id": "d",
+          "text": "8 points"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Accumulating 7 points within one year triggers a warning letter from the NC DMV about potential license suspension.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "nc-175",
+      "category": "finesAndLimits",
+      "questionText": "Leaving the scene of a crash can result in:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A warning"
+        },
+        {
+          "id": "b",
+          "text": "Criminal charges, license revocation, and jail time"
+        },
+        {
+          "id": "c",
+          "text": "1 point"
+        },
+        {
+          "id": "d",
+          "text": "A fine only"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Leaving the scene of a crash (hit and run) is a serious crime that can result in criminal charges, license revocation, and imprisonment.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    }
+  ]
+}

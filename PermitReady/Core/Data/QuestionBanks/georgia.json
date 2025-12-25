@@ -1,0 +1,2273 @@
+{
+  "stateCode": "GA",
+  "stateName": "Georgia",
+  "version": "2.0.0",
+  "lastUpdated": "2025-12-23",
+  "testInfo": {
+    "questionCount": 40,
+    "passingPercentage": 75,
+    "passingScore": 30,
+    "minimumPermitAge": 15,
+    "hasSplitTest": true,
+    "timeLimit": null,
+    "uniqueRequirements": [
+      "Test is strictly divided: 20 Road Signs and 20 Road Rules",
+      "Must score 75% (15/20) on EACH section independently to pass; failing one section fails the entire exam",
+      "Joshua's Law (30 hours class + 6 hours drive) is required to upgrade to a Class D license at age 16, not to get the permit at 15",
+      "New 2025 Law: 'Squatted' trucks (front fender raised 4+ inches higher than rear) are prohibited on public roads",
+      "New 2025 Law: Spectators at street racing events can now face criminal misdemeanor charges"
+    ]
+  },
+  "questions": [
+    {
+      "id": "ga-001",
+      "category": "trafficLaws",
+      "questionText": "Under the 'Hands-Free Georgia Act', drivers are prohibited from:",
+      "answers": [
+        {"id": "a", "text": "Holding a phone with any part of their body"},
+        {"id": "b", "text": "Using a GPS navigation app"},
+        {"id": "c", "text": "Listening to music via streaming"},
+        {"id": "d", "text": "Wearing a smartwatch"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Drivers cannot physically hold or support a wireless device with any part of their body. They may use earpieces or Bluetooth for calls if the device is not held.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-002",
+      "category": "trafficLaws",
+      "questionText": "Georgia's 'Super Speeder' law defines a Super Speeder as a driver convicted of speeding at ___ or more on any two-lane road, or ___ or more on any highway.",
+      "answers": [
+        {"id": "a", "text": "75 mph; 85 mph"},
+        {"id": "b", "text": "65 mph; 75 mph"},
+        {"id": "c", "text": "80 mph; 90 mph"},
+        {"id": "d", "text": "70 mph; 80 mph"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A Super Speeder is defined as driving 75 mph or more on a two-lane road or 85 mph or more on any road/highway. This incurs an additional $200 state fee.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-003",
+      "category": "trafficLaws",
+      "questionText": "The 'Move Over' Law requires drivers to:",
+      "answers": [
+        {"id": "a", "text": "Move to the next lane if safe when approaching emergency or utility vehicles with flashing lights"},
+        {"id": "b", "text": "Stop immediately"},
+        {"id": "c", "text": "Speed up to pass the scene quickly"},
+        {"id": "d", "text": "Turn on their high beams"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Drivers must move over one lane when approaching stationary emergency, towing, or utility vehicles. If unable to move over, they must slow down below the speed limit.",
+      "imageAssetName": "ga_move_over_diagram",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-004",
+      "category": "trafficLaws",
+      "questionText": "Drivers under the age of 21 are considered DUI if their Blood Alcohol Concentration (BAC) is:",
+      "answers": [
+        {"id": "a", "text": "0.08% or higher"},
+        {"id": "b", "text": "0.02% or higher"},
+        {"id": "c", "text": "0.05% or higher"},
+        {"id": "d", "text": "0.01% or higher"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Georgia has a Zero Tolerance policy for drivers under 21. A BAC of 0.02% or higher constitutes a DUI offense.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-005",
+      "category": "trafficLaws",
+      "questionText": "When a school bus stops to load or unload children on a highway divided by a dirt median or grass strip:",
+      "answers": [
+        {"id": "a", "text": "Traffic in both directions must stop"},
+        {"id": "b", "text": "Only traffic following the bus must stop"},
+        {"id": "c", "text": "Traffic on the opposite side can proceed with caution"},
+        {"id": "d", "text": "No one needs to stop"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "If the highway is divided by a dirt, grass, or concrete median, traffic approaching from the opposite direction is not required to stop.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-006",
+      "category": "safeDriving",
+      "questionText": "If you drive off the pavement:",
+      "answers": [
+        {"id": "a", "text": "Jerk the steering wheel back towards the road immediately"},
+        {"id": "b", "text": "Take your foot off the gas and brake gently"},
+        {"id": "c", "text": "Accelerate to get back on the road"},
+        {"id": "d", "text": "Slam on the brakes"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Do not jerk the wheel. Ease off the gas, brake gently, and steer back onto the pavement when speed is reduced and it is safe.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-007",
+      "category": "trafficLaws",
+      "questionText": "Driving without insurance in Georgia is:",
+      "answers": [
+        {"id": "a", "text": "A misdemeanor"},
+        {"id": "b", "text": "Allowed if you pay a fee"},
+        {"id": "c", "text": "Punishable by a warning only"},
+        {"id": "d", "text": "Allowed for new cars"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Driving without liability insurance is a misdemeanor and can result in license suspension and fines.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-008",
+      "category": "trafficLaws",
+      "questionText": "Unless otherwise posted, the maximum speed limit on a rural interstate is:",
+      "answers": [
+        {"id": "a", "text": "55 mph"},
+        {"id": "b", "text": "65 mph"},
+        {"id": "c", "text": "70 mph"},
+        {"id": "d", "text": "75 mph"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The maximum speed limit on rural interstates in Georgia is 70 mph.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-009",
+      "category": "trafficLaws",
+      "questionText": "A Class D (Provisional) license holder may not drive between the hours of:",
+      "answers": [
+        {"id": "a", "text": "10:00 PM and 6:00 AM"},
+        {"id": "b", "text": "11:00 PM and 5:00 AM"},
+        {"id": "c", "text": "Midnight and 5:00 AM"},
+        {"id": "d", "text": "Midnight and 6:00 AM"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Class D license holders (ages 16-17) are prohibited from driving between 12:00 midnight and 5:00 AM, with no exceptions.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-010",
+      "category": "roadSigns",
+      "questionText": "A vertical rectangle sign indicates:",
+      "answers": [
+        {"id": "a", "text": "Warning"},
+        {"id": "b", "text": "Regulatory information (speed limits, laws)"},
+        {"id": "c", "text": "School zones"},
+        {"id": "d", "text": "Construction"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Vertical rectangular signs are generally regulatory signs that inform you of traffic laws.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-011",
+      "category": "roadSigns",
+      "questionText": "A round yellow sign with an X and RR means:",
+      "answers": [
+        {"id": "a", "text": "Railroad crossing ahead"},
+        {"id": "b", "text": "No passing"},
+        {"id": "c", "text": "Rest area"},
+        {"id": "d", "text": "Do not enter"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The round yellow sign is the advance warning for a railroad crossing.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-012",
+      "category": "roadSigns",
+      "questionText": "An orange diamond-shaped sign means:",
+      "answers": [
+        {"id": "a", "text": "School zone"},
+        {"id": "b", "text": "Construction or maintenance warning"},
+        {"id": "c", "text": "Yield ahead"},
+        {"id": "d", "text": "Stop ahead"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Orange signs warn of construction or maintenance zones. Fines may be doubled in these areas.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-013",
+      "category": "roadSigns",
+      "questionText": "A pentagon (5-sided) sign means:",
+      "answers": [
+        {"id": "a", "text": "School zone or school crossing"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "No passing"},
+        {"id": "d", "text": "Yield"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The pentagon shape is reserved for school zones and crossings.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-014",
+      "category": "rightOfWay",
+      "questionText": "When entering a highway from a driveway, you must:",
+      "answers": [
+        {"id": "a", "text": "Honk your horn"},
+        {"id": "b", "text": "Yield to all vehicles and pedestrians"},
+        {"id": "c", "text": "Drive quickly to merge"},
+        {"id": "d", "text": "Wait for a green light"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You must yield the right-of-way to all vehicles and pedestrians on the main roadway.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-015",
+      "category": "parking",
+      "questionText": "You cannot park within ___ feet of a fire hydrant.",
+      "answers": [
+        {"id": "a", "text": "10 feet"},
+        {"id": "b", "text": "15 feet"},
+        {"id": "c", "text": "20 feet"},
+        {"id": "d", "text": "30 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Parking is illegal within 15 feet of a fire hydrant.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-016",
+      "category": "trafficLaws",
+      "questionText": "According to Joshua's Law, teenagers must complete ___ hours of classroom instruction before getting a license.",
+      "answers": [
+        {"id": "a", "text": "20"},
+        {"id": "b", "text": "30"},
+        {"id": "c", "text": "40"},
+        {"id": "d", "text": "50"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Joshua's Law requires 16-year-olds to complete 30 hours of approved driver education to obtain a Class D license.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-017",
+      "category": "safeDriving",
+      "questionText": "When driving behind another vehicle at night, you should:",
+      "answers": [
+        {"id": "a", "text": "Use your high beams"},
+        {"id": "b", "text": "Keep your headlights on low beam"},
+        {"id": "c", "text": "Use your parking lights"},
+        {"id": "d", "text": "Drive closer to see better"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Use low beams when following another vehicle within 200 feet to avoid blinding the driver.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-018",
+      "category": "trafficLaws",
+      "questionText": "The maximum speed limit in an urban or residential district is usually:",
+      "answers": [
+        {"id": "a", "text": "20 mph"},
+        {"id": "b", "text": "30 mph"},
+        {"id": "c", "text": "35 mph"},
+        {"id": "d", "text": "45 mph"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Unless otherwise posted, the speed limit in an urban or residential district is 30 mph.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-019",
+      "category": "rightOfWay",
+      "questionText": "If two vehicles arrive at a 4-way stop at the same time:",
+      "answers": [
+        {"id": "a", "text": "The vehicle on the left yields to the vehicle on the right"},
+        {"id": "b", "text": "The vehicle on the right yields to the vehicle on the left"},
+        {"id": "c", "text": "The largest vehicle goes first"},
+        {"id": "d", "text": "The driver who signals first goes"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "At a 4-way stop, if vehicles arrive simultaneously, the driver on the left yields to the driver on the right.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-020",
+      "category": "trafficLaws",
+      "questionText": "During the first 6 months of holding a Class D license, you may drive with:",
+      "answers": [
+        {"id": "a", "text": "Any number of passengers"},
+        {"id": "b", "text": "Only immediate family members"},
+        {"id": "c", "text": "One passenger under 21"},
+        {"id": "d", "text": "Three passengers under 21"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "For the first 6 months, only immediate family members may ride in the vehicle with a Class D driver.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-021",
+      "category": "safeDriving",
+      "questionText": "Hydroplaning can occur when driving:",
+      "answers": [
+        {"id": "a", "text": "On ice"},
+        {"id": "b", "text": "On a wet road"},
+        {"id": "c", "text": "On gravel"},
+        {"id": "d", "text": "On dry pavement"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Hydroplaning occurs on wet roads when tires lose contact with the road surface and ride on a film of water.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-022",
+      "category": "trafficLaws",
+      "questionText": "In Georgia, headlights must be turned on:",
+      "answers": [
+        {"id": "a", "text": "30 minutes after sunset to 30 minutes before sunrise"},
+        {"id": "b", "text": "At sunset to sunrise"},
+        {"id": "c", "text": "Only when it is raining"},
+        {"id": "d", "text": "Between 8 PM and 6 AM"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Headlights are required from 30 minutes after sunset to 30 minutes before sunrise, or anytime visibility is limited.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-023",
+      "category": "trafficLaws",
+      "questionText": "When sharing the road with a bicycle, you must allow at least ___ of space between your vehicle and the bicycle.",
+      "answers": [
+        {"id": "a", "text": "2 feet"},
+        {"id": "b", "text": "3 feet"},
+        {"id": "c", "text": "4 feet"},
+        {"id": "d", "text": "5 feet"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Georgia law requires drivers to leave at least 3 feet of safe distance when passing a bicycle.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-024",
+      "category": "roadSigns",
+      "questionText": "A red circle with a line through it means:",
+      "answers": [
+        {"id": "a", "text": "Stop"},
+        {"id": "b", "text": "Yield"},
+        {"id": "c", "text": "No / Prohibited"},
+        {"id": "d", "text": "Enter"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "This is the universal symbol for 'No'. The action pictured inside is prohibited.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-025",
+      "category": "safeDriving",
+      "questionText": "To maintain a safe following distance, Georgia recommends using the:",
+      "answers": [
+        {"id": "a", "text": "2-second rule"},
+        {"id": "b", "text": "10-second rule"},
+        {"id": "c", "text": "1-car length rule"},
+        {"id": "d", "text": "5-second rule"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The 2-second rule is the minimum recommended following distance on dry roads.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-026",
+      "category": "roadSigns",
+      "questionText": "A diamond-shaped yellow sign usually warns of:",
+      "answers": [
+        {"id": "a", "text": "School zones"},
+        {"id": "b", "text": "Existing hazards"},
+        {"id": "c", "text": "Speed limits"},
+        {"id": "d", "text": "Rest areas"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Yellow diamond signs are general warning signs indicating hazards like curves, intersections, or slippery roads.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-027",
+      "category": "trafficLaws",
+      "questionText": "Double solid yellow lines in the center of the road mean:",
+      "answers": [
+        {"id": "a", "text": "Passing is allowed"},
+        {"id": "b", "text": "Passing is prohibited in both directions"},
+        {"id": "c", "text": "Passing allowed only on the right"},
+        {"id": "d", "text": "Reversible lanes"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Double solid yellow lines indicate that passing is not allowed for vehicles traveling in either direction.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-028",
+      "category": "trafficLaws",
+      "questionText": "If you are involved in an accident, you are required to:",
+      "answers": [
+        {"id": "a", "text": "Stop and exchange information"},
+        {"id": "b", "text": "Drive home and call the police"},
+        {"id": "c", "text": "Move to the next exit"},
+        {"id": "d", "text": "Honk for help"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You must stop immediately, render aid if needed, and exchange information with other drivers.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-029",
+      "category": "roadSigns",
+      "questionText": "An octagon-shaped sign is always a:",
+      "answers": [
+        {"id": "a", "text": "Speed Limit sign"},
+        {"id": "b", "text": "Stop sign"},
+        {"id": "c", "text": "Yield sign"},
+        {"id": "d", "text": "Warning sign"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The octagon is exclusively used for STOP signs.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-030",
+      "category": "rightOfWay",
+      "questionText": "Pedestrians have the right-of-way:",
+      "answers": [
+        {"id": "a", "text": "Only in marked crosswalks"},
+        {"id": "b", "text": "Only when the light is green"},
+        {"id": "c", "text": "In all crosswalks, whether marked or unmarked"},
+        {"id": "d", "text": "Only in school zones"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Drivers must yield to pedestrians in any crosswalk.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-031",
+      "category": "trafficLaws",
+      "questionText": "The 'Gore' is:",
+      "answers": [
+        {"id": "a", "text": "The area of convergence between two lanes of traffic"},
+        {"id": "b", "text": "A type of speed bump"},
+        {"id": "c", "text": "A designated parking area"},
+        {"id": "d", "text": "A toll booth lane"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The 'Gore' is the triangular area between the highway and an exit/entrance ramp. Driving in this area is prohibited.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-032",
+      "category": "trafficLaws",
+      "questionText": "Drivers in the left lane of a multi-lane highway must move right if:",
+      "answers": [
+        {"id": "a", "text": "They are driving below the speed limit"},
+        {"id": "b", "text": "Faster traffic is approaching from behind"},
+        {"id": "c", "text": "They are not passing another vehicle"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Slower traffic must keep right. The left lane is primarily for passing.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-033",
+      "category": "safeDriving",
+      "questionText": "Which lights should you use when driving in fog?",
+      "answers": [
+        {"id": "a", "text": "High beams"},
+        {"id": "b", "text": "Low beams"},
+        {"id": "c", "text": "Parking lights"},
+        {"id": "d", "text": "Flashers"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "High beams reflect off fog and cause glare. Use low beams for better visibility.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-034",
+      "category": "roadSigns",
+      "questionText": "A triangular sign pointing downward is a:",
+      "answers": [
+        {"id": "a", "text": "Yield sign"},
+        {"id": "b", "text": "Stop sign"},
+        {"id": "c", "text": "Warning sign"},
+        {"id": "d", "text": "School sign"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The inverted triangle indicates you must yield the right-of-way.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-035",
+      "category": "trafficLaws",
+      "questionText": "Littering in Georgia is punishable by:",
+      "answers": [
+        {"id": "a", "text": "A fine up to $1000 and points on your license"},
+        {"id": "b", "text": "A warning only"},
+        {"id": "c", "text": "A $50 fine"},
+        {"id": "d", "text": "Jail time only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Littering is a serious offense in GA, carrying fines up to $1,000 and potential points on your driving record.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-036",
+      "category": "trafficLaws",
+      "questionText": "You must stop for a school bus with flashing red lights unless:",
+      "answers": [
+        {"id": "a", "text": "You are late for work"},
+        {"id": "b", "text": "You are on the opposite side of a separated roadway with a median"},
+        {"id": "c", "text": "The bus is empty"},
+        {"id": "d", "text": "You honk first"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "You are only exempt from stopping if you are on the opposite side of a divided highway separated by a physical median.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-037",
+      "category": "rightOfWay",
+      "questionText": "When making a left turn at an intersection:",
+      "answers": [
+        {"id": "a", "text": "You have the right of way"},
+        {"id": "b", "text": "You must yield to oncoming traffic"},
+        {"id": "c", "text": "Oncoming traffic must stop for you"},
+        {"id": "d", "text": "You should speed up"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Left-turning vehicles must yield to oncoming traffic going straight.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-038",
+      "category": "safeDriving",
+      "questionText": "If your brakes fail while driving:",
+      "answers": [
+        {"id": "a", "text": "Shift to a lower gear and pump the brakes"},
+        {"id": "b", "text": "Turn off the engine immediately"},
+        {"id": "c", "text": "Jump out of the car"},
+        {"id": "d", "text": "Accelerate"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Shift to a lower gear to use engine braking and pump the brake pedal to build pressure.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-039",
+      "category": "roadSigns",
+      "questionText": "Blue signs typically indicate:",
+      "answers": [
+        {"id": "a", "text": "Motorist services (Gas, Food, Lodging)"},
+        {"id": "b", "text": "Construction"},
+        {"id": "c", "text": "Parks"},
+        {"id": "d", "text": "Warnings"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Blue signs are used for motorist services.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-040",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to flash your turn signal:",
+      "answers": [
+        {"id": "a", "text": "To change lanes"},
+        {"id": "b", "text": "To indicate a turn"},
+        {"id": "c", "text": "As a courtesy or 'do it pass' signal to other drivers"},
+        {"id": "d", "text": "When parking"}
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "It is illegal to use your turn signals to tell other drivers it is safe to pass.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-041",
+      "category": "trafficLaws",
+      "questionText": "Effective July 1, 2025, vehicle suspension modifications ('Squatted Trucks') are prohibited if:",
+      "answers": [
+        {"id": "a", "text": "The front fender is raised 4 or more inches higher than the rear fender"},
+        {"id": "b", "text": "The vehicle is lifted evenly more than 2 inches"},
+        {"id": "c", "text": "The tires are larger than 35 inches"},
+        {"id": "d", "text": "The exhaust is too loud"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "New laws prohibit vehicles where the front frame is more than 4 inches higher than the rear frame, often called a 'Carolina Squat'.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-042",
+      "category": "trafficLaws",
+      "questionText": "New penalties for street racing and reckless driving include:",
+      "answers": [
+        {"id": "a", "text": "Vehicle impoundment for up to 30 days after a second offense"},
+        {"id": "b", "text": "A verbal warning"},
+        {"id": "c", "text": "Mandatory driving school only"},
+        {"id": "d", "text": "Reduced fines"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Stricter laws allow for vehicle impoundment and felony charges for repeat street racing offenders.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-043",
+      "category": "finesAndLimits",
+      "questionText": "If you are under 21 and convicted of street racing, your license will be:",
+      "answers": [
+        {"id": "a", "text": "Suspended for 6 months"},
+        {"id": "b", "text": "Revoked immediately"},
+        {"id": "c", "text": "Restricted to work use only"},
+        {"id": "d", "text": "Unaffected"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Street racing convictions can lead to immediate license revocation and high fines.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-044",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a deer symbol means:",
+      "answers": [
+        {"id": "a", "text": "Deer crossing area ahead"},
+        {"id": "b", "text": "Zoo nearby"},
+        {"id": "c", "text": "Hunting allowed"},
+        {"id": "d", "text": "Veterinarian office"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This warning sign indicates that deer may cross the road in this area.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-045",
+      "category": "trafficLaws",
+      "questionText": "Drivers turning left must yield to:",
+      "answers": [
+        {"id": "a", "text": "Oncoming cars and pedestrians"},
+        {"id": "b", "text": "Traffic behind them"},
+        {"id": "c", "text": "No one"},
+        {"id": "d", "text": "Only pedestrians"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Left-turning drivers must always yield to oncoming traffic and pedestrians in the crosswalk.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-046",
+      "category": "roadSigns",
+      "questionText": "A white sign with a curved arrow and the word 'ONLY' means:",
+      "answers": [
+        {"id": "a", "text": "You must turn in the direction of the arrow"},
+        {"id": "b", "text": "One way street"},
+        {"id": "c", "text": "Keep right"},
+        {"id": "d", "text": "Lane ends"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Regulatory signs with 'ONLY' dictate mandatory lane usage.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-047",
+      "category": "safeDriving",
+      "questionText": "If you are being tailgated, you should:",
+      "answers": [
+        {"id": "a", "text": "Brake suddenly to warn them"},
+        {"id": "b", "text": "Move to the right lane and let them pass"},
+        {"id": "c", "text": "Speed up to get away"},
+        {"id": "d", "text": "Turn on your rear fog lights"}
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The safest action is to change lanes and allow the tailgater to pass.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-048",
+      "category": "trafficLaws",
+      "questionText": "You may pass on the right when:",
+      "answers": [
+        {"id": "a", "text": "The vehicle ahead is making a left turn and there is room on the pavement"},
+        {"id": "b", "text": "You are on the shoulder"},
+        {"id": "c", "text": "Traffic is heavy"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Passing on the right is allowed if the vehicle is turning left or on multi-lane roads, but never off the pavement.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-049",
+      "category": "finesAndLimits",
+      "questionText": "Refusing a chemical test for DUI in Georgia results in:",
+      "answers": [
+        {"id": "a", "text": "License suspension for 1 year"},
+        {"id": "b", "text": "A warning"},
+        {"id": "c", "text": "A $50 fine"},
+        {"id": "d", "text": "Points only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Implied Consent laws mean refusal leads to a 1-year suspension.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-050",
+      "category": "roadSigns",
+      "questionText": "A sign with a truck going down a hill means:",
+      "answers": [
+        {"id": "a", "text": "Steep downgrade ahead"},
+        {"id": "b", "text": "Trucks only"},
+        {"id": "c", "text": "No trucks"},
+        {"id": "d", "text": "Runaway ramp"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This warning sign indicates a steep hill ahead where trucks may speed up.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-051",
+      "category": "trafficLaws",
+      "questionText": "When checking your blind spot, you should:",
+      "answers": [
+        {"id": "a", "text": "Turn your head and look over your shoulder"},
+        {"id": "b", "text": "Use your side mirrors only"},
+        {"id": "c", "text": "Look in the rearview mirror"},
+        {"id": "d", "text": "Honk your horn"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Mirrors leave blind spots; you must physically check by turning your head.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-052",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a cross (+) symbol means:",
+      "answers": [
+        {"id": "a", "text": "Crossroad / Intersection ahead"},
+        {"id": "b", "text": "First Aid"},
+        {"id": "c", "text": "Hospital"},
+        {"id": "d", "text": "Railroad crossing"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A cross symbol warns of an upcoming intersection.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-053",
+      "category": "trafficLaws",
+      "questionText": "The speed limit in a school zone is usually:",
+      "answers": [
+        {"id": "a", "text": "25 mph or as posted"},
+        {"id": "b", "text": "35 mph"},
+        {"id": "c", "text": "15 mph"},
+        {"id": "d", "text": "45 mph"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "School zones typically have reduced speeds like 25 mph during school hours.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-054",
+      "category": "safeDriving",
+      "questionText": "If your car begins to skid:",
+      "answers": [
+        {"id": "a", "text": "Ease off the gas and steer in the direction of the skid"},
+        {"id": "b", "text": "Brake hard"},
+        {"id": "c", "text": "Accelerate"},
+        {"id": "d", "text": "Turn the wheel opposite the skid"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Take your foot off the gas and turn into the skid (where the rear is going).",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-055",
+      "category": "trafficLaws",
+      "questionText": "You must always stop when:",
+      "answers": [
+        {"id": "a", "text": "A police officer directs you to"},
+        {"id": "b", "text": "Crossing a bridge"},
+        {"id": "c", "text": "Entering a tunnel"},
+        {"id": "d", "text": "Merging"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Orders from police or flaggers overrule traffic signs and signals.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-056",
+      "category": "roadSigns",
+      "questionText": "A sign with two arrows pointing in opposite directions with a divider at the top means:",
+      "answers": [
+        {"id": "a", "text": "Divided highway ends"},
+        {"id": "b", "text": "Divided highway begins"},
+        {"id": "c", "text": "Two-way traffic"},
+        {"id": "d", "text": "Keep right"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "If the divider is at the top, the divided highway is ending.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-057",
+      "category": "finesAndLimits",
+      "questionText": "Accumulating 15 points in a 24-month period will result in:",
+      "answers": [
+        {"id": "a", "text": "License suspension"},
+        {"id": "b", "text": "A warning letter"},
+        {"id": "c", "text": "Higher insurance only"},
+        {"id": "d", "text": "Mandatory driving school"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Georgia suspends licenses for 15 points within 24 months.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-058",
+      "category": "trafficLaws",
+      "questionText": "When parking uphill with a curb, you should turn your wheels:",
+      "answers": [
+        {"id": "a", "text": "Away from the curb"},
+        {"id": "b", "text": "Toward the curb"},
+        {"id": "c", "text": "Straight"},
+        {"id": "d", "text": "Any direction"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Turn wheels away from the curb so if it rolls back, the tire hits the curb.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-059",
+      "category": "safeDriving",
+      "questionText": "To avoid highway hypnosis, you should:",
+      "answers": [
+        {"id": "a", "text": "Take breaks every 2 hours or 100 miles"},
+        {"id": "b", "text": "Drink coffee only"},
+        {"id": "c", "text": "Drive faster"},
+        {"id": "d", "text": "Listen to loud music"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Regular stops help maintain alertness on long drives.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-060",
+      "category": "roadSigns",
+      "questionText": "A yellow pennant-shaped sign on the left side of the road indicates:",
+      "answers": [
+        {"id": "a", "text": "No Passing Zone"},
+        {"id": "b", "text": "School Zone"},
+        {"id": "c", "text": "Yield"},
+        {"id": "d", "text": "Merge"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The pennant shape marks the start of a No Passing Zone.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-061",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to use a center turn lane for:",
+      "answers": [
+        {"id": "a", "text": "Passing other vehicles"},
+        {"id": "b", "text": "Making a left turn"},
+        {"id": "c", "text": "Making a U-turn (where allowed)"},
+        {"id": "d", "text": "Entering a driveway"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Center turn lanes are for turning only, not for passing.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-062",
+      "category": "trafficLaws",
+      "questionText": "Unless turning, you should stay out of the 'No-Zone', which refers to:",
+      "answers": [
+        {"id": "a", "text": "Blind spots around large trucks"},
+        {"id": "b", "text": "Bicycle lanes"},
+        {"id": "c", "text": "School zones"},
+        {"id": "d", "text": "Construction areas"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "No-Zones are the large blind spots around commercial trucks.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-063",
+      "category": "trafficLaws",
+      "questionText": "A flashing red traffic light means:",
+      "answers": [
+        {"id": "a", "text": "Stop completely, then proceed when safe"},
+        {"id": "b", "text": "Slow down"},
+        {"id": "c", "text": "Do not enter"},
+        {"id": "d", "text": "Yield"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Treat a flashing red light exactly like a stop sign.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-064",
+      "category": "trafficLaws",
+      "questionText": "You may turn right on red if:",
+      "answers": [
+        {"id": "a", "text": "You stop first and there is no sign prohibiting it"},
+        {"id": "b", "text": "You slow down"},
+        {"id": "c", "text": "It is late at night"},
+        {"id": "d", "text": "Traffic is light"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Right on red is legal after a full stop, unless signage says otherwise.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-065",
+      "category": "roadSigns",
+      "questionText": "A sign with a T-intersection symbol means:",
+      "answers": [
+        {"id": "a", "text": "The road ends ahead, must turn left or right"},
+        {"id": "b", "text": "Intersection ahead"},
+        {"id": "c", "text": "Merge"},
+        {"id": "d", "text": "Keep right"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns that the road terminates at the intersection.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-066",
+      "category": "trafficLaws",
+      "questionText": "When approaching a stopped emergency vehicle on the shoulder:",
+      "answers": [
+        {"id": "a", "text": "Move over a lane or slow down"},
+        {"id": "b", "text": "Speed up"},
+        {"id": "c", "text": "Honk"},
+        {"id": "d", "text": "Stay in your lane at speed"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Move Over Law requires changing lanes or slowing down.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-067",
+      "category": "safeDriving",
+      "questionText": "When entering an expressway, use the acceleration lane to:",
+      "answers": [
+        {"id": "a", "text": "Speed up to match traffic flow"},
+        {"id": "b", "text": "Stop and check traffic"},
+        {"id": "c", "text": "Drive slowly"},
+        {"id": "d", "text": "Pass other cars"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Use the lane to reach highway speed for safe merging.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-068",
+      "category": "trafficLaws",
+      "questionText": "Bicyclists on the road:",
+      "answers": [
+        {"id": "a", "text": "Have the same rights and duties as drivers"},
+        {"id": "b", "text": "Should ride against traffic"},
+        {"id": "c", "text": "Must ride on the sidewalk"},
+        {"id": "d", "text": "Always yield to cars"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Bicycles are vehicles and must obey traffic laws.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-069",
+      "category": "roadSigns",
+      "questionText": "A brown sign indicates:",
+      "answers": [
+        {"id": "a", "text": "Recreation or cultural interest"},
+        {"id": "b", "text": "Construction"},
+        {"id": "c", "text": "Warning"},
+        {"id": "d", "text": "School"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Brown signs point to parks, historic sites, and recreation.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-070",
+      "category": "trafficLaws",
+      "questionText": "High beam headlights should be dimmed within ___ feet of an approaching vehicle.",
+      "answers": [
+        {"id": "a", "text": "500"},
+        {"id": "b", "text": "200"},
+        {"id": "c", "text": "300"},
+        {"id": "d", "text": "100"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dim high beams 500 feet before meeting a vehicle.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-071",
+      "category": "safeDriving",
+      "questionText": "If a tire blows out:",
+      "answers": [
+        {"id": "a", "text": "Grip the wheel firmly and slow down gradually"},
+        {"id": "b", "text": "Brake hard"},
+        {"id": "c", "text": "Turn quickly"},
+        {"id": "d", "text": "Accelerate"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Do not brake instantly; maintain control and coast to a stop.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-072",
+      "category": "trafficLaws",
+      "questionText": "Unless posted, the speed limit in a business district is:",
+      "answers": [
+        {"id": "a", "text": "30 mph"},
+        {"id": "b", "text": "25 mph"},
+        {"id": "c", "text": "35 mph"},
+        {"id": "d", "text": "20 mph"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Business/residential limit is 30 mph in GA.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-073",
+      "category": "trafficLaws",
+      "questionText": "A solid yellow line on your side of the road means:",
+      "answers": [
+        {"id": "a", "text": "Do not pass"},
+        {"id": "b", "text": "Pass with caution"},
+        {"id": "c", "text": "Merge"},
+        {"id": "d", "text": "Turn right"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Solid yellow line indicates a no-passing zone.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-074",
+      "category": "roadSigns",
+      "questionText": "A sign with a wheelchair symbol indicates:",
+      "answers": [
+        {"id": "a", "text": "Parking for disabled persons"},
+        {"id": "b", "text": "Hospital"},
+        {"id": "c", "text": "Wheelchair crossing"},
+        {"id": "d", "text": "Clinic"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Reserved parking for disabled permits only.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-075",
+      "category": "trafficLaws",
+      "questionText": "You must stop at a railroad crossing when:",
+      "answers": [
+        {"id": "a", "text": "Lights are flashing or a gate is down"},
+        {"id": "b", "text": "You see a train"},
+        {"id": "c", "text": "A flagger signals"},
+        {"id": "d", "text": "All of the above"}
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Stop for signals, gates, trains, or flaggers.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-076",
+      "category": "safeDriving",
+      "questionText": "When driving in rain, you must:",
+      "answers": [
+        {"id": "a", "text": "Turn on headlights"},
+        {"id": "b", "text": "Use parking lights"},
+        {"id": "c", "text": "Drive faster"},
+        {"id": "d", "text": "Use high beams"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Wipers on requires headlights on in GA.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-077",
+      "category": "trafficLaws",
+      "questionText": "If you miss your exit on an expressway:",
+      "answers": [
+        {"id": "a", "text": "Go to the next exit"},
+        {"id": "b", "text": "Back up on the shoulder"},
+        {"id": "c", "text": "Make a U-turn"},
+        {"id": "d", "text": "Stop and wait"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Never back up on an expressway. Proceed to the next exit.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-078",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a sharp turn arrow means:",
+      "answers": [
+        {"id": "a", "text": "Sharp turn ahead, slow down"},
+        {"id": "b", "text": "Right turn only"},
+        {"id": "c", "text": "One way"},
+        {"id": "d", "text": "Merge"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warning for a sharp curve or turn.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-079",
+      "category": "trafficLaws",
+      "questionText": "At an intersection with no signs or signals, yield to:",
+      "answers": [
+        {"id": "a", "text": "Vehicles on the right"},
+        {"id": "b", "text": "Vehicles on the left"},
+        {"id": "c", "text": "The fastest car"},
+        {"id": "d", "text": "No one"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Yield to the vehicle on the right at uncontrolled intersections.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-080",
+      "category": "trafficLaws",
+      "questionText": "Seat belts are required for:",
+      "answers": [
+        {"id": "a", "text": "Drivers and front seat passengers, and minors"},
+        {"id": "b", "text": "Only the driver"},
+        {"id": "c", "text": "Only children"},
+        {"id": "d", "text": "No one"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "GA requires belts for front seat occupants and all minors.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-081",
+      "category": "trafficLaws",
+      "questionText": "Effective July 1, 2025, operating a drone over a ticketed event is:",
+      "answers": [
+        {"id": "a", "text": "Prohibited within 400 feet"},
+        {"id": "b", "text": "Allowed with a permit"},
+        {"id": "c", "text": "Allowed during the day"},
+        {"id": "d", "text": "Unregulated"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "New law prohibits drones within 400 feet of ticketed events.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-082",
+      "category": "trafficLaws",
+      "questionText": "Automated traffic enforcement cameras in school zones are authorized to:",
+      "answers": [
+        {"id": "a", "text": "Issue citations for speeding"},
+        {"id": "b", "text": "Record attendance"},
+        {"id": "c", "text": "Monitor parking"},
+        {"id": "d", "text": "Check insurance"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Cameras can enforce speed limits in school zones.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-083",
+      "category": "trafficLaws",
+      "questionText": "Transferring a pet at a roadside or public park is:",
+      "answers": [
+        {"id": "a", "text": "Prohibited under new 2025 laws"},
+        {"id": "b", "text": "Allowed anytime"},
+        {"id": "c", "text": "Allowed with a license"},
+        {"id": "d", "text": "Encouraged"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "New law bans transferring pets at roadsides/parks.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-084",
+      "category": "trafficLaws",
+      "questionText": "Using a fake ID to buy alcohol will result in:",
+      "answers": [
+        {"id": "a", "text": "License suspension"},
+        {"id": "b", "text": "A warning"},
+        {"id": "c", "text": "A small fine"},
+        {"id": "d", "text": "Community service only"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Using false ID leads to license suspension.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-085",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a signal light picture means:",
+      "answers": [
+        {"id": "a", "text": "Traffic signal ahead"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "Yield"},
+        {"id": "d", "text": "Go"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warning for an upcoming traffic light.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-086",
+      "category": "safeDriving",
+      "questionText": "When checking mirrors, you should also:",
+      "answers": [
+        {"id": "a", "text": "Turn your head to check blind spots"},
+        {"id": "b", "text": "Lean forward"},
+        {"id": "c", "text": "Adjust the radio"},
+        {"id": "d", "text": "Close one eye"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Head checks clear blind spots.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-087",
+      "category": "trafficLaws",
+      "questionText": "You may turn right on red if:",
+      "answers": [
+        {"id": "a", "text": "You stop and it is safe, unless prohibited"},
+        {"id": "b", "text": "You slow down"},
+        {"id": "c", "text": "Traffic is clear"},
+        {"id": "d", "text": "It is Sunday"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Right on red is legal after stopping.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-088",
+      "category": "trafficLaws",
+      "questionText": "A flashing yellow light means:",
+      "answers": [
+        {"id": "a", "text": "Slow down and proceed with caution"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Turn left"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Proceed with caution at flashing yellow.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-089",
+      "category": "trafficLaws",
+      "questionText": "If you refuse a state-administered chemical test for DUI:",
+      "answers": [
+        {"id": "a", "text": "Your license will be suspended for 1 year"},
+        {"id": "b", "text": "You get a ticket"},
+        {"id": "c", "text": "You pay $50"},
+        {"id": "d", "text": "Nothing happens"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Refusal results in a 1-year suspension.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-090",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Keep Right' and an arrow means:",
+      "answers": [
+        {"id": "a", "text": "Stay to the right of the divider"},
+        {"id": "b", "text": "Turn right"},
+        {"id": "c", "text": "One way"},
+        {"id": "d", "text": "Pass on right"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Drive to the right of the obstruction.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-091",
+      "category": "safeDriving",
+      "questionText": "If your vehicle starts to skid:",
+      "answers": [
+        {"id": "a", "text": "Take your foot off the gas and steer in direction of skid"},
+        {"id": "b", "text": "Brake hard"},
+        {"id": "c", "text": "Accelerate"},
+        {"id": "d", "text": "Turn opposite the skid"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Ease off gas and steer into skid.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-092",
+      "category": "trafficLaws",
+      "questionText": "You must signal at least ___ feet before turning.",
+      "answers": [
+        {"id": "a", "text": "100"},
+        {"id": "b", "text": "50"},
+        {"id": "c", "text": "200"},
+        {"id": "d", "text": "300"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Signal 100 feet in advance.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-093",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to park within ___ feet of a railroad crossing.",
+      "answers": [
+        {"id": "a", "text": "50"},
+        {"id": "b", "text": "15"},
+        {"id": "c", "text": "20"},
+        {"id": "d", "text": "100"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Do not park within 50 feet of tracks.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-094",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a truck rollover symbol means:",
+      "answers": [
+        {"id": "a", "text": "Risk of rollover on curve"},
+        {"id": "b", "text": "Truck parking"},
+        {"id": "c", "text": "No trucks"},
+        {"id": "d", "text": "Steep hill"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warns of rollover risk for trucks.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-095",
+      "category": "trafficLaws",
+      "questionText": "Unless posted, the speed limit on an unpaved county road is:",
+      "answers": [
+        {"id": "a", "text": "35 mph"},
+        {"id": "b", "text": "30 mph"},
+        {"id": "c", "text": "25 mph"},
+        {"id": "d", "text": "45 mph"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Unpaved road limit is 35 mph.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-096",
+      "category": "safeDriving",
+      "questionText": "To avoid being blinded by oncoming high beams:",
+      "answers": [
+        {"id": "a", "text": "Look to the right edge of the road"},
+        {"id": "b", "text": "Look at the center line"},
+        {"id": "c", "text": "Flash your lights"},
+        {"id": "d", "text": "Close your eyes"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Look to the right side line to maintain lane position.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-097",
+      "category": "trafficLaws",
+      "questionText": "You cannot pass on a two-lane road if:",
+      "answers": [
+        {"id": "a", "text": "You are within 100 feet of a bridge or tunnel"},
+        {"id": "b", "text": "The car ahead is slow"},
+        {"id": "c", "text": "It is raining"},
+        {"id": "d", "text": "It is night"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Passing prohibited near bridges/tunnels.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-098",
+      "category": "trafficLaws",
+      "questionText": "Motorcycles are entitled to:",
+      "answers": [
+        {"id": "a", "text": "Full lane width"},
+        {"id": "b", "text": "Share lanes with cars"},
+        {"id": "c", "text": "Ride on shoulder"},
+        {"id": "d", "text": "Pass on right"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Motorcycles have right to full lane.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-099",
+      "category": "roadSigns",
+      "questionText": "A sign indicating 'Lane Ends' means:",
+      "answers": [
+        {"id": "a", "text": "Merge into the adjacent lane"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Shoulder ahead"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Merge as the lane is ending.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-100",
+      "category": "trafficLaws",
+      "questionText": "Georgia's 'Slowpoke Law' requires drivers in the left lane to:",
+      "answers": [
+        {"id": "a", "text": "Move right if faster traffic approaches"},
+        {"id": "b", "text": "Speed up"},
+        {"id": "c", "text": "Stay there"},
+        {"id": "d", "text": "Brake"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Slower traffic must move right to allow passing.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-101",
+      "category": "safeDriving",
+      "questionText": "Large trucks have blind spots called:",
+      "answers": [
+        {"id": "a", "text": "No-Zones"},
+        {"id": "b", "text": "Dark Spots"},
+        {"id": "c", "text": "Side Zones"},
+        {"id": "d", "text": "Rear Zones"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Truck blind spots are No-Zones.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-102",
+      "category": "trafficLaws",
+      "questionText": "You must yield to funeral processions:",
+      "answers": [
+        {"id": "a", "text": "At all times"},
+        {"id": "b", "text": "Only if police are present"},
+        {"id": "c", "text": "Never"},
+        {"id": "d", "text": "On Sundays"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Yield to vehicles in funeral processions.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-103",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a T-intersection symbol means:",
+      "answers": [
+        {"id": "a", "text": "Road ends ahead, turn left or right"},
+        {"id": "b", "text": "Merge"},
+        {"id": "c", "text": "Yield"},
+        {"id": "d", "text": "Crossroad"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "T-intersection warning.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-104",
+      "category": "trafficLaws",
+      "questionText": "Wearing headphones in both ears while driving is:",
+      "answers": [
+        {"id": "a", "text": "Illegal"},
+        {"id": "b", "text": "Legal"},
+        {"id": "c", "text": "Allowed for music"},
+        {"id": "d", "text": "Allowed for phone calls"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Headphones in both ears are prohibited.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-105",
+      "category": "trafficLaws",
+      "questionText": "You may cross a double yellow line to:",
+      "answers": [
+        {"id": "a", "text": "Turn left into a driveway"},
+        {"id": "b", "text": "Pass a slow car"},
+        {"id": "c", "text": "Pass a truck"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "You can cross double yellow to turn into a driveway/alley.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-106",
+      "category": "safeDriving",
+      "questionText": "When passing a large truck, do not:",
+      "answers": [
+        {"id": "a", "text": "Linger in the blind spot"},
+        {"id": "b", "text": "Pass on the left"},
+        {"id": "c", "text": "Signal"},
+        {"id": "d", "text": "Accelerate"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Pass quickly; don't hang in the No-Zone.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-107",
+      "category": "trafficLaws",
+      "questionText": "If you hit a parked car and cannot find the owner:",
+      "answers": [
+        {"id": "a", "text": "Leave a note with your info"},
+        {"id": "b", "text": "Leave immediately"},
+        {"id": "c", "text": "Wait 10 minutes"},
+        {"id": "d", "text": "Call tow truck"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Leave note with contact details securely attached.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-108",
+      "category": "roadSigns",
+      "questionText": "A sign saying 'Slippery When Wet' is:",
+      "answers": [
+        {"id": "a", "text": "Yellow diamond"},
+        {"id": "b", "text": "Red octagon"},
+        {"id": "c", "text": "White rectangle"},
+        {"id": "d", "text": "Orange circle"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warning sign for slippery conditions.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-109",
+      "category": "trafficLaws",
+      "questionText": "You must dim high beams when following within:",
+      "answers": [
+        {"id": "a", "text": "200 feet"},
+        {"id": "b", "text": "300 feet"},
+        {"id": "c", "text": "500 feet"},
+        {"id": "d", "text": "100 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dim lights 200 feet when following.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-110",
+      "category": "trafficLaws",
+      "questionText": "A solid white line between lanes means:",
+      "answers": [
+        {"id": "a", "text": "Stay in your lane"},
+        {"id": "b", "text": "Pass with caution"},
+        {"id": "c", "text": "Merge"},
+        {"id": "d", "text": "Stop"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Solid white means changing lanes is discouraged/prohibited.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-111",
+      "category": "finesAndLimits",
+      "questionText": "The legal BAC limit for drivers over 21 is:",
+      "answers": [
+        {"id": "a", "text": "0.08%"},
+        {"id": "b", "text": "0.05%"},
+        {"id": "c", "text": "0.10%"},
+        {"id": "d", "text": "0.02%"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "0.08% is the DUI threshold for adults.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-112",
+      "category": "trafficLaws",
+      "questionText": "When passing a cyclist, allow at least:",
+      "answers": [
+        {"id": "a", "text": "3 feet"},
+        {"id": "b", "text": "2 feet"},
+        {"id": "c", "text": "1 foot"},
+        {"id": "d", "text": "5 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "3 feet clearance required for bikes.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-113",
+      "category": "safeDriving",
+      "questionText": "If your car stalls on railroad tracks:",
+      "answers": [
+        {"id": "a", "text": "Get out and run towards the train at an angle"},
+        {"id": "b", "text": "Try to restart it"},
+        {"id": "c", "text": "Push it off"},
+        {"id": "d", "text": "Stay inside"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Run toward train (45-degree angle) to avoid debris.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-114",
+      "category": "roadSigns",
+      "questionText": "A sign with two people walking means:",
+      "answers": [
+        {"id": "a", "text": "School zone/crossing"},
+        {"id": "b", "text": "Pedestrian crossing"},
+        {"id": "c", "text": "Playground"},
+        {"id": "d", "text": "Park"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Pentagon with figures indicates school zone.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-115",
+      "category": "trafficLaws",
+      "questionText": "You may turn left on red if:",
+      "answers": [
+        {"id": "a", "text": "Turning from one-way to one-way"},
+        {"id": "b", "text": "It is clear"},
+        {"id": "c", "text": "Never"},
+        {"id": "d", "text": "Turning onto a two-way"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Left on red allowed only one-way to one-way.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-116",
+      "category": "trafficLaws",
+      "questionText": "Coasting downhill in neutral is:",
+      "answers": [
+        {"id": "a", "text": "Illegal"},
+        {"id": "b", "text": "Safe"},
+        {"id": "c", "text": "Fuel efficient"},
+        {"id": "d", "text": "Recommended"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Coasting is unsafe and illegal.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-117",
+      "category": "safeDriving",
+      "questionText": "If a tire blows out:",
+      "answers": [
+        {"id": "a", "text": "Grip wheel firmly, slow gradually"},
+        {"id": "b", "text": "Brake hard"},
+        {"id": "c", "text": "Turn sharply"},
+        {"id": "d", "text": "Speed up"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Maintain control, do not brake abruptly.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-118",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a winding arrow means:",
+      "answers": [
+        {"id": "a", "text": "Winding road"},
+        {"id": "b", "text": "Slippery road"},
+        {"id": "c", "text": "Turn right"},
+        {"id": "d", "text": "Merge"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warning for winding road ahead.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-119",
+      "category": "trafficLaws",
+      "questionText": "Parking is illegal within ___ feet of a crosswalk.",
+      "answers": [
+        {"id": "a", "text": "20"},
+        {"id": "b", "text": "15"},
+        {"id": "c", "text": "30"},
+        {"id": "d", "text": "10"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "No parking within 20 feet of crosswalk.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-120",
+      "category": "trafficLaws",
+      "questionText": "High Occupancy Vehicle (HOV) lanes are marked by:",
+      "answers": [
+        {"id": "a", "text": "A diamond symbol"},
+        {"id": "b", "text": "A star"},
+        {"id": "c", "text": "Solid white line"},
+        {"id": "d", "text": "Double yellow line"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Diamond symbol marks HOV lanes.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-121",
+      "category": "safeDriving",
+      "questionText": "When entering a tunnel:",
+      "answers": [
+        {"id": "a", "text": "Turn on lights"},
+        {"id": "b", "text": "Speed up"},
+        {"id": "c", "text": "Honk"},
+        {"id": "d", "text": "Change lanes"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Turn on lights for visibility.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-122",
+      "category": "trafficLaws",
+      "questionText": "If you refuse a chemical test for the second time in 5 years:",
+      "answers": [
+        {"id": "a", "text": "License suspended for 3 years"},
+        {"id": "b", "text": "1 year suspension"},
+        {"id": "c", "text": "Fine only"},
+        {"id": "d", "text": "Warning"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Second refusal leads to 3-year suspension.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-123",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a Plus (+) means:",
+      "answers": [
+        {"id": "a", "text": "Crossroad / Intersection"},
+        {"id": "b", "text": "Hospital"},
+        {"id": "c", "text": "First Aid"},
+        {"id": "d", "text": "Railroad"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warning for an intersection.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-124",
+      "category": "trafficLaws",
+      "questionText": "You must signal before turning for at least:",
+      "answers": [
+        {"id": "a", "text": "100 feet"},
+        {"id": "b", "text": "50 feet"},
+        {"id": "c", "text": "200 feet"},
+        {"id": "d", "text": "300 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Signal turn 100 feet in advance.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-125",
+      "category": "trafficLaws",
+      "questionText": "Texting while driving is:",
+      "answers": [
+        {"id": "a", "text": "Illegal for all drivers"},
+        {"id": "b", "text": "Allowed for adults"},
+        {"id": "c", "text": "Allowed at red lights"},
+        {"id": "d", "text": "Allowed for GPS"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Hands-Free Act bans texting for everyone.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-126",
+      "category": "safeDriving",
+      "questionText": "If you drive through deep water, you should:",
+      "answers": [
+        {"id": "a", "text": "Test your brakes lightly"},
+        {"id": "b", "text": "Speed up to dry them"},
+        {"id": "c", "text": "Stop immediately"},
+        {"id": "d", "text": "Turn off engine"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Test brakes after water exposure.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-127",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to park within ___ feet of a stop sign.",
+      "answers": [
+        {"id": "a", "text": "30"},
+        {"id": "b", "text": "20"},
+        {"id": "c", "text": "15"},
+        {"id": "d", "text": "50"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "No parking within 30 feet of stop signs.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-128",
+      "category": "roadSigns",
+      "questionText": "A sign saying 'Keep Right' means:",
+      "answers": [
+        {"id": "a", "text": "Drive to the right of the obstruction"},
+        {"id": "b", "text": "Turn right"},
+        {"id": "c", "text": "Right lane ends"},
+        {"id": "d", "text": "Exit right"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Keep to the right of the divider.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-129",
+      "category": "trafficLaws",
+      "questionText": "Drivers turning left on a green light must:",
+      "answers": [
+        {"id": "a", "text": "Yield to oncoming traffic"},
+        {"id": "b", "text": "Go immediately"},
+        {"id": "c", "text": "Have right of way"},
+        {"id": "d", "text": "Stop and wait for arrow"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Left turn yield on green.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-130",
+      "category": "trafficLaws",
+      "questionText": "If you are under 18, you cannot drive between:",
+      "answers": [
+        {"id": "a", "text": "12 AM and 5 AM"},
+        {"id": "b", "text": "11 PM and 6 AM"},
+        {"id": "c", "text": "1 AM and 5 AM"},
+        {"id": "d", "text": "10 PM and 6 AM"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Joshua's Law curfew is midnight to 5 AM.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-131",
+      "category": "roadSigns",
+      "questionText": "A fluorescent pink sign means:",
+      "answers": [
+        {"id": "a", "text": "Incident management / Emergency"},
+        {"id": "b", "text": "School zone"},
+        {"id": "c", "text": "Construction"},
+        {"id": "d", "text": "Tourist info"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Pink signs denote emergency incidents.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-132",
+      "category": "safeDriving",
+      "questionText": "To avoid blind spots, do not drive:",
+      "answers": [
+        {"id": "a", "text": "In the rear quarter of other cars"},
+        {"id": "b", "text": "In the right lane"},
+        {"id": "c", "text": "Behind trucks"},
+        {"id": "d", "text": "At night"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Avoid lurking in blind spots.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-133",
+      "category": "trafficLaws",
+      "questionText": "You must dim high beams when following another vehicle within:",
+      "answers": [
+        {"id": "a", "text": "200 feet"},
+        {"id": "b", "text": "300 feet"},
+        {"id": "c", "text": "500 feet"},
+        {"id": "d", "text": "100 feet"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dim lights 200 feet when following.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-134",
+      "category": "roadSigns",
+      "questionText": "A yellow sign with a side road symbol (T on side) means:",
+      "answers": [
+        {"id": "a", "text": "Side road enters ahead"},
+        {"id": "b", "text": "Merge"},
+        {"id": "c", "text": "Lane ends"},
+        {"id": "d", "text": "No turn"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warning for side road intersection.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-135",
+      "category": "trafficLaws",
+      "questionText": "It is illegal to back up:",
+      "answers": [
+        {"id": "a", "text": "On an expressway"},
+        {"id": "b", "text": "In a driveway"},
+        {"id": "c", "text": "In a parking lot"},
+        {"id": "d", "text": "On a side street"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Backing on highways is illegal.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-136",
+      "category": "safeDriving",
+      "questionText": "If you are drowsy while driving:",
+      "answers": [
+        {"id": "a", "text": "Stop and rest"},
+        {"id": "b", "text": "Open windows"},
+        {"id": "c", "text": "Turn up radio"},
+        {"id": "d", "text": "Eat"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Rest is the only cure for drowsiness.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-137",
+      "category": "trafficLaws",
+      "questionText": "A solid white line on the right edge of the road is:",
+      "answers": [
+        {"id": "a", "text": "The fog line"},
+        {"id": "b", "text": "Center line"},
+        {"id": "c", "text": "Stop line"},
+        {"id": "d", "text": "Passing line"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Fog line marks the road edge.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-138",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Dip' means:",
+      "answers": [
+        {"id": "a", "text": "Low place in road"},
+        {"id": "b", "text": "Bump ahead"},
+        {"id": "c", "text": "Dead end"},
+        {"id": "d", "text": "Water"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Warning for a dip in the road.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-139",
+      "category": "trafficLaws",
+      "questionText": "You are approaching a flashing red light. You should:",
+      "answers": [
+        {"id": "a", "text": "Stop completely"},
+        {"id": "b", "text": "Slow down"},
+        {"id": "c", "text": "Yield only"},
+        {"id": "d", "text": "Speed up"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Flashing red equals stop sign.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-140",
+      "category": "trafficLaws",
+      "questionText": "When checking your blind spot, turn your head:",
+      "answers": [
+        {"id": "a", "text": "Quickly"},
+        {"id": "b", "text": "Slowly"},
+        {"id": "c", "text": "Keep looking forward"},
+        {"id": "d", "text": "Look at passenger"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Quick head check to clear blind spot.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-141",
+      "category": "finesAndLimits",
+      "questionText": "Under new 2025 laws, street racing can result in:",
+      "answers": [
+        {"id": "a", "text": "Felony charges for repeat offenders"},
+        {"id": "b", "text": "A warning"},
+        {"id": "c", "text": "Traffic school only"},
+        {"id": "d", "text": "Small fine"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Repeat street racing is now a felony.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-142",
+      "category": "trafficLaws",
+      "questionText": "You must obey traffic officers:",
+      "answers": [
+        {"id": "a", "text": "At all times, over signs/signals"},
+        {"id": "b", "text": "Only if lights are out"},
+        {"id": "c", "text": "Only in emergencies"},
+        {"id": "d", "text": "Never"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Officers overrule all signals.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-143",
+      "category": "safeDriving",
+      "questionText": "If your accelerator sticks:",
+      "answers": [
+        {"id": "a", "text": "Shift to neutral and brake"},
+        {"id": "b", "text": "Turn off engine immediately"},
+        {"id": "c", "text": "Pump gas pedal"},
+        {"id": "d", "text": "Jump out"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Neutral allows you to stop safely.",
+      "imageAssetName": null,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ga-144",
+      "category": "trafficLaws",
+      "questionText": "A green arrow means:",
+      "answers": [
+        {"id": "a", "text": "Proceed in direction of arrow"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "Yield"},
+        {"id": "d", "text": "Go straight"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Protected turn in direction of arrow.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-145",
+      "category": "trafficLaws",
+      "questionText": "When parking downhill with a curb:",
+      "answers": [
+        {"id": "a", "text": "Turn wheels toward curb"},
+        {"id": "b", "text": "Turn wheels away"},
+        {"id": "c", "text": "Straight"},
+        {"id": "d", "text": "Left"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Wheels toward curb to roll into it.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-146",
+      "category": "roadSigns",
+      "questionText": "A sign with 'Soft Shoulder' means:",
+      "answers": [
+        {"id": "a", "text": "Shoulder is unpaved/soft"},
+        {"id": "b", "text": "No stopping"},
+        {"id": "c", "text": "Construction"},
+        {"id": "d", "text": "Rest area"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Do not drive on the soft shoulder.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-147",
+      "category": "trafficLaws",
+      "questionText": "New 2025 vehicle height laws target:",
+      "answers": [
+        {"id": "a", "text": "Squatted trucks with front lifted higher than rear"},
+        {"id": "b", "text": "Lowriders"},
+        {"id": "c", "text": "Semi-trucks"},
+        {"id": "d", "text": "Motorcycles"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Ban on trucks with front >4 inches higher than rear.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-148",
+      "category": "safeDriving",
+      "questionText": "To enter a roundabout:",
+      "answers": [
+        {"id": "a", "text": "Yield to left"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "Speed up"},
+        {"id": "d", "text": "Honk"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Yield to traffic already in circle.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ga-149",
+      "category": "trafficLaws",
+      "questionText": "Unless posted, the speed limit on a multi-lane highway is:",
+      "answers": [
+        {"id": "a", "text": "55 mph"},
+        {"id": "b", "text": "65 mph"},
+        {"id": "c", "text": "70 mph"},
+        {"id": "d", "text": "45 mph"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Standard limit is 55 mph.",
+      "imageAssetName": null,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ga-150",
+      "category": "roadSigns",
+      "questionText": "A circular sign tells you:",
+      "answers": [
+        {"id": "a", "text": "Railroad crossing ahead"},
+        {"id": "b", "text": "Stop"},
+        {"id": "c", "text": "Yield"},
+        {"id": "d", "text": "School zone"}
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Circle always means railroad warning.",
+      "imageAssetName": null,
+      "difficulty": "easy"
+    }
+  ]
+}
