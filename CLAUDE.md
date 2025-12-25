@@ -28,12 +28,12 @@ PermitReady is an iOS app targeting teenagers (15-17) preparing for their learne
 Always use the `--quiet` flag to prevent context overflow:
 
 ```bash
-xcodebuild -scheme PermitReady -destination 'platform=iOS Simulator,name=iPhone 16' build --quiet
+xcodebuild -scheme PermitReady -destination 'platform=iOS Simulator,name=iPhone 17 Pro' build --quiet
 ```
 
 ### Running Tests
 ```bash
-xcodebuild test -scheme PermitReady -destination 'platform=iOS Simulator,name=iPhone 16' --quiet
+xcodebuild test -scheme PermitReady -destination 'platform=iOS Simulator,name=iPhone 17 Pro' --quiet
 ```
 
 ## Project Structure

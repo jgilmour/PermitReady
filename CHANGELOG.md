@@ -17,6 +17,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated .gitignore to exclude API keys, certificates, and configuration files
 - Updated CLAUDE.md with security best practices for public repository
+- Corrected simulator name in build instructions from iPhone 16 to iPhone 17 Pro
+
+### Fixed
+- Documentation incorrectly referenced iPhone 16 simulator instead of iPhone 17 Pro
 
 ## [0.1.0] - 2024-12-24
 

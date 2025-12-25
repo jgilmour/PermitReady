@@ -73,10 +73,10 @@ An iOS app designed to help teenagers (15-17) prepare for their learner's permit
 
 ```bash
 # Build
-xcodebuild -scheme PermitReady -destination 'platform=iOS Simulator,name=iPhone 16' build --quiet
+xcodebuild -scheme PermitReady -destination 'platform=iOS Simulator,name=iPhone 17 Pro' build --quiet
 
 # Run tests
-xcodebuild test -scheme PermitReady -destination 'platform=iOS Simulator,name=iPhone 16' --quiet
+xcodebuild test -scheme PermitReady -destination 'platform=iOS Simulator,name=iPhone 17 Pro' --quiet
 ```
 
 ## Project Structure
