@@ -114,11 +114,13 @@ struct SettingsView: View {
                     }
                     .disabled(storeManager.isLoading)
 
-                    // Error message
+                    // Error message (hide user cancellation errors)
                     if let error = storeManager.errorMessage {
-                        Text(error)
-                            .font(.caption)
-                            .foregroundStyle(.red)
+                        if !error.lowercased().contains("cancel") {
+                            Text(error)
+                                .font(.caption)
+                                .foregroundStyle(.red)
+                        }
                     }
                 } header: {
                     Text("Premium")

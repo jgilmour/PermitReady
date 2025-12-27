@@ -83,6 +83,7 @@ schemes:
       config: Debug
       commandLineArguments:
         "-com.apple.CoreData.ConcurrencyDebug 1": true
+      storeKitConfiguration: PermitReady.storekit
     test:
       config: Debug
       gatherCoverageData: true

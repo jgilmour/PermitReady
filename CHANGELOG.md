@@ -28,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - PRODUCTION_CHECKLIST.md for pre-launch configuration tracking
 - Production readiness section in CLAUDE.md
 - Future analytics integration plan deferred to post-launch (TelemetryDeck recommended)
+- StoreKit configuration file for local IAP testing (PermitReady.storekit)
 
 ### Changed
 - Updated .gitignore to exclude API keys, certificates, and configuration files
@@ -44,6 +45,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated year from 2024 to 2025 in README, SECURITY, and CHANGELOG
 - Interstitial ad presentation timing conflict between UIKit and SwiftUI view hierarchy (QuizView.swift:131)
 - Added 9 missing SKAdNetwork identifiers from Google's recommended list (Info.plist:245-280)
+- Hide "Request Canceled" error message when user cancels restore purchases (SettingsView.swift:119)
 
 ## [0.1.0] - 2025-12-24
 

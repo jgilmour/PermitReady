@@ -52,9 +52,15 @@ private let adUnitID = "ca-app-pub-XXXXXXXXXXXXXXXX/YYYYYYYYYY"  // Your real in
 
 **File:** `PermitReady/Core/Services/StoreManager.swift`
 ```swift
-// Line 12 - Verify product ID matches App Store Connect
+// Line 9 - Verify product ID matches App Store Connect
 private let removeAdsProductID = "com.yourcompany.permitready.removeads"
 ```
+
+**Note:** For local testing before App Store Connect setup:
+- A StoreKit configuration file is included: `PermitReady.storekit`
+- This allows testing IAP functionality in Xcode without App Store Connect
+- The StoreKit file uses product ID: `com.yourname.permitready.removeads`
+- Update this to match your final bundle ID when ready for production
 
 ### 4. App Metadata & Info.plist
 - [ ] Verify app display name is correct
