@@ -25,11 +25,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - SKAdNetwork identifiers for ad attribution
 - AdMob initialization in app startup
 - Interstitial ads before quiz/test/category results
+- PRODUCTION_CHECKLIST.md for pre-launch configuration tracking
+- Production readiness section in CLAUDE.md
 
 ### Changed
 - Updated .gitignore to exclude API keys, certificates, and configuration files
 - Updated CLAUDE.md with security best practices for public repository
+- Updated CLAUDE.md with monetization phase and production tracking requirements
 - Corrected simulator name in build instructions from iPhone 16 to iPhone 17 Pro
+- Downgraded Swift version from 6.0 to 5.10 for Google Ads SDK compatibility
+- Set SWIFT_STRICT_CONCURRENCY to minimal for Google Ads SDK
 
 ### Fixed
 - Documentation incorrectly referenced iPhone 16 simulator instead of iPhone 17 Pro

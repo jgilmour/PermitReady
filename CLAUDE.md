@@ -4,12 +4,13 @@
 PermitReady is an iOS app targeting teenagers (15-17) preparing for their learner's permit exam. The app covers Massachusetts plus 11 high-volume states with state-specific test requirements.
 
 ## Technical Stack
-- **Language**: Swift 6
+- **Language**: Swift 5.10 (temporarily downgraded for Google Ads SDK compatibility)
 - **UI Framework**: SwiftUI
 - **Data Persistence**: SwiftData
 - **Minimum iOS Version**: iOS 17.0
 - **Architecture**: MVVM
 - **Build Tool**: xcodegen
+- **Monetization**: Google AdMob (interstitial ads) + StoreKit 2 (IAP)
 
 ## Build Instructions
 
@@ -91,19 +92,36 @@ This project uses Git for version control.
 3. When ready to release a version, move items from `[Unreleased]` to a new version section with date
 4. Commit the CHANGELOG.md with your other changes
 
+### Production Readiness Tracking
+**IMPORTANT**: When adding features that require production configuration, update `PRODUCTION_CHECKLIST.md`.
+
+If you add or modify any of the following, you MUST update the production checklist:
+- ✅ New API integrations (AdMob, Firebase, etc.)
+- ✅ Configuration IDs that differ between development and production
+- ✅ In-app purchases or subscriptions
+- ✅ Bundle identifiers, team IDs, or signing configurations
+- ✅ Third-party SDKs that require account setup
+- ✅ Environment-specific settings (test vs production)
+- ✅ Features that need App Store Connect configuration
+- ✅ Privacy-related features requiring Info.plist entries
+
+See `PRODUCTION_CHECKLIST.md` for the complete pre-launch checklist.
+
 ## Development Workflow
 1. Create a new feature branch from `main`
 2. Make changes to source files or project.yml
 3. **Update CHANGELOG.md** with your changes in the `[Unreleased]` section
-4. If project.yml changed, run `xcodegen generate`
-5. Build and test using xcodebuild commands above
-6. Commit your changes with descriptive messages: `git add . && git commit -m "Your message"`
-7. **Push to GitHub**: `git push origin your-branch-name`
-8. Create a Pull Request on GitHub for review
-9. Use XcodeBuildMCP for simulator interaction and screenshots
+4. **Update PRODUCTION_CHECKLIST.md** if adding production-dependent features
+5. If project.yml changed, run `xcodegen generate`
+6. Build and test using xcodebuild commands above
+7. Commit your changes with descriptive messages: `git add . && git commit -m "Your message"`
+8. **Push to GitHub**: `git push origin your-branch-name`
+9. Create a Pull Request on GitHub for review
+10. Use XcodeBuildMCP for simulator interaction and screenshots
 
 ### Commit Best Practices
 - **Always** update CHANGELOG.md before committing
+- **Always** update PRODUCTION_CHECKLIST.md if your changes affect production configuration
 - **Always** push commits to GitHub after local commits
 - Write clear, descriptive commit messages
 - Commit frequently - don't batch too many changes together
@@ -228,6 +246,17 @@ let apiKey = ProcessInfo.processInfo.environment["API_KEY"] ?? ""
 - ✅ Optimized results screen layout for mobile
 - ✅ Context-aware share messages (quiz type, category, state)
 
+### Phase 8: Monetization (✅ Complete - Development Mode)
+- ✅ Google AdMob SDK integration
+- ✅ InterstitialAdManager with smart frequency capping (5 min + every 2 completions)
+- ✅ Full-screen interstitial ads before quiz/test/category results
+- ✅ StoreKit 2 integration for in-app purchases
+- ✅ StoreManager for $1.99 ad removal purchase
+- ✅ Ad-free status persistence with UserDefaults
+- ✅ Purchase UI in Settings with restore functionality
+- ✅ Test ad units for development (see PRODUCTION_CHECKLIST.md for production setup)
+- ⚠️ **Requires production configuration before App Store submission**
+
 ## Features
 
 ### Quiz Experience
@@ -293,6 +322,23 @@ let apiKey = ProcessInfo.processInfo.environment["API_KEY"] ?? ""
 - Different question counts per state (18-50 questions)
 - Variable passing scores (70%-85%)
 - Special handling for split-test states (IL, OH, NC, GA, VA)
+
+### Monetization
+- **Interstitial Ads** (Google AdMob):
+  - Full-screen ads shown before quiz/test/category results
+  - Smart hybrid frequency capping (5-minute cooldown + every 2 completions minimum)
+  - Automatic preloading for smooth user experience
+  - Test ad units in development (requires production IDs for App Store)
+- **In-App Purchase**:
+  - One-time $1.99 purchase to remove all ads permanently
+  - StoreKit 2 implementation with async/await
+  - Restore purchases functionality
+  - Ad-free status persisted locally for offline support
+  - Purchase UI integrated in Settings screen
+- **Revenue Model**:
+  - Free app with ads (interstitials: ~$5-15 CPM estimated)
+  - Optional ad removal via IAP
+  - No subscriptions, no consumables, no dark patterns
 
 ## Data Models
 
