@@ -29,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Production readiness section in CLAUDE.md
 - Future analytics integration plan deferred to post-launch (TelemetryDeck recommended)
 - StoreKit configuration file for local IAP testing (PermitReady.storekit)
+- Ad-free purchase mention in onboarding final screen (OnboardingView.swift:446)
 
 ### Changed
 - Updated .gitignore to exclude API keys, certificates, and configuration files
@@ -39,6 +40,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Set SWIFT_STRICT_CONCURRENCY to minimal for Google Ads SDK
 - Privacy policy requirements simplified (AdMob + IAP only, no analytics initially)
 - Added test device ID registration for physical device testing (PermitReadyApp.swift:14-20)
+- De-emphasized "Restore Purchases" button when ad-free already active (SettingsView.swift:108-109)
 
 ### Fixed
 - Documentation incorrectly referenced iPhone 16 simulator instead of iPhone 17 Pro

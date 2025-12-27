@@ -442,6 +442,14 @@ struct FinalScreen: View {
             }
             .padding(.horizontal, 40)
 
+            // Ad-free mention
+            Text("PermitReady is free with ads. Remove ads anytime from Settings for $1.99")
+                .font(.caption)
+                .foregroundStyle(.secondary)
+                .multilineTextAlignment(.center)
+                .padding(.horizontal, 40)
+                .padding(.top, 8)
+
             Spacer()
         }
         .padding()

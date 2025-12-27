@@ -96,7 +96,7 @@ struct SettingsView: View {
                         }
                     }
 
-                    // Restore purchases button
+                    // Restore purchases button (always visible for App Store compliance)
                     Button(action: {
                         HapticManager.impact()
                         Task {
@@ -105,7 +105,8 @@ struct SettingsView: View {
                     }) {
                         HStack {
                             Text("Restore Purchases")
-                                .foregroundStyle(.blue)
+                                .font(storeManager.isAdFree ? .caption : .body)
+                                .foregroundStyle(storeManager.isAdFree ? Color.secondary : Color.blue)
                             if storeManager.isLoading {
                                 Spacer()
                                 ProgressView()
