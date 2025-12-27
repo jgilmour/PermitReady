@@ -108,7 +108,12 @@ private let minimumCompletionsBeforeAd = 2
 
 ### 9. Legal & Compliance
 - [ ] Review and finalize disclaimer text in Settings
-- [ ] Ensure Privacy Policy is available (required for IAP and ads)
+- [ ] Create Privacy Policy (required for IAP and AdMob)
+  - Disclose: AdMob ad serving, IAP data handling
+  - Host publicly: GitHub Pages, Netlify, or similar
+  - Keep it simple: No analytics tracking yet (deferred post-launch)
+- [ ] Add Privacy Policy URL to App Store Connect
+- [ ] Add Privacy Policy link to Settings → About section (in-app)
 - [ ] Review AdMob compliance (COPPA, GDPR if applicable)
 - [ ] Verify SKAdNetwork identifiers are complete in Info.plist
 
@@ -136,9 +141,35 @@ private let minimumCompletionsBeforeAd = 2
 ### Optimization Opportunities
 - [ ] A/B test ad frequency if revenue is low
 - [ ] Consider adding banner ads to home screen if interstitials underperform
-- [ ] Monitor which states are most popular
+- [ ] Monitor which states are most popular (currently manual via App Store Analytics)
 - [ ] Track which quiz modes are used most (practice vs test)
 - [ ] Gather feedback for future feature updates
+
+### Future Feature: Analytics Integration (Post-Launch)
+**Decision:** Deferred until after initial launch to reduce complexity and privacy concerns.
+
+When ready to add analytics, recommended approach:
+- [ ] **TelemetryDeck** (privacy-first, free tier, no consent required)
+  - Track state selection distribution
+  - Quiz vs Test mode usage
+  - Category popularity and difficulty
+  - Completion rates and scores
+  - Daily/weekly active users
+  - IAP conversion funnel
+- [ ] Create privacy policy (required with analytics)
+- [ ] Add Privacy Policy link to Settings → About section
+- [ ] Host privacy policy on GitHub Pages or similar
+- [ ] Update App Store Connect with privacy policy URL
+- [ ] Add Privacy Nutrition Labels in App Store Connect
+
+**Why wait:**
+- Launch faster with simpler app
+- Less privacy concerns for teen audience
+- Use App Store Analytics + AdMob dashboard initially
+- Add based on actual user feedback and needs
+- Avoid premature optimization
+
+**Documentation:** See analytics discussion in session notes for full implementation plan.
 
 ## 🚀 Quick Reference - Production IDs Needed
 
