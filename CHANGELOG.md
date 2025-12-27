@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- Terms of Service link in Settings → About section (https://techsmog.com/permitready/terms.html)
+- Privacy policy completed and hosted at https://techsmog.com/permitready/privacy.html
 - SECURITY.md with comprehensive security guidelines for public repository
 - Security section in CLAUDE.md with prohibited content and safe practices
 - Enhanced .gitignore with security-focused exclusions for sensitive files
@@ -28,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - PRODUCTION_CHECKLIST.md for pre-launch configuration tracking
 - Production readiness section in CLAUDE.md
 - Future analytics integration plan deferred to post-launch (TelemetryDeck recommended)
+- Privacy Policy link in Settings → About section (placeholder URL for production)
 - StoreKit configuration file for local IAP testing (PermitReady.storekit)
 - Ad-free purchase mention in onboarding final screen (OnboardingView.swift:446)
 
@@ -39,6 +42,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Downgraded Swift version from 6.0 to 5.10 for Google Ads SDK compatibility
 - Set SWIFT_STRICT_CONCURRENCY to minimal for Google Ads SDK
 - Privacy policy requirements simplified (AdMob + IAP only, no analytics initially)
+- Privacy Policy URL updated from placeholder to production URL (techsmog.com/permitready/privacy.html)
 - Added test device ID registration for physical device testing (PermitReadyApp.swift:14-20)
 - De-emphasized "Restore Purchases" button when ad-free already active (SettingsView.swift:108-109)
 

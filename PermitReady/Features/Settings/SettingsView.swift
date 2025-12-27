@@ -147,6 +147,30 @@ struct SettingsView: View {
                             .frame(width: 40, height: 40)
                             .clipShape(RoundedRectangle(cornerRadius: 8))
                     }
+
+                    // Privacy Policy link
+                    Link(destination: URL(string: "https://techsmog.com/permitready/privacy.html")!) {
+                        HStack {
+                            Label("Privacy Policy", systemImage: "hand.raised.fill")
+                                .foregroundStyle(.primary)
+                            Spacer()
+                            Image(systemName: "arrow.up.right.square")
+                                .font(.caption)
+                                .foregroundStyle(.secondary)
+                        }
+                    }
+
+                    // Terms of Service link
+                    Link(destination: URL(string: "https://techsmog.com/permitready/terms.html")!) {
+                        HStack {
+                            Label("Terms of Service", systemImage: "doc.text.fill")
+                                .foregroundStyle(.primary)
+                            Spacer()
+                            Image(systemName: "arrow.up.right.square")
+                                .font(.caption)
+                                .foregroundStyle(.secondary)
+                        }
+                    }
                 } header: {
                     Text("About")
                 }

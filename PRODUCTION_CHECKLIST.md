@@ -122,15 +122,22 @@ private let minimumCompletionsBeforeAd = 2
 - [ ] Set up App Store Connect API key for CI/CD (optional)
 
 ### 9. Legal & Compliance
-- [ ] Review and finalize disclaimer text in Settings
-- [ ] Create Privacy Policy (required for IAP and AdMob)
+- [x] Review and finalize disclaimer text in Settings
+- [x] Create Privacy Policy (required for IAP and AdMob)
   - Disclose: AdMob ad serving, IAP data handling
   - Host publicly: GitHub Pages, Netlify, or similar
   - Keep it simple: No analytics tracking yet (deferred post-launch)
+  - URL: https://techsmog.com/permitready/privacy.html
+- [x] Create Terms of Service (recommended for liability protection)
+  - Covers: Educational disclaimers, IAP refunds, parental consent, liability limits
+  - Host publicly: Same location as Privacy Policy
+  - URL: https://techsmog.com/permitready/terms.html
 - [ ] Add Privacy Policy URL to App Store Connect
-- [ ] Add Privacy Policy link to Settings → About section (in-app)
+- [ ] Add Terms of Service URL to App Store Connect (optional but recommended)
+- [x] Add Privacy Policy link to Settings → About section (in-app)
+- [x] Add Terms of Service link to Settings → About section (in-app)
 - [ ] Review AdMob compliance (COPPA, GDPR if applicable)
-- [ ] Verify SKAdNetwork identifiers are complete in Info.plist
+- [x] Verify SKAdNetwork identifiers are complete in Info.plist
 
 ### 10. Build & Archive
 - [ ] Regenerate Xcode project: `xcodegen generate`
