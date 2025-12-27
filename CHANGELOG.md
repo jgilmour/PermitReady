@@ -27,6 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Interstitial ads before quiz/test/category results
 - PRODUCTION_CHECKLIST.md for pre-launch configuration tracking
 - Production readiness section in CLAUDE.md
+- Future analytics integration plan deferred to post-launch (TelemetryDeck recommended)
 
 ### Changed
 - Updated .gitignore to exclude API keys, certificates, and configuration files
@@ -35,10 +36,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Corrected simulator name in build instructions from iPhone 16 to iPhone 17 Pro
 - Downgraded Swift version from 6.0 to 5.10 for Google Ads SDK compatibility
 - Set SWIFT_STRICT_CONCURRENCY to minimal for Google Ads SDK
+- Privacy policy requirements simplified (AdMob + IAP only, no analytics initially)
 
 ### Fixed
 - Documentation incorrectly referenced iPhone 16 simulator instead of iPhone 17 Pro
 - Updated year from 2024 to 2025 in README, SECURITY, and CHANGELOG
+- Interstitial ad presentation timing conflict between UIKit and SwiftUI view hierarchy (QuizView.swift:131)
 
 ## [0.1.0] - 2025-12-24
 

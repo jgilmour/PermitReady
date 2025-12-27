@@ -126,8 +126,12 @@ struct QuizView: View {
 
                     // Show interstitial ad before results (if eligible)
                     InterstitialAdManager.shared.showAdIfNeeded {
-                        // Show results after ad is dismissed (or skipped)
-                        showResults = true
+                        // Small delay to ensure view hierarchy is stable before showing results
+                        // This prevents UIKit/SwiftUI presentation conflicts
+                        Task { @MainActor in
+                            try? await Task.sleep(for: .milliseconds(300))
+                            showResults = true
+                        }
                     }
                 }
             }
