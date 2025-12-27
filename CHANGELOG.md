@@ -19,6 +19,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - AdManager for ad display coordination
 - Purchase UI in Settings screen with restore purchases
 - Ad-free status persistence with UserDefaults
+- Google AdMob SDK integration for banner ads
+- Test ad unit IDs for development and testing
+- SKAdNetwork identifiers for ad attribution
+- AdMob initialization in app startup
 
 ### Changed
 - Updated .gitignore to exclude API keys, certificates, and configuration files

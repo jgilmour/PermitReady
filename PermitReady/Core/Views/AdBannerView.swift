@@ -1,35 +1,33 @@
 import SwiftUI
+import GoogleMobileAds
 
-/// Placeholder ad banner view
-/// Replace with actual ad network SDK (Google AdMob, etc.) when ready to monetize
-struct AdBannerView: View {
-    let isDevelopment = true // Set to false when using real ads
+/// Google AdMob banner ad view
+/// Uses test ad unit ID - replace with real ID for production
+struct AdBannerView: UIViewRepresentable {
+    // TEST Ad Unit ID - shows test ads in development
+    // Replace with your real Ad Unit ID from AdMob for production:
+    // private let adUnitID = "ca-app-pub-XXXXXXXXXX/YYYYYYYYYY"
+    private let adUnitID = "ca-app-pub-3940256099942544/2934735716"
 
-    var body: some View {
-        if isDevelopment {
-            // Development placeholder
-            VStack(spacing: 4) {
-                Text("Ad Banner Placeholder")
-                    .font(.caption)
-                    .foregroundStyle(.secondary)
-                Text("Replace with AdMob/ad network")
-                    .font(.caption2)
-                    .foregroundStyle(.tertiary)
-            }
-            .frame(maxWidth: .infinity)
-            .frame(height: 50)
-            .background(Color.gray.opacity(0.1))
-            .overlay(
-                RoundedRectangle(cornerRadius: 8)
-                    .stroke(Color.gray.opacity(0.3), lineWidth: 1)
-            )
-            .padding(.horizontal)
-        } else {
-            // TODO: Integrate real ad network here
-            // Example for Google AdMob:
-            // GADBannerView(adSize: GADAdSizeBanner, adUnitID: "your-ad-unit-id")
-            EmptyView()
+    func makeUIView(context: Context) -> GADBannerView {
+        let banner = GADBannerView(adSize: GADAdSizeBanner)
+        banner.adUnitID = adUnitID
+
+        // Get root view controller for ad requests
+        if let windowScene = UIApplication.shared.connectedScenes.first as? UIWindowScene,
+           let rootViewController = windowScene.windows.first?.rootViewController {
+            banner.rootViewController = rootViewController
         }
+
+        // Load the ad
+        let request = GADRequest()
+        banner.load(request)
+
+        return banner
+    }
+
+    func updateUIView(_ uiView: GADBannerView, context: Context) {
+        // No updates needed for static banner
     }
 }
 
