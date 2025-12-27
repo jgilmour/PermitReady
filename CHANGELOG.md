@@ -37,6 +37,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Downgraded Swift version from 6.0 to 5.10 for Google Ads SDK compatibility
 - Set SWIFT_STRICT_CONCURRENCY to minimal for Google Ads SDK
 - Privacy policy requirements simplified (AdMob + IAP only, no analytics initially)
+- Added test device ID registration for physical device testing (PermitReadyApp.swift:14-20)
 
 ### Fixed
 - Documentation incorrectly referenced iPhone 16 simulator instead of iPhone 17 Pro

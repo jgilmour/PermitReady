@@ -21,6 +21,7 @@ PRODUCT_BUNDLE_IDENTIFIER: com.yourcompany.permitready  # Line 40
 - [ ] Create new AdMob app for iOS
 - [ ] Create Interstitial Ad Unit for production
 - [ ] Replace test IDs with production IDs
+- [ ] Remove test device IDs from production build
 
 **File:** `PermitReady/Core/Services/InterstitialAdManager.swift`
 ```swift
@@ -33,6 +34,14 @@ private let adUnitID = "ca-app-pub-XXXXXXXXXXXXXXXX/YYYYYYYYYY"  // Your real in
 <!-- Line 50 - Replace test app ID -->
 <key>GADApplicationIdentifier</key>
 <string>ca-app-pub-XXXXXXXXXXXXXXXX~YYYYYYYYYY</string>  <!-- Your real AdMob app ID -->
+```
+
+**File:** `PermitReady/App/PermitReadyApp.swift`
+```swift
+// Lines 14-20 - Remove or update test device IDs before production
+// The #if DEBUG wrapper ensures this code is only active in debug builds
+// You can leave the code as-is since it won't run in release builds
+// OR remove the test device ID list entirely if you prefer
 ```
 
 ### 3. In-App Purchase Configuration
