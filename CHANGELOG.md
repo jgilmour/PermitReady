@@ -48,6 +48,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Interstitial ad presentation timing conflict between UIKit and SwiftUI view hierarchy (QuizView.swift:131)
 - Added 9 missing SKAdNetwork identifiers from Google's recommended list (Info.plist:245-280)
 - Hide "Request Canceled" error message when user cancels restore purchases (SettingsView.swift:119)
+- App icon appearance in dark mode with rounded corners and subtle border (ContentView.swift:45, OnboardingView.swift:80)
 
 ## [0.1.0] - 2025-12-24
 

@@ -77,6 +77,11 @@ struct WelcomeScreen: View {
                 .resizable()
                 .aspectRatio(contentMode: .fit)
                 .frame(width: 120, height: 120)
+                .clipShape(RoundedRectangle(cornerRadius: 24))
+                .overlay(
+                    RoundedRectangle(cornerRadius: 24)
+                        .stroke(Color.primary.opacity(0.1), lineWidth: 1)
+                )
 
             VStack(spacing: 16) {
                 Text("Welcome to PermitReady!")

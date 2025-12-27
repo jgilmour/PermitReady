@@ -42,6 +42,11 @@ struct ContentView: View {
                                     .resizable()
                                     .aspectRatio(contentMode: .fit)
                                     .frame(width: 50, height: 50)
+                                    .clipShape(RoundedRectangle(cornerRadius: 12))
+                                    .overlay(
+                                        RoundedRectangle(cornerRadius: 12)
+                                            .stroke(Color.primary.opacity(0.1), lineWidth: 1)
+                                    )
 
                                 VStack(alignment: .leading, spacing: 2) {
                                     Text("PermitReady")
