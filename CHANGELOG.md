@@ -16,13 +16,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Legal disclaimers in Settings screen for DMV non-affiliation and liability
 - About section in Settings with app version and legal information
 - StoreManager for in-app purchase handling ($1.99 ad removal)
-- AdManager for ad display coordination
+- InterstitialAdManager for smart full-screen ad management
+- Hybrid ad frequency capping (5-minute cooldown + every 2 completions)
 - Purchase UI in Settings screen with restore purchases
 - Ad-free status persistence with UserDefaults
-- Google AdMob SDK integration for banner ads
+- Google AdMob SDK integration for interstitial ads
 - Test ad unit IDs for development and testing
 - SKAdNetwork identifiers for ad attribution
 - AdMob initialization in app startup
+- Interstitial ads before quiz/test/category results
 
 ### Changed
 - Updated .gitignore to exclude API keys, certificates, and configuration files

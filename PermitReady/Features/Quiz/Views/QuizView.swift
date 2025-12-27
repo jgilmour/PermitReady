@@ -111,6 +111,8 @@ struct QuizView: View {
             .onAppear {
                 // Reset state when view appears to ensure fresh quiz
                 showResults = false
+                // Preload interstitial ad for smoother experience
+                InterstitialAdManager.shared.loadAd()
             }
             .task {
                 await viewModel.loadQuestions()
@@ -118,7 +120,15 @@ struct QuizView: View {
             .onChange(of: viewModel.isComplete) { _, isComplete in
                 if isComplete {
                     saveQuizAttempt()
-                    showResults = true
+
+                    // Track completion for ad frequency
+                    InterstitialAdManager.shared.trackCompletion()
+
+                    // Show interstitial ad before results (if eligible)
+                    InterstitialAdManager.shared.showAdIfNeeded {
+                        // Show results after ad is dismissed (or skipped)
+                        showResults = true
+                    }
                 }
             }
             .sheet(isPresented: $showMissedReview) {
